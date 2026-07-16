@@ -1,0 +1,2087 @@
+{
+    "fácil": [
+    {
+    "pregunta": "¿Qué herramienta se muestra en la imagen y se utiliza comúnmente para desenredar el pelaje?",
+    "opciones": [
+      "Cepillo cardador",
+      "Cortauñas",
+      "Peine antipulgas",
+      "Tijera recta"
+    ],
+    "correcta": 0,
+    "imagen": "imagenes/cepillo-cardador.jpg"
+  },
+  {
+    "pregunta": "¿Con qué frecuencia se recomienda cepillar a un perro de pelo largo?",
+    "opciones": [
+      "Una vez a la semana",
+      "Solo antes del baño",
+      "Todos los días",
+      "Una vez al mes"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué producto es más seguro para limpiar los oídos de una mascota durante la estética?",
+    "opciones": [
+      "Alcohol puro",
+      "Solución ótica veterinaria",
+      "Vinagre blanco",
+      "Agua oxigenada"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el propósito de este instrumento?",
+    "opciones": [
+      "Cortar uñas",
+      "Cepillar dientes",
+      "Eliminar nudos",
+      "Rasurar zonas sensibles"
+    ],
+    "correcta": 0,
+    "imagen": "imagenes/cortauñas.jpg"
+  },
+  {
+    "pregunta": "¿Qué tipo de champú es recomendable para un perro con piel sensible?",
+    "opciones": [
+      "Champú con perfumes fuertes",
+      "Champú humano neutro",
+      "Champú medicado o hipoalergénico",
+      "Champú para cabello graso"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes pasos es correcto antes de iniciar un corte de pelo?",
+    "opciones": [
+      "No bañar al animal",
+      "Revisar el estado de la piel y pelaje",
+      "Usar colonia sin enjuagar",
+      "Cortar sin cepillar"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué herramienta se muestra en la imagen y se usa en gatos de pelo corto y largo?",
+    "opciones": [
+      "Rastrillo de muda",
+      "Cepillo de cerdas suaves",
+      "Tijera de entresacar",
+      "Peine metálico"
+    ],
+    "correcta": 0,
+    "imagen": "imagenes/rastrillo-de-muda.jpg"
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo de utilizar una toalla en el proceso de secado?",
+    "opciones": [
+      "Quitar humedad excesiva sin causar estrés térmico",
+      "Eliminar parásitos visibles",
+      "Aplicar medicamentos",
+      "Evitar que el animal se sacuda"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué herramienta debe usarse para retirar nudos sin causar dolor?",
+    "opciones": [
+      "Tijera curva",
+      "Peine de púas anchas",
+      "Carda de cerdas duras",
+      "Deslanador"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué precaución se debe tener al usar secador en un gato?",
+    "opciones": [
+      "Evitar el aire frío",
+      "Usar aire caliente al máximo",
+      "Evitar el aire directo a la cara",
+      "Colocarlo muy cerca del cuerpo"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué zona del cuerpo debe evitarse al aplicar perfume o colonia en mascotas?",
+    "opciones": [
+      "Lomo",
+      "Orejas internas",
+      "Cola",
+      "Patas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué herramienta se muestra en la imagen y se usa para cortes básicos del pelaje?",
+    "opciones": [
+      "Tijera curva",
+      "Tijera recta",
+      "Stripper",
+      "Corta-nudos"
+    ],
+    "correcta": 1,
+    "imagen": "imagenes/tijera-recta.jpg"
+  },
+  {
+    "pregunta": "¿Qué tipo de pelaje requiere mayor frecuencia de cepillado?",
+    "opciones": [
+      "Pelo corto y liso",
+      "Pelo largo y fino",
+      "Pelo rizado",
+      "Pelo áspero"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué acción puede causar irritación si se realiza de forma agresiva durante el baño?",
+    "opciones": [
+      "Secado con toalla",
+      "Masaje con champú",
+      "Uso de agua tibia",
+      "Aplicar el chorro directo en los oídos"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué representa la imagen mostrada?",
+    "opciones": [
+      "Rasurado completo",
+      "Baño en seco",
+      "Stripper para subpelo",
+      "Cepillo de púas metálicas"
+    ],
+    "correcta": 2,
+    "imagen": "imagenes/stripper.jpg"
+  },
+  {
+    "pregunta": "¿Qué producto debe evitarse en felinos por ser tóxico?",
+    "opciones": [
+      "Champú neutro felino",
+      "Colonia con alcohol",
+      "Toallitas húmedas para gatos",
+      "Acondicionador sin enjuague"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué acción es adecuada para evitar accidentes durante el grooming?",
+    "opciones": [
+      "Sujetar firmemente con correa de ahorque",
+      "Dejar que se mueva libremente",
+      "Usar mesa antideslizante con arnés de seguridad",
+      "Cortar con tijeras mientras camina"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué herramienta se usa para eliminar subpelo muerto en razas como el Husky o el Pastor Alemán?",
+    "opciones": [
+      "Peine metálico",
+      "Cepillo de cerdas suaves",
+      "Rastrillo de muda",
+      "Tijera de entresacar"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tipo de peine se muestra en la imagen?",
+    "opciones": [
+      "Peine doble metálico",
+      "Cepillo de púas blandas",
+      "Peine antipulgas",
+      "Cepillo neumático"
+    ],
+    "correcta": 0,
+    "imagen": "imagenes/peine-metalico.jpg"
+  },
+  {
+    "pregunta": "¿Cuál es una señal de que un perro está estresado durante el proceso de estética?",
+    "opciones": [
+      "Relajación muscular",
+      "Bostezo excesivo",
+      "Sueño profundo",
+      "Orejas erguidas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué parte del cuerpo suele acumular más suciedad en perros de pelo largo?",
+    "opciones": [
+      "Lomo",
+      "Cola",
+      "Orejas",
+      "Zona perianal"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué debemos revisar en las almohadillas antes de iniciar la sesión?",
+    "opciones": [
+      "Color del pelo",
+      "Presencia de pulgas",
+      "Heridas o resequedad",
+      "Largo de las uñas"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué parte de la imagen corresponde al 'cepillo neumático'?",
+    "opciones": [
+      "Primero desde la izquierda",
+      "Segundo desde la izquierda",
+      "Tercero desde la izquierda",
+      "Último a la derecha"
+    ],
+    "correcta": 2,
+    "imagen": "imagenes/tipos-de-cepillos.jpg"
+  },
+  {
+    "pregunta": "¿Qué indica una piel enrojecida después del baño?",
+    "opciones": [
+      "Champú muy suave",
+      "Tiempo adecuado de enjuague",
+      "Posible reacción o irritación",
+      "Pelaje limpio"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es el momento ideal para cortar las uñas durante una sesión estética?",
+    "opciones": [
+      "Antes del baño",
+      "Después del secado",
+      "Después del baño cuando están más blandas",
+      "Mientras está en la mesa"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué cuidado especial se debe tener con perros braquicéfalos durante el secado?",
+    "opciones": [
+      "Evitar usar aire frío",
+      "No mojarles la cara",
+      "Evitar sofocarlos con aire caliente directo",
+      "Secarlos con trapo húmedo"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen?",
+    "opciones": [
+      "Cepillo neumático",
+      "Cepillo de goma para baño",
+      "Cepillo cardador",
+      "Cepillo de metal con púas largas"
+    ],
+    "correcta": 1,
+    "imagen": "imagenes/cepillo-goma.jpg"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes productos está formulado especialmente para uso felino?",
+    "opciones": [
+      "Champú con pH neutro y sin perfume",
+      "Aerosol perfumado con alcohol",
+      "Gel para peinar de uso humano",
+      "Aceite esencial puro de lavanda"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué debe hacerse si durante la estética se observa una lesión cutánea?",
+    "opciones": [
+      "Cubrirla con champú",
+      "Aplicar colonia",
+      "Continuar con normalidad",
+      "Informar al tutor y suspender esa zona"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué acción puede reducir la ansiedad en gatos durante la estética?",
+    "opciones": [
+      "Rociar agua fría",
+      "Trabajar en ambiente tranquilo y sin ruidos",
+      "Usar secador a máxima potencia",
+      "Forzar la sujeción"
+    ],
+    "correcta": 1
+  },  
+  {
+    "pregunta": "¿Qué indica un pelaje opaco y quebradizo en una mascota?",
+    "opciones": [
+      "Buena nutrición",
+      "Problemas dermatológicos o nutricionales",
+      "Uso correcto de productos cosméticos",
+      "Hidratación adecuada"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la principal función del acondicionador para mascotas?",
+    "opciones": [
+      "Eliminar pulgas",
+      "Aportar aroma fuerte",
+      "Hidratar y suavizar el pelaje",
+      "Desinfectar la piel"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué herramienta observas en esta imagen?",
+    "opciones": [
+      "Cepillo cardador",
+      "Tijera de entresacar",
+      "Rastrillo de subpelo",
+      "Peine antipulgas"
+    ],
+    "correcta": 1,
+    "imagen": "imagenes/tijera-entresacar.jpg"
+  },
+  {
+    "pregunta": "¿Qué error puede causar irritación ocular durante el baño?",
+    "opciones": [
+      "Usar agua tibia",
+      "Aplicar champú directamente sobre los ojos",
+      "Secar con toalla",
+      "Usar acondicionador"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué zona del cuerpo se recomienda cortar con tijeras en lugar de máquina en perros nerviosos?",
+    "opciones": [
+      "Lomo",
+      "Zona perianal",
+      "Cabeza",
+      "Patas"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen?",
+    "opciones": [
+      "Cepillo de cerdas naturales",
+      "Cepillo neumático",
+      "Cepillo metálico de doble cara",
+      "Peine de púas plásticas"
+    ],
+    "correcta": 0,
+    "imagen": "imagenes/cepillo-cerdas-naturales.jpg"
+  },
+  {
+    "pregunta": "¿Cuál es la mejor forma de controlar pulgas durante la estética?",
+    "opciones": [
+      "Usar champú perfumado",
+      "Aplicar insecticida sin enjuague",
+      "Utilizar champú antiparasitario aprobado",
+      "Bañar con agua caliente únicamente"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué se debe hacer si el animal se muestra agresivo durante el cepillado?",
+    "opciones": [
+      "Amarrarlo firmemente",
+      "Aplicar más fuerza al cepillar",
+      "Pedir apoyo o suspender el procedimiento",
+      "Gritarle para que se calme"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es el efecto de no secar correctamente el pelaje después del baño?",
+    "opciones": [
+      "Queda brillante",
+      "Puede causar hongos o mal olor",
+      "Evita la caída de pelo",
+      "Mejora la textura"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de pelaje presenta más propensión a formar nudos si no se cepilla regularmente?",
+    "opciones": [
+      "Pelo corto liso",
+      "Pelo rizado o lanoso",
+      "Pelo áspero",
+      "Pelo de doble capa"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué debemos hacer si el cliente pide corte completo pero el pelaje está con muchos nudos?",
+    "opciones": [
+      "Bañarlo antes sin avisar",
+      "Rasurarlo todo sin consultar",
+      "Informar al tutor y sugerir una opción segura",
+      "Usar productos perfumados para disimular"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la principal ventaja del uso del 'blower' en grooming?",
+    "opciones": [
+      "Eliminar nudos",
+      "Secado rápido y eliminación de subpelo",
+      "Evitar el cepillado",
+      "Reducir el uso de toallas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué herramienta está diseñada especialmente para la zona de los ojos y hocico?",
+    "opciones": [
+      "Tijera curva",
+      "Stripper",
+      "Peine antipulgas",
+      "Tijera de entresacar"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen?",
+    "opciones": [
+      "Baño sanitario en felino",
+      "Tijera para bigotes",
+      "Posición de seguridad para corte de uñas",
+      "Corte estético de cabeza en raza pequeña"
+    ],
+    "correcta": 2,
+    "imagen": "imagenes/posicion-segura-uñas.jpg"
+  },
+  {
+    "pregunta": "¿Qué instrumento es más apropiado para la higiene auricular externa?",
+    "opciones": [
+      "Cotonete seco",
+      "Gasas con solución ótica",
+      "Cepillo dental",
+      "Peine metálico"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué indica una mascota que se lame excesivamente después del corte?",
+    "opciones": [
+      "Agradecimiento",
+      "Picazón o irritación",
+      "Reacción a la colonia",
+      "Problemas dentales"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué protocolo de limpieza debe seguirse entre cliente y cliente en una estética canina?",
+    "opciones": [
+      "Solo cambiar la toalla",
+      "Desinfección de la mesa y herramientas",
+      "Ventilar el lugar",
+      "Rociar perfume"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen?",
+    "opciones": [
+      "Champú neutro",
+      "Champú con aceites esenciales tóxicos",
+      "Acondicionador canino profesional",
+      "Colonia sin alcohol"
+    ],
+    "correcta": 1,
+    "imagen": "imagenes/champu-peligroso.jpg"
+  },
+  {
+    "pregunta": "¿Qué producto nunca debe aplicarse sobre heridas abiertas?",
+    "opciones": [
+      "Acondicionador en crema",
+      "Colonia",
+      "Solución salina",
+      "Toalla húmeda sin alcohol"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes acciones previene accidentes durante el corte de uñas?",
+    "opciones": [
+      "Cortar sin mirar",
+      "Usar cortauñas adecuado y buena iluminación",
+      "Cortar en dirección contraria al crecimiento",
+      "Dejar la uña larga para evitar sangrado"
+    ],
+    "correcta": 1
+  }
+],
+  "intermedio": [
+  {
+    "pregunta": "¿Qué tipo de corte se muestra en la imagen y es común en razas como el Poodle?",
+    "opciones": [
+      "Corte cachorro",
+      "Corte león",
+      "Corte tijera tradicional",
+      "Corte higiénico"
+    ],
+    "correcta": 1,
+    "imagen": "imagenes/corte-leon.jpg"
+  },
+  {
+    "pregunta": "¿Qué técnica consiste en extraer el subpelo muerto manualmente?",
+    "opciones": [
+      "Trimming",
+      "Stripping",
+      "Thinning",
+      "Layering"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen y para qué se utiliza?",
+    "opciones": [
+      "Tijera curva, para contornos del rostro y orejas",
+      "Tijera recta, para patas",
+      "Deslanador, para nudos grandes",
+      "Rastrillo, para retirar pulgas"
+    ],
+    "correcta": 0,
+    "imagen": "imagenes/tijera-curva.jpg"
+  },
+  {
+    "pregunta": "¿Qué producto se recomienda para hidratar el pelaje seco en sesiones de estética?",
+    "opciones": [
+      "Vinagre diluido",
+      "Acondicionador sin enjuague con pH neutro",
+      "Agua oxigenada",
+      "Perfume canino"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué función cumple el 'force dryer' (blower) durante el secado?",
+    "opciones": [
+      "Corta el pelo de forma uniforme",
+      "Elimina el agua superficial sin calentar",
+      "Aplica tratamiento estético",
+      "Esteriliza el pelaje"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia entre un cepillo cardador y uno neumático?",
+    "opciones": [
+      "El neumático elimina nudos, el cardador no",
+      "El cardador tiene púas metálicas y el neumático cerdas suaves",
+      "El neumático es solo decorativo",
+      "Ambos sirven para lo mismo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen y cuál es su función?",
+    "opciones": [
+      "Stripper, eliminar subpelo",
+      "Peine antipulgas, remover parásitos",
+      "Deslanador, cortar pelo muerto",
+      "Cepillo neumático, alisar pelaje"
+    ],
+    "correcta": 2,
+    "imagen": "imagenes/deslanador.jpg"
+  },
+  {
+    "pregunta": "¿Qué precaución se debe tener al usar máquina de rasurar en animales de piel clara?",
+    "opciones": [
+      "Rasurar completamente sin problema",
+      "Usar cuchilla más cerrada para apurar",
+      "Evitar exposición solar posterior y no pasar muchas veces por la misma zona",
+      "Usar aire caliente para calentar la piel"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué herramienta debe afilarse regularmente para evitar tirones y accidentes?",
+    "opciones": [
+      "Cortaúñas",
+      "Cepillo neumático",
+      "Máquina de corte y cuchillas",
+      "Guante de baño"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué acción reduce el estrés del animal durante el proceso de secado?",
+    "opciones": [
+      "Usar secador de mano al máximo de calor",
+      "Evitar el contacto visual",
+      "Dejar al animal solo mientras se seca",
+      "Secar con aire tibio y acompañamiento verbal"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Cuál es el principal objetivo del corte higiénico en perros?",
+    "opciones": [
+      "Mejorar la estética de las orejas",
+      "Reducir el volumen del pelaje",
+      "Evitar acumulación de suciedad en zonas íntimas",
+      "Marcar la silueta del cuerpo"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué herramienta es adecuada para finalizar detalles de cara y patas?",
+    "opciones": [
+      "Tijera de entresacar",
+      "Stripper",
+      "Tijera curva pequeña",
+      "Máquina de esquilar"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen y qué función tiene?",
+    "opciones": [
+      "Máquina de corte, para rasurado completo",
+      "Blower, para secado profundo sin calor",
+      "Cepillo neumático, para pulido final",
+      "Secador de cabello común"
+    ],
+    "correcta": 1,
+    "imagen": "imagenes/blower.jpg"
+  },
+  {
+    "pregunta": "¿Qué puede ocurrir si se usa un secador de calor muy fuerte cerca del rostro del animal?",
+    "opciones": [
+      "No ocurre nada",
+      "Mejora la textura del pelo",
+      "Puede provocar quemaduras o estrés",
+      "Facilita el corte de bigotes"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tipo de corte es recomendado para razas con doble capa de pelo?",
+    "opciones": [
+      "Rasurado completo",
+      "Corte tipo león",
+      "Deslanado y mantenimiento de capa externa",
+      "Corte uniforme al ras"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué representa la imagen y cuál es su uso?",
+    "opciones": [
+      "Cortaúñas tipo guillotina, para uñas gruesas",
+      "Cepillo de púas blandas, para cepillado final",
+      "Rastrillo, para remover nudos",
+      "Tijera de entresacar, para dar textura"
+    ],
+    "correcta": 3,
+    "imagen": "imagenes/tijera-entresacar-textura.jpg"
+  },
+  {
+    "pregunta": "¿Qué producto se recomienda para prevenir la resequedad post baño?",
+    "opciones": [
+      "Champú con alcohol",
+      "Aceite de cocina",
+      "Acondicionador humectante para mascotas",
+      "Desinfectante perfumado"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la ventaja del corte con tijera frente al uso exclusivo de máquina?",
+    "opciones": [
+      "Es más económico",
+      "Evita el estrés del animal",
+      "Permite mejor definición y detalle",
+      "El pelo no vuelve a crecer"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué herramienta se muestra en la imagen y es usada para peinar y revisar parásitos?",
+    "opciones": [
+      "Peine antipulgas",
+      "Rastrillo de deslanado",
+      "Cepillo cardador",
+      "Cepillo de goma"
+    ],
+    "correcta": 0,
+    "imagen": "imagenes/peine-antipulgas.jpg"
+  },
+  {
+    "pregunta": "¿Qué puede indicar un comportamiento de agitación durante el baño?",
+    "opciones": [
+      "Que tiene pulgas",
+      "Estrés o incomodidad por temperatura o manipulación",
+      "Ganas de jugar",
+      "Reacción al champú"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué significa ‘pelaje lanoso’ en estética canina?",
+    "opciones": [
+      "Pelo extremadamente corto y liso",
+      "Pelo sedoso de crecimiento rápido",
+      "Pelo rizado y denso que tiende a formar nudos",
+      "Pelo con muchas capas de colores"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué riesgo existe al cortar una uña demasiado corta?",
+    "opciones": [
+      "Que no vuelva a crecer",
+      "Que se infecte inmediatamente",
+      "Que sangre e incomode al animal",
+      "Que se endurezca"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué zona debe evitarse al aplicar perfumes o colonias?",
+    "opciones": [
+      "Zona lumbar",
+      "Base de la cola",
+      "Zona genital y facial",
+      "Zona torácica"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen y para qué se usa?",
+    "opciones": [
+      "Cepillo de goma, usado durante el baño para estimular circulación y retirar pelo muerto",
+      "Cepillo cardador, para peinar pelo corto",
+      "Tijera curva, para cortar uñas",
+      "Guante para frío"
+    ],
+    "correcta": 0,
+    "imagen": "imagenes/cepillo-goma-baño.jpg"
+  },
+  {
+    "pregunta": "¿Qué debe hacerse si durante la sesión estética se detecta una garrapata?",
+    "opciones": [
+      "Aplicar perfume para ahuyentarla",
+      "Ignorarla si está suelta",
+      "Removerla con pinza adecuada y avisar al tutor",
+      "Rasurar todo el cuerpo rápidamente"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen y qué uso tiene?",
+    "opciones": [
+      "Cepillo cardador, ideal para desenredar y levantar el pelaje",
+      "Rastrillo, para subpelo",
+      "Cepillo neumático, para secado",
+      "Tijera de vaciado"
+    ],
+    "correcta": 0,
+    "imagen": "imagenes/cepillo-cardador.jpg"
+  },
+  {
+    "pregunta": "¿Qué herramienta se debe evitar en zonas sensibles como axilas o ingle?",
+    "opciones": [
+      "Máquina sin peine guía",
+      "Peine metálico",
+      "Tijera curva",
+      "Cepillo neumático"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué riesgo hay al no enjuagar bien el champú en mascotas?",
+    "opciones": [
+      "Mayor brillo",
+      "Pelaje más suave",
+      "Irritación cutánea",
+      "Creación de espuma interna"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen?",
+    "opciones": [
+      "Rasurado completo en felino",
+      "Corte higiénico en zona perianal",
+      "Corte de exhibición",
+      "Corte de seguridad"
+    ],
+    "correcta": 1,
+    "imagen": "imagenes/corte-higienico.jpg"
+  },
+  {
+    "pregunta": "¿Qué tipo de cabello requiere más trabajo estético en razas como Shih Tzu o Lhasa Apso?",
+    "opciones": [
+      "Liso y largo con subpelo fino",
+      "Corto y áspero",
+      "Rizado y corto",
+      "Lanudo sin subpelo"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen y qué indica?",
+    "opciones": [
+      "Hongos en piel, requiere atención veterinaria",
+      "Nudos sin desenredar",
+      "Piel sana tras baño",
+      "Reacción alérgica a champú"
+    ],
+    "correcta": 0,
+    "imagen": "imagenes/hongos-piel.jpg"
+  },
+  {
+    "pregunta": "¿Qué acción se debe tomar si el animal tiembla durante el secado?",
+    "opciones": [
+      "Subir temperatura del aire",
+      "Suspender el proceso y calmarlo",
+      "Usar máquina directamente sobre la piel",
+      "Ignorarlo, es normal"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué herramienta sirve para pulir y dar forma al pelaje en zonas curvas?",
+    "opciones": [
+      "Tijera curva",
+      "Peine antipulgas",
+      "Cepillo de cerdas naturales",
+      "Stripper"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen?",
+    "opciones": [
+      "Mordedura por estrés",
+      "Piel irritada por uso excesivo de máquina",
+      "Reacción normal al corte",
+      "Zona despoblada por muda estacional"
+    ],
+    "correcta": 1,
+    "imagen": "imagenes/irritacion-maquina.jpg"
+  },
+  {
+    "pregunta": "¿Qué se recomienda al trabajar con gatos en estética?",
+    "opciones": [
+      "Usar bozal como en perros",
+      "Evitar agua, solo seco",
+      "Ambiente tranquilo, sin ruido y técnicas suaves",
+      "Cortar bigotes para higiene"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen?",
+    "opciones": [
+      "Tijera curva",
+      "Tijera de entresacar",
+      "Tijera recta profesional",
+      "Tijera escolar"
+    ],
+    "correcta": 2,
+    "imagen": "imagenes/tijera-recta.jpg"
+  },
+  {
+    "pregunta": "¿Cuál es la mejor forma de cepillar a contrapelo en estética?",
+    "opciones": [
+      "No debe hacerse",
+      "Con peine metálico largo",
+      "Con blower o cepillo cardador",
+      "Solo en la cola"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué hacer si un perro intenta morder durante el cepillado?",
+    "opciones": [
+      "Inmovilizar con fuerza",
+      "Colocar bozal si es seguro y continuar suavemente",
+      "Cepillar más fuerte para que se calme",
+      "Usar productos perfumados"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen?",
+    "opciones": [
+      "Baño relajante",
+      "Mala postura durante el secado",
+      "Postura ideal con arnés de seguridad",
+      "Mascota en castigo"
+    ],
+    "correcta": 2,
+    "imagen": "imagenes/arnes-seguridad.jpg"
+  },
+  {
+    "pregunta": "¿Qué función tiene el champú sin enjuague?",
+    "opciones": [
+      "Solo da olor",
+      "Sirve para mascotas con imposibilidad de baño completo",
+      "Se usa para cortar el pelo",
+      "Sirve como perfume"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes situaciones requiere suspender inmediatamente el servicio de estética?",
+    "opciones": [
+      "Animal muy inquieto",
+      "Presencia de heridas abiertas o sangrado",
+      "Pelos con nudos",
+      "Uñas largas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen?",
+    "opciones": [
+      "Perro con sarna",
+      "Dermatitis por productos no aptos",
+      "Irritación por alergia alimentaria",
+      "Cambio de pelaje"
+    ],
+    "correcta": 1,
+    "imagen": "imagenes/dermatitis-producto.jpg"
+  },
+  {
+    "pregunta": "¿Por qué se recomienda evitar perfumes con alcohol en animales?",
+    "opciones": [
+      "No dan buen olor",
+      "Se evaporan rápido",
+      "Pueden irritar piel y mucosas",
+      "No ayudan en el peinado"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen?",
+    "opciones": [
+      "Peinado con cepillo neumático",
+      "Corte finalizado con tijera curva",
+      "Estructura del corte tipo oso de peluche",
+      "Baño estético con espuma"
+    ],
+    "correcta": 2,
+    "imagen": "imagenes/corte-oso.jpg"
+  },
+  {
+    "pregunta": "¿Qué debe evitarse al aplicar secado en animales de nariz chata como Bulldogs?",
+    "opciones": [
+      "El aire directo al rostro por tiempo prolongado",
+      "El uso de cepillos suaves",
+      "El secado del lomo",
+      "El uso de champú hidratante"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen?",
+    "opciones": [
+      "Baño tradicional",
+      "Aplicación de champú medicado con guante",
+      "Baño en seco",
+      "Técnica de spa"
+    ],
+    "correcta": 1,
+    "imagen": "imagenes/champu-medico.jpg"
+  },
+  {
+    "pregunta": "¿Cuál es el orden más recomendable durante un procedimiento de estética completo?",
+    "opciones": [
+      "Corte, baño, cepillado",
+      "Cepillado, corte, baño",
+      "Cepillado, baño, secado, corte",
+      "Corte, secado, baño"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen?",
+    "opciones": [
+      "Baño antipulgas",
+      "Uso de bozal suave durante el cepillado",
+      "Lavado auricular",
+      "Limpieza interdigital"
+    ],
+    "correcta": 1,
+    "imagen": "imagenes/bozal-suave.jpg"
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen?",
+    "opciones": [
+      "Secado en jaula",
+      "Rasurado completo de emergencia",
+      "Uso de blower y cepillado simultáneo",
+      "Desinfección de orejas"
+    ],
+    "correcta": 2,
+    "imagen": "imagenes/blower-cepillo.jpg"
+  },
+  {
+    "pregunta": "¿Qué debe hacerse si una mascota entra en pánico durante la estética?",
+    "opciones": [
+      "Sujetar con más fuerza",
+      "Seguir el procedimiento rápidamente",
+      "Detenerse y reprogramar sesión con asesoría",
+      "Usar colonia calmante y continuar"
+    ],
+    "correcta": 2
+  }
+],
+  "difícil": [
+  {
+    "pregunta": "¿Qué nombre recibe la técnica que combina tijera y máquina para definir contornos precisos?",
+    "opciones": [
+      "Pulido mixto",
+      "Técnica de fusión",
+      "Blend",
+      "Stripping combinado"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen y en qué contexto se utiliza?",
+    "opciones": [
+      "Rasurado de emergencia",
+      "Zona de apoyo para vendaje",
+      "Marcación de patrón de corte",
+      "Corte por exceso de nudos"
+    ],
+    "correcta": 3,
+    "imagen": "imagenes/rasurado-nudos.jpg"
+  },
+  {
+    "pregunta": "¿Qué tipo de piel presenta mayor riesgo de irritación durante el secado con blower?",
+    "opciones": [
+      "Piel oscura y gruesa",
+      "Piel con subpelo abundante",
+      "Piel blanca, delgada o con poca pigmentación",
+      "Piel con muda estacional"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tipo de máquina es adecuada para cortes complejos con cambios de altura en el pelaje?",
+    "opciones": [
+      "Máquina de una velocidad",
+      "Máquina profesional con varias velocidades y cuchillas intercambiables",
+      "Máquina a batería doméstica",
+      "Máquina de orejas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen?",
+    "opciones": [
+      "Corte artístico con figuras",
+      "Baño antiparasitario",
+      "Patrón de corte comercial tipo osito",
+      "Errores por mal uso de tijera"
+    ],
+    "correcta": 0,
+    "imagen": "imagenes/corte-artistico.jpg"
+  },
+  {
+    "pregunta": "¿Qué producto debe evitarse completamente en cortes donde hay heridas o dermatitis activa?",
+    "opciones": [
+      "Champú neutro",
+      "Solución antiséptica",
+      "Colonia perfumada con alcohol",
+      "Agua tibia"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué herramienta debe utilizarse para eliminar capas de pelo muerto sin cortar el largo general?",
+    "opciones": [
+      "Tijera de entresacar",
+      "Deslanador",
+      "Peine antipulgas",
+      "Cuchilla de stripping"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Cuál es el procedimiento adecuado antes de usar cualquier cuchilla sobre la piel?",
+    "opciones": [
+      "Rasurar directamente sobre pelo húmedo",
+      "Cepillar y desenredar completamente",
+      "Usar alcohol para desinfectar",
+      "Aplicar champú sin enjuague"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen y qué debe hacerse?",
+    "opciones": [
+      "Herida superficial por cepillo, suspender sesión",
+      "Costra normal, continuar proceso",
+      "Corte previo bien cicatrizado",
+      "Irritación leve, aplicar perfume"
+    ],
+    "correcta": 0,
+    "imagen": "imagenes/herida-estetica.jpg"
+  },
+  {
+    "pregunta": "¿Qué herramienta o accesorio se recomienda para inmovilizar al perro en sesiones complejas?",
+    "opciones": [
+      "Correa larga",
+      "Bozal metálico",
+      "Arnés de grooming con soporte de cuello y abdomen",
+      "Juguete colgante"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen y por qué es un problema en estética?",
+    "opciones": [
+      "Irritación por perfume",
+      "Corte accidental con tijera",
+      "Quemadura por máquina caliente",
+      "Mancha por hongo"
+    ],
+    "correcta": 2,
+    "imagen": "imagenes/quemadura-maquina.jpg"
+  },
+  {
+    "pregunta": "¿Qué indica una capa de pelo muy compactada, pegada a la piel?",
+    "opciones": [
+      "Deshidratación",
+      "Malnutrición",
+      "Falta de cepillado por largo tiempo",
+      "Presencia de hongos"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es el peligro de cortar los bigotes sensoriales en gatos?",
+    "opciones": [
+      "Deshidratación",
+      "Pérdida de equilibrio y orientación",
+      "Agresión",
+      "Pérdida de voz"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen?",
+    "opciones": [
+      "Deslanado correcto",
+      "Rasurado con máquina sin peine guía",
+      "Corte comercial tradicional",
+      "Cepillado en seco"
+    ],
+    "correcta": 1,
+    "imagen": "imagenes/rasurado-directo.jpg"
+  },
+  {
+    "pregunta": "¿Cuál es el efecto secundario más común del perfume con base de alcohol en perros de piel clara?",
+    "opciones": [
+      "Mal olor",
+      "Manchas temporales",
+      "Irritación o quemadura química",
+      "Caída inmediata del pelo"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué técnica se utiliza para mantener forma sin cortar longitud general del manto?",
+    "opciones": [
+      "Striping",
+      "Pulido de puntas",
+      "Cepillado a contrapelo",
+      "Texturizado inverso"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen?",
+    "opciones": [
+      "Error de corte con tijera",
+      "Desenredo con peine metálico",
+      "Aplicación de técnica de blending",
+      "Corte artístico"
+    ],
+    "correcta": 2,
+    "imagen": "imagenes/blending.jpg"
+  },
+  {
+    "pregunta": "¿Qué aspecto debe revisarse en una cuchilla de máquina antes de cada uso?",
+    "opciones": [
+      "Que esté mojada",
+      "Que esté completamente desinfectada y lubricada",
+      "Que esté caliente",
+      "Que haga ruido"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen?",
+    "opciones": [
+      "Infección por mal uso de champú",
+      "Herida por fricción de collar",
+      "Foliculitis inducida por mal enjuague",
+      "Dermatitis por perfume"
+    ],
+    "correcta": 2,
+    "imagen": "imagenes/foliculitis.jpg"
+  },
+  {
+    "pregunta": "¿Qué herramienta puede causar microcortes si se utiliza con fuerza excesiva?",
+    "opciones": [
+      "Peine metálico",
+      "Stripper",
+      "Cepillo cardador",
+      "Blower"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen y cómo prevenirlo?",
+    "opciones": [
+      "Ojo seco, con lágrimas artificiales",
+      "Herida accidental, usar bozal y proteger zonas delicadas",
+      "Piojos, con shampoo antiparasitario",
+      "Alergia, cambiar dieta"
+    ],
+    "correcta": 1,
+    "imagen": "imagenes/herida-ojo.jpg"
+  },
+  {
+    "pregunta": "¿Cuál es la mejor acción si un perro con miedo extremo no permite ser tocado?",
+    "opciones": [
+      "Aplicar más fuerza",
+      "Usar bozal de metal",
+      "Suspender y referir a entrenamiento previo",
+      "Tratar con más perfume para calmarlo"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen?",
+    "opciones": [
+      "Uso correcto del blower",
+      "Estrés alto: el perro debe ser monitoreado y posiblemente retirado",
+      "Terapia relajante",
+      "Baño médico"
+    ],
+    "correcta": 1,
+    "imagen": "imagenes/estres-perro.jpg"
+  },
+  {
+    "pregunta": "¿Cuál es el corte más utilizado en caniches para competición?",
+    "opciones": [
+      "Corte teddy bear",
+      "Corte león",
+      "Corte francés",
+      "Corte asiático"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen?",
+    "opciones": [
+      "Pelo sano y brillante",
+      "Pelo quemado por exceso de secado",
+      "Hongos",
+      "Piel deshidratada"
+    ],
+    "correcta": 1,
+    "imagen": "imagenes/pelo-quemado.jpg"
+  },
+  {
+    "pregunta": "¿Qué se debe evitar al usar una tijera sobre pelo mojado?",
+    "opciones": [
+      "Hacer cortes rectos",
+      "Hacer movimientos rápidos",
+      "Cortar sin revisar la dirección del crecimiento",
+      "Tijera puede deslizarse y cortar la piel"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen?",
+    "opciones": [
+      "Limpieza de glándulas perianales",
+      "Baño relajante",
+      "Cepillado interdigital",
+      "Limpieza de oídos"
+    ],
+    "correcta": 0,
+    "imagen": "imagenes/limpieza-glandulas.jpg"
+  },
+  {
+    "pregunta": "¿Qué tipo de piel es más propensa a manchas luego del afeitado?",
+    "opciones": [
+      "Gruesa y oscura",
+      "Rosada, clara y delgada",
+      "Con muda activa",
+      "Grasosa"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen?",
+    "opciones": [
+      "Uñas mal cortadas",
+      "Rasurado mal ejecutado en oreja",
+      "Hongo visible",
+      "Dermatitis atópica"
+    ],
+    "correcta": 1,
+    "imagen": "imagenes/oreja-rasurada.jpg"
+  },
+  {
+    "pregunta": "¿Qué protocolo se debe seguir ante sospecha de enfermedad de la piel durante estética?",
+    "opciones": [
+      "Ignorar si el animal no se queja",
+      "Usar más perfume para cubrir el olor",
+      "Suspender servicio y recomendar consulta médica",
+      "Aplicar crema hidratante"
+    ],
+    "correcta": 2
+  }
+  {
+    "pregunta": "¿Qué representa esta imagen y qué debe hacerse?",
+    "opciones": [
+      "Uñas largas normales",
+      "Corte adecuado",
+      "Uñas demasiado cortadas, aplicar polvo hemostático",
+      "Corte superficial sin riesgo"
+    ],
+    "correcta": 2,
+    "imagen": "imagenes/uña-sangrante.jpg"
+  },
+  {
+    "pregunta": "¿Qué producto debe evitarse por completo en piel con lesiones activas?",
+    "opciones": [
+      "Champú natural",
+      "Alcohol",
+      "Agua tibia",
+      "Antiséptico veterinario"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen y por qué es incorrecto?",
+    "opciones": [
+      "Correcto uso de cepillo",
+      "Aplicación de técnica antihongos",
+      "Cepillo inadecuado para la zona ocular",
+      "Desenredo eficaz"
+    ],
+    "correcta": 2,
+    "imagen": "imagenes/cepillo-en-ojo.jpg"
+  },
+  {
+    "pregunta": "¿Qué consecuencia puede haber si se deja humedad entre pliegues luego del baño?",
+    "opciones": [
+      "Nada, se seca solo",
+      "Irritación e infección",
+      "Hidratación extra",
+      "Cambio de color del pelaje"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen?",
+    "opciones": [
+      "Corte a tijera correcto",
+      "Nudo sin desenredar",
+      "Pulido en zona curva",
+      "Zona afectada por humedad y frotación"
+    ],
+    "correcta": 3,
+    "imagen": "imagenes/irritacion-pliegue.jpg"
+  },
+  {
+    "pregunta": "¿Qué se debe hacer si el animal presenta dificultad para mantenerse en pie durante el grooming?",
+    "opciones": [
+      "Apurar el corte",
+      "Continuar ignorando la incomodidad",
+      "Usar soporte o suspender si es necesario",
+      "Aplicar perfume relajante"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen?",
+    "opciones": [
+      "Zona de corte artístico",
+      "Zona sensible donde no se debe aplicar presión",
+      "Herida por alergia alimentaria",
+      "Inicio de sarna"
+    ],
+    "correcta": 1,
+    "imagen": "imagenes/zona-sensible.jpg"
+  },
+  {
+    "pregunta": "¿Qué protocolo debe seguirse si un cliente exige corte contraindicado?",
+    "opciones": [
+      "Realizarlo sin discutir",
+      "Explicar riesgos, dejar constancia o rechazar servicio",
+      "Cobrar más y continuar",
+      "Realizar solo parte del corte"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen y cuál es la técnica adecuada?",
+    "opciones": [
+      "Corte tradicional en línea recta",
+      "Técnica de vaciado",
+      "Pulido de contornos con tijera curva",
+      "Mal corte por distracción"
+    ],
+    "correcta": 2,
+    "imagen": "imagenes/tijera-curva-contorno.jpg"
+  },
+  {
+    "pregunta": "¿Qué indica un perro que jadea excesivamente durante el secado?",
+    "opciones": [
+      "Está tranquilo",
+      "Tiene calor o está estresado",
+      "Es normal",
+      "Disfruta el aire"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen?",
+    "opciones": [
+      "Muda estacional",
+      "Mal enjuague de champú",
+      "Piel sana en área sensible",
+      "Foliculitis grave"
+    ],
+    "correcta": 1,
+    "imagen": "imagenes/mal-enjuague.jpg"
+  },
+  {
+    "pregunta": "¿Cuál es el uso correcto del bozal en estética?",
+    "opciones": [
+      "Usarlo siempre para evitar ladridos",
+      "Usarlo solo si hay riesgo de mordida, retirarlo durante el secado del rostro",
+      "Usarlo durante todo el baño",
+      "No usar nunca"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen?",
+    "opciones": [
+      "Bozal colocado de forma segura",
+      "Mala colocación del bozal, puede dificultar respiración",
+      "Bozal para paseo",
+      "Correcto para gatos"
+    ],
+    "correcta": 1,
+    "imagen": "imagenes/bozal-mal-colocado.jpg"
+  },
+  {
+    "pregunta": "¿Qué acción se recomienda si un animal presenta piel escamosa durante el baño?",
+    "opciones": [
+      "Cepillar con fuerza",
+      "Aplicar colonia hidratante",
+      "Utilizar champú específico y recomendar consulta veterinaria",
+      "Enjuagar solo con agua"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen?",
+    "opciones": [
+      "Zona de aplicación de champú medicado",
+      "Técnica de rasurado quirúrgico",
+      "Corte estilo asiático",
+      "Corte nivelado para exposición"
+    ],
+    "correcta": 3,
+    "imagen": "imagenes/corte-expo.jpg"
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia entre stripping y deslanado?",
+    "opciones": [
+      "Stripping arranca pelo muerto y deslanado retira subpelo",
+      "Son lo mismo",
+      "Stripping se hace con blower",
+      "El deslanado solo lo hacen veterinarios"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen?",
+    "opciones": [
+      "Inicio de infección",
+      "Zona bien hidratada",
+      "Zona sin pelo por sarna",
+      "Champú no enjuagado correctamente"
+    ],
+    "correcta": 3,
+    "imagen": "imagenes/shampoo-sin-enjuagar.jpg"
+  },
+  {
+    "pregunta": "¿Cuál es el mayor riesgo al usar tijeras sin experiencia?",
+    "opciones": [
+      "Dejar el pelo disparejo",
+      "Cortar accidentalmente la piel del animal",
+      "Perder tiempo",
+      "Romper el filo de la herramienta"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen?",
+    "opciones": [
+      "Corte tipo oso",
+      "Baño relajante",
+      "Final de sesión con contornos definidos",
+      "Corte mal terminado"
+    ],
+    "correcta": 2,
+    "imagen": "imagenes/final-contorno.jpg"
+  },
+  {
+    "pregunta": "¿Cuál es la mejor práctica al finalizar una sesión de estética?",
+    "opciones": [
+      "Aplicar perfume, revisar heridas, limpiar zona y dar retroalimentación al tutor",
+      "Solo entregar al animal seco",
+      "Evitar comentarios para no preocupar al tutor",
+      "Lavar la jaula y entregar al tutor"
+    ],
+    "correcta": 0
+  }
+  ],
+  "avanzado": [
+  {
+    "pregunta": "¿Qué criterio profesional se debe priorizar cuando el tutor insiste en un corte estético que pone en riesgo la piel del animal?",
+    "opciones": [
+      "Aceptar pero cobrar más",
+      "Negarse y explicar profesionalmente las consecuencias",
+      "Realizar el corte bajo responsabilidad escrita",
+      "Derivar a otro groomer"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen y qué refleja sobre el groomer?",
+    "opciones": [
+      "Desenredo superficial",
+      "Finalización profesional con técnica de contorno",
+      "Pulido estético con máquina de precisión",
+      "Corte inacabado"
+    ],
+    "correcta": 1,
+    "imagen": "imagenes/contorno-avanzado.jpg"
+  },
+  {
+    "pregunta": "¿Cuál es el término usado para describir el arte de diseñar figuras sobre el pelaje canino?",
+    "opciones": [
+      "Grooming decorativo",
+      "Arte peludo",
+      "Pet art",
+      "Creative grooming"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen?",
+    "opciones": [
+      "Corte básico",
+      "Creative grooming",
+      "Corte tipo teddy bear",
+      "Errores de grooming"
+    ],
+    "correcta": 1,
+    "imagen": "imagenes/creative-grooming.jpg"
+  },
+  {
+    "pregunta": "¿Qué implica la técnica de 'layered scissoring' o corte en capas con tijera?",
+    "opciones": [
+      "Usar tijera dentada únicamente",
+      "Pulir con tijera sobre máquina",
+      "Crear volúmenes y formas en capas progresivas",
+      "Ajustar el largo con cuchilla 10"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen y qué se debe revisar antes de continuar?",
+    "opciones": [
+      "Corte bien definido",
+      "Rasurado con máquina sin pulido",
+      "Corte con presencia de puntos de irritación — se debe parar",
+      "Inicio de arte decorativo"
+    ],
+    "correcta": 2,
+    "imagen": "imagenes/irritacion-postcorte.jpg"
+  },
+  {
+    "pregunta": "¿Qué protocolo es más seguro al trabajar con razas braquicefálicas (como bulldogs) durante el baño y secado?",
+    "opciones": [
+      "Usar blower potente para eliminar humedad rápido",
+      "Evitar calor directo, mantener la cabeza elevada, supervisar respiración",
+      "No usar shampoo perfumado",
+      "Secado con máquina solo en abdomen"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen y cómo debe prevenirse?",
+    "opciones": [
+      "Quemadura solar",
+      "Irritación por producto sin enjuagar — evitar dejar residuos",
+      "Hongos",
+      "Alergia alimentaria"
+    ],
+    "correcta": 1,
+    "imagen": "imagenes/enrojecimiento-producto.jpg"
+  },
+  {
+    "pregunta": "¿Qué equipo se recomienda para un grooming profesional de exposición?",
+    "opciones": [
+      "Máquina doméstica, tijera y peine plástico",
+      "Tijeras curvas, blower potente, mesa con brazo de sujeción, cuchillas de precisión",
+      "Solo cepillo y tijera recta",
+      "Champú común y máquina de 1 velocidad"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen?",
+    "opciones": [
+      "Corte artístico de competencia",
+      "Baño con champú relajante",
+      "Pulido de línea en perro de exposición",
+      "Inicio de alergia por perfume"
+    ],
+    "correcta": 2,
+    "imagen": "imagenes/pulido-linea-expo.jpg"
+  },
+  {
+    "pregunta": "¿Cuál es la consecuencia de usar una cuchilla caliente sin descanso durante un corte prolongado?",
+    "opciones": [
+      "Solo incomodidad leve",
+      "Mejor definición del corte",
+      "Riesgo alto de quemaduras en la piel del animal",
+      "Efecto masajeante"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen?",
+    "opciones": [
+      "Corte creativo artístico",
+      "Zona quemada por máquina caliente",
+      "Inicio de hongos",
+      "Piel en proceso de muda"
+    ],
+    "correcta": 1,
+    "imagen": "imagenes/quemadura-cuchilla.jpg"
+  },
+  {
+    "pregunta": "¿Qué tipo de tijera se recomienda para pulido final en caras redondas tipo 'teddy bear'?",
+    "opciones": [
+      "Recta larga",
+      "Dentada",
+      "Curva de punta cerrada",
+      "Stripper"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen y qué error muestra?",
+    "opciones": [
+      "Pulido artístico",
+      "Exceso de corte en zona sensible",
+      "Técnica correcta de deslanado",
+      "Falta de cepillado previo"
+    ],
+    "correcta": 1,
+    "imagen": "imagenes/corte-zona-sensible.jpg"
+  },
+  {
+    "pregunta": "¿Qué es el 'corte asiático' en estética canina?",
+    "opciones": [
+      "Corte minimalista",
+      "Estilo decorativo con cara redonda, patas cortas y ojos destacados",
+      "Corte sin tijeras",
+      "Estilo para razas orientales solamente"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen?",
+    "opciones": [
+      "Corte comercial",
+      "Corte asiático decorativo",
+      "Corte de exhibición",
+      "Errores de proporción"
+    ],
+    "correcta": 1,
+    "imagen": "imagenes/corte-asiatico.jpg"
+  },
+  {
+    "pregunta": "¿Qué herramienta avanzada se utiliza para esculpir sin dejar líneas marcadas?",
+    "opciones": [
+      "Tijera dentada (blender)",
+      "Stripper manual",
+      "Cepillo carda",
+      "Máquina 50"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen?",
+    "opciones": [
+      "Aplicación de stripper",
+      "Uso de blender para pulido natural",
+      "Cepillado común",
+      "Limpieza interdigital"
+    ],
+    "correcta": 1,
+    "imagen": "imagenes/uso-blender.jpg"
+  },
+  {
+    "pregunta": "¿Qué técnica se utiliza para dar volumen a zonas como el pecho o cola sin cortar más longitud?",
+    "opciones": [
+      "Deslanado agresivo",
+      "Striping inverso",
+      "Peinado contra el crecimiento seguido de tijera curva",
+      "Afeitado parcial"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen?",
+    "opciones": [
+      "Pulido de pecho",
+      "Desenredo profundo",
+      "Volumen natural trabajado con tijera curva",
+      "Corte rústico"
+    ],
+    "correcta": 2,
+    "imagen": "imagenes/volumen-tijera.jpg"
+  },
+  {
+    "pregunta": "¿Qué debe revisarse en la piel antes de aplicar secador de calor alto?",
+    "opciones": [
+      "Cantidad de pelo",
+      "Color del pelaje",
+      "Presencia de enrojecimiento, heridas o zonas sensibles",
+      "Nivel de perfume aplicado"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen y qué se debe evitar?",
+    "opciones": [
+      "Uso de secador directo en oreja — debe evitarse por sensibilidad térmica",
+      "Secado correcto",
+      "Limpieza auricular",
+      "Uso de boquilla concentradora"
+    ],
+    "correcta": 0,
+    "imagen": "imagenes/secado-oreja-directo.jpg"
+  },
+  {
+    "pregunta": "¿Qué corte está prohibido por ley en algunos países debido a riesgos térmicos?",
+    "opciones": [
+      "Corte total a ras en razas nórdicas",
+      "Corte de teddy bear",
+      "Corte sanitario en zona perianal",
+      "Pulido en patas"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen?",
+    "opciones": [
+      "Perro feliz tras el corte",
+      "Corte a ras en raza nórdica — riesgo térmico",
+      "Zona pulida profesionalmente",
+      "Infección cutánea"
+    ],
+    "correcta": 1,
+    "imagen": "imagenes/corte-nordico.jpg"
+  },
+  {
+    "pregunta": "¿Qué señal conductual indica que un animal está al límite de su tolerancia?",
+    "opciones": [
+      "Se duerme",
+      "Pide caricias",
+      "Tiembla, jadea en exceso, gruñe o intenta escapar",
+      "Ladra felizmente"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen?",
+    "opciones": [
+      "Gato tranquilo",
+      "Lengua fuera por calor — monitorear estrés",
+      "Relajación tras baño",
+      "Ansiedad leve"
+    ],
+    "correcta": 1,
+    "imagen": "imagenes/estres-corte.jpg"
+  },
+  {
+    "pregunta": "¿Qué error comete un groomer si fuerza la sesión ignorando señales de miedo?",
+    "opciones": [
+      "Ninguno si termina el trabajo",
+      "Pierde calidad del corte",
+      "Riesgo de herida, trauma y agresividad futura",
+      "Solo causa cansancio"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen?",
+    "opciones": [
+      "Piel normal",
+      "Zona irritada por perfume",
+      "Alergia leve por champú",
+      "Herida por fricción con toalla"
+    ],
+    "correcta": 1,
+    "imagen": "imagenes/irritacion-perfume.jpg"
+  },
+  {
+    "pregunta": "¿Qué se debe hacer al finalizar el servicio estético en animales con historial médico?",
+    "opciones": [
+      "Entregar al tutor sin más",
+      "Informar al tutor cualquier cambio en piel, conducta o sensibilidad",
+      "Lavar jaula y desinfectar únicamente",
+      "Ofrecer baño gratuito"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen y por qué es importante?",
+    "opciones": [
+      "Zona revisada post grooming — seguimiento a condición previa",
+      "Pelo mal cortado",
+      "Inicio de pulgas",
+      "Efecto de champú antiparasitario"
+    ],
+    "correcta": 0,
+    "imagen": "imagenes/revision-final.jpg"
+  },
+  {
+    "pregunta": "¿Qué riesgo representa usar una cuchilla 10 en zonas sensibles sin cuidado?",
+    "opciones": [
+      "Desenredo superficial",
+      "Quemaduras o laceraciones",
+      "No corta lo suficiente",
+      "Mejor definición del pelaje"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen?",
+    "opciones": [
+      "Zona rasurada correctamente",
+      "Uso inapropiado de cuchilla 10 en abdomen — irritación severa",
+      "Zona hidratada",
+      "Piel con muda"
+    ],
+    "correcta": 1,
+    "imagen": "imagenes/cuchilla10-irritacion.jpg"
+  },
+  {
+    "pregunta": "¿Qué tipo de corte es común en grooming de fantasía (creative grooming)?",
+    "opciones": [
+      "Corte sanitario tradicional",
+      "Corte teddy bear",
+      "Esculpido con formas, colores y figuras",
+      "Corte al ras completo"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen?",
+    "opciones": [
+      "Desenredo tradicional",
+      "Creative grooming con esculpido en figura",
+      "Pulido con blower",
+      "Baño relajante"
+    ],
+    "correcta": 1,
+    "imagen": "imagenes/grooming-fantasia.jpg"
+  },
+  {
+    "pregunta": "¿Cuál es la mejor práctica si el animal presenta ansiedad severa en grooming?",
+    "opciones": [
+      "Aplicar perfume relajante",
+      "Forzar el corte rápidamente",
+      "Pausar, calmar o suspender si es necesario",
+      "Colocar un bozal hasta finalizar"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen?",
+    "opciones": [
+      "Animal tranquilo",
+      "Lengua fuera + pupilas dilatadas = ansiedad severa",
+      "Inicio de bostezo",
+      "Animal con sed"
+    ],
+    "correcta": 1,
+    "imagen": "imagenes/ansiedad-animal.jpg"
+  },
+  {
+    "pregunta": "¿Qué debe hacerse al notar una lesión nueva durante el servicio?",
+    "opciones": [
+      "Cubrirla con perfume",
+      "Seguir trabajando",
+      "Notificar al tutor, documentar y sugerir consulta veterinaria",
+      "Aplicar talco"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen?",
+    "opciones": [
+      "Lesión documentada y marcada para informe",
+      "Pulido estético",
+      "Inicio de hongo",
+      "Piel sana"
+    ],
+    "correcta": 0,
+    "imagen": "imagenes/lesion-documentada.jpg"
+  },
+  {
+    "pregunta": "¿Qué debe tener el groomer como protocolo básico de seguridad?",
+    "opciones": [
+      "Tijeras de punta abierta",
+      "Guantes de látex para todos los animales",
+      "Kit de primeros auxilios y conocimiento de emergencias",
+      "Secador con calor alto constante"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen?",
+    "opciones": [
+      "Pulido profesional",
+      "Blower artesanal",
+      "Kit de seguridad básico (termómetro, gasas, polvo hemostático)",
+      "Champú especializado"
+    ],
+    "correcta": 2,
+    "imagen": "imagenes/kit-primeros-auxilios.jpg"
+  },
+  {
+    "pregunta": "¿Cuál es el riesgo de aplicar colonia directamente en la cara del animal?",
+    "opciones": [
+      "Ninguno si huele bien",
+      "Solo en gatos es peligroso",
+      "Puede causar irritación ocular y respiratoria",
+      "Mejora el acabado"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen?",
+    "opciones": [
+      "Rociado directo de colonia en rostro — mala práctica",
+      "Baño relajante",
+      "Pulido final",
+      "Masaje facial"
+    ],
+    "correcta": 0,
+    "imagen": "imagenes/colonia-en-cara.jpg"
+  },
+  {
+    "pregunta": "¿Por qué es importante secar completamente las patas y espacios interdigitales?",
+    "opciones": [
+      "Para que huela bien",
+      "Para evitar hongos o dermatitis",
+      "Para alisar el pelo",
+      "No es necesario"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen?",
+    "opciones": [
+      "Patas secas correctamente",
+      "Zona interdigital con humedad — riesgo de hongos",
+      "Deshidratación",
+      "Herida reciente"
+    ],
+    "correcta": 1,
+    "imagen": "imagenes/interdigital-humedad.jpg"
+  },
+  {
+    "pregunta": "¿Qué tipo de peine es ideal para revisar el acabado en grooming de exposición?",
+    "opciones": [
+      "Peine de dientes anchos",
+      "Cepillo de cerdas duras",
+      "Peine metálico de dientes finos",
+      "Carda plástica"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen?",
+    "opciones": [
+      "Peine metálico profesional para revisión de acabado",
+      "Herramienta de stripping",
+      "Peine plástico doméstico",
+      "Cepillo deslanador"
+    ],
+    "correcta": 0,
+    "imagen": "imagenes/peine-metalicofino.jpg"
+  },
+  {
+    "pregunta": "¿Qué debe evitarse durante el uso del blower para evitar lesiones acústicas o pánico?",
+    "opciones": [
+      "Apuntar a orejas y nariz",
+      "Usar en modo turbo cerca del rostro",
+      "Dirigir a zonas sensibles sin precaución",
+      "Todas las anteriores"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen?",
+    "opciones": [
+      "Secado incorrecto — boquilla directa a rostro",
+      "Pulido efectivo",
+      "Zona de confort",
+      "Secado en pecho"
+    ],
+    "correcta": 0,
+    "imagen": "imagenes/secado-inseguro.jpg"
+  },
+  {
+    "pregunta": "¿Qué herramienta puede usarse para levantar el pelo en cortes con volumen?",
+    "opciones": [
+      "Peine metálico",
+      "Cepillo de púa larga",
+      "Carda suave en dirección contraria al crecimiento",
+      "Tijera dentada"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen?",
+    "opciones": [
+      "Uso correcto de carda para levantar pelo",
+      "Cardado excesivo",
+      "Limpieza interdigital",
+      "Cepillado para muda"
+    ],
+    "correcta": 0,
+    "imagen": "imagenes/carda-volumen.jpg"
+  }
+ ]
+}

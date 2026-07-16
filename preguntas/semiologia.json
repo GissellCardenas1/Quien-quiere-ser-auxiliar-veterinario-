@@ -1,0 +1,1971 @@
+{
+    "fácil": 
+  [
+    {
+      "pregunta": "¿Qué es la semiología en medicina veterinaria?",
+      "opciones": [
+        "El estudio del lenguaje animal",
+        "La ciencia que estudia los signos clínicos de enfermedades",
+        "El análisis de comportamiento",
+        "El diagnóstico por imágenes"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué significa el término 'signo clínico'?",
+      "opciones": [
+        "Un síntoma emocional",
+        "Un parámetro de laboratorio",
+        "Manifestación objetiva de una enfermedad",
+        "Una radiografía"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cuál es el primer paso en la evaluación semiológica de un paciente?",
+      "opciones": [
+        "Palpación",
+        "Inspección general",
+        "Auscultación",
+        "Administración de medicamentos"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué se evalúa al inspeccionar la mucosa oral de un animal?",
+      "opciones": [
+        "Frecuencia respiratoria",
+        "Coloración y humedad",
+        "Tamaño del estómago",
+        "Presión arterial"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué instrumento se usa comúnmente para la auscultación?",
+      "opciones": [
+        "Termómetro",
+        "Fonendoscopio",
+        "Tensiómetro",
+        "Estetoscopio digital"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál es la temperatura corporal normal aproximada en un perro adulto?",
+      "opciones": [
+        "36.0 °C",
+        "37.2 °C",
+        "38.5 °C",
+        "39.8 °C"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué significa una mucosa pálida en un perro?",
+      "opciones": [
+        "Deshidratación",
+        "Anemia o mala perfusión",
+        "Inflamación",
+        "Buen estado de salud"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué se evalúa durante la palpación abdominal?",
+      "opciones": [
+        "Reflejos",
+        "Escucha de sonidos",
+        "Presencia de masas o dolor",
+        "Color del pelaje"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué parte del cuerpo se usa para tomar la frecuencia cardíaca en perros?",
+      "opciones": [
+        "Oreja",
+        "Cola",
+        "Tórax izquierdo",
+        "Pata trasera"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué se entiende por frecuencia respiratoria?",
+      "opciones": [
+        "Número de latidos del corazón por minuto",
+        "Cantidad de comida ingerida",
+        "Número de respiraciones por minuto",
+        "Nivel de oxígeno en la sangre"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cuál es un signo común de fiebre en animales?",
+      "opciones": [
+        "Apatía y temperatura elevada",
+        "Pérdida de pelaje",
+        "Picazón en la piel",
+        "Pérdida de equilibrio"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué indica un tiempo de llenado capilar mayor a 2 segundos?",
+      "opciones": [
+        "Normalidad",
+        "Deshidratación severa",
+        "Hipoperfusión",
+        "Hipertermia"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Dónde se mide el tiempo de llenado capilar?",
+      "opciones": [
+        "Párpado inferior",
+        "Encía",
+        "Uña",
+        "Cola"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué evalúa el examen físico general?",
+      "opciones": [
+        "Solo temperatura",
+        "Solo sistema digestivo",
+        "Condición general del cuerpo",
+        "Pelaje únicamente"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cuál es una señal de dolor en perros?",
+      "opciones": [
+        "Juguetón",
+        "Letargo o agresividad",
+        "Apetito aumentado",
+        "Bostezo frecuente"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué indica una mucosa cianótica?",
+      "opciones": [
+        "Coloración normal",
+        "Falta de oxígeno",
+        "Hidratación adecuada",
+        "Buena circulación"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué se utiliza para medir la temperatura rectal en animales?",
+      "opciones": [
+        "Termómetro clínico digital",
+        "Bisturí",
+        "Cinta métrica",
+        "Tensiómetro"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué parámetro se usa para valorar el grado de hidratación?",
+      "opciones": [
+        "Peso corporal",
+        "Color de ojos",
+        "Elasticidad de la piel",
+        "Largo del hocico"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué se evalúa al revisar los ganglios linfáticos?",
+      "opciones": [
+        "Tamaño, sensibilidad e inflamación",
+        "Color del pelo",
+        "Frecuencia cardíaca",
+        "Peso corporal"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué es la inspección en el examen clínico?",
+      "opciones": [
+        "Palpación profunda",
+        "Uso de rayos X",
+        "Observación visual",
+        "Auscultación"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cuál es el valor normal aproximado de frecuencia cardíaca en gatos?",
+      "opciones": [
+        "60–100 lat/min",
+        "100–140 lat/min",
+        "120–160 lat/min",
+        "140–220 lat/min"
+      ],
+      "correcta": 3
+    },
+    {
+      "pregunta": "¿Qué estructura del cuerpo animal se revisa para detectar ictericia?",
+      "opciones": [
+        "Lengua",
+        "Piel de la espalda",
+        "Mucosa ocular",
+        "Garras"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué es una actitud de decúbito lateral?",
+      "opciones": [
+        "Animal de pie",
+        "Animal sentado",
+        "Animal acostado de lado",
+        "Animal caminando"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué indica la expresión de dolor abdominal agudo?",
+      "opciones": [
+        "Vómito y jadeo",
+        "Cojeo",
+        "Rigidez, vocalización y defensa al tacto",
+        "Estornudos"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué se observa en la marcha para identificar anormalidades?",
+      "opciones": [
+        "Color de pelaje",
+        "Número de pasos",
+        "Coordinación y apoyo de extremidades",
+        "Olor corporal"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué característica debe tener una respiración normal en un perro en reposo?",
+      "opciones": [
+        "Rápida y superficial",
+        "Ruidosa y lenta",
+        "Silenciosa y regular",
+        "Irregular y jadeante"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué indica una frecuencia cardíaca acelerada en reposo?",
+      "opciones": [
+        "Normalidad",
+        "Dolor, fiebre o ansiedad",
+        "Obesidad",
+        "Deshidratación leve"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué estructura se examina para detectar presencia de secreciones nasales?",
+      "opciones": [
+        "Nariz",
+        "Orejas",
+        "Encías",
+        "Lengua"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué se utiliza para contar la frecuencia respiratoria en animales pequeños?",
+      "opciones": [
+        "Fonendoscopio",
+        "Reloj y observación del tórax",
+        "Termómetro",
+        "Pulso femoral"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál de los siguientes NO es un signo visible de dolor?",
+      "opciones": [
+        "Agresividad",
+        "Letargo",
+        "Coordinación motora perfecta",
+        "Vocalizaciones inusuales"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué indica una mucosa oral seca?",
+      "opciones": [
+        "Buena hidratación",
+        "Normalidad",
+        "Deshidratación",
+        "Exceso de saliva"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué significa la sigla TLLC?",
+      "opciones": [
+        "Tiempo de llenado capilar",
+        "Tratamiento local de linfocitos clínicos",
+        "Temperatura, latido, linfa, cavidad",
+        "Tensión linfática leve crónica"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué es un signo patognomónico?",
+      "opciones": [
+        "Signo que aparece sólo en una enfermedad específica",
+        "Síntoma general de malestar",
+        "Reacción a un tratamiento",
+        "Signo visible solo en exámenes de laboratorio"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué se evalúa con la técnica de percusión?",
+      "opciones": [
+        "Color de la piel",
+        "Sonido al golpear una zona",
+        "Presión arterial",
+        "Elasticidad del pelaje"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Dónde se encuentra el punto más común para palpar el pulso en perros?",
+      "opciones": [
+        "En la pata delantera",
+        "En la cola",
+        "En la arteria femoral (ingle)",
+        "En el pecho derecho"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué significa una frecuencia respiratoria muy baja (bradipnea)?",
+      "opciones": [
+        "Fiebre alta",
+        "Hiperactividad",
+        "Fallo respiratorio o neurológico",
+        "Obesidad leve"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué información se obtiene al observar la actitud del animal en la consulta?",
+      "opciones": [
+        "Nivel de glucosa",
+        "Estado emocional y nivel de dolor",
+        "Presión ocular",
+        "Color del iris"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué color indica ictericia en mucosas?",
+      "opciones": [
+        "Rosado",
+        "Blanco",
+        "Amarillo",
+        "Azul"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué herramienta se usa comúnmente para observar el interior del oído?",
+      "opciones": [
+        "Otoscopio",
+        "Termómetro",
+        "Fonendoscopio",
+        "Pinza hemostática"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué se observa en los ojos durante una evaluación semiológica?",
+      "opciones": [
+        "Solo el color del iris",
+        "Reflejos pupilares, secreciones y movimiento",
+        "Tamaño de las pestañas",
+        "Color de la córnea solamente"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué es la marcha atáxica?",
+      "opciones": [
+        "Marcha rápida",
+        "Coordinación perfecta",
+        "Descoordinación motora",
+        "Marcha con apoyo exagerado"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué sistema se explora si se examinan sonidos respiratorios y frecuencia?",
+      "opciones": [
+        "Digestivo",
+        "Reproductor",
+        "Respiratorio",
+        "Nervioso"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cuál es un signo de dificultad respiratoria (disnea)?",
+      "opciones": [
+        "Respiración suave",
+        "Narinas dilatadas y esfuerzo visible",
+        "Ronquidos suaves",
+        "Lengua muy rosada"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué significa un TLLC mayor a 3 segundos?",
+      "opciones": [
+        "Buen retorno capilar",
+        "Deshidratación severa o shock",
+        "Hipotermia leve",
+        "Hiperventilación"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué significa el término 'letargo'?",
+      "opciones": [
+        "Excitación leve",
+        "Somnolencia y poca respuesta",
+        "Hiperactividad",
+        "Pérdida de visión"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué estructura se puede visualizar al evertir el párpado inferior del animal?",
+      "opciones": [
+        "Córnea",
+        "Conjuntiva",
+        "Pupila",
+        "Lente"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué indica una mucosa de color rojo oscuro en un perro?",
+      "opciones": [
+        "Estado normal",
+        "Hipoxia",
+        "Shock séptico o vasodilatación",
+        "Deshidratación moderada"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cuál de los siguientes no es un signo clínico?",
+      "opciones": [
+        "Vómito",
+        "Diarrea",
+        "Pulso",
+        "Dolor visible"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué indica una respiración con ruido al inspirar y espirar?",
+      "opciones": [
+        "Sistema digestivo afectado",
+        "Obstrucción de vías respiratorias",
+        "Fiebre leve",
+        "Dolor articular"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué actitud es común en un animal con dolor intenso?",
+      "opciones": [
+        "Juguetón",
+        "Acostado, vocaliza o se aísla",
+        "Come en exceso",
+        "Explora todo el entorno"
+      ],
+      "correcta": 1
+    }
+  ],
+  "intermedio": [
+    {
+      "pregunta": "¿Qué se entiende por anamnesis en la consulta veterinaria?",
+      "opciones": [
+        "Exploración del abdomen",
+        "Toma de signos vitales",
+        "Historia clínica proporcionada por el tutor",
+        "Resultado de laboratorio"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué se debe registrar durante la anamnesis?",
+      "opciones": [
+        "Color del pelaje",
+        "Fecha de nacimiento, síntomas y hábitos",
+        "Resultados quirúrgicos",
+        "Medicamentos almacenados"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué indica una mucosa muy húmeda y enrojecida?",
+      "opciones": [
+        "Estado normal",
+        "Signo de fiebre o inflamación",
+        "Deshidratación",
+        "Hipotermia"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué se evalúa con la técnica de palpación superficial?",
+      "opciones": [
+        "Estado de huesos",
+        "Condición de órganos internos",
+        "Temperatura ambiental",
+        "Presión arterial"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál es la mejor manera de evaluar la marcha de un paciente?",
+      "opciones": [
+        "Acostado",
+        "Durante el juego",
+        "Mientras camina en línea recta",
+        "Sentado"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué indica un soplo cardíaco detectado en auscultación?",
+      "opciones": [
+        "Presión alta",
+        "Ruido normal del sistema digestivo",
+        "Alteración del flujo sanguíneo en el corazón",
+        "Baja frecuencia respiratoria"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué zonas suelen ser más efectivas para evaluar la hidratación?",
+      "opciones": [
+        "Lomo o cuello",
+        "Patas traseras",
+        "Base de la cola",
+        "Orejas"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué se observa en la evaluación del sistema digestivo durante la palpación?",
+      "opciones": [
+        "Frecuencia cardíaca",
+        "Distensión, dolor, masas",
+        "Nivel de oxígeno",
+        "Función pulmonar"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué significa la palabra 'taquipnea'?",
+      "opciones": [
+        "Ritmo respiratorio acelerado",
+        "Pulso débil",
+        "Fiebre",
+        "Presión baja"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Cuál es el propósito de la percusión en semiología?",
+      "opciones": [
+        "Detectar masas duras",
+        "Evaluar secreciones",
+        "Determinar presencia de aire o líquido en cavidades",
+        "Medir la presión"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué tipo de sonido se escucha normalmente al percutir un pulmón sano?",
+      "opciones": [
+        "Mate",
+        "Timpánico",
+        "Sonoridad clara",
+        "Sordo"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué comportamiento puede indicar dolor crónico en un gato?",
+      "opciones": [
+        "Hiperactividad",
+        "Vocalización constante",
+        "Aislamiento y cambio de hábitos",
+        "Juego frecuente"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué se evalúa en un reflejo pupilar?",
+      "opciones": [
+        "Presión ocular",
+        "Respuesta de la pupila ante la luz",
+        "Color del iris",
+        "Tamaño de la córnea"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué puede indicar una temperatura rectal de 40.5 °C en un perro adulto?",
+      "opciones": [
+        "Hipotermia",
+        "Temperatura normal",
+        "Fiebre",
+        "Shock"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué puede provocar una disnea inspiratoria?",
+      "opciones": [
+        "Obstrucción nasal",
+        "Fractura de fémur",
+        "Dolor abdominal",
+        "Anemia"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué órganos se evalúan con mayor detalle en la palpación abdominal profunda?",
+      "opciones": [
+        "Pulmones",
+        "Riñones, bazo e intestinos",
+        "Hígado y corazón",
+        "Vejiga y tráquea"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué es una secreción purulenta?",
+      "opciones": [
+        "Moco claro",
+        "Líquido transparente",
+        "Secreción espesa y amarillenta",
+        "Sudoración"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué evaluación semiológica ayuda a determinar una hernia?",
+      "opciones": [
+        "Palpación",
+        "Percusión",
+        "Toma de temperatura",
+        "Medición del pulso"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué tipo de dolor puede causar una postura encorvada y temblores?",
+      "opciones": [
+        "Dolor óseo",
+        "Dolor torácico",
+        "Dolor abdominal agudo",
+        "Dolor crónico leve"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué actitud sugiere un síndrome vestibular?",
+      "opciones": [
+        "Pérdida de equilibrio, inclinación de cabeza y nistagmo",
+        "Agresividad repentina",
+        "Pérdida de peso",
+        "Diarrea frecuente"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué parámetros se registran al evaluar signos vitales?",
+      "opciones": [
+        "Ritmo respiratorio, frecuencia cardíaca y temperatura",
+        "Color del pelo y uñas",
+        "Altura y peso",
+        "Edad y raza"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué se entiende por hipovolemia?",
+      "opciones": [
+        "Aumento de glóbulos blancos",
+        "Disminución del volumen de sangre circulante",
+        "Dolor abdominal severo",
+        "Pulso rápido por fiebre"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué es el nistagmo?",
+      "opciones": [
+        "Dilación pupilar",
+        "Movimientos involuntarios de los ojos",
+        "Caída de párpado",
+        "Infección ocular"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué puede observarse en una evaluación de reflejos posturales?",
+      "opciones": [
+        "Coordinación, colocación de patas, equilibrio",
+        "Color de la piel",
+        "Textura del pelo",
+        "Estado de las uñas"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué puede causar hiporreflexia?",
+      "opciones": [
+        "Estimulación nerviosa alta",
+        "Daño neurológico periférico",
+        "Sobredosis de glucosa",
+        "Pérdida de sangre"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué se evalúa con la técnica de inspección directa en semiología clínica?",
+      "opciones": [
+        "Respuesta visual a reflejos",
+        "Aspecto general, simetría y comportamiento",
+        "Respuesta a medicamentos",
+        "Reacción frente al dolor"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué indica una frecuencia cardíaca menor a lo normal en un perro (bradicardia)?",
+      "opciones": [
+        "Hipotermia, bloqueo cardíaco o deportividad",
+        "Dolor agudo",
+        "Normalidad en cachorros",
+        "Nerviosismo"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué estructura puede desplazarse y palparse en casos de torsión gástrica?",
+      "opciones": [
+        "Hígado",
+        "Pulmón derecho",
+        "Estómago distendido",
+        "Colon ascendente"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cuál es un signo compatible con insuficiencia cardíaca derecha en perros?",
+      "opciones": [
+        "Edema pulmonar",
+        "Hipertermia",
+        "Ascitis",
+        "Bradicardia"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué herramienta se usa para evaluar reflejos oculares de manera básica?",
+      "opciones": [
+        "Otoscopio",
+        "Termómetro digital",
+        "Linterna o fuente de luz",
+        "Estetoscopio"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué parámetro debe observarse en una herida infectada?",
+      "opciones": [
+        "Color rosado y sin secreción",
+        "Ausencia de dolor",
+        "Presencia de exudado purulento y enrojecimiento",
+        "Temperatura corporal"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué órgano puede ser evaluado con presión en el abdomen posterior?",
+      "opciones": [
+        "Corazón",
+        "Estómago",
+        "Vejiga urinaria",
+        "Pulmones"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué puede indicar una respiración costal forzada?",
+      "opciones": [
+        "Dolor dental",
+        "Problemas musculares",
+        "Alteración pulmonar o pleural",
+        "Anemia leve"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué es una postura ortopneica?",
+      "opciones": [
+        "Acostado lateralmente",
+        "Postura de estiramiento",
+        "Posición forzada para facilitar la respiración",
+        "Flexión espinal con la cabeza baja"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué puede sugerir una mucosa ocular de color amarillento intenso?",
+      "opciones": [
+        "Hidratación adecuada",
+        "Hiperemia leve",
+        "Ictericia severa",
+        "Hipoglucemia"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué parte del examen físico permite detectar sonidos intestinales aumentados?",
+      "opciones": [
+        "Palpación",
+        "Auscultación abdominal",
+        "Reflejos espinales",
+        "Inspección torácica"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué actitud puede reflejar dolor vertebral en un animal?",
+      "opciones": [
+        "Permanecer acostado del lado izquierdo",
+        "Rigidez al caminar, dolor al tacto en columna",
+        "Salto espontáneo",
+        "Temblores faciales"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué puede causar dilatación pupilar bilateral persistente?",
+      "opciones": [
+        "Fiebre",
+        "Inflamación muscular",
+        "Trauma craneal o daño neurológico",
+        "Diarrea"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué órgano debe palparse con precaución en gatos debido a su sensibilidad?",
+      "opciones": [
+        "Bazo",
+        "Estómago",
+        "Hígado",
+        "Riñones"
+      ],
+      "correcta": 3
+    },
+    {
+      "pregunta": "¿Qué indica una masa firme, no dolorosa, móvil en la piel?",
+      "opciones": [
+        "Tumor cutáneo benigno",
+        "Hematoma reciente",
+        "Quiste lleno de gas",
+        "Fiebre interna"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué puede indicar una cojera sin inflamación visible?",
+      "opciones": [
+        "Fractura expuesta",
+        "Trauma nervioso o dolor articular",
+        "Otitis externa",
+        "Hipotermia"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué se evalúa con la prueba de colocación de patas?",
+      "opciones": [
+        "Dolor visceral",
+        "Coordinación y respuesta postural",
+        "Frecuencia respiratoria",
+        "Elasticidad de la piel"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué hallazgo puede indicar fiebre de origen infeccioso?",
+      "opciones": [
+        "Pulso bajo",
+        "Mucosas secas y temperatura superior a 39.5 °C",
+        "Coloración ictérica",
+        "Marcha rígida"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué se observa en una evaluación del sistema musculoesquelético?",
+      "opciones": [
+        "Tamaño de los riñones",
+        "Presión arterial",
+        "Masa muscular, tono y simetría",
+        "Estado reproductivo"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué actitud es típica en un animal con dolor torácico?",
+      "opciones": [
+        "Marcha rápida",
+        "Evita acostarse, jadeo y postura rígida",
+        "Juego frecuente",
+        "Respiración nasal leve"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué puede causar una marcha en círculos sin causa externa?",
+      "opciones": [
+        "Dolor muscular",
+        "Ceguera",
+        "Afección neurológica o vestibular",
+        "Gastroenteritis"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué tipo de reflejo evalúa el parpadeo ante un estímulo visual súbito?",
+      "opciones": [
+        "Reflejo anal",
+        "Reflejo fotomotor directo",
+        "Reflejo de amenaza",
+        "Reflejo palpebral"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué se valora en el reflejo anal?",
+      "opciones": [
+        "Contracción de los párpados",
+        "Contracción del ano al tocar la zona",
+        "Movimiento ocular",
+        "Respuesta vocal"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué estructura se revisa al evaluar el reflejo corneal?",
+      "opciones": [
+        "Retina",
+        "Cristalino",
+        "Esclerótica",
+        "Superficie del ojo y córnea"
+      ],
+      "correcta": 3
+    },
+    {
+      "pregunta": "¿Qué hallazgo puede indicar una reacción inflamatoria en la palpación de ganglios linfáticos?",
+      "opciones": [
+        "Tamaño normal, duros y móviles",
+        "Aumento de tamaño, dolor e inflamación",
+        "Ausencia de dolor, consistencia blanda",
+        "Ganglios no palpables"
+      ],
+      "correcta": 1
+    }
+  ],
+  "difícil": [
+    {
+      "pregunta": "¿Cuál es la importancia clínica de la auscultación simultánea del corazón y los pulmones?",
+      "opciones": [
+        "Detectar la fiebre",
+        "Medir la presión arterial",
+        "Diferenciar sonidos cardíacos y respiratorios anómalos",
+        "Evaluar reflejos"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué hallazgo puede indicar una torsión gástrica en auscultación?",
+      "opciones": [
+        "Sonido mate en abdomen izquierdo",
+        "Sonido timpánico en abdomen derecho",
+        "Pulso irregular",
+        "Presión ocular elevada"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué tipo de reflejo se encuentra alterado en un paciente con lesión de la médula espinal toracolumbar?",
+      "opciones": [
+        "Reflejo palpebral",
+        "Reflejo anal y de colocación",
+        "Reflejo de amenaza",
+        "Reflejo pupilar"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál de los siguientes signos sugiere un síndrome de Cushing en perros?",
+      "opciones": [
+        "Bradicardia",
+        "Distribución simétrica de alopecia y abdomen penduloso",
+        "Hiperemia conjuntival",
+        "Ictericia severa"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué puede causar un pulso paradójico (disminuye al inspirar)?",
+      "opciones": [
+        "Hipertensión pulmonar",
+        "Derrame pericárdico",
+        "Insuficiencia renal",
+        "Taquicardia leve"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué se valora con el signo del pliegue cutáneo?",
+      "opciones": [
+        "Edad del animal",
+        "Estado nervioso",
+        "Grado de hidratación",
+        "Tono muscular"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué puede sugerir un soplo sistólico con desplazamiento del punto máximo de impulso cardíaco?",
+      "opciones": [
+        "Neumonía severa",
+        "Cardiomegalia o alteración estructural del corazón",
+        "Dolor torácico no cardíaco",
+        "Bronquitis leve"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál es el significado clínico de un reflejo pupilar directo ausente con reflejo consensual presente?",
+      "opciones": [
+        "Lesión ocular bilateral",
+        "Parálisis del nervio óptico del ojo estimulado",
+        "Dolor sistémico",
+        "Hipoglucemia aguda"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué indica un patrón respiratorio de Cheyne-Stokes?",
+      "opciones": [
+        "Parálisis diafragmática",
+        "Hiperventilación continua",
+        "Respiración en crescendo-decrescendo seguida de apnea",
+        "Tos crónica"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué hallazgo puede indicar un hemotórax en percusión torácica?",
+      "opciones": [
+        "Sonido timpánico",
+        "Silencio auscultatorio unilateral y matidez a la percusión",
+        "Hipersonoridad bilateral",
+        "Vibración vocal aumentada"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué se evalúa con el reflejo perineal?",
+      "opciones": [
+        "Estado hormonal",
+        "Presencia de parásitos",
+        "Respuesta neurológica en sacro",
+        "Dolor vesical"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué hallazgo neurológico indica lesión en el tronco encefálico?",
+      "opciones": [
+        "Ictericia",
+        "Reflejo de amenaza ausente con pupilas normales",
+        "Fiebre",
+        "Bradicardia sincrónica"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué puede sugerir una pupila dilatada unilateral no reactiva?",
+      "opciones": [
+        "Hipovolemia",
+        "Glaucoma agudo o lesión nerviosa",
+        "Vómito frecuente",
+        "Anemia leve"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué reflejo ayuda a diferenciar una lesión espinal alta de una baja?",
+      "opciones": [
+        "Reflejo palpebral",
+        "Reflejo de extensión cruzada",
+        "Reflejo perineal",
+        "Reflejo nasal"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué se detecta en la exploración del reflejo cutáneo superficial del tronco?",
+      "opciones": [
+        "Tamaño hepático",
+        "Presión arterial",
+        "Integridad neurológica espinal toracolumbar",
+        "Tórax simétrico"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué hallazgo en la palpación lumbar sugiere compresión medular?",
+      "opciones": [
+        "Disminución de temperatura",
+        "Rigidez y dolor a la presión",
+        "Respiración superficial",
+        "Cianosis oral"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué estructura se evalúa en el reflejo nasopalpebral?",
+      "opciones": [
+        "Conexión del nervio trigémino y facial",
+        "Función digestiva",
+        "Arteria temporal",
+        "Musculatura mandibular"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué tipo de patrón de marcha sugiere ataxia cerebelosa?",
+      "opciones": [
+        "Marcha rígida sin desequilibrio",
+        "Marcha en círculos cerrados",
+        "Marcha con pasos exagerados, sin debilidad muscular",
+        "Parálisis completa de miembros"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué se debe hacer si el paciente tiene reflejo de amenaza unilateral negativo?",
+      "opciones": [
+        "Diagnosticar ceguera",
+        "Evaluar vía óptica contralateral y corteza visual",
+        "Iniciar anestesia",
+        "Evitar manipulación visual"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué hallazgo indica presencia de líquido en abdomen (ascitis)?",
+      "opciones": [
+        "Temperatura baja",
+        "Matidez en flancos y oleada líquida palpable",
+        "Dolor en extremidades",
+        "Ausencia de reflejo pupilar"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué puede producir una hipoventilación sin obstrucción física?",
+      "opciones": [
+        "Alteración del centro respiratorio o fatiga muscular",
+        "Soplo cardíaco",
+        "Estreñimiento crónico",
+        "Dolor de oído"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué hallazgo semiológico indica insuficiencia respiratoria avanzada?",
+      "opciones": [
+        "Fiebre alta",
+        "Taquipnea leve",
+        "Cianosis visible en mucosas",
+        "Reflejo anal ausente"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué tipo de reflejo indica daño en el nervio femoral?",
+      "opciones": [
+        "Reflejo patelar disminuido o ausente",
+        "Reflejo palpebral aumentado",
+        "Reflejo anal presente",
+        "Reflejo de amenaza negativo"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué hallazgo en el examen neurológico sugiere lesión del nervio facial?",
+      "opciones": [
+        "Hipotermia",
+        "Asimetría facial, pérdida del parpadeo y desviación labial",
+        "Cojera en miembro posterior",
+        "Pérdida de reflejo corneal bilateral"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué patrón de respiración puede sugerir acidosis metabólica compensada?",
+      "opciones": [
+        "Respiración de Biot",
+        "Taquipnea irregular",
+        "Respiración de Kussmaul",
+        "Apnea prolongada"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué puede indicar un abdomen en tabla a la palpación?",
+      "opciones": [
+        "Falta de apetito",
+        "Contracción muscular por dolor agudo",
+        "Normalidad intestinal",
+        "Hipotermia leve"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué signo clínico se observa en un paciente con síndrome de Horner?",
+      "opciones": [
+        "Midriasis bilateral",
+        "Protrusión de membrana nictitante, miosis y ptosis",
+        "Vómito crónico",
+        "Reflejo pupilar aumentado"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué puede indicar la presencia de mioclonías en un paciente canino?",
+      "opciones": [
+        "Proceso digestivo leve",
+        "Epilepsia o daño neurológico",
+        "Deshidratación",
+        "Otitis externa"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué indica la ausencia del reflejo de retiro en una extremidad posterior?",
+      "opciones": [
+        "Daño cerebral",
+        "Lesión medular lumbosacra o periférica",
+        "Hipotermia",
+        "Lesión facial"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué hallazgo podría ser visible en una inspección de hernia umbilical complicada?",
+      "opciones": [
+        "Ligera inflamación sin dolor",
+        "Masa caliente, dolorosa y coloración rojiza",
+        "Coloración normal y asintomática",
+        "Piel seca sobre la hernia"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué tipo de alteración produce el signo de la cabeza presionada contra la pared?",
+      "opciones": [
+        "Afección dermatológica",
+        "Enfermedad hepática o neurológica severa",
+        "Infección urinaria",
+        "Dolor dental"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué es el signo de Ortner en animales?",
+      "opciones": [
+        "Disnea inspiratoria leve",
+        "Parálisis del nervio laríngeo recurrente secundaria a cardiomegalia",
+        "Temblor muscular",
+        "Cianosis intermitente"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué se debe sospechar si el animal presenta reflejo de amenaza ausente, pero conserva visión intacta?",
+      "opciones": [
+        "Deshidratación",
+        "Lesión cortical o visual central",
+        "Fiebre",
+        "Otitis media"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué hallazgo puede aparecer en el síndrome de disfunción cognitiva en perros geriátricos?",
+      "opciones": [
+        "Bradicardia fisiológica",
+        "Alteraciones de marcha, desorientación y vocalizaciones nocturnas",
+        "Disnea aguda",
+        "Letargo e hipertermia"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál es el objetivo del reflejo de colocación visual?",
+      "opciones": [
+        "Evaluar coordinación espinal",
+        "Detectar dolor lumbar",
+        "Observar respuesta motora a estímulo visual",
+        "Examinar campo visual lateral"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué puede causar un murmullo vesicular disminuido bilateralmente?",
+      "opciones": [
+        "Hipertrofia cardíaca",
+        "Enfisema o derrame pleural masivo",
+        "Taquicardia",
+        "Anemia"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué puede indicar una marcha plantígrada en gatos?",
+      "opciones": [
+        "Lesión hepática",
+        "Debilidad muscular o neuropatía periférica",
+        "Ictericia",
+        "Hipoglucemia leve"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué indica una hipermetría durante la marcha?",
+      "opciones": [
+        "Daño vestibular",
+        "Problema cardiovascular",
+        "Lesión cerebelosa o propioceptiva",
+        "Fractura de fémur"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué signo puede indicar síndrome de disautonomía?",
+      "opciones": [
+        "Hiperactividad",
+        "Pupilas fijas y dilatadas, ptosis, sequedad de mucosas",
+        "Cojera posterior",
+        "Estornudos frecuentes"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué indica una alteración del reflejo de extensión cruzada?",
+      "opciones": [
+        "Normalidad funcional",
+        "Lesión espinal grave",
+        "Hipertermia",
+        "Otitis interna"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué hallazgo semiológico puede indicar hemorragia interna?",
+      "opciones": [
+        "Fiebre y vómito",
+        "Mucosas pálidas, taquicardia, abdomen distendido",
+        "Ojos secos",
+        "Pérdida de reflejo pupilar"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué se observa con el test de presión sobre seno frontal?",
+      "opciones": [
+        "Dolor ocular",
+        "Resistencia muscular",
+        "Presencia de dolor o inflamación en sinusitis",
+        "Palidez mucosa"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué se puede detectar con una inspección meticulosa del paladar duro y blando?",
+      "opciones": [
+        "Coloración de los dientes",
+        "Presencia de úlceras, masas o fisuras",
+        "Tamaño del esófago",
+        "Presión arterial"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué hallazgo puede sugerir alteración en la médula cervical?",
+      "opciones": [
+        "Reflejos exagerados en miembros torácicos",
+        "Falta de equilibrio solo en miembros pélvicos",
+        "Dolor abdominal",
+        "Bradicardia repentina"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué tipo de lesión puede causar midriasis bilateral sin respuesta a la luz?",
+      "opciones": [
+        "Obstrucción intestinal",
+        "Hipoglucemia leve",
+        "Lesión grave en mesencéfalo o trauma craneoencefálico",
+        "Otitis externa"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué indica el signo de Babinski positivo en animales?",
+      "opciones": [
+        "Normalidad neurológica",
+        "Daño en la vía motora superior (tracto corticoespinal)",
+        "Hipoactividad",
+        "Dolor visceral leve"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué puede indicar un pliegue cutáneo que no vuelve a su lugar después de varios segundos?",
+      "opciones": [
+        "Desnutrición",
+        "Buena hidratación",
+        "Deshidratación severa",
+        "Hipotermia leve"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué sugiere la pérdida bilateral del reflejo corneal?",
+      "opciones": [
+        "Dolor ocular",
+        "Parálisis del nervio trigémino y facial",
+        "Conjuntivitis leve",
+        "Fiebre persistente"
+      ],
+      "correcta": 1
+    }
+  ],
+  "avanzado": [
+    {
+      "pregunta": "¿Cuál es la principal utilidad del reflejo de amenaza en la evaluación neurológica?",
+      "opciones": [
+        "Evaluar daño ocular",
+        "Valorar integridad de vías ópticas y corteza visual",
+        "Determinar visión periférica",
+        "Detectar hipersensibilidad a la luz"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué hallazgo clínico es típico en una lesión del nervio trigémino?",
+      "opciones": [
+        "Anisocoria",
+        "Falta de sensibilidad facial y atrofia de músculos masticatorios",
+        "Nistagmo",
+        "Dificultad para deglutir"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué hallazgo semiológico sugiere hipertensión sistémica en gatos?",
+      "opciones": [
+        "Hipertermia y miosis",
+        "Ceguera repentina y hemorragia retiniana",
+        "Bradicardia y dilatación pupilar",
+        "Ictericia y nistagmo"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál es el valor semiológico de una ascitis sin fiebre y con pulso yugular elevado?",
+      "opciones": [
+        "Neoplasia digestiva",
+        "Peritonitis",
+        "Insuficiencia cardíaca derecha",
+        "Deshidratación severa"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué patrón de respiración sugiere lesión en el bulbo raquídeo?",
+      "opciones": [
+        "Cheyne-Stokes",
+        "Biot",
+        "Kussmaul",
+        "Taquipnea central"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué característica clínica es compatible con una crisis convulsiva focal?",
+      "opciones": [
+        "Pérdida total de conciencia",
+        "Hipersalivación, rigidez y marcha en círculos",
+        "Movimientos involuntarios limitados a una parte del cuerpo",
+        "Bradicardia y fiebre"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué signo semiológico distingue un derrame pleural de un neumotórax en la percusión?",
+      "opciones": [
+        "Ambos muestran sonido mate",
+        "El derrame produce matidez, el neumotórax hipersonoridad",
+        "El derrame produce crepitación",
+        "El neumotórax produce matidez unilateral"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué puede indicar una marcha con cruce de extremidades (cruzamiento)?",
+      "opciones": [
+        "Dolor abdominal",
+        "Lesión neurológica central o cerebelosa",
+        "Deficiencia hepática",
+        "Desnutrición severa"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué hallazgo semiológico sugiere una meningitis en pequeños animales?",
+      "opciones": [
+        "Bradicardia",
+        "Hiperestesia generalizada y rigidez del cuello",
+        "Hipoactividad y tos",
+        "Anorexia con diarrea"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál es el significado clínico de un reflejo corneal ausente con respuesta pupilar presente?",
+      "opciones": [
+        "Lesión facial",
+        "Glaucoma",
+        "Afección del nervio trigémino (sensitivo)",
+        "Hipoglucemia severa"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué indica una postura de decorticación en perros?",
+      "opciones": [
+        "Relajación completa",
+        "Extensión de miembros anteriores y flexión de posteriores",
+        "Signo de daño cerebral severo",
+        "Marcha atáxica leve"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué puede sugerir una rigidez de nuca con fiebre elevada en un paciente felino?",
+      "opciones": [
+        "Dolor cervical leve",
+        "Síndrome vestibular",
+        "Meningitis o meningoencefalitis",
+        "Hipocalcemia"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué hallazgo indica una disautonomía felina en estadio avanzado?",
+      "opciones": [
+        "Pupilas contraídas y reactivas",
+        "Prolapso del tercer párpado, sequedad ocular, incontinencia",
+        "Ictericia severa",
+        "Estornudos continuos"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué puede provocar hiporeflexia bilateral sin alteración de tono muscular?",
+      "opciones": [
+        "Hipovolemia",
+        "Lesión en nervios periféricos motores",
+        "Dolor cervical leve",
+        "Glaucoma unilateral"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué utilidad tiene la prueba de colocación proprioceptiva en semiología neurológica?",
+      "opciones": [
+        "Medir la respuesta a la luz",
+        "Evaluar función renal",
+        "Detectar déficit de sensibilidad y coordinación postural",
+        "Valorar presión sanguínea"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué patrón semiológico es característico en una intoxicación por organofosforados?",
+      "opciones": [
+        "Midriasis y taquicardia",
+        "Miosis, bradicardia, salivación y temblores",
+        "Vómitos y polifagia",
+        "Anemia y bradipnea"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué se evalúa con la prueba de reactividad meníngea?",
+      "opciones": [
+        "Presión ocular",
+        "Nivel de conciencia",
+        "Rigidez del cuello y respuesta al estiramiento pasivo",
+        "Hipersalivación"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué sugiere una dismetría durante la marcha en el examen neurológico?",
+      "opciones": [
+        "Marcha lenta sin reflejos",
+        "Coordinación normal",
+        "Alteración cerebelosa o propioceptiva",
+        "Dolor visceral severo"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué hallazgo neurológico puede indicar una lesión del nervio abducens (VI)?",
+      "opciones": [
+        "Estrabismo medial",
+        "Ptosis palpebral",
+        "Anisocoria",
+        "Marcha rígida"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué sugiere la falta de respuesta del reflejo de amenaza en ambos ojos en un paciente alerta?",
+      "opciones": [
+        "Ceguera central o corteza visual afectada",
+        "Presión arterial alta",
+        "Deshidratación",
+        "Hipovolemia leve"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué condición clínica puede diagnosticarse mediante la prueba del reflejo espinal segmentario?",
+      "opciones": [
+        "Hipotermia",
+        "Hipoglucemia",
+        "Lesión espinal localizada",
+        "Disautonomía"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué hallazgo se considera una urgencia médica en la evaluación semiológica?",
+      "opciones": [
+        "Temperatura baja",
+        "Mucosas pálidas + ausencia de pulso femoral",
+        "Diarrea leve",
+        "Estornudo continuo"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué patrón de reflejos se espera en una lesión de motoneurona superior?",
+      "opciones": [
+        "Reflejos disminuidos o ausentes",
+        "Reflejos normales",
+        "Reflejos aumentados y tono muscular elevado",
+        "Pupilas dilatadas"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué condición puede provocar un reflejo de amenaza presente pero visión ausente?",
+      "opciones": [
+        "Neuropatía vestibular",
+        "Lesión retiniana o nervio óptico",
+        "Otitis media",
+        "Cardiopatía oculta"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué hallazgo semiológico distingue un soplo cardíaco funcional de uno patológico?",
+      "opciones": [
+        "Presencia de fiebre",
+        "Duración del soplo y alteraciones auscultatorias específicas",
+        "Anemia moderada",
+        "Coloración ictérica"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué puede provocar una respiración de Biot en un animal en estado crítico?",
+      "opciones": [
+        "Lesión cerebral en el tronco encefálico",
+        "Dolor lumbar",
+        "Hipoglucemia",
+        "Hipocalcemia leve"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué hallazgo clínico es esperable en una compresión del nervio radial?",
+      "opciones": [
+        "Hipermetría",
+        "Imposibilidad para extender el carpo",
+        "Vómito",
+        "Nistagmo horizontal"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál de los siguientes signos clínicos es típico en una encefalitis canina viral?",
+      "opciones": [
+        "Fiebre leve",
+        "Marcha rígida y convulsiones progresivas",
+        "Ictericia",
+        "Diarrea sanguinolenta"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué reflejo puede ayudar a determinar una lesión en el plexo braquial?",
+      "opciones": [
+        "Reflejo corneal",
+        "Reflejo palpebral",
+        "Reflejo extensor carporradial",
+        "Reflejo nasopalpebral"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué hallazgo clínico puede indicar shock hipovolémico en su fase inicial?",
+      "opciones": [
+        "Pulso fuerte y lento",
+        "Mucosas rosadas",
+        "Pulso débil, taquicardia y tiempo de llenado capilar aumentado",
+        "Midriasis reactiva"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué hallazgo es típico de un síndrome de cauda equina?",
+      "opciones": [
+        "Parálisis de miembros anteriores",
+        "Dolor lumbar, incontinencia y reflejo anal disminuido",
+        "Anisocoria",
+        "Ataxia cerebelosa"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué puede sugerir un aumento de temperatura corporal sin causa infecciosa evidente?",
+      "opciones": [
+        "Hipertermia por estrés, golpe de calor o trastornos metabólicos",
+        "Diarrea viral",
+        "Dolor dental",
+        "Deficiencia de vitamina B"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué puede observarse en una evaluación de reflejos con lesión de motoneurona inferior?",
+      "opciones": [
+        "Reflejos normales",
+        "Reflejos exaltados",
+        "Reflejos abolidos o muy disminuidos",
+        "Reflejo de amenaza aumentado"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué indica un nistagmo vertical persistente?",
+      "opciones": [
+        "Hipotensión",
+        "Síndrome vestibular central",
+        "Dolor cervical",
+        "Otitis media"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué sugiere un pulso paradójico al examen físico?",
+      "opciones": [
+        "Pulso desaparece durante la inspiración",
+        "Pulso desaparece en decúbito",
+        "Aumento de frecuencia respiratoria",
+        "Fiebre súbita"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué hallazgo se considera patológico durante la palpación de ganglios linfáticos?",
+      "opciones": [
+        "Móviles, firmes y simétricos",
+        "Dolorosos, aumentados de tamaño y consistencia firme",
+        "Pequeños y blandos",
+        "Invisibles a la palpación"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué utilidad tiene el reflejo de amenaza en diagnóstico diferencial?",
+      "opciones": [
+        "Diferenciar lesiones visuales periféricas de corticales",
+        "Evaluar tono muscular",
+        "Diagnosticar inflamación corneal",
+        "Detectar infección nerviosa"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué indica una frecuencia respiratoria menor a 8 respiraciones por minuto con signos de hipoxia?",
+      "opciones": [
+        "Bradipnea grave por compromiso neurológico o metabólico",
+        "Taquicardia por compensación",
+        "Temperatura elevada",
+        "Hipermetabolismo"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué puede observarse en la inspección de un paciente con coagulopatía?",
+      "opciones": [
+        "Apetito aumentado",
+        "Letargo y equimosis cutáneas",
+        "Bradicardia",
+        "Reflejos exagerados"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué hallazgo puede indicar peritonitis durante la palpación abdominal?",
+      "opciones": [
+        "Sonido timpánico",
+        "Rigidez involuntaria, dolor intenso y resistencia",
+        "Pérdida de reflejo pupilar",
+        "Hipotermia leve"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué signo clínico distingue una obstrucción urinaria aguda?",
+      "opciones": [
+        "Polifagia",
+        "Vómito y letargo con vejiga muy distendida y dolorosa",
+        "Taquicardia leve",
+        "Fiebre continua"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué indica la ausencia bilateral del reflejo de amenaza en un paciente con visión conservada?",
+      "opciones": [
+        "Deshidratación",
+        "Lesión cortical bilateral",
+        "Hipoglucemia leve",
+        "Obstrucción gastrointestinal"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué patrón de reflejos indica lesión de la médula espinal cervical alta (C1–C5)?",
+      "opciones": [
+        "Reflejos aumentados en torácicos y pélvicos",
+        "Reflejos disminuidos en pélvicos",
+        "Reflejos abolidos en anteriores",
+        "Ausencia de reflejo corneal"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué hallazgo puede distinguir un síndrome vestibular central de uno periférico?",
+      "opciones": [
+        "Presencia de nistagmo vertical, paresia y alteración de conciencia",
+        "Anorexia",
+        "Dolor articular",
+        "Hipotermia leve"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué indica una desviación de cabeza persistente hacia un lado?",
+      "opciones": [
+        "Deshidratación",
+        "Síndrome vestibular o alteración neurológica unilateral",
+        "Problema ocular",
+        "Parásitos intestinales"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué reflejo puede utilizarse para evaluar daño en el nervio glosofaríngeo?",
+      "opciones": [
+        "Reflejo palpebral",
+        "Reflejo de deglución y náusea",
+        "Reflejo anal",
+        "Reflejo pupilar consensual"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué indica una postura con miembros en extensión rígida y cuello extendido hacia atrás (opistótonos)?",
+      "opciones": [
+        "Hipotensión",
+        "Compromiso cerebral grave (decerebración)",
+        "Otitis severa",
+        "Problema gastrointestinal"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué hallazgo puede orientar al diagnóstico de insuficiencia hepática en el examen clínico?",
+      "opciones": [
+        "Reflejos normales",
+        "Ictericia, encefalopatía hepática y hemorragias",
+        "Hipotermia leve",
+        "Deshidratación leve"
+      ],
+      "correcta": 1
+    }
+  ]
+}

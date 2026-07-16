@@ -1,0 +1,122 @@
+/* Estilo gamer neón */
+body {
+  font-family: 'Orbitron', sans-serif;
+  background: linear-gradient(135deg, #0f0f0f, #1a1a1a);
+  color: #e0e0e0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  flex-direction: column;
+  padding: 20px;
+  text-align: center;
+}
+
+.selector,
+#quiz,
+#resultado,
+#ranking {
+  background-color: #121212;
+  padding: 30px;
+  border-radius: 12px;
+  border: 2px solid #00ffe1;
+  box-shadow: 0 0 20px #00ffe1;
+  max-width: 600px;
+  width: 100%;
+  margin: 20px auto;
+}
+
+h1, h2, h3 {
+  color: #00ffff;
+  text-shadow: 0 0 5px #00ffff;
+}
+
+#pregunta {
+  font-size: 1.4rem;
+  margin-bottom: 20px;
+  color: #ffffff;
+  text-shadow: 0 0 3px #ff00ff;
+}
+
+#opciones {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+#opciones button {
+  padding: 12px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 6px;
+  background-color: #222;
+  color: #00ffe1;
+  cursor: pointer;
+  transition: 0.3s;
+  box-shadow: 0 0 10px #00ffe1;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+#opciones button:hover {
+  background-color: #00ffe1;
+  color: #121212;
+  box-shadow: 0 0 20px #00ffe1;
+  transform: scale(1.05);
+}
+
+.bien {
+  background-color: #0f0 !important;
+  color: black !important;
+  box-shadow: 0 0 15px #0f0;
+}
+
+.mal {
+  background-color: #f00 !important;
+  color: white !important;
+  box-shadow: 0 0 15px #f00;
+}
+
+.correcta {
+  background-color: #ffd700 !important;
+  color: black;
+  font-weight: bold;
+  box-shadow: 0 0 15px #ffd700;
+}
+
+input[type="text"],
+select {
+  padding: 10px;
+  font-size: 14px;
+  width: 80%;
+  max-width: 400px;
+  margin-bottom: 15px;
+  background-color: #222;
+  color: #00ffe1;
+  border: 1px solid #00ffe1;
+  border-radius: 6px;
+  box-shadow: 0 0 10px #00ffe1;
+}
+#vidas {
+  font-size: 24px;
+  margin-bottom: 10px;
+  color: #ff0044;
+}
+
+#progreso-container {
+  width: 100%;
+  background-color: #333;
+  border-radius: 10px;
+  overflow: hidden;
+  margin-top: 10px;
+  height: 15px;
+  box-shadow: 0 0 10px #00ffe1;
+}
+
+#progreso-barra {
+  height: 100%;
+  background-color: #00ffe1;
+  width: 0%;
+  transition: width 0.3s ease-in-out;
+}

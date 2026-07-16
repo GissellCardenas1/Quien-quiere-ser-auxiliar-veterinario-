@@ -1,0 +1,999 @@
+{
+    "fácil": 
+[
+  {
+    "pregunta": "¿Qué es la etiología en medicina veterinaria?",
+    "opciones": ["Estudio de la anatomía de los animales", "Estudio de las causas de las enfermedades", "Evaluación del comportamiento", "Medición de parámetros vitales"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué significa que una enfermedad tenga una etiología infecciosa?",
+    "opciones": ["Es causada por parásitos internos", "Es causada por factores genéticos", "Es causada por microorganismos como bacterias o virus", "Se debe a lesiones físicas"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué agente etiológico puede causar moquillo canino?",
+    "opciones": ["Virus", "Parásito", "Hongo", "Bacteria"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes agentes etiológicos causa sarna?",
+    "opciones": ["Virus", "Ácaros", "Hongos", "Bacterias"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de agente causa la rabia?",
+    "opciones": ["Bacteria", "Parásito", "Hongo", "Virus"],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué significa que una enfermedad sea de origen congénito?",
+    "opciones": ["Se transmite por contacto directo", "Está presente desde el nacimiento", "Se contagia por vía aérea", "Aparece en la vejez"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es una causa común de enfermedad de etiología ambiental?",
+    "opciones": ["Golpes de calor", "Infección bacteriana", "Genética", "Tumores malignos"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál es una etiología común de la gastroenteritis en perros?",
+    "opciones": ["Alergia a medicamentos", "Virus, bacterias o cambios alimenticios", "Ejercicio excesivo", "Infección ocular"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué etiología es común en enfermedades parasitarias?",
+    "opciones": ["Virus", "Protozoarios, ácaros o lombrices", "Radiación", "Mala alimentación"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué significa que una enfermedad sea idiopática?",
+    "opciones": ["Tiene muchas causas", "Se transmite por aire", "Su causa es desconocida", "Solo afecta a felinos"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál de estos es un ejemplo de una enfermedad de etiología nutricional?",
+    "opciones": ["Parvovirosis", "Moquillo", "Obesidad", "Sarcoma"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué significa el término zoonosis en etiología?",
+    "opciones": ["Enfermedad transmitida de humanos a animales", "Enfermedad que solo afecta animales", "Enfermedad que puede transmitirse entre animales y humanos", "Infección ocular"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué causa la tiña en perros y gatos?",
+    "opciones": ["Bacterias", "Hongos", "Virus", "Protozoarios"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es una causa posible de diarrea aguda en cachorros?",
+    "opciones": ["Brote hormonal", "Causas ambientales solamente", "Infección viral o bacteriana", "Problemas óseos"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué puede causar una enfermedad respiratoria de etiología bacteriana?",
+    "opciones": ["Clima frío", "Parásitos intestinales", "Bordetella bronchiseptica", "Desnutrición"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tipo de enfermedad puede tener origen tóxico?",
+    "opciones": ["Dermatitis alérgica", "Intoxicación por plantas o químicos", "Infección bacteriana", "Obstrucción nasal"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué agente etiológico causa la leptospirosis?",
+    "opciones": ["Virus", "Parásito", "Hongo", "Bacteria"],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué puede causar una enfermedad de etiología traumática?",
+    "opciones": ["Caídas o golpes", "Virus del moquillo", "Bacteria de la salmonela", "Falta de vitaminas"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué indica una enfermedad hereditaria?",
+    "opciones": ["Se contagia por alimentos", "Tiene origen genético", "Está causada por virus", "Proviene del ambiente"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es un ejemplo de enfermedad de etiología viral?",
+    "opciones": ["Moquillo", "Sarna", "Coccidiosis", "Anemia por garrapatas"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál es un agente etiológico que puede encontrarse en el agua contaminada?",
+    "opciones": ["Pulgas", "Virus de la rabia", "Leptospira", "Ácaros"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál de estas enfermedades tiene etiología fúngica?",
+    "opciones": ["Dermatofitosis", "Moquillo", "Leishmaniasis", "Rabia"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué significa etiología multifactorial?",
+    "opciones": ["Causada por un solo microorganismo", "Tiene múltiples causas posibles", "No tiene síntomas visibles", "Solo afecta en verano"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es una causa común de otitis externa en perros?",
+    "opciones": ["Infección bacteriana o fúngica", "Fractura de hueso", "Lesión ocular", "Mal olor en la boca"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué es la etiología iatrogénica?",
+    "opciones": ["Causada por tratamiento médico o error humano", "Causada por falta de higiene", "Transmitida por el aire", "Origen genético"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué es una enfermedad de etiología inmunológica?",
+    "opciones": ["Causada por bacterias", "Causada por el sistema inmunológico", "Causada por parásitos", "De origen congénito"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué agente etiológico está relacionado con la ehrlichiosis canina?",
+    "opciones": ["Hongo", "Virus", "Bacteria", "Protozoo"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál de estas opciones puede ser causa de una enfermedad metabólica?",
+    "opciones": ["Desbalance hormonal", "Exposición solar", "Contacto con insectos", "Parásitos intestinales"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál es un ejemplo de enfermedad de etiología parasitaria interna?",
+    "opciones": ["Tiña", "Toxocariasis", "Dermatitis alérgica", "Otitis externa"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué agente puede causar la coccidiosis?",
+    "opciones": ["Virus", "Bacteria", "Protozoo", "Hongo"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué es una enfermedad iatrogénica?",
+    "opciones": ["Transmisible por saliva", "Causada por tratamientos médicos incorrectos", "Provocada por el clima", "Causada por ácaros"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué factor puede contribuir a una enfermedad de origen nutricional?",
+    "opciones": ["Sobrepeso, deficiencia vitamínica o mala dieta", "Ejercicio moderado", "Cambio de tutor", "Ambiente tranquilo"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué significa que una enfermedad sea degenerativa?",
+    "opciones": ["Es contagiosa", "Es provocada por traumatismo", "Se origina por deterioro progresivo del cuerpo", "Tiene origen viral"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es una causa posible de conjuntivitis en animales?",
+    "opciones": ["Exposición al frío", "Parásitos gastrointestinales", "Irritantes químicos o bacterias", "Problemas renales"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tipo de enfermedad está asociada a las garrapatas?",
+    "opciones": ["Enfermedades virales", "Enfermedades parasitarias y bacterianas", "Alteraciones genéticas", "Intoxicaciones"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es un signo común de enfermedad de etiología parasitaria interna?",
+    "opciones": ["Estornudos", "Alopecia localizada", "Diarrea y pérdida de peso", "Pulso acelerado"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué puede desencadenar una enfermedad de origen alérgico?",
+    "opciones": ["Virus del moquillo", "Picaduras, alimentos o polen", "Falta de agua", "Estrés leve"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de agente causa la dermatofitosis?",
+    "opciones": ["Hongo", "Bacteria", "Virus", "Parásito"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué etiología tiene una fractura por caída?",
+    "opciones": ["Congénita", "Traumática", "Inmunológica", "Bacteriana"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes NO es un agente etiológico?",
+    "opciones": ["Virus", "Bacteria", "Temperatura", "Hongo"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es una enfermedad de etiología vírica que afecta a los gatos?",
+    "opciones": ["Panleucopenia felina", "Otitis externa", "Leishmaniasis", "Tiña"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué puede provocar vómitos por etiología alimentaria?",
+    "opciones": ["Ejercicio físico", "Cambio brusco de alimento o alimento en mal estado", "Baños frecuentes", "Vacunación reciente"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es un factor etiológico externo en enfermedades respiratorias?",
+    "opciones": ["Malformaciones congénitas", "Polvo, humo o alérgenos", "Genética", "Deshidratación"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es un ejemplo de etiología química?",
+    "opciones": ["Infección viral", "Intoxicación por veneno o detergente", "Dermatitis alérgica", "Dolor muscular"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es una enfermedad con etiología mixta (más de una causa)?",
+    "opciones": ["Fractura ósea", "Conjuntivitis alérgica e infecciosa", "Moquillo", "Sarna demodécica"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué agente etiológico causa la parvovirosis?",
+    "opciones": ["Bacteria", "Virus", "Ácaros", "Hongos"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué etiología puede estar asociada a una insuficiencia renal aguda?",
+    "opciones": ["Deshidratación y toxinas", "Estrés crónico", "Vacunación", "Hiperactividad"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué factor etiológico está involucrado en la obesidad canina?",
+    "opciones": ["Infección viral", "Sobrealimentación y sedentarismo", "Parásitos", "Cambio de pelaje"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué puede desencadenar una dermatitis por contacto?",
+    "opciones": ["Bacterias intestinales", "Picaduras de insectos", "Sustancias irritantes como detergentes", "Fiebre prolongada"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es un ejemplo de enfermedad congénita?",
+    "opciones": ["Moquillo", "Displasia de cadera", "Otitis bacteriana", "Tiña felina"],
+    "correcta": 1
+  }
+],
+  "intermedio": 
+[
+  {
+    "pregunta": "¿Qué mecanismo de defensa se activa cuando un agente etiológico entra al organismo?",
+    "opciones": ["Sistema linfático", "Sistema endocrino", "Sistema urinario", "Sistema nervioso"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué característica tiene una enfermedad endógena?",
+    "opciones": ["Proviene del exterior", "Es transmitida por vectores", "Su origen está dentro del organismo", "Se adquiere por contacto con otros animales"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué agente etiológico es responsable de la leptospirosis?",
+    "opciones": ["Hongo", "Virus", "Bacteria", "Protozoo"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué elemento puede actuar como vector en la transmisión de enfermedades?",
+    "opciones": ["El sistema digestivo", "El aire acondicionado", "Un mosquito", "Una planta tóxica"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué se entiende por etiología multifactorial?",
+    "opciones": ["Una causa genética", "Una causa infecciosa específica", "Varias causas que contribuyen al desarrollo de la enfermedad", "Una causa que se desconoce"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué agente etiológico produce la toxoplasmosis?",
+    "opciones": ["Virus", "Bacteria", "Protozoo", "Ácaro"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes enfermedades tiene etiología inmunomediada?",
+    "opciones": ["Panleucopenia", "Tiña", "Artritis reumatoide", "Coccidiosis"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué agente etiológico puede encontrarse en heces y contaminar alimentos?",
+    "opciones": ["Leptospira", "Toxoplasma", "Salmonella", "Moquillo"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es una enfermedad vírica de etiología respiratoria frecuente en gatos?",
+    "opciones": ["Panleucopenia", "Rinotraqueítis", "Tiña", "Otitis"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué papel cumple el huésped intermediario en una enfermedad parasitaria?",
+    "opciones": ["Produce la enfermedad", "Porta al parásito en una fase de su ciclo de vida", "Elimina el parásito del ambiente", "Inmuniza al huésped definitivo"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué característica define a las enfermedades zoonóticas?",
+    "opciones": ["Son virales", "Son hereditarias", "Pueden transmitirse entre animales y humanos", "Solo afectan animales silvestres"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es un factor etiológico que favorece las enfermedades dermatológicas?",
+    "opciones": ["Temperaturas bajas", "Alimentación rica en proteína", "Parásitos externos, alergias o bacterias", "Ejercicio frecuente"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes es un ejemplo de enfermedad de etiología metabólica?",
+    "opciones": ["Moquillo", "Obesidad", "Otitis", "Parvovirosis"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de agente etiológico es Giardia?",
+    "opciones": ["Virus", "Hongo", "Protozoo", "Bacteria"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué causa una enfermedad genética?",
+    "opciones": ["Alimentos contaminados", "Herencia de genes defectuosos", "Virus y bacterias", "Golpes o traumas"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es una posible etiología de la urolitiasis?",
+    "opciones": ["Traumatismo", "Infección vírica", "Problemas nutricionales y metabólicos", "Golpes repetidos en abdomen"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué condición tiene como posible causa la hipocalcemia posparto?",
+    "opciones": ["Desnutrición crónica", "Desequilibrio hormonal", "Alteración del sistema nervioso", "Pérdida de calcio durante la lactancia"],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué significa que una enfermedad sea autoinmune?",
+    "opciones": ["Es causada por una bacteria", "Es genética", "Es provocada por el propio sistema inmune del organismo", "Es contagiosa por contacto directo"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué es la etiopatogenia?",
+    "opciones": ["Tratamiento de una enfermedad", "Estudio de los síntomas", "Causa y mecanismos por los que se desarrolla una enfermedad", "Método de prevención"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es una enfermedad de etiología vírica y carácter inmunosupresor en gatos?",
+    "opciones": ["Panleucopenia", "Otitis", "Leucemia felina", "Conjuntivitis"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál de estas enfermedades puede tener etiología genética y ambiental combinadas?",
+    "opciones": ["Otitis externa", "Displasia de cadera", "Rabia", "Parvovirosis"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es una causa frecuente de dermatitis alérgica en perros?",
+    "opciones": ["Ácaros del oído", "Pulgas o alérgenos ambientales", "Ejercicio excesivo", "Problemas digestivos"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué significa una etiología nosocomial?",
+    "opciones": ["De origen genético", "Causada por una lesión", "Originada en un entorno hospitalario", "Provocada por alimentos"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál de estas enfermedades parasitarias tiene como vector principal la garrapata?",
+    "opciones": ["Leishmaniasis", "Ehrlichiosis", "Giardiasis", "Micosis"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué enfermedad infecciosa puede provocar abortos en perras gestantes?",
+    "opciones": ["Brucelosis", "Dermatitis alérgica", "Sarcoma", "Obesidad"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué tipo de etiología tiene la enfermedad de Lyme en caninos?",
+    "opciones": ["Vírica", "Fúngica", "Bacteriana transmitida por garrapatas", "Tóxica"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué factor etiológico puede provocar una otitis externa recurrente?",
+    "opciones": ["Mala nutrición", "Malformación genética", "Alergias o humedad excesiva", "Ejercicio insuficiente"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué significa una enfermedad con etiología ocupacional?",
+    "opciones": ["Se origina por actividad reproductiva", "Se desarrolla por contacto con objetos punzantes", "Se relaciona con el ambiente de trabajo", "Es de origen viral"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué microorganismo actúa como agente etiológico de la brucelosis?",
+    "opciones": ["Brucella spp.", "Bordetella", "Toxoplasma", "Ascaris"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes factores etiológicos puede provocar hipotiroidismo?",
+    "opciones": ["Traumatismo craneal", "Falta de vitamina B", "Destrucción inmunológica de la glándula tiroides", "Exceso de yodo"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué factor etiológico contribuye a enfermedades por cuerpos extraños?",
+    "opciones": ["Bacterias", "Ingestión accidental de objetos", "Virus", "Ácaros en el ambiente"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué agente etiológico causa la esporotricosis?",
+    "opciones": ["Virus", "Hongo", "Bacteria", "Parásito"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es una etiología posible en la insuficiencia renal crónica en animales geriátricos?",
+    "opciones": ["Genética", "Virus respiratorio", "Envejecimiento y daño renal progresivo", "Lesión muscular severa"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué microorganismo causa la bartonelosis en felinos?",
+    "opciones": ["Virus de la rabia", "Giardia", "Bartonella henselae", "Brucella canis"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la etiología más común del síndrome vestibular periférico en perros mayores?",
+    "opciones": ["Cáncer cerebral", "Degeneración idiopática relacionada a la edad", "Trauma espinal", "Infección de riñones"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué factor etiológico puede agravar enfermedades respiratorias crónicas en felinos?",
+    "opciones": ["Ejercicio constante", "Contacto con polen", "Humo de cigarrillo u otros irritantes ambientales", "Cambio de dieta frecuente"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué enfermedad de origen vírico puede causar inmunosupresión en gatos?",
+    "opciones": ["Tiña", "Leucemia felina", "Otitis", "Brucelosis"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué etiología puede tener una coagulopatía adquirida?",
+    "opciones": ["Deficiencia genética", "Exposición a anticoagulantes como rodenticidas", "Mordedura de otro animal", "Hipotermia severa"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes es una enfermedad de etiología viral muy contagiosa entre perros no vacunados?",
+    "opciones": ["Ehrlichiosis", "Parvovirosis", "Sarna", "Toxoplasmosis"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué puede causar una miopatía nutricional?",
+    "opciones": ["Falta de selenio y vitamina E", "Parásitos intestinales", "Exceso de ejercicio", "Traumatismo severo"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué microorganismo es responsable de la tuberculosis en animales?",
+    "opciones": ["Mycoplasma", "Mycobacterium bovis", "Toxoplasma gondii", "Giardia"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de agente etiológico es común en las enfermedades fúngicas cutáneas?",
+    "opciones": ["Parásito", "Hongo", "Virus", "Bacteria anaerobia"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué agente causa la dirofilariasis?",
+    "opciones": ["Protozoo", "Virus", "Nematodo transmitido por mosquito", "Ácaro"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es un ejemplo de factor etiológico abiótico?",
+    "opciones": ["Bacteria", "Protozoo", "Toxina ambiental", "Garrapata"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué etiología puede estar relacionada con enfermedad inflamatoria intestinal crónica en perros?",
+    "opciones": ["Deficiencia de calcio", "Enfermedad inmunomediada y dieta", "Fracturas antiguas", "Parasitosis leve"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es un factor etiológico importante para enfermedades zoonóticas transmitidas por contacto con heces?",
+    "opciones": ["Brucella", "Toxoplasma gondii", "Sarcoptes", "Tiña"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la función principal de identificar la etiología de una enfermedad?",
+    "opciones": ["Administrar medicación sin receta", "Detectar síntomas visibles", "Aplicar un tratamiento eficaz basado en la causa", "Evitar hospitalización"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué enfermedad de etiología infecciosa puede provocar anemia severa en caninos?",
+    "opciones": ["Ehrlichiosis", "Rabia", "Otitis media", "Diarrea por cambio de dieta"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué tipo de enfermedad es más frecuente cuando la higiene es deficiente?",
+    "opciones": ["Metabólicas", "Bacterianas o parasitarias", "Congénitas", "Genéticas"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué factor etiológico se relaciona con el desarrollo de síndrome braquicefálico?",
+    "opciones": ["Trauma craneal", "Genética por selección artificial", "Infección viral", "Mal nutrición"],
+    "correcta": 1
+  }
+],
+  "difícil": 
+[
+  {
+    "pregunta": "¿Qué significa que una enfermedad tenga una etiología nosocomial con patógenos multirresistentes?",
+    "opciones": ["Tiene origen zoonótico", "Se adquiere en el entorno hospitalario y no responde fácilmente a antibióticos", "Es causada por factores genéticos", "Solo afecta animales inmunodeprimidos"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes factores puede predisponer a una enfermedad de etiología inmunomediada?",
+    "opciones": ["Vacunación reciente, infecciones virales previas o predisposición genética", "Ejercicio excesivo", "Higiene adecuada", "Desparasitación regular"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál es un ejemplo de enfermedad de etiología genética autosómica recesiva en perros?",
+    "opciones": ["Ehrlichiosis", "Displasia de cadera", "Atrofia progresiva de retina", "Dermatitis por contacto"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué factor etiológico está implicado en la aparición de cáncer de células escamosas en animales blancos?",
+    "opciones": ["Infección por hongos", "Traumatismo ocular", "Exposición crónica al sol", "Parásitos intestinales"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué microorganismo actúa como agente etiológico en la meningoencefalitis bacteriana?",
+    "opciones": ["Parvovirus", "Giardia", "Streptococcus spp.", "Demodex canis"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué etiología puede tener un caso de insuficiencia hepática fulminante en un paciente canino joven sin antecedentes?",
+    "opciones": ["Deshidratación leve", "Ingestión de toxinas hepatotóxicas", "Ejercicio prolongado", "Garrapatas"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la relación etiológica entre la leishmaniasis y su vector?",
+    "opciones": ["Se transmite por contacto con heces", "Se transmite por picadura de mosquito flebótomo infectado", "Se transmite por vía oral", "Se transmite por mordedura directa"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué factor etiológico puede contribuir al desarrollo de pancreatitis aguda en perros?",
+    "opciones": ["Exposición a bajas temperaturas", "Alimentación rica en grasas o alimentos inadecuados", "Actividad física elevada", "Baños frecuentes"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes factores etiológicos puede causar abortos recurrentes en hembras bovinas?",
+    "opciones": ["Golpes en el abdomen", "Mastitis", "Infección por Brucella abortus", "Deficiencia de proteínas"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tipo de daño etiológico es común en la exposición prolongada a micotoxinas en el alimento?",
+    "opciones": ["Problemas digestivos leves", "Deterioro hepático o renal crónico", "Problemas óseos", "Infecciones cutáneas"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué condición puede tener como etiología una disautonomía felina idiopática?",
+    "opciones": ["Infección respiratoria aguda", "Degeneración del sistema nervioso autónomo sin causa clara", "Brote hormonal", "Sarcoma postvacunal"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué virus tiene como etiología inmunosupresora la inhibición de células de defensa en gatos?",
+    "opciones": ["Coronavirus felino", "Virus de leucemia felina (FeLV)", "Toxoplasma gondii", "Bordetella"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de etiología se relaciona con el síndrome de dilatación-torsión gástrica (GDV)?",
+    "opciones": ["Hematológica", "Multifactorial (genética, anatómica, alimentaria)", "Bacteriana", "Congénita simple"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué condición etiológica puede desencadenar uveítis en pacientes caninos?",
+    "opciones": ["Falta de luz", "Parvovirus", "Infección sistémica, trauma o enfermedades inmunomediadas", "Sarna sarcóptica"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tipo de enfermedad se origina por defecto enzimático hereditario en gatos siameses?",
+    "opciones": ["Dermatitis alérgica", "Ataxia vestibular congénita", "Pancreatitis", "FIV"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes condiciones tiene etiología toxicológica por ingestión de cebolla o ajo en perros?",
+    "opciones": ["Ictericia hepática", "Anemia hemolítica", "Glomerulonefritis", "Síndrome vestibular"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué agente etiológico puede causar granulomas pulmonares en infecciones crónicas en gatos?",
+    "opciones": ["Coronavirus felino", "Mycobacterium spp.", "Eimeria spp.", "Campylobacter jejuni"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué condición clínica puede tener una etiología autoinmune y provocar lesiones cutáneas?",
+    "opciones": ["Linfoma cutáneo", "Pénfigo foliáceo", "Tiña", "Otitis crónica externa"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué puede provocar una intoxicación hepática aguda por plantas como el helecho macho?",
+    "opciones": ["Daño respiratorio", "Hemorragias por insuficiencia hepática", "Dolor articular", "Estornudos persistentes"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué relación etiológica existe entre el moquillo y los signos neurológicos?",
+    "opciones": ["El virus actúa directamente sobre las articulaciones", "El virus afecta el sistema nervioso central en fases avanzadas", "Solo afecta piel y mucosas", "No hay relación"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de enfermedad puede tener etiología por hipovitaminosis A prolongada?",
+    "opciones": ["Ictericia hepática", "Ceguera nocturna y alteraciones epiteliales", "Dermatitis bacteriana", "Nefritis infecciosa"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de etiología se encuentra en la anemia por deficiencia de hierro en neonatos?",
+    "opciones": ["Tóxica", "Congénita por malabsorción o dieta deficiente", "Infecciosa", "Neoplásica"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué factor puede provocar una enfermedad metabólica con cojeras en animales jóvenes?",
+    "opciones": ["Hiperparatiroidismo nutricional", "Intoxicación fúngica", "Golpes frecuentes", "Ácaros"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué complicación puede tener una infección uterina de etiología bacteriana crónica no tratada?",
+    "opciones": ["Piometra con riesgo de septicemia", "Quiste ovárico benigno", "Abortos espontáneos", "Fiebre leve autolimitada"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué tipo de agente etiológico se asocia al granuloma eosinofílico felino?",
+    "opciones": ["Virus", "Reacción inmunológica posiblemente alérgica", "Hongos", "Bacteria intracelular"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué causa un colapso traqueal en razas pequeñas desde el punto de vista etiológico?",
+    "opciones": ["Virus respiratorio", "Degeneración de anillos cartilaginosos traqueales (etiología congénita y adquirida)", "Bacterias anaerobias", "Parásitos pulmonares"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de etiología puede tener una miocardiopatía dilatada en perros grandes?",
+    "opciones": ["Deficiencia de taurina, predisposición genética o viral", "Parásitos cardíacos", "Fractura esternal previa", "Deshidratación aguda"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué sustancia tóxica presente en uvas puede causar daño renal en perros?",
+    "opciones": ["Taninos", "Compuestos fenólicos no identificados", "Almidón", "Ácido oxálico"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué enfermedad neurológica progresiva tiene posible etiología viral en felinos?",
+    "opciones": ["Panleucopenia", "Peritonitis infecciosa felina (PIF)", "Rabia", "Cistitis idiopática"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de etiología presenta la enfermedad de Addison en perros?",
+    "opciones": ["Autoinmune primaria contra la corteza suprarrenal", "Viral", "Parasitológica", "Tóxica"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué neoplasia de etiología viral es común en felinos positivos a FeLV?",
+    "opciones": ["Lipoma", "Linfoma", "Osteosarcoma", "Carcinoma oral"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué condición de etiología alimentaria puede producir osteodistrofia fibrosa en reptiles?",
+    "opciones": ["Falta de calcio y luz UVB", "Infección viral", "Inanición", "Mal manejo del terrario"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué agente etiológico provoca meningoencefalitis por Neospora en perros?",
+    "opciones": ["Hongo sistémico", "Protozoo intracelular Neospora caninum", "Bacteria intracelular", "Toxina de hongos"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué enfermedad puede tener una etiología genética ligada a cromosoma X en gatos machos?",
+    "opciones": ["Pioderma", "Hemofilia tipo A", "Glomerulonefritis", "FIV"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de patología puede generar una neumonía aspirativa por etiología iatrogénica?",
+    "opciones": ["Lesión renal", "Inflamación del colon", "Inflamación pulmonar causada por paso de alimento o vómito a vías respiratorias", "Infección del oído"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tipo de daño puede causar el chocolate en perros por etiología toxicológica?",
+    "opciones": ["Diarrea leve", "Daño hepático leve", "Taquicardia, excitación neurológica y muerte", "Pérdida de pelo"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué condición puede tener etiología multifactorial y presentarse como tos persistente crónica en perros mayores?",
+    "opciones": ["Sarcoma nasal", "Colapso traqueal", "Bronquitis crónica", "Neumonía vírica"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué enfermedad es típica de origen vírico pero requiere coinfección o estrés para desarrollarse clínicamente?",
+    "opciones": ["Parvovirosis", "Peritonitis infecciosa felina (PIF)", "Toxoplasmosis", "Anemia hemolítica"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué manifestación sistémica puede tener etiología secundaria a hipoadrenocorticismo no diagnosticado?",
+    "opciones": ["Bradicardia severa, vómito y colapso", "Ictericia", "Soplo cardíaco leve", "Deshidratación leve"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál es una etiología probable de artritis séptica en cachorros?",
+    "opciones": ["Ejercicio excesivo", "Infección bacteriana hematógena", "Deficiencia de calcio", "Sarcoma óseo"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué patógeno viral tiene implicación etiológica en enfermedades inmunoproliferativas felinas?",
+    "opciones": ["Parvovirus", "Coronavirus felino", "Virus de leucemia felina", "Herpesvirus"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué agente puede causar alteraciones fetales congénitas por etiología viral?",
+    "opciones": ["Parvovirus canino en hembras gestantes", "Rabia", "Leptospira", "Toxoplasma"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué factor etiológico puede provocar una insuficiencia hepática silenciosa hasta etapas avanzadas?",
+    "opciones": ["Daño viral leve", "Infección dental", "Ingesta crónica de medicamentos hepatotóxicos", "Otitis externa"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué significa una etiología epigenética en enfermedades hereditarias?",
+    "opciones": ["No hay relación con la genética", "Hay alteraciones en la expresión de genes sin mutaciones", "Está ligada a infecciones", "Es causada por virus"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué condición se desarrolla en animales con falla en la absorción intestinal crónica?",
+    "opciones": ["Síndrome de mala absorción con etiología gastrointestinal crónica", "Otitis media", "Anemia infecciosa", "Displasia de retina"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué agente etiológico puede desencadenar estomatitis ulcerativa crónica en gatos inmunosuprimidos?",
+    "opciones": ["FeLV o Calicivirus felino", "Demodex", "Toxoplasma gondii", "Brucella canis"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué tipo de trastorno neurológico puede tener etiología tóxica por metales pesados?",
+    "opciones": ["Convulsiones por intoxicación con plomo", "Vómitos", "Tiña", "Pioderma"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué enfermedad de etiología vírica tiene mutaciones internas que determinan su forma seca o húmeda?",
+    "opciones": ["PIF (Peritonitis Infecciosa Felina)", "Toxoplasmosis", "Rabia", "Dermatitis atópica"],
+    "correcta": 0
+  }
+],
+  "avanzado": 
+[
+  {
+    "pregunta": "¿Qué caracteriza una enfermedad con etiología multifactorial y epigenética?",
+    "opciones": ["Tiene causa bacteriana identificada", "Es causada solo por traumatismos", "Resulta de interacción entre genes y ambiente sin alterar el ADN", "Se transmite por contacto directo"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué papel tiene el estrés oxidativo en enfermedades de etiología compleja?",
+    "opciones": ["Estimula el sistema inmune", "Mejora la respuesta celular", "Contribuye a inflamación crónica y daño celular", "Es un agente antimicrobiano"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué condición clínica felina se asocia con mutación del coronavirus felino entérico?",
+    "opciones": ["Rabia", "Panleucopenia", "PIF (Peritonitis Infecciosa Felina)", "FIV"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué mecanismos etiológicos pueden llevar a una encefalopatía hepática?",
+    "opciones": ["Hipoxia cerebral directa", "Infección bacteriana renal", "Acumulación de amoníaco por disfunción hepática", "Toxinas inhaladas"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la etiología más probable en una anemia regenerativa severa con esferocitos en frotis?",
+    "opciones": ["Fallo renal crónico", "Anemia infecciosa", "Anemia hemolítica inmunomediada", "Deficiencia vitamínica"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué agente etiológico puede generar trombocitopenia en infecciones por vectores?",
+    "opciones": ["Leptospira", "Ehrlichia canis", "Campylobacter", "Trichophyton"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué etiología se vincula con la degeneración progresiva de retina en algunas razas caninas?",
+    "opciones": ["Tóxica", "Nutricional", "Genética autosómica recesiva", "Infecciosa viral"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué enfermedad viral puede inducir inmunosupresión severa y daño sistémico multisistémico en caninos?",
+    "opciones": ["Parvovirus", "Moquillo canino", "Brucelosis", "Leptospirosis"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué patrón etiológico se observa en trastornos por deficiencia de enzimas lisosomales?",
+    "opciones": ["Enfermedades congénitas raras con acumulación de metabolitos tóxicos", "Enfermedades inmunológicas comunes", "Trastornos alimentarios leves", "Alergias ambientales"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué componente etiológico está implicado en reacciones adversas graves a medicamentos?",
+    "opciones": ["Hipersensibilidad tipo I o IV", "Deficiencia nutricional", "Infección secundaria", "Deshidratación aguda"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué origen tiene la miopatía degenerativa hereditaria en razas como el Golden Retriever?",
+    "opciones": ["Nutricional", "Metabólico", "Genético autosómico recesivo", "Infeccioso"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué etiología puede generar hipercalcemia paraneoplásica en perros?",
+    "opciones": ["Ingesta excesiva de calcio", "Insuficiencia renal", "Tumores productores de PTH-rp como linfoma", "Traumatismo de glándula paratiroides"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es el agente etiológico de la tuberculosis zoonótica que afecta a bovinos y humanos?",
+    "opciones": ["Mycobacterium bovis", "Leptospira interrogans", "Bacillus anthracis", "Clostridium difficile"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué condición de etiología inmunomediada causa úlceras orales y de piel en perros jóvenes?",
+    "opciones": ["Lupus eritematoso sistémico", "Parvovirosis", "Hipovitaminosis A", "Otitis media"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué enfermedad genética provoca hipopigmentación, sordera y heterocromía en gatos?",
+    "opciones": ["Síndrome vestibular", "Síndrome de Waardenburg", "FIV", "Leucemia felina"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué agente etiológico causa encefalopatía espongiforme bovina (EEB)?",
+    "opciones": ["Bacteria intracelular", "Virus ARN", "Prión", "Parásito intracelular"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la etiología más probable en una miocardiopatía dilatada canina idiopática?",
+    "opciones": ["Toxina alimentaria", "Cardiovirus", "Factores genéticos y nutricionales combinados", "Hipotiroidismo severo"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué condición clínica felina se relaciona con hiperviscosidad sanguínea y linfoma mediastinal?",
+    "opciones": ["Rabia", "Panleucopenia", "FeLV (Leucemia felina)", "Toxoplasmosis"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tipo de enfermedad puede desencadenar un linfoma multicéntrico en caninos?",
+    "opciones": ["Infecciosa", "Genética, inmunológica o viral (retrovirus)", "Tóxica", "Ambiental leve"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué microorganismo actúa como agente etiológico en casos severos de hemorragias intestinales en cerdos jóvenes?",
+    "opciones": ["Clostridium perfringens tipo C", "Escherichia coli", "Mycoplasma suis", "Coronavirus entérico porcino"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué etiología presenta una hiperplasia endometrial quística en perras adultas?",
+    "opciones": ["Infección viral", "Estímulo hormonal prolongado por progesterona", "Alimentación inadecuada", "Trauma genital"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué agente etiológico puede generar diarrea crónica con pérdida de peso en gatos positivos a FIV?",
+    "opciones": ["Coronavirus felino", "Campylobacter jejuni", "Tritrichomonas foetus", "Clostridium tetani"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la causa etiológica de la enfermedad del arañazo del gato en humanos?",
+    "opciones": ["Toxoplasma gondii", "Bartonella henselae", "Salmonella typhimurium", "Staphylococcus aureus"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué enfermedad puede tener etiología neurodegenerativa genética en razas como Border Collie o Labrador?",
+    "opciones": ["Moquillo", "Epilepsia idiopática familiar", "Otitis media bilateral", "Leishmaniasis"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué enfermedad viral puede evolucionar a una forma seca o húmeda, con signos neurológicos o peritonitis?",
+    "opciones": ["Leptospirosis", "PIF (Peritonitis infecciosa felina)", "Calicivirus felino", "Toxoplasmosis"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué factor etiológico puede generar hipoglucemia refractaria en neonatos caninos?",
+    "opciones": ["Frío ambiental", "Hipovitaminosis A", "Deficiencia de enzimas hepáticas o infecciones bacterianas", "Sarna generalizada"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué etiología está presente en la necrosis cortical renal bilateral inducida por toxinas?",
+    "opciones": ["Viral", "Tóxica por medicamentos o plantas", "Genética", "Hipertensiva"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es una condición de etiología mitocondrial que afecta energía celular en animales jóvenes?",
+    "opciones": ["Rabia", "Miopatía mitocondrial", "Neoplasia ósea", "Sarna demodécica"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué papel etiológico cumple la hipoxia en daño cerebral neonatal?",
+    "opciones": ["Estimula actividad nerviosa", "Reduce presión intracraneal", "Genera muerte neuronal y convulsiones", "Previene convulsiones"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué factor etiológico puede predisponer a tromboembolismo pulmonar en animales geriátricos?",
+    "opciones": ["Ejercicio excesivo", "Infecciones parasitarias", "Hipermovilidad intestinal", "Neoplasias o cardiopatías previas"],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué etiología se relaciona con enfermedad inflamatoria intestinal crónica refractaria en gatos?",
+    "opciones": ["Disbiosis, dieta y respuestas inmunes anómalas", "Infección por tiña", "Trauma digestivo", "Alergia a ácaros"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué agente etiológico puede causar lesiones pulmonares fibrinosas en cerdos jóvenes?",
+    "opciones": ["Actinobacillus pleuropneumoniae", "Campylobacter", "Toxoplasma", "Bartonella"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué relación etiológica existe entre el parvovirus felino y el daño intestinal?",
+    "opciones": ["Afecta sistema nervioso", "Destruye células intestinales en división, causando diarrea severa", "Ataca riñones", "Afecta sistema respiratorio"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es una etiología común de colangitis bacteriana en felinos adultos?",
+    "opciones": ["Virus entéricos", "Migración ascendente de bacterias desde el intestino delgado", "Trauma abdominal", "Intoxicación aguda"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué agente etiológico se relaciona con aborto fúngico en yeguas?",
+    "opciones": ["Aspergillus spp.", "Leptospira spp.", "Brucella abortus", "Campylobacter fetus"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué patrón etiológico puede encontrarse en epilepsia idiopática primaria?",
+    "opciones": ["Congénito con patrón familiar sin lesiones estructurales evidentes", "Trauma agudo", "Virus neurotrópico", "Tumor hipofisario"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál es la etiología más probable de un colapso traqueal en perros toy geriátricos?",
+    "opciones": ["Inflamación viral", "Defecto crónico en cartílago traqueal", "Infección bacteriana", "Parásitos"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué agente etiológico causa enfermedad respiratoria hemorrágica viral en conejos domésticos?",
+    "opciones": ["Bordetella bronchiseptica", "Virus hemorrágico del conejo (RHDV)", "Staphylococcus aureus", "Corynebacterium"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál de estas patologías es de etiología genética y afecta el metabolismo del cobre en perros?",
+    "opciones": ["Enfermedad de Wilson", "Displasia renal", "Síndrome vestibular", "Hipocalcemia nutricional"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué agente etiológico se relaciona con infecciones articulares crónicas por mordeduras?",
+    "opciones": ["Pasteurella multocida", "Salmonella", "Giardia", "Cryptococcus"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál es una condición de etiología idiopática que afecta a perros grandes con atrofia muscular progresiva?",
+    "opciones": ["Miopatía inflamatoria", "Miastenia gravis", "Polineuropatía degenerativa hereditaria", "Leptospirosis crónica"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tipo de daño etiológico se presenta en intoxicación por etilenglicol?",
+    "opciones": ["Hepático", "Cardiaco", "Renal severo con formación de cristales de oxalato", "Cutáneo"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué etiología puede provocar hipoglucemia refractaria durante sepsis neonatal?",
+    "opciones": ["Falta de calcio", "Infección sistémica con consumo energético excesivo", "Deshidratación", "Deficiencia vitamínica"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el agente etiológico del linfoma de células T inducido por retrovirus en bovinos?",
+    "opciones": ["Mycoplasma bovis", "Virus de leucosis bovina (BLV)", "Brucella abortus", "Clostridium tetani"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué condición tiene etiología congénita con alteración del cierre del paladar?",
+    "opciones": ["Estenosis laríngea", "Paladar hendido", "Estreñimiento idiopático", "Megaesófago"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué agente etiológico se asocia con abscesos hepáticos en infecciones entéricas bacterianas en terneros?",
+    "opciones": ["Fusobacterium necrophorum", "Giardia spp.", "Streptococcus agalactiae", "Cryptococcus"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué etiología se relaciona con miocardiopatía felina secundaria a hipertiroidismo?",
+    "opciones": ["Bacteriana", "Autoinmune", "Endocrina", "Tóxica"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué patología tiene etiología por fallo de absorción de cobalamina en gatos con EII?",
+    "opciones": ["Anemia regenerativa", "Anemia megaloblástica", "Anemia por pérdida", "Anemia inmunomediada"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué enfermedad neurológica tiene etiología neurodegenerativa en caninos geriátricos?",
+    "opciones": ["Síndrome de disfunción cognitiva canina", "Epilepsia postraumática", "Meningoencefalitis viral", "Rabia"],
+    "correcta": 0
+  }
+]
+}

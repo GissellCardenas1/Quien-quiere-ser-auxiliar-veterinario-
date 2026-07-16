@@ -1,0 +1,1907 @@
+{
+    "fácil": [
+  {
+  "bienestar_animal": {
+    "facil": [
+      {
+        "pregunta": "¿Qué es el bienestar animal?",
+        "opciones": [
+          "La salud económica de los dueños",
+          "La belleza del animal",
+          "El estado físico y mental del animal en relación con su entorno",
+          "La cantidad de alimento que recibe"
+        ],
+        "correcta": 2
+      },
+      {
+        "pregunta": "¿Cuántas libertades del bienestar animal existen según la OIE?",
+        "opciones": ["3", "4", "5", "6"],
+        "correcta": 2
+      },
+      {
+        "pregunta": "¿Cuál de las siguientes NO es una de las 5 libertades del bienestar animal?",
+        "opciones": [
+          "Libertad de sed y hambre",
+          "Libertad de elegir dueño",
+          "Libertad de miedo y angustia",
+          "Libertad de expresar su comportamiento natural"
+        ],
+        "correcta": 1
+      },
+      {
+        "pregunta": "¿Qué significa la libertad de expresar un comportamiento natural?",
+        "opciones": [
+          "Que el animal puede correr, jugar y relacionarse con su especie",
+          "Que debe obedecer siempre",
+          "Que no debe vivir con humanos",
+          "Que puede vivir en la calle"
+        ],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Cuál es un ejemplo de libertad de dolor, lesión o enfermedad?",
+        "opciones": [
+          "Tener agua limpia disponible",
+          "Acceso a atención veterinaria cuando se necesita",
+          "Poder estar solo en casa",
+          "Tener una correa bonita"
+        ],
+        "correcta": 1
+      },
+      {
+        "pregunta": "¿Qué debe tener el lugar donde vive un animal para garantizar su bienestar?",
+        "opciones": [
+          "Decoración bonita",
+          "Alfombra y TV",
+          "Comodidad, seguridad, limpieza y espacio suficiente",
+          "Cámara de vigilancia"
+        ],
+        "correcta": 2
+      },
+      {
+        "pregunta": "¿Qué es el maltrato animal?",
+        "opciones": [
+          "No dejarlo dormir en la cama",
+          "No vestirlo",
+          "Causar dolor físico o emocional, o no atender sus necesidades básicas",
+          "Cortarle el pelo regularmente"
+        ],
+        "correcta": 2
+      },
+      {
+        "pregunta": "¿Cuál de las siguientes acciones promueve el bienestar animal?",
+        "opciones": [
+          "Golpearlo cuando se porta mal",
+          "Ignorarlo todo el día",
+          "Jugar con él y llevarlo al veterinario",
+          "Amarrarlo todo el día en el patio"
+        ],
+        "correcta": 2
+      },
+      {
+        "pregunta": "¿Por qué es importante permitir que un perro huela y explore durante un paseo?",
+        "opciones": [
+          "Porque así se ensucia más",
+          "Porque fortalece el vínculo con su entorno y reduce el estrés",
+          "Porque camina más lento",
+          "Porque hace más ejercicio"
+        ],
+        "correcta": 1
+      },
+      {
+        "pregunta": "¿Qué tipo de castigo puede afectar negativamente el bienestar animal?",
+        "opciones": [
+          "Castigo físico y gritos",
+          "Reforzamiento positivo",
+          "Recompensas y caricias",
+          "Ignorar una conducta leve"
+        ],
+        "correcta": 0
+      },
+
+      {
+        "pregunta": "¿Qué significa la libertad de sed y hambre?",
+        "opciones": [
+          "Tener acceso constante a agua limpia y comida adecuada",
+          "Tener juguetes",
+          "Tener casa con jardín",
+          "Comer una vez por semana"
+        ],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Es una buena práctica dejar a un perro solo todo el día sin estimulación?",
+        "opciones": [
+          "Sí, así aprende a ser independiente",
+          "No, puede generar ansiedad y aburrimiento",
+          "Sí, para que no moleste",
+          "Depende del tamaño del perro"
+        ],
+        "correcta": 1
+      },
+      {
+        "pregunta": "¿Qué rol cumple el auxiliar veterinario en el bienestar animal?",
+        "opciones": [
+          "Solo ayuda a bañar",
+          "Nada, ese es trabajo del médico",
+          "Apoyar la salud física, emocional y ambiental del paciente",
+          "Vender medicamentos"
+        ],
+        "correcta": 2
+      },
+      {
+        "pregunta": "¿Qué es la eutanasia humanitaria?",
+        "opciones": [
+          "Un castigo",
+          "Un tratamiento médico común",
+          "Un procedimiento para evitar el sufrimiento en casos terminales",
+          "Una forma de abandono"
+        ],
+        "correcta": 2
+      },
+      {
+        "pregunta": "¿Qué comportamiento indica que un animal no está bien emocionalmente?",
+        "opciones": [
+          "Duerme bien",
+          "Busca caricias",
+          "Se esconde o muestra agresividad constante",
+          "Come sus croquetas"
+        ],
+        "correcta": 2
+      },
+      {
+        "pregunta": "¿Es correcto dejar a un perro encadenado todo el día como método de control?",
+        "opciones": [
+          "Sí, si es por seguridad",
+          "Solo si el patio es grande",
+          "No, afecta su bienestar físico y emocional",
+          "Sí, si tiene sombra"
+        ],
+        "correcta": 2
+      },
+      {
+        "pregunta": "¿Qué significa el bienestar emocional del animal?",
+        "opciones": [
+          "Tener la mejor cama posible",
+          "Estar libre de miedo, ansiedad y estrés",
+          "Jugar mucho",
+          "Tener ropa bonita"
+        ],
+        "correcta": 1
+      },
+      {
+        "pregunta": "¿Qué significa tener empatía hacia los animales?",
+        "opciones": [
+          "Ponerles música",
+          "Entender y respetar sus necesidades y emociones",
+          "Enseñarles trucos",
+          "No dejarlos dormir contigo"
+        ],
+        "correcta": 1
+      },
+      {
+        "pregunta": "¿Qué es un enriquecimiento ambiental?",
+        "opciones": [
+          "Un tipo de medicina",
+          "Colocar música",
+          "Incorporar estímulos físicos, mentales y sociales para mejorar la calidad de vida",
+          "Cambiarle la comida"
+        ],
+        "correcta": 2
+      },
+      {
+        "pregunta": "¿Qué puede causar el uso constante de castigos negativos?",
+        "opciones": [
+          "Mayor obediencia",
+          "Daño emocional y conductas no deseadas",
+          "Más cariño",
+          "Nada, es normal"
+        ],
+        "correcta": 1   
+  },
+  {
+    "pregunta": "¿Por qué es importante el contacto social en los animales domésticos?",
+    "opciones": [
+      "Para que aprendan a pelear",
+      "Para reforzar vínculos y reducir el estrés",
+      "Para que estén ocupados",
+      "Porque es obligatorio por ley"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es una señal de bienestar en un gato doméstico?",
+    "opciones": [
+      "Orejas hacia atrás y cuerpo tenso",
+      "Ronroneo relajado y cuerpo estirado",
+      "Maullidos constantes",
+      "Rasguños por toda la casa"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué significa que un animal tenga bienestar físico?",
+    "opciones": [
+      "Está limpio siempre",
+      "Tiene todos sus órganos visibles",
+      "Goza de buena salud y nutrición",
+      "No necesita moverse"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes acciones representa una violación del bienestar animal?",
+    "opciones": [
+      "Dar alimento diario",
+      "Ejercicio regular",
+      "Privarlo de atención médica",
+      "Proporcionar descanso adecuado"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué comportamiento refleja bienestar emocional en un perro?",
+    "opciones": [
+      "Tiembla cuando lo saludan",
+      "Se esconde al escuchar sonidos",
+      "Salta y mueve la cola con alegría",
+      "No reacciona nunca"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué rol cumple el juego en el bienestar de un animal doméstico?",
+    "opciones": [
+      "Solo los entretiene",
+      "Fortalece el vínculo humano-animal y reduce el estrés",
+      "Es un premio extra",
+      "Causa hiperactividad"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué representa una rutina diaria para los animales?",
+    "opciones": [
+      "Aburrimiento garantizado",
+      "Pérdida de libertad",
+      "Seguridad, confianza y estabilidad emocional",
+      "Cambio constante"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué debe hacer un tutor responsable si nota un cambio repentino en el comportamiento de su mascota?",
+    "opciones": [
+      "Ignorarlo",
+      "Esperar a que se pase solo",
+      "Regañarlo",
+      "Consultar al veterinario"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Cuál es un derecho fundamental de todo animal?",
+    "opciones": [
+      "Viajar por el mundo",
+      "Ser cuidado, respetado y protegido del sufrimiento",
+      "Ser famoso",
+      "No recibir visitas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué indica el lenguaje corporal relajado de un animal?",
+    "opciones": [
+      "Está aburrido",
+      "Está enfermo",
+      "Tiene bienestar y confianza",
+      "Está triste"
+    ],
+    "correcta": 2
+  },
+
+  {
+    "pregunta": "¿Por qué no es recomendable usar bozal prolongadamente sin necesidad médica?",
+    "opciones": [
+      "Porque se ensucia",
+      "Porque es incómodo",
+      "Porque limita la comunicación y puede generar ansiedad",
+      "Porque da mal aspecto"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué debe tener un enriquecimiento ambiental efectivo?",
+    "opciones": [
+      "Luces de colores",
+      "Estímulos físicos, mentales y sociales adaptados al animal",
+      "Ruido constante",
+      "Decoración moderna"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué acción fomenta el bienestar en gatos?",
+    "opciones": [
+      "Obligarlos a jugar",
+      "Proporcionar rascadores y zonas en altura",
+      "Bañarlos diario",
+      "Dejarlos sin alimento por horas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué es el miedo crónico en animales?",
+    "opciones": [
+      "Temor puntual a un objeto",
+      "Miedo leve que desaparece solo",
+      "Ansiedad constante que afecta su salud y comportamiento",
+      "Una fobia natural sin consecuencias"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué es el bienestar sensorial?",
+    "opciones": [
+      "Ver televisión",
+      "Evitar estímulos dañinos y ofrecer sensaciones positivas",
+      "Hacer masajes",
+      "Tener música alta"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué es una zona de confort para un animal?",
+    "opciones": [
+      "Un lugar bonito",
+      "Un espacio donde se sienta seguro, cómodo y libre de amenazas",
+      "Su camita únicamente",
+      "Una zona con juguetes costosos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué herramienta puede mejorar el bienestar emocional de un animal hospitalizado?",
+    "opciones": [
+      "Ruidos fuertes",
+      "Jaula sin contacto",
+      "Feromonas o estímulos calmantes",
+      "Prohibir visitas"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es un signo claro de bienestar en un gato después del baño?",
+    "opciones": [
+      "Se esconde por horas",
+      "Se acicala tranquilo y ronronea",
+      "Muerde todo",
+      "Vocaliza intensamente"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Por qué es importante la atención veterinaria regular?",
+    "opciones": [
+      "Porque es obligación legal",
+      "Porque el médico lo exige",
+      "Porque previene enfermedades y mejora su bienestar general",
+      "Porque sube el costo del animal"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué promueve un entorno libre de miedo y estrés?",
+    "opciones": [
+      "Conductas agresivas",
+      "Más enfermedades",
+      "Bienestar emocional y físico",
+      "Tristeza prolongada"
+    ],
+    "correcta": 2
+  }
+],
+  "intermedio": [
+    {
+    "pregunta": "¿Qué acción puede generar una alteración en el bienestar emocional de un animal hospitalizado?",
+    "opciones": [
+      "Ofrecer feromonas sintéticas",
+      "Prohibir completamente el contacto humano",
+      "Reproducir música relajante",
+      "Permitir juguetes dentro de la jaula"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo principal del enriquecimiento ambiental?",
+    "opciones": [
+      "Hacer más bonito el entorno",
+      "Estimular los sentidos y reducir el estrés",
+      "Reducir el apetito",
+      "Evitar que el animal duerma"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué elemento de la imagen representa una conducta de evitación?",
+    "imagen": "conducta-evitacion-gato.jpg",
+    "opciones": [
+      "Mirada directa y pupilas dilatadas",
+      "Orejas hacia adelante y cuerpo relajado",
+      "Postura encorvada, cola hacia abajo y mirada evasiva",
+      "Lengua afuera y cuerpo activo"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tipo de enriquecimiento incluye ofrecer distintos aromas y texturas?",
+    "opciones": [
+      "Social",
+      "Cognitivo",
+      "Sensorial",
+      "Alimentario"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes comportamientos es una señal de estrés crónico en perros?",
+    "opciones": [
+      "Dormir profundamente",
+      "Evitar el contacto visual y lamerse excesivamente",
+      "Comer con apetito",
+      "Jugar con otros perros"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué representa la postura del animal en la imagen?",
+    "imagen": "estres-lengua-ladra.jpg",
+    "opciones": [
+      "Animal feliz",
+      "Ansiedad o sobreexcitación",
+      "Comportamiento juguetón",
+      "Indiferencia total"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Por qué es importante permitir que los animales interactúen entre sí?",
+    "opciones": [
+      "Para que aprendan a pelear",
+      "Para reducir el apetito",
+      "Para fortalecer vínculos y bienestar emocional",
+      "Para jugar siempre"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es el impacto del aislamiento prolongado en un perro sociable?",
+    "opciones": [
+      "Mejora su comportamiento",
+      "Desarrolla frustración y ansiedad",
+      "Aumenta su energía positiva",
+      "Aprende a vivir en calma"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de juguete mejora el bienestar mental y reduce la ansiedad por separación?",
+    "opciones": [
+      "Ropa con olor del tutor",
+      "Pelotas simples",
+      "Juguetes de goma sin olor",
+      "Almohadas grandes"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué representa esta conducta en un felino?",
+    "imagen": "gato-orejas-planas.jpg",
+    "opciones": [
+      "Relajación total",
+      "Comportamiento juguetón",
+      "Defensividad, miedo o agresividad",
+      "Conducta maternal"
+    ],
+    "correcta": 2
+  },
+
+  {
+    "pregunta": "¿Cuál es el efecto del miedo crónico en animales domésticos?",
+    "opciones": [
+      "Mayor vínculo con el tutor",
+      "Hiperactividad constante",
+      "Baja inmunidad y problemas de conducta",
+      "Aumento de peso"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué estrategia favorece un entorno sin miedo en un centro veterinario?",
+    "opciones": [
+      "Colocar música de fondo suave",
+      "Usar bozales sin razón",
+      "Mantener luces muy brillantes",
+      "Aislar al animal completamente"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué significa que un perro tenga la cola entre las patas y orejas hacia atrás?",
+    "opciones": [
+      "Alegría",
+      "Dolor físico",
+      "Confianza",
+      "Miedo o inseguridad"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué refleja un perro con postura corporal tensa y pupilas dilatadas?",
+    "opciones": [
+      "Ansiedad o amenaza percibida",
+      "Relajación",
+      "Aburrimiento",
+      "Cansancio"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué indica un comportamiento repetitivo como girar en círculos constantemente?",
+    "opciones": [
+      "Alegría",
+      "Aburrimiento",
+      "Trastorno de conducta por estrés o ansiedad",
+      "Ejercicio normal"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué se recomienda hacer si un perro se muestra ansioso durante la peluquería?",
+    "opciones": [
+      "Amarrarlo más fuerte",
+      "Ignorarlo",
+      "Aplicar pausa positiva, contacto tranquilo o feromonas",
+      "Rociarlo con agua"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué muestra esta imagen en relación al bienestar?",
+    "imagen": "jaula-sin-estimulos.jpg",
+    "opciones": [
+      "Bienestar enriquecido",
+      "Ambiente óptimo",
+      "Privación sensorial y estrés por entorno pobre",
+      "Área de descanso ideal"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué significa que un animal tenga libertad para expresar comportamientos normales?",
+    "opciones": [
+      "Que ladre sin parar",
+      "Que pueda interactuar, explorar y jugar según su especie",
+      "Que no obedezca al tutor",
+      "Que viva libre sin vacunas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es una forma de medir el bienestar animal?",
+    "opciones": [
+      "Evaluar signos clínicos, conducta, y condiciones del entorno",
+      "Revisar solo la alimentación",
+      "Preguntar al dueño",
+      "Ver si se baña frecuentemente"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué significa que un animal esté en homeostasis emocional?",
+    "opciones": [
+      "Tiene buena digestión",
+      "Se encuentra en equilibrio emocional y estable",
+      "No se mueve mucho",
+      "Está cansado"
+    ],
+    "correcta": 1
+  },
+
+  {
+    "pregunta": "¿Qué acción favorece el bienestar emocional durante la atención veterinaria?",
+    "opciones": [
+      "Revisarlo rápidamente sin contacto",
+      "Permitir que se esconda si lo necesita",
+      "Usar pinzas para sujetarlo",
+      "Atenderlo con bozales todo el tiempo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de interacción es más favorable para animales nerviosos?",
+    "opciones": [
+      "Contactos rápidos y sobreestimulantes",
+      "Movimientos bruscos para controlarlos",
+      "Abordajes suaves, respetuosos y pausados",
+      "Aislamiento completo"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué consecuencia puede tener el uso excesivo de castigos en animales?",
+    "opciones": [
+      "Mejor obediencia",
+      "Mayor bienestar",
+      "Ansiedad, miedo y conductas agresivas",
+      "Reducción del apetito"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué indica un bostezo frecuente en un perro en un entorno nuevo?",
+    "opciones": [
+      "Está aburrido",
+      "Se está quedando dormido",
+      "Muestra un signo de estrés o incomodidad",
+      "Tiene hambre"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué muestra esta imagen?",
+    "imagen": "lenguaje-canino-sumision.jpg",
+    "opciones": [
+      "Juego social",
+      "Estado relajado",
+      "Lenguaje corporal de sumisión o calma",
+      "Dolor físico evidente"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué conducta del perro en la imagen puede indicar miedo?",
+    "imagen": "perro-escondido-debajo.jpg",
+    "opciones": [
+      "Busca sombra",
+      "Está cansado",
+      "Está explorando",
+      "Está mostrando temor y evasión"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué debe ofrecer un entorno óptimo para promover el bienestar animal?",
+    "opciones": [
+      "Alimento y agua únicamente",
+      "Interacción social, juego, descanso y salud",
+      "Juguetes costosos solamente",
+      "Música alta para estimulación"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la importancia del juego controlado entre perros?",
+    "opciones": [
+      "Para que marquen territorio",
+      "Para gastar energía sin control",
+      "Para desarrollar habilidades sociales y reducir estrés",
+      "Para mostrar dominancia"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué se recomienda cuando un animal muestra miedo ante estímulos visuales como cámaras o celulares?",
+    "opciones": [
+      "Obligarlo a olerlos",
+      "Castigarlo por miedo",
+      "Retirar el estímulo y realizar desensibilización gradual",
+      "Ignorar el miedo"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué indica un cuerpo rígido y cola elevada en un perro ante otro?",
+    "opciones": [
+      "Juego",
+      "Relajación",
+      "Alerta o posible conflicto",
+      "Deseo de dormir"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué conducta muestra un animal que experimenta ansiedad por separación?",
+    "opciones": [
+      "Duerme más",
+      "Come sin parar",
+      "Destruye objetos y vocaliza en ausencia del tutor",
+      "Bebe mucha agua"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué factor ambiental ayuda a reducir el miedo durante procedimientos veterinarios?",
+    "opciones": [
+      "Luces blancas intensas",
+      "Piso resbaloso",
+      "Aromas relajantes y superficie antideslizante",
+      "Temperatura baja"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué muestra la siguiente imagen sobre comunicación felina?",
+    "imagen": "gato-cola-abajo-cuerpo.jpg",
+    "opciones": [
+      "Gato feliz",
+      "Actitud neutral",
+      "Inseguridad o temor",
+      "Estado de alerta positivo"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué se logra con el uso adecuado del refuerzo positivo?",
+    "opciones": [
+      "Conductas deseadas se repiten y se mejora el vínculo humano-animal",
+      "El animal se vuelve dependiente",
+      "Se castigan errores",
+      "Obediencia por miedo"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál es un ejemplo de enriquecimiento alimentario?",
+    "opciones": [
+      "Comedero de acero normal",
+      "Esconder comida en juguetes interactivos",
+      "Ofrecer solo croquetas",
+      "Quitar alimento si no obedece"
+    ],
+    "correcta": 1
+  },
+
+  {
+    "pregunta": "¿Qué puede generar frustración en un animal hospitalizado?",
+    "opciones": [
+      "Ruidos relajantes",
+      "Presencia del tutor",
+      "Falta de estimulación y control del entorno",
+      "Terapia con feromonas"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué representa esta imagen en el contexto de bienestar?",
+    "imagen": "perro-mirando-esquina.jpg",
+    "opciones": [
+      "Exploración",
+      "Juego solitario",
+      "Indicador de miedo o evasión",
+      "Descanso activo"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué indica un gato con la cola inflada y cuerpo arqueado?",
+    "opciones": [
+      "Agresión controlada",
+      "Juego intenso",
+      "Miedo y actitud defensiva",
+      "Alegría intensa"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué opción fomenta el respeto por el espacio personal del animal?",
+    "opciones": [
+      "Acariciarlo todo el tiempo",
+      "Permitirle acercarse cuando se sienta seguro",
+      "Tomarlo sin aviso",
+      "Usar correa todo el día"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué comportamiento puede indicar estrés leve?",
+    "opciones": [
+      "Lengua afuera, bostezos, lamidos excesivos",
+      "Dormir profundamente",
+      "Apetito elevado",
+      "Rechazo al alimento en todo momento"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué muestra esta imagen sobre conducta de bienestar?",
+    "imagen": "perro-acurrucado-relajado.jpg",
+    "opciones": [
+      "Dolor abdominal",
+      "Descanso placentero y relajado",
+      "Hipotermia",
+      "Ansiedad intensa"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es un riesgo de no permitir a un animal expresarse libremente?",
+    "opciones": [
+      "No hay consecuencias",
+      "Se vuelve dependiente del tutor",
+      "Desarrollo de frustración, miedo y conductas compulsivas",
+      "Mayor obediencia"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes no es un pilar del bienestar animal?",
+    "opciones": [
+      "Buena salud",
+      "Libertad de dolor",
+      "Maltrato regulado",
+      "Ambiente adecuado"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué se observa si un animal se siente inseguro en su entorno?",
+    "opciones": [
+      "Busca rincones, evita interacción o tiembla",
+      "Come más",
+      "Juega intensamente",
+      "Vocaliza en tono bajo"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál es la consecuencia de manipular bruscamente a un animal durante su baño?",
+    "opciones": [
+      "Aumenta el apego",
+      "Se seca más rápido",
+      "Genera miedo y estrés en futuras manipulaciones",
+      "Reduce parásitos"
+    ],
+    "correcta": 2
+  },
+
+  {
+    "pregunta": "¿Qué indica un gato que se frota contra las piernas del tutor y ronronea?",
+    "opciones": [
+      "Busca huir",
+      "Está molesto",
+      "Busca contacto y muestra bienestar",
+      "Tiene hambre exclusivamente"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué opción mejora el bienestar en jaulas clínicas?",
+    "opciones": [
+      "Incluir rascadores, escondites y aromas conocidos",
+      "Luces fuertes todo el tiempo",
+      "Cierre hermético",
+      "Aislamiento completo"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál es el impacto de ambientes monótonos y sin estímulos?",
+    "opciones": [
+      "Mayor descanso",
+      "Menos agresividad",
+      "Desarrollo de apatía, ansiedad o depresión",
+      "Aprendizaje rápido"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué muestra esta imagen?",
+    "imagen": "perro-en-camilla-con-juguete.jpg",
+    "opciones": [
+      "Bienestar emocional en entorno médico",
+      "Falta de cooperación",
+      "Dolor agudo",
+      "Rabia"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál es la mejor manera de acercarse a un animal temeroso?",
+    "opciones": [
+      "Agacharse, evitar contacto visual y dejar que se acerque por sí solo",
+      "Caminar rápidamente hacia él",
+      "Sujetarlo sin aviso",
+      "Acariciarlo desde arriba"
+    ],
+    "correcta": 0
+  }
+],
+  "difícil": [
+   {
+    "pregunta": "¿Cuál de las siguientes conductas es un signo de distrés en animales alojados en ambientes clínicos?",
+    "opciones": [
+      "Movimiento constante de la cola",
+      "Fijar la mirada al personal",
+      "Aseo compulsivo o automutilación",
+      "Jadeo leve durante el juego"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué documento establece los principios fundamentales del bienestar animal en Colombia?",
+    "opciones": [
+      "Código Civil",
+      "Ley 1774 de 2016",
+      "Ley 100 de 1993",
+      "Ley 84 de 1989"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué implicación tiene la privación prolongada de interacción social en perros adultos?",
+    "opciones": [
+      "Mejora la atención al tutor",
+      "Favorece la independencia emocional",
+      "Desencadena problemas emocionales y de comportamiento",
+      "Reduce niveles de cortisol"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué efecto tiene un enriquecimiento ambiental mal planificado?",
+    "opciones": [
+      "Fortalece la estimulación",
+      "Genera sobreestimulación y frustración",
+      "Reduce conductas repetitivas",
+      "No afecta significativamente"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué condición fisiológica puede resultar del estrés crónico en gatos?",
+    "opciones": [
+      "Colitis",
+      "Otitis externa",
+      "Sarna sarcóptica",
+      "Hipotiroidismo"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué órgano está más afectado cuando un animal sufre ansiedad prolongada?",
+    "opciones": [
+      "Riñón",
+      "Sistema nervioso central",
+      "Hígado",
+      "Páncreas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es una consecuencia de aplicar castigo físico durante la socialización temprana?",
+    "opciones": [
+      "Vínculo más fuerte con el tutor",
+      "Mayor docilidad",
+      "Apego inseguro y miedo aprendido",
+      "Reducción de la agresividad"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tipo de enriquecimiento está diseñado para estimular la resolución de problemas?",
+    "opciones": [
+      "Sensorial",
+      "Cognitivo",
+      "Social",
+      "Físico"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes opciones es un indicador negativo en evaluación de bienestar en un refugio?",
+    "opciones": [
+      "Conductas afiliativas entre animales",
+      "Presencia de vocalizaciones excesivas",
+      "Interacciones positivas con cuidadores",
+      "Aseo frecuente"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué efecto tiene la habituación al entorno clínico si se realiza correctamente?",
+    "opciones": [
+      "Aumenta la agresividad por sobreexposición",
+      "Reduce la percepción de amenaza",
+      "Genera insensibilidad generalizada",
+      "Altera el umbral de dolor"
+    ],
+    "correcta": 1
+  },
+
+  {
+    "pregunta": "¿Cuál es el objetivo de los planes de bienestar individualizados en animales institucionalizados?",
+    "opciones": [
+      "Reducir el presupuesto en atención",
+      "Homogeneizar las rutinas",
+      "Atender las necesidades específicas del individuo",
+      "Evitar la adopción"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué factor puede distorsionar la evaluación objetiva del bienestar en felinos?",
+    "opciones": [
+      "La raza",
+      "La alimentación balanceada",
+      "Su tendencia al ocultamiento",
+      "El pelaje largo"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué escala se utiliza frecuentemente para evaluar dolor en animales como parte del bienestar?",
+    "opciones": [
+      "Escala de Glasgow",
+      "Escala de Apgar",
+      "Escala de Likert",
+      "Escala de McGill"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál es el mejor momento para introducir feromonas sintéticas en un entorno hospitalario?",
+    "opciones": [
+      "Después de signos evidentes de estrés",
+      "Durante un procedimiento doloroso",
+      "Antes del ingreso del animal al espacio",
+      "Al final del día clínico"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué acción del personal clínico puede reforzar la ansiedad anticipatoria?",
+    "opciones": [
+      "Utilizar el mismo uniforme siempre",
+      "Acariciar al paciente al llegar",
+      "Hablar en tono alto y gesticular rápidamente",
+      "Dejarlo esperar en la sala en silencio"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué método no invasivo puede utilizarse para detectar niveles de cortisol en animales?",
+    "opciones": [
+      "Biopsia hepática",
+      "Prueba de saliva",
+      "Muestra de médula ósea",
+      "Muestra de orina tras suero"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué protocolo es adecuado para evaluar bienestar en entornos rurales?",
+    "opciones": [
+      "Welfare Quality®",
+      "Hazard Analysis Protocol",
+      "VIGIA-ANIMAL",
+      "ISO 9001 Animal"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué técnica ayuda a evaluar si un entorno genera ansiedad en gatos?",
+    "opciones": [
+      "Examen radiológico",
+      "Etograma felino",
+      "Índice de masa corporal",
+      "Evaluación de ciclo estral"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué aspecto puede ser subestimado en el bienestar de animales geriátricos?",
+    "opciones": [
+      "Alimentación",
+      "Vacunación",
+      "Dolor crónico y movilidad",
+      "Tamaño del bebedero"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es una de las cinco libertades del bienestar animal?",
+    "opciones": [
+      "Libertad para reproducirse",
+      "Libertad para trabajar",
+      "Libertad para expresar comportamientos normales",
+      "Libertad de competencia por recursos"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es una consecuencia de ignorar las señales sutiles de estrés en un animal?",
+    "opciones": [
+      "Mejor adaptación al entorno",
+      "Desensibilización saludable",
+      "Evolución hacia conductas agresivas o patológicas",
+      "Mayor sociabilidad"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es el efecto de la imprevisibilidad en rutinas para animales institucionalizados?",
+    "opciones": [
+      "Reduce la ansiedad",
+      "Fomenta flexibilidad",
+      "Incrementa el estrés",
+      "Aumenta la interacción social"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué comportamiento en gatos podría ser confundido con agresividad pero suele estar relacionado con dolor o miedo?",
+    "opciones": [
+      "Ronroneo",
+      "Bufido con retirada",
+      "Lamido constante",
+      "Juego intenso"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el principal objetivo de la evaluación etológica clínica?",
+    "opciones": [
+      "Enseñar comandos",
+      "Diagnosticar enfermedades infecciosas",
+      "Interpretar conductas en relación al bienestar",
+      "Detectar errores del tutor"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tipo de enriquecimiento ayuda a prevenir la frustración por confinamiento?",
+    "opciones": [
+      "Alimentario e interactivo",
+      "Visual solamente",
+      "Auditivo y químico únicamente",
+      "De temperatura"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué implica el principio de 'trato humanitario' según la Ley 1774?",
+    "opciones": [
+      "Evitar solo la muerte",
+      "Proveer cuidados, manejo sin crueldad y respeto",
+      "Esterilizar masivamente",
+      "Educar solo a los propietarios"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué signo clínico puede indicar estrés crónico en aves ornamentales?",
+    "opciones": [
+      "Pico brillante",
+      "Color intenso del plumaje",
+      "Arrancamiento de plumas",
+      "Mayor canto"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes no es un principio básico del bienestar animal?",
+    "opciones": [
+      "Ausencia de hambre",
+      "Ausencia de miedo",
+      "Dominancia del tutor",
+      "Expresión de conducta natural"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué aspecto puede aumentar la vulnerabilidad emocional en animales jóvenes mal socializados?",
+    "opciones": [
+      "Alta exposición sensorial",
+      "Falta de interacción temprana con humanos y entornos",
+      "Nutrición controlada",
+      "Ejercicio diario"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la finalidad de un protocolo de ingreso en centros de atención animal?",
+    "opciones": [
+      "Aplicar vacunas de inmediato",
+      "Clasificar estatus económico del tutor",
+      "Detectar condiciones médicas y emocionales desde el inicio",
+      "Aumentar la estadía"
+    ],
+    "correcta": 2
+  },
+
+  {
+    "pregunta": "¿Qué rol cumple el etólogo clínico en relación al bienestar?",
+    "opciones": [
+      "Modificar el entorno únicamente",
+      "Educar solo al tutor",
+      "Intervenir la conducta con base científica para mejorar calidad de vida",
+      "Aplicar vacunas conductuales"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué condición no deseada puede desarrollarse por falta de estimulación sensorial?",
+    "opciones": [
+      "Miopía",
+      "Comportamientos estereotipados",
+      "Hiperactividad muscular",
+      "Miasis"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes elementos se considera parte del 'ambiente positivo' para perros hospitalizados?",
+    "opciones": [
+      "Alfombra electrificada para calor",
+      "Ruido blanco, feromonas y rutina estable",
+      "Luces LED permanentes",
+      "Música a alto volumen"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es un signo de adaptación positiva al entorno?",
+    "opciones": [
+      "Inmovilidad total",
+      "Hipervigilancia constante",
+      "Conductas exploratorias y alimenticias normales",
+      "Ladrido continuo"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué riesgo existe al usar castigos verbales o físicos durante el cepillado?",
+    "opciones": [
+      "El animal mejora su postura",
+      "Se relaja más rápido",
+      "Desarrolla rechazo a la manipulación",
+      "Se fortalece el vínculo"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué alternativa es adecuada para fomentar autonomía en animales institucionalizados?",
+    "opciones": [
+      "Proporcionar opciones de interacción y descanso",
+      "Limitar la actividad física",
+      "Cambiar de espacio cada hora",
+      "Exponer a múltiples humanos constantemente"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué tipo de estrés suele desarrollarse cuando no hay control sobre el entorno?",
+    "opciones": [
+      "Estrés motivacional",
+      "Estrés eustrés",
+      "Estrés aprendido",
+      "Estrés por impotencia (indefensión aprendida)"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Cuál es una conducta indicadora de frustración en perros confinados?",
+    "opciones": [
+      "Olfateo del entorno",
+      "Juego con otros",
+      "Saltos repetitivos contra la puerta",
+      "Movimientos lentos"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué acción fomenta el bienestar emocional al administrar medicamentos orales?",
+    "opciones": [
+      "Esconder la pastilla en premios",
+      "Forzar con jeringa siempre",
+      "Evitar contacto visual",
+      "No alimentar después"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué indicador fisiológico está directamente relacionado con estados de miedo y ansiedad en animales?",
+    "opciones": [
+      "Incremento de glucosa",
+      "Disminución de insulina",
+      "Aumento de cortisol",
+      "Aumento de progesterona"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué impacto tiene la presencia del tutor en la consulta veterinaria?",
+    "opciones": [
+      "Interrumpe el diagnóstico",
+      "Reduce el nivel de estrés y mejora la respuesta",
+      "Aumenta la hiperactividad",
+      "Genera distracción innecesaria"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué estrategia mejora la tolerancia a procedimientos invasivos en pacientes sensibles?",
+    "opciones": [
+      "Habituación y entrenamiento cooperativo previo",
+      "Aumento del castigo verbal",
+      "Cambios constantes de personal",
+      "Reducción de contacto físico"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál es la principal diferencia entre estrés agudo y crónico?",
+    "opciones": [
+      "El agudo es negativo y el crónico positivo",
+      "El crónico tiene efectos duraderos y fisiológicos perjudiciales",
+      "El agudo causa infecciones",
+      "El crónico siempre es beneficioso"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de luz es más adecuada para ambientes de recuperación animal?",
+    "opciones": [
+      "Blanca intensa permanente",
+      "Luz cálida regulable y con ciclos naturales",
+      "Luz azul constante",
+      "Luz roja para visión nocturna"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué especie tiende a ocultar el dolor, dificultando su evaluación?",
+    "opciones": [
+      "Perros",
+      "Gatos",
+      "Conejos",
+      "Hurones"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué comportamiento puede surgir en animales con privación de contacto social?",
+    "opciones": [
+      "Mayor tolerancia",
+      "Mayor agresividad o miedo",
+      "Adaptación inmediata",
+      "Desarrollo cognitivo acelerado"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué pauta debe seguirse al introducir un enriquecimiento ambiental nuevo?",
+    "opciones": [
+      "Introducirlo de forma abrupta",
+      "Exposición obligatoria diaria",
+      "Introducción progresiva y observación",
+      "Evitar supervisión"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué factor influye en la respuesta individual al entorno?",
+    "opciones": [
+      "Color del pelaje",
+      "Raza únicamente",
+      "Historia previa y genética",
+      "Peso corporal"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué principio de las 5 libertades se relaciona con la provisión de atención médica?",
+    "opciones": [
+      "Libertad de expresar comportamiento normal",
+      "Libertad de hambre y sed",
+      "Libertad de miedo",
+      "Libertad de dolor, lesión o enfermedad"
+    ],
+    "correcta": 3
+  }
+  ],
+  "avanzado": [
+  {
+    "pregunta": "¿Qué implica el principio de 'empatía veterinaria' en el contexto del bienestar animal?",
+    "opciones": [
+      "Mantener distancia emocional con el paciente",
+      "Proyectar emociones humanas sobre el animal",
+      "Comprender las emociones del animal desde su experiencia",
+      "Evitar el contacto visual con el paciente"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es el impacto de la iluminación artificial inadecuada en animales alojados a largo plazo?",
+    "opciones": [
+      "Mejora la adaptación a la clínica",
+      "No tiene efecto fisiológico",
+      "Altera ritmos circadianos y bienestar",
+      "Estimula el apetito"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué dimensión del bienestar abordan los análisis de comportamiento estereotipado?",
+    "opciones": [
+      "Bienestar físico",
+      "Bienestar emocional",
+      "Nutrición",
+      "Inmunidad"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué procedimiento puede considerarse éticamente cuestionable en medicina veterinaria si no existe justificación médica?",
+    "opciones": [
+      "Vacunación múltiple",
+      "Limpieza dental",
+      "Amputación de cola o orejas",
+      "Esterilización de animales ferales"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué indica una posición corporal encorvada y orejas bajas en perros hospitalizados?",
+    "opciones": [
+      "Confianza",
+      "Interés ambiental",
+      "Dolor, miedo o incomodidad",
+      "Actitud juguetona"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la consecuencia del hacinamiento prolongado en centros de atención animal?",
+    "opciones": [
+      "Incremento de vocalizaciones placenteras",
+      "Mejor interacción entre individuos",
+      "Aumento de estrés, enfermedad y agresión",
+      "Mejora de la socialización"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué consideración es clave al diseñar protocolos de eutanasia humanitaria?",
+    "opciones": [
+      "Reducción de costos",
+      "Rapidez sin necesidad de sedación",
+      "Mínimo sufrimiento físico y emocional",
+      "Evitar presencia del tutor"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué hormona está más implicada en la respuesta fisiológica al estrés prolongado?",
+    "opciones": [
+      "Insulina",
+      "Adrenalina",
+      "Cortisol",
+      "Oxitocina"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué es el 'reflejo de evitación condicionada' en el contexto del bienestar?",
+    "opciones": [
+      "Un reflejo asociado a la alimentación",
+      "La conducta automática ante caricias",
+      "Conducta de huida aprendida por experiencias negativas previas",
+      "Reacción ante frío extremo"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué indicador puede sugerir ansiedad anticipatoria en pacientes hospitalizados?",
+    "opciones": [
+      "Letargo profundo al llegar",
+      "Expectativa positiva al ver al veterinario",
+      "Conductas de evitación antes de entrar al consultorio",
+      "Sueño prolongado en consulta"
+    ],
+    "correcta": 2
+  },
+
+  {
+    "pregunta": "¿Qué debe evitarse al manipular animales con antecedentes de trauma físico o emocional?",
+    "opciones": [
+      "Ambiente controlado y bajo estímulo",
+      "Tiempos cortos de interacción",
+      "Técnicas de sujeción invasivas sin evaluación previa",
+      "Presencia del tutor"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué herramienta ayuda a prevenir la frustración en procedimientos repetitivos clínicos?",
+    "opciones": [
+      "Entrenamiento cooperativo veterinario",
+      "Refuerzo negativo continuo",
+      "Privación alimentaria",
+      "Evitación de contacto"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál es la importancia del juego en animales institucionalizados?",
+    "opciones": [
+      "Estimula competencia jerárquica",
+      "Reduce la dominancia",
+      "Favorece aprendizaje, exploración y bienestar emocional",
+      "Solo gasta energía"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué alteración fisiológica puede generarse por aislamiento prolongado?",
+    "opciones": [
+      "Hipoglucemia transitoria",
+      "Hipertermia crónica",
+      "Supresión inmunológica",
+      "Producción excesiva de linfocitos"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es una función clave del profesional auxiliar veterinario respecto al bienestar?",
+    "opciones": [
+      "Restringir el contacto físico animal-tutor",
+      "Ejecutar conductas de castigo ante desobediencia",
+      "Detectar signos tempranos de sufrimiento y estrés",
+      "Restringir movilidad en todos los casos"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué indica un comportamiento de 'pacing' en animales hospitalizados?",
+    "opciones": [
+      "Curiosidad",
+      "Dolor localizado",
+      "Estado de alerta cognitiva",
+      "Ansiedad o estrés ambiental"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué elemento puede incrementar el estrés auditivo en clínicas?",
+    "opciones": [
+      "Almohadillas en pisos",
+      "Ecos por paredes vacías",
+      "Atenuación de techos",
+      "Paneles absorbentes"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué efecto tiene el contacto físico calmado en animales nerviosos?",
+    "opciones": [
+      "Incrementa la frecuencia cardíaca",
+      "Favorece el vínculo y disminuye el cortisol",
+      "Causa agresión territorial",
+      "Desencadena hiperactividad"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué papel cumple el olfato en la evaluación del bienestar animal?",
+    "opciones": [
+      "Es irrelevante en entornos clínicos",
+      "Solo se aplica en enriquecimiento olfativo",
+      "Es clave para identificar estímulos aversivos o positivos",
+      "Solo se usa en perros de búsqueda"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué aspecto ético debe considerarse al usar medicamentos psicoactivos en animales?",
+    "opciones": [
+      "Precio por dosis",
+      "Consentimiento informado del tutor y justificación clínica",
+      "Disponibilidad en droguería común",
+      "Autonomía del profesional"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué estrategia puede disminuir el impacto del traslado a una clínica veterinaria en pacientes sensibles?",
+    "opciones": [
+      "Alimentarlos justo antes del transporte",
+      "Uso de feromonas sintéticas y ambientación del guacal",
+      "Aumentar la velocidad del trayecto",
+      "Evitar contacto visual"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué técnica ayuda a reducir la reactividad en perros temerosos durante la consulta?",
+    "opciones": [
+      "Acariciar la cabeza de inmediato",
+      "Forzar el acercamiento físico",
+      "Ofrecer premios y permitir tiempo de adaptación",
+      "Usar un bozal desde el inicio sin evaluación"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es un ejemplo de enriquecimiento sensorial positivo?",
+    "opciones": [
+      "Exposición a ruidos de autos",
+      "Luces intermitentes",
+      "Aromas naturales relajantes como lavanda",
+      "Música electrónica"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué comportamiento puede indicar adaptación saludable al entorno hospitalario?",
+    "opciones": [
+      "Inmovilidad constante",
+      "Contacto visual relajado con el personal",
+      "Vocalización excesiva",
+      "Agresión defensiva"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el impacto de separar a un cachorro prematuramente de su madre y camada?",
+    "opciones": [
+      "Mayor independencia emocional",
+      "Desarrollo óptimo del sistema inmune",
+      "Problemas conductuales y emocionales",
+      "Mejor obediencia"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué es el estrés por anticipación negativa?",
+    "opciones": [
+      "Ansiedad generada por experiencias previas desagradables predecibles",
+      "Fobia a espacios cerrados",
+      "Reacción natural al hambre",
+      "Estado agudo de hiperactividad"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál es un signo de dolor que puede confundirse con ansiedad?",
+    "opciones": [
+      "Letargo",
+      "Vocalización repentina al contacto",
+      "Lamido de objetos",
+      "Sueño prolongado"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué técnica NO favorece el bienestar animal en el manejo clínico?",
+    "opciones": [
+      "Entrenamiento de manipulación voluntaria",
+      "Ambientes previsibles y calmados",
+      "Castigo por resistencia",
+      "Uso de feromonas apaciguantes"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué estructura ambiental puede facilitar la expresión de conducta natural en gatos hospitalizados?",
+    "opciones": [
+      "Caja de arena con sustrato adecuado",
+      "Jaula completamente vacía",
+      "Piso de acero inoxidable",
+      "Iluminación fluorescente continua"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué variable influye negativamente en el sueño de los animales hospitalizados?",
+    "opciones": [
+      "Temperatura corporal",
+      "Ruidos continuos e iluminación artificial nocturna",
+      "Higiene del entorno",
+      "Acceso a agua fresca"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué medida debe aplicarse antes de procedimientos dolorosos para preservar el bienestar?",
+    "opciones": [
+      "Ayuno prolongado",
+      "Estimulación visual intensa",
+      "Sedación o analgesia preventiva adecuada",
+      "Privación sensorial"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué comportamiento en roedores indica bienestar ambiental?",
+    "opciones": [
+      "Comer compulsivamente",
+      "Autolimpieza frecuente, juego y exploración",
+      "Parálisis de congelación",
+      "Rechinar dientes constantemente"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué se busca prevenir con rutinas predecibles en entornos institucionales?",
+    "opciones": [
+      "Conductas de aprendizaje",
+      "Relajación",
+      "Frustración y ansiedad por incertidumbre",
+      "Hipervigilancia positiva"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué implica el uso de lenguaje corporal neutro al acercarse a un animal temeroso?",
+    "opciones": [
+      "Contacto visual directo",
+      "Inmovilidad total del profesional",
+      "Evitar movimientos bruscos, tono suave y postura no frontal",
+      "Actitud dominante para ganar respeto"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué alternativa puede mejorar el apetito en animales hospitalizados con anorexia por estrés?",
+    "opciones": [
+      "Forzar con jeringa",
+      "Proporcionar alimento familiar en horarios tranquilos",
+      "Administrar agua azucarada",
+      "Dejar de ofrecer alimento por 24 horas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué efecto tiene el exceso de manipulación en animales hospitalizados sensibles?",
+    "opciones": [
+      "Reduce el estrés",
+      "Mejora la adaptación",
+      "Genera aversión y desconfianza",
+      "Fortalece el vínculo humano-animal"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tipo de enriquecimiento se sugiere en animales geriátricos?",
+    "opciones": [
+      "Estímulos intensos y cambiantes",
+      "Rutinas cognitivas suaves y predecibles",
+      "Competencia con animales jóvenes",
+      "Privación sensorial para descanso"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué aspecto debe priorizarse al alojar a un animal que ha perdido a su compañero social?",
+    "opciones": [
+      "Reubicarlo inmediatamente con otro grupo",
+      "Aislamiento total",
+      "Evaluación emocional y gradual introducción a nuevas interacciones",
+      "Cambiarlo de especie"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tipo de conducta puede considerarse un síntoma de sufrimiento crónico?",
+    "opciones": [
+      "Bostezo al dormir",
+      "Jadeo por calor",
+      "Autolesiones o mutilación",
+      "Juego entre congéneres"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué herramienta puede usarse para registrar el bienestar de un paciente de forma objetiva?",
+    "opciones": [
+      "Test de glucosa diaria",
+      "Planilla de observación etológica",
+      "Termómetro de jaula",
+      "Escala de peso"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué conducta en felinos puede indicar malestar emocional en ambientes cerrados?",
+    "opciones": [
+      "Frotarse contra objetos",
+      "Ocultarse permanentemente y vocalizar",
+      "Juego solitario",
+      "Uso correcto del arenero"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es un criterio de evaluación ética del bienestar en instituciones?",
+    "opciones": [
+      "Productividad económica",
+      "Frecuencia de reproducción",
+      "Expresión de comportamientos naturales y ausencia de sufrimiento",
+      "Tiempo de vida"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué es la habituación positiva?",
+    "opciones": [
+      "Evitar estímulos nuevos",
+      "Exposición repetida a un estímulo sin consecuencias negativas para disminuir la reactividad",
+      "Enseñar castigos repetitivos",
+      "Cambiar constantemente el entorno"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué debe hacerse si un paciente demuestra miedo en la consulta?",
+    "opciones": [
+      "Restringir movimiento de inmediato",
+      "Evitar examinarlo hasta que esté relajado o usar estrategias de manejo amable",
+      "Aplicar un calmante oral forzado",
+      "Ignorarlo completamente"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es un signo de sobreestimulación ambiental?",
+    "opciones": [
+      "Curiosidad estable",
+      "Relajación tras ejercicio",
+      "Inquietud, vocalizaciones intensas y reacción a estímulos leves",
+      "Letargo saludable"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué herramienta puede fomentar el bienestar emocional en animales postquirúrgicos?",
+    "opciones": [
+      "Ambiente silencioso, cómodo y familiar",
+      "Iluminación constante",
+      "Aislamiento sensorial completo",
+      "Contactos físicos forzados"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué factor es determinante en la recuperación emocional de un animal rescatado?",
+    "opciones": [
+      "Color del pelaje",
+      "Intervención veterinaria sin evaluación emocional",
+      "Vínculo seguro con humanos y enriquecimiento positivo",
+      "Privación alimentaria"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tipo de conducta podría interpretarse erróneamente como agresividad?",
+    "opciones": [
+      "Intento de escape",
+      "Juego con mordidas suaves",
+      "Autolimpieza",
+      "Bostezo"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué protocolo mejora el bienestar durante las visitas veterinarias frecuentes?",
+    "opciones": [
+      "Cambio constante de personal",
+      "Entrenamiento de habituación previa con refuerzo positivo",
+      "Inmovilización prolongada",
+      "Privación de sueño"
+    ],
+    "correcta": 1
+  }  
+ ]
+}

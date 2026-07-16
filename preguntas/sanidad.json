@@ -1,0 +1,1224 @@
+{
+    "fácil": 
+[
+  {
+    "pregunta": "¿Qué es la sanidad animal?",
+    "opciones": ["El cuidado de los cultivos", "La promoción de la salud humana", "El conjunto de acciones para prevenir y controlar enfermedades en animales", "La venta de medicamentos"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué es una vacuna?",
+    "opciones": ["Un antibiótico", "Un producto que previene enfermedades al estimular el sistema inmune", "Un suplemento alimenticio", "Un antiparasitario externo"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿A qué edad suele comenzar el esquema de vacunación en cachorros?",
+    "opciones": ["Al mes de nacido", "A las 6 semanas", "A los 3 meses", "Desde el nacimiento"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué enfermedad puede prevenirse con la vacuna antirrábica?",
+    "opciones": ["Leptospirosis", "Rabia", "Moquillo", "Parvovirosis"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué significa desparasitación interna?",
+    "opciones": ["Eliminar pulgas", "Aplicar vacunas", "Eliminar parásitos intestinales y de otros órganos", "Aplicar baños sanitarios"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué parásitos combate la desparasitación externa?",
+    "opciones": ["Lombrices", "Pulgas y garrapatas", "Bacterias", "Virus"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cada cuánto se recomienda desparasitar internamente a un animal adulto sano?",
+    "opciones": ["Cada semana", "Una vez al año", "Cada 3 o 4 meses", "Solo cuando está enfermo"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué debe incluir un protocolo básico de sanidad?",
+    "opciones": ["Vacunación, desparasitación y control de plagas", "Baños y alimentación", "Solo vitaminas", "Esterilización obligatoria"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué enfermedad es común en perros no vacunados y causa diarrea con sangre?",
+    "opciones": ["Rabia", "Parvovirosis", "Otitis", "Dermatitis"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué es la zoonosis?",
+    "opciones": ["Una enfermedad del pelaje", "Enfermedad exclusiva de gatos", "Enfermedades transmitidas de animales a humanos", "Trastorno de alimentación"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué instrumento se utiliza para administrar vacunas en animales?",
+    "opciones": ["Microscopio", "Termómetro", "Jeringa", "Tijeras"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué es la leptospirosis?",
+    "opciones": ["Una infestación de pulgas", "Una enfermedad bacteriana que puede afectar a humanos y animales", "Una alergia alimentaria", "Un tipo de moquillo"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué acción es importante para mantener la sanidad en un centro veterinario?",
+    "opciones": ["Pintar las paredes", "Desinfección constante y control de plagas", "Cambiar el mobiliario", "Tener plantas"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué desinfectante es común en clínicas veterinarias?",
+    "opciones": ["Vinagre", "Jabón", "Amonio cuaternario", "Leche"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué medida previene la propagación de enfermedades respiratorias entre animales?",
+    "opciones": ["Compartir platos de comida", "Ventilación, vacunación y evitar contacto entre enfermos y sanos", "Cerrar las ventanas", "Evitar vacunas"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué documento registra las vacunas de un animal?",
+    "opciones": ["Historia clínica", "Certificado de sanidad", "Carné de vacunación", "Etiqueta del alimento"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Por qué es importante mantener el área de hospitalización limpia?",
+    "opciones": ["Para que huela bien", "Para evitar infecciones cruzadas y facilitar la recuperación", "Por estética", "Para ahorrar tiempo"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es un signo de infestación por pulgas?",
+    "opciones": ["Nariz seca", "Diarrea", "Rascado constante y puntos negros en el pelaje", "Cansancio"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué animal es reservorio importante de la rabia en zonas rurales?",
+    "opciones": ["Rana", "Gallina", "Murciélago", "Pato"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué es la profilaxis?",
+    "opciones": ["Un medicamento", "Un tratamiento estético", "Conjunto de medidas preventivas para evitar enfermedades", "Una cirugía menor"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué es la sarna?",
+    "opciones": ["Una bacteria intestinal", "Una enfermedad causada por ácaros que afecta la piel", "Una alergia a las vacunas", "Un hongo del oído"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es una medida básica de higiene para el cuidador de animales?",
+    "opciones": ["Usar ropa colorida", "Cepillarse el cabello", "Lavarse las manos antes y después de atender animales", "Evitar el uso de guantes"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué producto elimina parásitos externos como garrapatas?",
+    "opciones": ["Vitaminas", "Desinfectantes", "Antiparasitarios tópicos", "Agua oxigenada"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuándo debe vacunarse un animal adulto sano contra la rabia?",
+    "opciones": ["Cada semana", "Cada 6 meses", "Una vez al año", "Nunca"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es una zoonosis común transmitida por heces de gatos?",
+    "opciones": ["Parvovirus", "Toxoplasmosis", "Moquillo", "Hepatitis canina"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué hace un antiparasitario oral?",
+    "opciones": ["Alivia el dolor", "Previene infecciones respiratorias", "Elimina lombrices y otros parásitos internos", "Cura alergias"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Por qué no se deben mezclar animales enfermos con sanos?",
+    "opciones": ["Porque pelean", "Porque los sanos pueden enfermarse", "Porque hacen ruido", "Porque se ensucian"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué parásito externo puede transmitir enfermedades como la erliquiosis?",
+    "opciones": ["Mosquito", "Garrapata", "Lombriz", "Hormiga"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué se debe hacer antes de vacunar a un animal?",
+    "opciones": ["Desparasitar y revisar su estado de salud", "Darle un baño", "Ayunar", "Aplicarle antipulgas"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué es una vacuna polivalente?",
+    "opciones": ["Una vacuna que solo actúa en una enfermedad", "Una que se aplica en aves", "Una que protege contra varias enfermedades a la vez", "Una solución oral"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué se recomienda después de aplicar una vacuna?",
+    "opciones": ["Sacar al animal a correr", "No hacer nada", "Observar al animal por posibles reacciones adversas", "Aplicar un antipulgas"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué microorganismo produce enfermedades como moquillo y parvovirosis?",
+    "opciones": ["Virus", "Bacterias", "Hongos", "Parásitos"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué instrumento mide la temperatura corporal en animales?",
+    "opciones": ["Jeringa", "Termómetro", "Estetoscopio", "Balanza"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué función tiene el amonio cuaternario en clínicas?",
+    "opciones": ["Eliminar olores", "Aromatizar", "Desinfectar superficies", "Secar pisos"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué medida es fundamental para el control de enfermedades contagiosas?",
+    "opciones": ["Aislamiento, vacunación y desinfección", "Baño semanal", "Corte de uñas", "Desparasitación mensual"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué signo indica una posible infestación por garrapatas?",
+    "opciones": ["Tos", "Puntos oscuros en la piel y rascado constante", "Estornudos", "Color rosado en las encías"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué significa el término 'esterilización' en sanidad animal?",
+    "opciones": ["Limpieza de heridas", "Baño", "Eliminación quirúrgica de capacidad reproductiva", "Vacunación anual"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es un beneficio de esterilizar a las mascotas?",
+    "opciones": ["Mayor agresividad", "Mejora de pelaje", "Prevención de enfermedades reproductivas y control de natalidad", "Cambio de especie"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Por qué es importante la vacunación en animales de compañía?",
+    "opciones": ["Para mantenerlos limpios", "Para reducir los ladridos", "Para prevenir enfermedades graves y zoonóticas", "Para aumentar el apetito"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué enfermedad puede transmitirse por mordedura de perro a humanos si no está vacunado?",
+    "opciones": ["Otitis", "Leptospirosis", "Rabia", "Gripe canina"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué acción previene la propagación de enfermedades entre cachorros?",
+    "opciones": ["Bañarlos juntos", "Desparasitación, vacunación y evitar contacto con animales enfermos", "Cortarle el pelo", "Dejarlos en el suelo del parque"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuándo se debe aplicar la primera vacuna polivalente en cachorros?",
+    "opciones": ["A las 2 semanas", "A las 8 semanas", "Al año", "Después de los 6 meses"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué parásito intestinal es común en cachorros?",
+    "opciones": ["Garrapata", "Ácaro", "Toxocara canis", "Piojo"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Por qué se recomienda realizar desinfecciones periódicas en centros veterinarios?",
+    "opciones": ["Para oler bien", "Para evitar propagación de patógenos", "Para limpiar los pisos únicamente", "Por orden legal"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué papel cumple el auxiliar veterinario en la sanidad animal?",
+    "opciones": ["Decidir tratamientos", "Apoyar en la prevención, control y educación sanitaria", "Realizar cirugías", "Diagnosticar enfermedades"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué enfermedad zoonótica se transmite por orina de roedores?",
+    "opciones": ["Parvovirus", "Rabia", "Leptospirosis", "Otitis"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la función del jabón veterinario antiparasitario?",
+    "opciones": ["Hidratar el pelo", "Eliminar bacterias de la boca", "Eliminar pulgas y garrapatas del pelaje", "Quitar manchas"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la forma más efectiva de prevenir la rabia en animales domésticos?",
+    "opciones": ["Evitar el contacto con humanos", "Aislarlos por completo", "Aplicar la vacuna antirrábica anual", "Darles leche cada día"],
+    "correcta": 2
+  }
+],
+  "intermedio": 
+[
+  {
+    "pregunta": "¿Qué es un plan sanitario veterinario?",
+    "opciones": ["Un menú de alimentos", "Un cronograma de ejercicios", "Un conjunto de medidas programadas para preservar la salud animal", "Un inventario de medicamentos"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la función principal del auxiliar en campañas de vacunación?",
+    "opciones": ["Diagnosticar enfermedades", "Aplicar tratamientos quirúrgicos", "Asistir en el manejo, registro y apoyo logístico", "Vender vacunas"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué riesgo conlleva una incorrecta aplicación de una vacuna subcutánea?",
+    "opciones": ["Deshidratación", "Pérdida de apetito", "Absceso o reacción adversa local", "Otitis"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Por qué no deben mezclarse animales de diferentes edades sin protocolos sanitarios?",
+    "opciones": ["Por diferencias de tamaño", "Por agresividad", "Por riesgo de transmisión de enfermedades", "Por diferencias de pelaje"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué es una zoonosis emergente?",
+    "opciones": ["Una enfermedad descubierta en reptiles", "Una enfermedad humana", "Una enfermedad transmitida de animales a humanos que aparece por primera vez o resurge", "Una alteración genética"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué enfermedades están incluidas en la vacuna triple felina?",
+    "opciones": ["Leucemia, rabia y gripe felina", "Panleucopenia, calicivirus y herpesvirus felino", "Toxoplasmosis, moquillo y rabia", "Moquillo, hepatitis y leptospirosis"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Por qué es importante la cuarentena en animales recién ingresados al hospital o guardería?",
+    "opciones": ["Para hacer amigos", "Para adaptarse a la comida", "Para prevenir la diseminación de enfermedades", "Para peinar al animal"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué protocolo se sigue para prevenir la leptospirosis?",
+    "opciones": ["Aplicación de antibióticos semanales", "Baños con vinagre", "Vacunación, control de roedores y limpieza del ambiente", "Corte de pelo periódico"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué es la inmunidad pasiva?",
+    "opciones": ["La obtenida por vacunas", "La adquirida por alimentos", "La que recibe el animal a través del calostro o anticuerpos maternales", "La desarrollada por ejercicio físico"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué se debe hacer si un animal presenta una reacción anafiláctica tras una vacuna?",
+    "opciones": ["Darle agua", "Esperar en casa", "Acudir inmediatamente al veterinario", "Aplicar alcohol en la zona"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Por qué debe mantenerse la cadena de frío en las vacunas?",
+    "opciones": ["Para que no se contaminen con polvo", "Para evitar que huelan mal", "Porque la temperatura incorrecta puede inactivarlas", "Porque cambian de color"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es el rol del auxiliar en la limpieza de áreas contaminadas?",
+    "opciones": ["Realizar tareas administrativas", "Observar desde lejos", "Aplicar protocolos de bioseguridad y desinfección", "Llamar al propietario"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué animal puede ser portador de brucelosis?",
+    "opciones": ["Gato doméstico", "Vaca y perro", "Pez de acuario", "Cuy doméstico"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de parásito es el Ancylostoma caninum?",
+    "opciones": ["Ácaro", "Virus", "Nematodo intestinal", "Bacteria"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es una medida preventiva ante un brote de moquillo canino?",
+    "opciones": ["Aislar a los animales enfermos y reforzar la vacunación", "Bañarlos con shampoo", "Cerrar las ventanas", "Dar vitaminas únicamente"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué desinfectante puede utilizarse en áreas de atención veterinaria para inactivar virus resistentes como el parvovirus?",
+    "opciones": ["Vinagre", "Alcohol", "Hipoclorito de sodio diluido", "Amoníaco puro"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué documento respalda la vacunación oficial contra la rabia?",
+    "opciones": ["Factura", "Certificado de vacunación antirrábica", "Manual del cuidador", "Tarjeta de ingreso"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué hacer si un animal presenta diarrea severa después de un cambio de desparasitario?",
+    "opciones": ["Ignorar el síntoma", "Suspender sin consultar", "Notificar al veterinario para evaluación", "Dar doble dosis"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué papel cumple el control vectorial en sanidad?",
+    "opciones": ["Mejorar la nutrición", "Evitar mordeduras", "Reducir la población de insectos transmisores de enfermedades", "Embellecer el pelaje"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué puede ocasionar una infestación severa de pulgas en cachorros?",
+    "opciones": ["Cambio de color del pelaje", "Hipoglucemia", "Anemia y debilidad", "Desarrollo acelerado"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es un método de control de garrapatas en instalaciones veterinarias?",
+    "opciones": ["Barrer a diario", "Rociar con vinagre", "Aplicar acaricidas autorizados en puntos clave", "Mantener las ventanas cerradas"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué producto puede utilizarse para el control de ectoparásitos en gatos sensibles?",
+    "opciones": ["Permetrina tópica", "Insecticidas de uso humano", "Productos específicos para gatos aprobados por el veterinario", "Jabón de ropa"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué enfermedad zoonótica puede prevenirse con el control de heces de perros callejeros?",
+    "opciones": ["Gripe", "Toxocariasis", "Otitis", "Asma"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué técnica debe seguirse para aplicar correctamente un antiparasitario spot-on?",
+    "opciones": ["Aplicar en la nariz", "Esparcir en la barriga", "Colocar en la zona entre los omóplatos sin frotar", "Colocar en las patas traseras"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué acción debe realizar el auxiliar al recibir un animal sin historia clínica previa?",
+    "opciones": ["Inyectar antibiótico de rutina", "Registrar sus signos vitales y consultar su estado sanitario", "Aislarlo automáticamente", "Pesarlo y bañarlo"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué componente debe tener el protocolo de limpieza de jaulas en hospitalización?",
+    "opciones": ["Perfume", "Cambio de cama cada semana", "Retiro de heces y orina, desinfección y ventilación diaria", "Colocar piedras aromáticas"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué especie es importante vacunar contra la leptospirosis en zonas húmedas?",
+    "opciones": ["Conejo", "Tortuga", "Perro", "Hámster"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué zoonosis se puede transmitir al manipular heces de gatos sin guantes ni higiene?",
+    "opciones": ["Rabia", "Otitis", "Toxoplasmosis", "Moquillo"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué significa 'programa de medicina preventiva' en veterinaria?",
+    "opciones": ["Tratar cuando el animal está enfermo", "Realizar cirugía estética", "Planear visitas, vacunas y análisis para prevenir enfermedades", "Solo aplicar vitamina C"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué se debe hacer si una vacuna presenta coloración extraña o sedimento?",
+    "opciones": ["Agitarla y aplicar", "Desecharla y reportar", "Inyectarla rápido", "Guardar en el refrigerador"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué enfermedad se puede transmitir por orina de animales infectados y afecta el hígado y riñón?",
+    "opciones": ["Parvovirosis", "Rabia", "Leptospirosis", "Gripe felina"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué puede ocurrir si se aplica un desinfectante en presencia de materia orgánica?",
+    "opciones": ["Mayor efectividad", "Nada", "Pérdida de acción del producto", "Cambio de olor"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué animal puede portar la enfermedad zoonótica llamada leptospirosis?",
+    "opciones": ["Pato", "Ratón", "Gallo", "Gato"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué acción es fundamental en la prevención de la giardiasis?",
+    "opciones": ["Aislamiento en jaula", "Cambio de alimento", "Limpieza constante del agua y el ambiente", "Vacunación mensual"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué agente puede sobrevivir largo tiempo en el ambiente y requiere limpieza rigurosa para evitar reinfección?",
+    "opciones": ["Parvovirus", "Gusanos", "Piojos", "Bacterias de la piel"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué acción se recomienda tras el contacto con fluidos corporales de animales enfermos?",
+    "opciones": ["Aplicar perfume", "Lavarse bien las manos y desinfectar el área", "Taparse la nariz", "Cambiarse la ropa solamente"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué hacer si un perro tiene fiebre tras vacunación reciente sin otros signos graves?",
+    "opciones": ["Bañarlo con agua fría", "Aplicar antibiótico", "Observar y reportar al veterinario si persiste", "Darle leche fría"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué zoonosis puede transmitirse a través del contacto con heces contaminadas y afectar a mujeres embarazadas?",
+    "opciones": ["Toxoplasmosis", "Rabia", "Sarna", "Giardiasis"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué cuidado debe tenerse con jeringas usadas en campañas sanitarias?",
+    "opciones": ["Lavar y reutilizar", "Desechar en contenedor punzocortante", "Guardar en caja", "Dejar en mesa"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué precaución debe tener un auxiliar al manipular un animal con sospecha de rabia?",
+    "opciones": ["Acariciarlo", "Usar guantes, bozal y evitar contacto directo", "Ponerle collar", "Tomarle fotos"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué acción promueve la transmisión de sarna entre animales en un refugio?",
+    "opciones": ["Aislamiento de casos sospechosos", "Baños semanales", "Compartir camas y cepillos", "Vacunación reciente"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué medida básica contribuye al control de parásitos en instalaciones veterinarias?",
+    "opciones": ["Uso de ventiladores", "Iluminación intensa", "Limpieza y desinfección diaria", "Aromatización con esencias"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué se debe hacer si un producto sanitario cambia de color, olor o consistencia?",
+    "opciones": ["Agitarlo y usarlo", "Usarlo antes de que expire", "Desecharlo y reportarlo", "Aplicarlo a animales grandes solamente"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué enfermedad prevenible con vacunación afecta el sistema digestivo y nervioso de los perros?",
+    "opciones": ["Moquillo canino", "Leptospirosis", "Rabia", "Toxoplasmosis"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué debe incluir una ficha sanitaria actualizada?",
+    "opciones": ["Nombre del veterinario", "Color del collar", "Vacunas aplicadas, desparasitaciones y enfermedades previas", "Tamaño de la jaula"],
+    "correcta": 2
+  }
+],
+  "difícil":
+[
+  {
+    "pregunta": "¿Qué protocolo debe seguirse en caso de brote de parvovirosis en un refugio canino?",
+    "opciones": [
+      "Aplicar baños semanales",
+      "Reforzar vacunación, aislar animales, desinfectar con hipoclorito y restringir ingresos",
+      "Administrar suplementos",
+      "Cerrar el refugio permanentemente"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué agente desinfectante es más eficaz contra el virus del moquillo canino?",
+    "opciones": ["Cloro diluido", "Jabón neutro", "Alcohol al 70%", "Vinagre blanco"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál es la zoonosis transmitida por mordedura que tiene un protocolo postexposición obligatorio?",
+    "opciones": ["Leptospirosis", "Toxoplasmosis", "Rabia", "Brucelosis"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué medida debe adoptarse con animales que han estado expuestos a otros con sarna sarcóptica?",
+    "opciones": [
+      "Cepillarlos con más frecuencia",
+      "Aislarlos y comenzar tratamiento preventivo bajo supervisión veterinaria",
+      "Dejarlos al aire libre",
+      "Bañarlos con agua caliente"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué acción es incorrecta al manejar residuos biológicos en un hospital veterinario?",
+    "opciones": [
+      "Desechar agujas en recipiente punzocortante",
+      "Etiquetar residuos peligrosos",
+      "Mezclar residuos biológicos con basura común",
+      "Usar bolsas rojas para residuos infectantes"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué debe hacerse si un animal vacunado contra la rabia muerde a una persona?",
+    "opciones": [
+      "Nada si está vacunado",
+      "Informar al centro de salud, observar al animal por 10 días y presentar certificado de vacunación",
+      "Aplicar antibiótico al animal",
+      "Encerrarlo sin reportar"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué parámetro es clave para confirmar la efectividad de la desinfección ambiental?",
+    "opciones": [
+      "Buen olor del área",
+      "Superficies húmedas",
+      "Ausencia de patógenos en cultivos microbiológicos",
+      "Ventilación adecuada"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué conducta previene enfermedades nosocomiales en instalaciones veterinarias?",
+    "opciones": [
+      "Reutilizar gasas",
+      "Rotar personal sin lavado de manos",
+      "Aplicar protocolos estrictos de limpieza y aislamiento",
+      "Dejar las jaulas abiertas"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es un riesgo de no completar correctamente el esquema de vacunación en cachorros?",
+    "opciones": [
+      "Aumento de peso",
+      "Reacción alérgica leve",
+      "Susceptibilidad a enfermedades virales graves como parvovirus y moquillo",
+      "Hiperactividad"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué enfermedad zoonótica puede adquirir un auxiliar al manipular sin protección fluidos de un perro con leptospirosis?",
+    "opciones": ["Toxoplasmosis", "Leptospirosis", "Rabia", "Erliquiosis"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué microorganismo causa la giardiasis?",
+    "opciones": ["Virus", "Protozoo", "Bacteria", "Hongo"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo de la trazabilidad en sanidad animal?",
+    "opciones": [
+      "Identificar razas",
+      "Registrar tratamientos estéticos",
+      "Controlar y seguir el historial sanitario de cada animal",
+      "Aplicar premios de conducta"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la vía más común de contagio de toxoplasmosis en humanos?",
+    "opciones": [
+      "Saliva de perro",
+      "Pelo de gato",
+      "Manipulación de heces contaminadas sin higiene adecuada",
+      "Aire acondicionado"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué es el control vectorial integrado?",
+    "opciones": [
+      "Uso exclusivo de insecticidas",
+      "Aplicación de productos aromáticos",
+      "Uso de múltiples estrategias para reducir insectos transmisores de enfermedades",
+      "Evitar la luz artificial"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué error frecuente disminuye la eficacia del antipulgas en spot-on?",
+    "opciones": [
+      "Aplicarlo entre los omóplatos",
+      "Aplicarlo sobre piel húmeda o bañar al animal poco después",
+      "Utilizar producto específico",
+      "Respetar la dosis por peso"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo de un aislamiento por enfermedad infectocontagiosa?",
+    "opciones": [
+      "Evitar que el animal tenga frío",
+      "Reducir su contacto social",
+      "Prevenir la diseminación del patógeno a otros animales y humanos",
+      "Facilitar el descanso"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué protocolo debe seguirse con un animal sospechoso de zoonosis grave?",
+    "opciones": [
+      "Llevarlo a paseo",
+      "Aislarlo, usar EPP y reportarlo a la autoridad competente",
+      "Bañarlo y aplicarle perfume",
+      "Mantenerlo con otros animales para observar"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué estrategia ayuda a reducir la resistencia antiparasitaria en refugios?",
+    "opciones": [
+      "Usar el mismo producto todo el año",
+      "No desparasitar",
+      "Rotación estratégica de fármacos y dosificación adecuada",
+      "Aplicar desinfectante doméstico"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué zoonosis puede contraerse al consumir carne mal cocida o agua contaminada?",
+    "opciones": ["Rabia", "Brucelosis", "Toxoplasmosis", "Gripe felina"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la principal vía de transmisión de la brucelosis canina?",
+    "opciones": [
+      "Contacto visual",
+      "Pelos sueltos",
+      "Contacto con secreciones reproductivas de animales infectados",
+      "Ladrido directo"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué consecuencia puede tener el uso indiscriminado de antibióticos en animales sin supervisión veterinaria?",
+    "opciones": [
+      "Aumento de peso",
+      "Mayor inmunidad",
+      "Resistencia antimicrobiana y fallos terapéuticos",
+      "Pelaje brillante"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué sistema se ve principalmente afectado por la leptospirosis?",
+    "opciones": ["Digestivo", "Renal y hepático", "Muscular", "Nervioso central"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué prueba diagnóstica puede confirmar una infección por giardia?",
+    "opciones": ["Ecografía", "Examen coprológico", "Radiografía", "Medición de glucosa"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué medida básica reduce el riesgo de infección cruzada en una clínica?",
+    "opciones": [
+      "Usar uniforme blanco",
+      "Cambiarse los zapatos",
+      "Lavado de manos frecuente y uso de guantes entre pacientes",
+      "Tener aire acondicionado"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué acción debe tomar un auxiliar si una vacuna fue almacenada fuera de la cadena de frío?",
+    "opciones": [
+      "Aplicarla rápidamente",
+      "Colocarla en el refrigerador y usarla más tarde",
+      "Desecharla y reportar al responsable sanitario",
+      "Agitarla y continuar con su uso"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué enfermedad se asocia a la transmisión por contacto con mucosas infectadas de felinos?",
+    "opciones": ["Moquillo canino", "Toxoplasmosis", "Leucemia felina", "Rabia"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la mejor forma de prevenir la sarna notoédrica en gatos en un albergue?",
+    "opciones": [
+      "Aplicar colonia",
+      "Aislamiento, tratamiento y desinfección de ambientes",
+      "Cortar las uñas",
+      "Cepillado diario"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué zoonosis se puede adquirir por contacto con orina de animales silvestres en áreas rurales?",
+    "opciones": ["Brucelosis", "Giardiasis", "Leptospirosis", "Rabia"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es un síntoma común de brucelosis en perros?",
+    "opciones": [
+      "Estornudos frecuentes",
+      "Pérdida de visión",
+      "Abortos espontáneos y esterilidad",
+      "Pelaje seco"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la acción más segura al desechar medicamentos vencidos en una clínica veterinaria?",
+    "opciones": [
+      "Quemarlos en el patio",
+      "Tirarlos al baño",
+      "Entregarlos a un gestor autorizado de residuos peligrosos",
+      "Mezclarlos con arena para gatos"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué error puede provocar una falla en la inmunización del animal tras vacunación?",
+    "opciones": [
+      "Aplicar en día soleado",
+      "Refrigeración constante",
+      "Uso de una vacuna con cadena de frío rota",
+      "Bañarlo al día siguiente"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la principal vía de contagio del moquillo en perros?",
+    "opciones": ["Alimento contaminado", "Picadura de mosquito", "Contacto con secreciones respiratorias de animales enfermos", "Pulgas infectadas"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tipo de desinfectante tiene acción virucida y es usado en áreas críticas?",
+    "opciones": ["Amonio cuaternario", "Agua oxigenada", "Hipoclorito de sodio", "Aceites esenciales"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es el método correcto de limpieza de jaulas tras la salida de un paciente infectado?",
+    "opciones": [
+      "Aromatizar con alcohol",
+      "Lavar con agua y jabón solamente",
+      "Lavar, desinfectar con producto aprobado y dejar secar completamente",
+      "Cepillar y cambiar la manta"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué zoonosis puede adquirirse al inhalar aerosoles provenientes de orina seca de roedores?",
+    "opciones": ["Leptospirosis", "Hantavirus", "Giardiasis", "Erliquiosis"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué enfermedad se puede prevenir mediante el control del contacto entre gatos sanos y positivos a leucemia felina?",
+    "opciones": ["Rabia", "Brucelosis", "Leucemia felina", "Moquillo"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué situación puede considerarse mal manejo de medicamentos veterinarios?",
+    "opciones": [
+      "Uso con receta médica",
+      "Almacenamiento refrigerado",
+      "Aplicación sin prescripción en dosis no evaluadas",
+      "Rotulación adecuada"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué microorganismo es responsable de la brucelosis?",
+    "opciones": ["Virus", "Bacteria", "Protozoo", "Ácaro"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué zona corporal es la más segura para aplicar vacunas subcutáneas en perros?",
+    "opciones": ["Muslo", "Oreja", "Cuello o zona interescapular", "Lomo bajo"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué factor aumenta el riesgo de zoonosis en clínicas veterinarias?",
+    "opciones": [
+      "Uso de termómetro digital",
+      "Presencia de animales vacunados",
+      "Falta de protocolos de bioseguridad y uso de EPP",
+      "Refrigeración de vacunas"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué microorganismo puede sobrevivir meses en el ambiente y causar gastroenteritis hemorrágica en cachorros?",
+    "opciones": ["Parvovirus", "Leptospira", "Giardia", "Erlichia"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué tipo de limpieza es obligatoria entre pacientes en quirófano?",
+    "opciones": ["Solo barrido", "Barrido con agua perfumada", "Desinfección con virucida aprobado", "Uso de toallas secas"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué enfermedad puede transmitirse por contacto con tejidos fetales de animales abortados?",
+    "opciones": ["Toxoplasmosis", "Brucelosis", "Parvovirosis", "Leptospirosis"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué protocolo se recomienda ante sospecha de brote de sarna en albergues?",
+    "opciones": [
+      "Desparasitación regular sin aislamiento",
+      "Aislamiento, diagnóstico, tratamiento y desinfección intensiva",
+      "Cambio de alimento",
+      "Aplicación de antibióticos generalizados"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué instrumento puede usarse para evaluar signos de sarna en un paciente?",
+    "opciones": ["Termómetro", "Dermatoscopio o raspado cutáneo", "Estetoscopio", "Pinzas hemostáticas"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué efecto puede tener el hacinamiento en refugios sobre la salud animal?",
+    "opciones": [
+      "Mejor adaptación",
+      "Mayor interacción social",
+      "Diseminación de enfermedades y estrés",
+      "Aumento de apetito"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué zoonosis se relaciona con abortos en animales y se puede contagiar al humano por leche no pasteurizada?",
+    "opciones": ["Leptospirosis", "Rabia", "Brucelosis", "Giardiasis"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tipo de control es parte fundamental de un plan sanitario efectivo en clínicas?",
+    "opciones": [
+      "Control de la iluminación",
+      "Control parasitario interno y externo",
+      "Control del color del mobiliario",
+      "Control del pelaje"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es un error común al aplicar pipetas antipulgas?",
+    "opciones": [
+      "Separar el pelo para aplicarla directamente sobre la piel",
+      "Aplicar en lomo húmedo o con heridas",
+      "Esperar 24 horas antes de bañar",
+      "Aplicar entre los omóplatos"
+    ],
+    "correcta": 1
+  }
+  ],
+  "avanzado": 
+[
+  {
+    "pregunta": "¿Qué procedimiento debe seguirse si se sospecha de un brote de zoonosis de notificación obligatoria en una clínica?",
+    "opciones": [
+      "Observar al animal durante 24 horas",
+      "Evitar reportarlo para no alarmar a los clientes",
+      "Notificar a las autoridades sanitarias, aislar el caso y aplicar protocolos de bioseguridad",
+      "Encerrar al animal sin interacción"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué herramienta diagnóstica puede emplearse para detectar leptospira en animales sospechosos?",
+    "opciones": ["Ecografía abdominal", "Examen coproparasitario", "Serología y PCR", "Medición de temperatura rectal"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué significa bioseguridad en el contexto de sanidad animal?",
+    "opciones": [
+      "Normas estéticas de presentación del personal",
+      "Estrategias para evitar pérdida económica",
+      "Medidas para prevenir el ingreso, diseminación y exposición a agentes patógenos",
+      "Uso de guantes y mascarilla únicamente"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la acción inmediata ante una exposición accidental a material biológico de alto riesgo?",
+    "opciones": [
+      "Esperar a ver si aparecen síntomas",
+      "No informar para evitar sanciones",
+      "Lavar la zona con agua y jabón, reportar y seguir protocolo de exposición",
+      "Secar y aplicar alcohol"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué zoonosis puede generar abortos recurrentes en bovinos y es de notificación obligatoria?",
+    "opciones": ["Leptospirosis", "Brucelosis", "Toxoplasmosis", "Rabia"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el riesgo de aplicar una vacuna viva atenuada en un animal inmunosuprimido?",
+    "opciones": [
+      "Desarrollo de inmunidad superior",
+      "Mayor apetito",
+      "Infección activa por el virus vacunal",
+      "Hipotermia leve"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué medida debe acompañar a la desinfección en control de brotes virales persistentes como parvovirosis?",
+    "opciones": [
+      "Aromatización de ambientes",
+      "Uso de purificadores de aire",
+      "Reposo de ambientes y restricción de ingreso",
+      "Cambiar el color de las paredes"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué recurso se utiliza en sanidad animal para rastrear un caso epidemiológico complejo?",
+    "opciones": [
+      "Diagrama de flujo",
+      "Aplicación de vacunas múltiples",
+      "Trazabilidad sanitaria mediante registros y geolocalización",
+      "Etiquetado de orejas"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es un riesgo al usar desinfectantes de forma inapropiada en áreas con animales?",
+    "opciones": [
+      "Mejor limpieza",
+      "Desinfección más rápida",
+      "Toxicidad respiratoria o dérmica en animales y personal",
+      "Mayor brillo del suelo"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué componente de los planes de contingencia es clave para brotes zoonóticos?",
+    "opciones": [
+      "Promociones en redes",
+      "Desinfección de pisos únicamente",
+      "Aislamiento, registro, notificación, limpieza y educación del equipo",
+      "Suspensión de turnos laborales"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué enfermedad zoonótica puede prevenirse con el uso de guantes al manipular fluidos reproductivos?",
+    "opciones": ["Sarna", "Leptospirosis", "Brucelosis", "Parvovirosis"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué agente patógeno puede ser eliminado por acción mecánica durante una limpieza adecuada incluso sin desinfectante?",
+    "opciones": ["Virus encapsulados", "Endosporas", "Priones", "Parásitos internos"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué tipo de residuos se consideran de riesgo biológico en clínicas?",
+    "opciones": [
+      "Papel impreso",
+      "Medicamentos vencidos",
+      "Sangre, fluidos corporales y material contaminado",
+      "Alimento para animales"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué zoonosis puede transmitirse por mordeduras de animales silvestres y domésticos, incluso si no presentan síntomas?",
+    "opciones": ["Toxoplasmosis", "Parvovirosis", "Rabia", "Brucelosis"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué significa resistencia antimicrobiana en un contexto de salud pública?",
+    "opciones": [
+      "Fuerza muscular aumentada",
+      "Resistencia al calor",
+      "Capacidad de microorganismos para sobrevivir a tratamientos con antibióticos",
+      "Inmunidad adquirida tras vacunación"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué zoonosis puede causar síntomas neurológicos y debe ser tratada con medidas urgentes post exposición?",
+    "opciones": ["Erliquiosis", "Toxoplasmosis", "Brucelosis", "Rabia"],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué organismos pueden resistir a desinfectantes comunes y requieren esterilización por calor o químicos especializados?",
+    "opciones": ["Ácaros", "Bacterias encapsuladas", "Virus ARN", "Endosporas bacterianas"],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué condición favorece la aparición de giardiasis en refugios?",
+    "opciones": [
+      "Iluminación natural",
+      "Presencia de juguetes",
+      "Humedad, hacinamiento y deficiente higiene en el agua",
+      "Desparasitación frecuente"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es un riesgo potencial de no lavar adecuadamente los recipientes de comida en un refugio?",
+    "opciones": [
+      "Aumento de apetito",
+      "Hiperactividad",
+      "Contaminación cruzada con patógenos como salmonella o giardia",
+      "Pérdida de color en el recipiente"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué zoonosis puede provocar abortos en humanos y se transmite por contacto con placenta o fetos de animales infectados?",
+    "opciones": ["Sarna", "Brucelosis", "Moquillo", "Giardiasis"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué zoonosis puede ser transmitida por gatos infectados al manipular su bandeja de arena sin protección?",
+    "opciones": ["Giardiasis", "Brucelosis", "Toxoplasmosis", "Moquillo"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué protocolo debe seguirse si un auxiliar sufre una herida por objeto punzocortante contaminado?",
+    "opciones": [
+      "Lavar con agua y jabón, reportar el incidente y acudir a evaluación médica",
+      "Cubrir con algodón seco y continuar trabajando",
+      "Esperar a que cicatrice sola",
+      "Desinfectar con alcohol solamente"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué método es más eficaz para esterilizar material quirúrgico reutilizable?",
+    "opciones": ["Hervido casero", "Alcohol al 70%", "Autoclave (esterilización por vapor a presión)", "Luz solar directa"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué zoonosis se asocia a la exposición prolongada a roedores infectados en ambientes urbanos?",
+    "opciones": ["Leptospirosis", "Rabia", "Parvovirosis", "Brucelosis"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué elementos debe incluir un plan de bioseguridad integral en centros veterinarios?",
+    "opciones": [
+      "Manual de etiqueta y atención al cliente",
+      "Esquema de vacunación para animales solamente",
+      "Protocolos de limpieza, manejo de residuos, aislamiento, uso de EPP y control de plagas",
+      "Horario de visitas familiares"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué agente patógeno es especialmente resistente en el ambiente seco y puede sobrevivir por meses?",
+    "opciones": ["Leptospira", "Parvovirus", "Erlichia", "Sarcoptes"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué zoonosis puede adquirirse por consumo de agua contaminada en áreas rurales con animales infectados?",
+    "opciones": ["Brucelosis", "Toxoplasmosis", "Giardiasis", "Sarna"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué acción debe tomarse si un animal vacunado muestra signos de la enfermedad contra la cual fue inmunizado?",
+    "opciones": [
+      "Reaplicar la misma vacuna",
+      "Bañarlo",
+      "Notificar al veterinario para evaluación de fallo vacunal o inmunodepresión",
+      "Esperar a que mejore solo"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué agente infeccioso se transmite por vía placentaria en bovinos y puede causar aborto tardío?",
+    "opciones": ["Rabia", "Brucella abortus", "Parvovirus", "Coronavirus"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué zoonosis puede afectar al sistema nervioso central y causar alteraciones de conducta en humanos y animales?",
+    "opciones": ["Sarna", "Leptospirosis", "Brucelosis", "Rabia"],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Cuál es la principal vía de entrada del parvovirus canino al organismo?",
+    "opciones": ["Inhalación de aerosoles", "Contacto dérmico", "Ingestión oral de material contaminado", "Picadura de insecto"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué medida permite garantizar la eliminación de microorganismos en superficies clínicas?",
+    "opciones": [
+      "Aplicar desinfectante sin limpiar previamente",
+      "Rociar colonia antiséptica",
+      "Prelimpieza mecánica seguida de desinfección química adecuada",
+      "Uso de incienso"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué zoonosis tiene mayor riesgo de transmisión por mordedura de gatos infectados?",
+    "opciones": ["Toxoplasmosis", "Rabia", "Moquillo", "Giardiasis"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué zoonosis puede prevenirse estrictamente mediante vacunación obligatoria anual?",
+    "opciones": ["Parvovirosis", "Brucelosis", "Rabia", "Sarna"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué enfermedad zoonótica está relacionada con el contacto con fluidos placentarios en partos sin EPP?",
+    "opciones": ["Rabia", "Giardiasis", "Brucelosis", "Leptospirosis"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué acción debe evitarse para prevenir errores en desinfección de instrumentos médicos?",
+    "opciones": [
+      "Usar productos específicos para instrumental",
+      "Leer la ficha técnica del desinfectante",
+      "Sumergir instrumentos sin limpiar residuos biológicos",
+      "Utilizar cubetas con tapa"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué factor puede afectar la eficacia del desinfectante en clínicas veterinarias?",
+    "opciones": [
+      "Color de la superficie",
+      "Presencia de materia orgánica",
+      "Frecuencia de uso",
+      "Nivel de iluminación"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué zoonosis puede transmitirse a través del contacto con secreciones nasales de animales infectados en etapa aguda?",
+    "opciones": ["Toxoplasmosis", "Parvovirosis", "Moquillo", "Rabia"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué agente patógeno tiene mayor resistencia ambiental y requiere cloración para su eliminación en agua potable?",
+    "opciones": ["Brucella", "Giardia", "Rabia virus", "Sarcoptes"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué patógeno viral requiere inmunización con vacunas multivalentes desde edad temprana para su prevención?",
+    "opciones": ["Giardia", "Rabia", "Parvovirus canino", "Brucella"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué zoonosis puede transmitirse mediante la manipulación de sangre sin protección durante cirugía?",
+    "opciones": ["Sarna", "Brucelosis", "Moquillo", "Toxoplasmosis"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué patógeno tiene una fase de incubación prolongada, lo que dificulta su detección temprana?",
+    "opciones": ["Rabia", "Parvovirus", "Sarcoptes", "Giardia"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál es el principal mecanismo de control de zoonosis en clínicas veterinarias urbanas?",
+    "opciones": [
+      "Encierro permanente de animales",
+      "Evitar contacto con humanos",
+      "Vacunación, uso de EPP y educación del personal",
+      "Tener mascotas vacunadas en casa"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué zoonosis puede adquirirse por contacto dérmico con heridas expuestas y orina de animales infectados?",
+    "opciones": ["Toxoplasmosis", "Brucelosis", "Rabia", "Leptospirosis"],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué microorganismo es altamente contagioso en ambientes cerrados y afecta a cachorros sin vacunación completa?",
+    "opciones": ["Sarcoptes", "Giardia", "Parvovirus canino", "Toxoplasma"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué zoonosis es más frecuente en humanos inmunosuprimidos y tiene origen felino?",
+    "opciones": ["Parvovirosis", "Toxoplasmosis", "Brucelosis", "Leptospirosis"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué acción del auxiliar ayuda a prevenir brotes de enfermedades infecciosas en albergues?",
+    "opciones": [
+      "Cortar el pelaje regularmente",
+      "Permitir juegos entre todos los animales",
+      "Mantener protocolos sanitarios, limpieza, control de ingreso y fichas sanitarias actualizadas",
+      "Cambiar el alimento a diario"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué herramienta se emplea para verificar si un protocolo de sanidad se está cumpliendo en una clínica?",
+    "opciones": [
+      "Agenda diaria",
+      "Ficha de vacunación",
+      "Lista de chequeo o auditoría sanitaria",
+      "Libro de firmas"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué acción representa una violación al protocolo de bioseguridad en salas de cirugía veterinaria?",
+    "opciones": [
+      "Cambio de guantes entre procedimientos",
+      "Uso de bata quirúrgica",
+      "Ingreso sin gorro ni cubre zapatos",
+      "Uso de mascarilla"
+    ],
+    "correcta": 2
+  }
+  ]
+}

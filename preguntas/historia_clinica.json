@@ -1,0 +1,809 @@
+{
+ "fácil": [
+  {
+    "pregunta": "¿Qué es la historia clínica en medicina veterinaria?",
+    "opciones": [
+      "Un documento legal donde se registran datos y procedimientos del paciente",
+      "Un resumen de vacunas aplicadas",
+      "Un documento exclusivo del propietario",
+      "Una nota informal del veterinario"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Quién es el responsable de llenar correctamente la historia clínica?",
+    "opciones": [
+      "El propietario del animal",
+      "El auxiliar veterinario únicamente",
+      "El personal veterinario autorizado",
+      "El personal de aseo"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es el primer dato que se registra en una historia clínica?",
+    "opciones": [
+      "Tratamiento propuesto",
+      "Firma del veterinario",
+      "Datos del propietario y del paciente",
+      "Peso del animal"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué información incluye la anamnesis?",
+    "opciones": [
+      "Solo el diagnóstico",
+      "Estudios de laboratorio",
+      "Historia médica previa y síntomas actuales",
+      "Firma del propietario"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué debe incluirse en el apartado de identificación del paciente?",
+    "opciones": [
+      "Solo el nombre del propietario",
+      "Nombre, especie, raza, edad y sexo del animal",
+      "Tipo de alimento que consume",
+      "Nombre de la veterinaria"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué documento debe firmar un tutor para autorizar una cirugía?",
+    "opciones": [
+      "Permiso de vacunación",
+      "Autorización de anestesia y procedimiento",
+      "Ficha de seguimiento clínico",
+      "Informe final"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Por qué es importante registrar el peso del animal en la historia clínica?",
+    "opciones": [
+      "Para calcular dosis de medicamentos",
+      "Para impresionar al propietario",
+      "Por rutina estética",
+      "No es necesario si es un perro pequeño"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué tipo de letra debe utilizarse al llenar una historia clínica manual?",
+    "opciones": [
+      "Letra cursiva",
+      "Letra grande y decorada",
+      "Letra clara y legible",
+      "No importa mientras esté firmada"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tipo de firma se requiere en documentos legales como autorizaciones?",
+    "opciones": [
+      "Firma digital del veterinario únicamente",
+      "Firma del auxiliar",
+      "Firma del propietario o tutor responsable",
+      "Solo iniciales"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la función del consentimiento informado?",
+    "opciones": [
+      "Asegurar que el procedimiento sea gratuito",
+      "Liberar a la clínica de responsabilidad legal",
+      "Informar al tutor y obtener su autorización para tratamientos",
+      "Evitar llenar la historia clínica"
+    ],
+    "correcta": 2
+  },
+
+  {
+    "pregunta": "¿Cuál de los siguientes datos NO debe faltar en la ficha de identificación?",
+    "opciones": ["Nombre del veterinario", "Edad del animal", "Raza", "Especie"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué se anota en el apartado de evolución clínica?",
+    "opciones": [
+      "Nombres de los propietarios anteriores",
+      "Cambios en el estado del paciente con fechas",
+      "Solo el tratamiento inicial",
+      "Firma del cliente"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué debe hacerse si un tutor se niega a aplicar un medicamento necesario?",
+    "opciones": [
+      "Nada, se respeta sin registrar",
+      "Solicitar que firme un documento de negativa",
+      "Anotar únicamente en la agenda del día",
+      "Convencerlo sin registrar nada"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo de un formato de eutanasia?",
+    "opciones": [
+      "Autorización escrita del tutor para realizar el procedimiento",
+      "Promover tratamientos paliativos",
+      "Registrar peso y edad",
+      "Evitar trámites legales posteriores"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué documento puede usarse para autorizar la cremación de un paciente fallecido?",
+    "opciones": [
+      "Formato de vacunación",
+      "Formato de eutanasia",
+      "Formato de disposición de restos (cremación)",
+      "Formato de historia previa"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes NO es un documento complementario frecuente?",
+    "opciones": [
+      "Consentimiento informado",
+      "Permiso de anestesia",
+      "Formulario de seguimiento de paseo",
+      "Negativa de tratamiento"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué debe hacer el auxiliar veterinario si detecta un error en la historia clínica escrita?",
+    "opciones": [
+      "Tachar con corrector blanco",
+      "Eliminar el archivo",
+      "Realizar una anotación y firmar la corrección",
+      "Ignorar el error"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué significa la palabra 'anamnesis'?",
+    "opciones": [
+      "Nombre del animal",
+      "Diagnóstico del veterinario",
+      "Relato de antecedentes y síntomas",
+      "Peso del paciente"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Dónde se registran los medicamentos administrados en consulta?",
+    "opciones": [
+      "En la hoja de notas personales",
+      "En el apartado de diagnóstico",
+      "En el campo de tratamiento y evolución",
+      "En el contrato de servicios"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes es un documento válido de autorización legal?",
+    "opciones": [
+      "Nota verbal",
+      "Carta informal escrita a mano",
+      "Documento firmado por el tutor",
+      "Whatsapp del tutor"
+    ],
+    "correcta": 2
+  } 
+ ],
+  "intermedio": [
+  {
+    "pregunta": "¿Qué es el SOAP en una historia clínica veterinaria?",
+    "opciones": [
+      "Un sistema de limpieza quirúrgica",
+      "Un formato de evolución clínica: Subjetivo, Objetivo, Análisis, Plan",
+      "Una fórmula para diagnóstico",
+      "Un resumen de vacunación"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué sección de la historia clínica contiene información sobre temperatura, pulso y frecuencia respiratoria?",
+    "opciones": [
+      "Subjetiva",
+      "Objetiva",
+      "Análisis",
+      "Plan"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué información subjetiva puede registrar un auxiliar veterinario?",
+    "opciones": [
+      "Los resultados del laboratorio",
+      "Los signos que describe el propietario",
+      "El tratamiento recetado",
+      "El nombre del medicamento"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué elemento forma parte de la sección 'Plan' del SOAP?",
+    "opciones": [
+      "Síntomas observados por el tutor",
+      "Exploración física",
+      "Tratamiento sugerido o pruebas diagnósticas",
+      "Raza del animal"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué documento es obligatorio para realizar una eutanasia legalmente?",
+    "opciones": [
+      "Formato de anestesia",
+      "Autorización verbal",
+      "Permiso firmado de eutanasia",
+      "Historia médica previa"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué debe incluir un formato de negativa a tratamiento?",
+    "opciones": [
+      "Solo el nombre del tutor",
+      "Firma del auxiliar",
+      "Descripción del tratamiento y firma del tutor que lo rechaza",
+      "Nombre del medicamento"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué debe incluir un formulario de anestesia?",
+    "opciones": [
+      "Solo nombre y peso del animal",
+      "Autorización del tutor, tipo de anestesia y firma",
+      "Datos del propietario únicamente",
+      "Lista de alergias"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuándo se considera que una historia clínica está completa?",
+    "opciones": [
+      "Cuando tiene mínimo tres hojas",
+      "Cuando está escrita a mano",
+      "Cuando contiene datos del paciente, evolución, tratamientos y firmas necesarias",
+      "Cuando tiene una foto del animal"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué hacer si un propietario niega firmar un documento importante?",
+    "opciones": [
+      "Llamar a la policía",
+      "Ignorar la situación",
+      "Registrar la negativa en la historia y dejar constancia escrita",
+      "Realizar el procedimiento sin autorización"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué se considera mala práctica al diligenciar una historia clínica?",
+    "opciones": [
+      "Registrar todos los tratamientos administrados",
+      "Corregir con línea y firma los errores",
+      "Omitir datos por rapidez",
+      "Solicitar autorizaciones por escrito"
+    ],
+    "correcta": 2
+  },
+
+  {
+    "pregunta": "¿Qué documento respalda legalmente la realización de un procedimiento quirúrgico?",
+    "opciones": [
+      "Factura de pago",
+      "Ficha de peso",
+      "Formato de consentimiento quirúrgico firmado",
+      "Diagnóstico clínico"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué debe hacer el auxiliar si la historia clínica es digital y el sistema falla?",
+    "opciones": [
+      "Esperar a que regrese el internet",
+      "Registrar temporalmente en formato físico",
+      "No atender al paciente",
+      "Decidir sin consultar"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el valor legal de una historia clínica veterinaria bien diligenciada?",
+    "opciones": [
+      "Es un documento privado sin valor legal",
+      "Sirve solo como referencia interna",
+      "Puede ser usada como evidencia legal en caso de reclamos",
+      "Tiene validez solo si está escrita en computadora"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué incluye la evolución clínica del paciente?",
+    "opciones": [
+      "Nombre del auxiliar",
+      "Signos, cambios y observaciones día a día",
+      "Resultados del baño estético",
+      "Nombre del propietario"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué se debe registrar al entregar un paciente hospitalizado a su propietario?",
+    "opciones": [
+      "Hora de salida, estado general y tratamiento a seguir",
+      "Nombre de quien limpió la jaula",
+      "Solo la hora de salida",
+      "Firma del veterinario únicamente"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué se entiende por ficha clínica inicial?",
+    "opciones": [
+      "Es el resumen del día de egreso",
+      "Formato de cirugía",
+      "Documento que registra el primer ingreso del paciente",
+      "Resultado de laboratorio"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué es un historial clínico acumulativo?",
+    "opciones": [
+      "Historial separado por días",
+      "Lista de tratamientos aplicados sin firma",
+      "Historial completo del paciente a lo largo del tiempo",
+      "Fotografías clínicas del paciente"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué debe hacer un auxiliar si detecta que no se firmó un documento obligatorio?",
+    "opciones": [
+      "Falsificar la firma por urgencia",
+      "Llamar al propietario para obtenerla lo antes posible",
+      "Ignorar el problema",
+      "Solicitar la firma del veterinario"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué debe indicar un formato de eutanasia además del consentimiento?",
+    "opciones": [
+      "Raza del animal",
+      "Motivo de eutanasia, estado del paciente y firma",
+      "Número de chip",
+      "Color de pelaje"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué se hace si un tutor se niega a retirar el cuerpo de un paciente fallecido?",
+    "opciones": [
+      "Se espera 5 días",
+      "Se notifica al propietario por escrito y se gestiona la disposición con respaldo legal",
+      "Se deja el cuerpo en refrigeración por tiempo indefinido",
+      "Se entierra en el jardín"
+    ],
+    "correcta": 1
+  }
+],
+  "difícil": [
+  {
+    "pregunta": "¿Qué elemento es esencial para validar legalmente cualquier procedimiento veterinario registrado en historia clínica?",
+    "opciones": [
+      "Firma del auxiliar veterinario",
+      "Sello de la clínica",
+      "Firma del tutor responsable y del veterinario tratante",
+      "Firma de un testigo"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la responsabilidad del auxiliar frente a documentos de negativa firmados por el tutor?",
+    "opciones": [
+      "Archivar correctamente y asegurar su legibilidad",
+      "Reescribirlos para mayor claridad",
+      "Firmarlos solo si el tutor lo exige",
+      "Tramitarlos a nombre del veterinario"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué se debe hacer si una historia clínica tiene páginas faltantes o tachones sin justificar?",
+    "opciones": [
+      "Ignorarlo si no hay reclamos",
+      "Anotar que fue corregido y archivar de nuevo",
+      "Considerarlo una falla grave en diligenciamiento",
+      "Volver a escribir todo el documento"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es el riesgo de aplicar un tratamiento sin dejar constancia en la historia clínica?",
+    "opciones": [
+      "Retrasos en la evolución clínica",
+      "Problemas estéticos del documento",
+      "Complicaciones legales por falta de evidencia",
+      "Confusión en el cobro al cliente"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tipo de lenguaje se recomienda al describir síntomas en la evolución clínica?",
+    "opciones": [
+      "Lenguaje técnico y objetivo",
+      "Lenguaje subjetivo del propietario",
+      "Afirmaciones emocionales",
+      "Lenguaje poético para empatía"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué responsabilidad tiene el auxiliar frente a un error detectado en la evolución clínica?",
+    "opciones": [
+      "Debe corregir con una nueva hoja",
+      "Reportarlo y registrar la corrección con firma",
+      "Ocultarlo para no causar conflictos",
+      "Eliminar la hoja anterior"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué debe contener el documento de consentimiento informado quirúrgico para ser válido?",
+    "opciones": [
+      "Nombre del veterinario únicamente",
+      "Firma del tutor, descripción del procedimiento, riesgos y beneficios",
+      "Fecha y nombre de la mascota",
+      "Tipo de anestesia"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes documentos requiere doble validación en procedimientos sensibles?",
+    "opciones": [
+      "Formato de vacunación",
+      "Autorización de eutanasia",
+      "Registro de peso",
+      "Control de parásitos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué datos deben coincidir siempre entre el consentimiento informado y la historia clínica?",
+    "opciones": [
+      "Nombre del propietario únicamente",
+      "Raza y especie",
+      "Datos del paciente, tipo de procedimiento y fecha",
+      "Número de historia clínica"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué debe hacer un auxiliar si un tutor se rehúsa a firmar el consentimiento informado?",
+    "opciones": [
+      "Proceder sin firma",
+      "Registrar la negativa y suspender el procedimiento",
+      "Solicitar testigo verbal",
+      "Llamar a la policía"
+    ],
+    "correcta": 1
+  },
+
+  {
+    "pregunta": "¿Cuál es la finalidad del registro de evolución clínica en hospitalización prolongada?",
+    "opciones": [
+      "Demostrar trabajo del personal",
+      "Respaldar decisiones clínicas y documentar el progreso del paciente",
+      "Justificar el cobro al tutor",
+      "Revisar turnos de trabajo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué valor tiene el archivo histórico de historias clínicas en una clínica veterinaria?",
+    "opciones": [
+      "Solo sirve para estadísticas",
+      "Carece de valor legal si es antiguo",
+      "Permite seguimiento médico y protección legal",
+      "Solo sirve si hay fotos del paciente"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cómo debe registrarse un tratamiento rechazado por el tutor en una historia digital?",
+    "opciones": [
+      "Solo como nota de evolución",
+      "Como observación sin firma",
+      "Como negativa firmada y archivada en formato digital",
+      "No es necesario registrar"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué debe hacer el auxiliar si se identifica información errada en una historia clínica ya firmada?",
+    "opciones": [
+      "Notificar al veterinario tratante y realizar anotación correctiva firmada",
+      "Corregir directamente sin avisar",
+      "Anular el documento completo",
+      "Reescribir la historia sin fecha"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál es una señal de falta de diligencia en el llenado de la historia clínica?",
+    "opciones": [
+      "Tinta legible",
+      "Campos en blanco sin justificación",
+      "Datos del propietario",
+      "Firma y sello"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué ley en Colombia regula el uso de la historia clínica veterinaria?",
+    "opciones": [
+      "Ley 576 de 2000",
+      "Ley 84 de 1989",
+      "Ley 1801 de 2016",
+      "Ley 9 de 1979"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué debe incluir un formato de disposición final del cuerpo tras la eutanasia?",
+    "opciones": [
+      "Solo el peso",
+      "Nombre del propietario",
+      "Firma del tutor y método de disposición elegido",
+      "Diagnóstico final"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué debe contener el consentimiento de anestesia para ser legal?",
+    "opciones": [
+      "Peso del paciente únicamente",
+      "Nombre del auxiliar",
+      "Riesgos, beneficios, datos del paciente y firma del tutor",
+      "Firma del veterinario"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué consecuencias tiene una historia clínica con datos inconsistentes?",
+    "opciones": [
+      "Pérdida de confianza del cliente",
+      "Sanciones legales y pérdida de soporte en caso de reclamos",
+      "Mayor tiempo en consultas",
+      "Cambio de proveedor"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué protocolo debe seguirse para asegurar confidencialidad en historias clínicas físicas?",
+    "opciones": [
+      "Guardarlas en caja visible",
+      "Compartirlas con quien pregunte",
+      "Almacenarlas bajo llave y restringir el acceso",
+      "Llevarlas a casa para revisarlas"
+    ],
+    "correcta": 2
+  }
+ ],
+  "avanzado": [
+  {
+    "pregunta": "¿Cuál es la diferencia clave entre historia clínica y evolución clínica?",
+    "opciones": [
+      "La historia clínica se crea por el auxiliar y la evolución por el tutor",
+      "La evolución clínica es parte dinámica de la historia y registra cambios del paciente",
+      "La historia clínica es solo para hospitalización",
+      "La evolución clínica contiene solo exámenes diagnósticos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el tiempo mínimo recomendado por ley para conservar una historia clínica en formato físico?",
+    "opciones": [
+      "1 año",
+      "3 años",
+      "5 años",
+      "10 años"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué valor tiene una historia clínica veterinaria en un proceso jurídico?",
+    "opciones": [
+      "Es inadmisible",
+      "Solo prueba interna",
+      "Prueba documental válida",
+      "Solo sirve en clínicas estatales"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la forma correcta de corregir un error en una historia clínica manuscrita?",
+    "opciones": [
+      "Borrarlo con corrector",
+      "Tachar, anotar la corrección y firmar",
+      "Arrancar la hoja y rehacerla",
+      "Ignorar el error"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué debe hacer el auxiliar si el tutor se niega a autorizar un tratamiento urgente?",
+    "opciones": [
+      "Llamar a la policía",
+      "Proceder igual si lo ordena el veterinario",
+      "Registrar negativa por escrito y firmada por el tutor",
+      "No registrar nada"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué elemento NO puede faltar en un consentimiento informado para eutanasia?",
+    "opciones": [
+      "Nombre del auxiliar presente",
+      "Firma del tutor responsable",
+      "Firma de un testigo externo",
+      "Sello de la clínica"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la función del auxiliar veterinario en el diligenciamiento de la historia clínica?",
+    "opciones": [
+      "Solo firmar el ingreso",
+      "Registrar datos con precisión, legibilidad y orden",
+      "Emitir diagnósticos",
+      "Realizar cirugías"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué normatividad colombiana exige el correcto manejo y archivo de historias clínicas?",
+    "opciones": [
+      "Ley 1801 de 2016",
+      "Ley 576 de 2000",
+      "Ley 9 de 1979",
+      "Ley 1774 de 2016"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué consecuencia tiene falsificar datos en una historia clínica?",
+    "opciones": [
+      "Multa económica",
+      "Sanciones ético-disciplinares y consecuencias penales",
+      "Suspensión por 1 semana",
+      "Solo una llamada de atención"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el papel del consentimiento informado en la ética profesional?",
+    "opciones": [
+      "Evitar reclamos del tutor",
+      "Cumplir un trámite administrativo",
+      "Respetar la autonomía del tutor y el bienestar del paciente",
+      "Evitar llenar documentos innecesarios"
+    ],
+    "correcta": 2
+  },
+
+  {
+    "pregunta": "¿Qué dato NO debe omitirse en una historia clínica inicial?",
+    "opciones": [
+      "Nombre de la mascota",
+      "Raza y edad",
+      "Teléfono del veterinario tratante",
+      "Motivo de consulta"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Cuál es la mejor práctica en la administración de medicamentos en hospitalización?",
+    "opciones": [
+      "Administrarlos y registrarlos al final del turno",
+      "No es necesario registrarlos si son rutinarios",
+      "Registrar hora, dosis, vía y quien lo aplicó en historia clínica",
+      "Solo anotarlo en una hoja aparte"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tipo de letra debe usarse en una historia clínica manuscrita?",
+    "opciones": [
+      "Letra cursiva decorativa",
+      "Letra técnica o legible con mayúscula sostenida",
+      "Lápiz para borrar luego",
+      "No importa el tipo de letra"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué hacer si una historia clínica presenta inconsistencias entre las órdenes del veterinario y lo registrado?",
+    "opciones": [
+      "Ajustar sin comunicar",
+      "Notificar y rectificar con firma del responsable",
+      "Borrar todo el contenido",
+      "Ignorarlo si el paciente está bien"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la función del formato de cremación?",
+    "opciones": [
+      "Justificar la eutanasia",
+      "Registrar el servicio de eliminación del cuerpo con consentimiento",
+      "Probar que hubo muerte natural",
+      "Pedir el certificado de defunción"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué procedimiento debe estar SIEMPRE acompañado de consentimiento escrito?",
+    "opciones": [
+      "Baño estético",
+      "Vacunación",
+      "Cirugía bajo anestesia general",
+      "Toma de peso"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué se debe incluir en un consentimiento de transfusión sanguínea?",
+    "opciones": [
+      "Nombre del donante",
+      "Riesgos, beneficios, tipo de sangre y firma del tutor",
+      "Edad del paciente",
+      "Color de pelaje"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué se entiende por auditoría clínica en el contexto veterinario?",
+    "opciones": [
+      "Revisión contable",
+      "Revisión estructural de historias clínicas para evaluar calidad y cumplimiento",
+      "Evaluación estética de documentos",
+      "Control de vacunas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué documentos deben estar firmados por el tutor antes de una cirugía electiva?",
+    "opciones": [
+      "Solo historia clínica inicial",
+      "Formato de anestesia y consentimiento quirúrgico",
+      "Recibo de pago",
+      "Informe clínico"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué debe hacer el auxiliar si encuentra una historia clínica incompleta justo antes del procedimiento?",
+    "opciones": [
+      "Proceder de inmediato",
+      "Esperar la firma sin verificar más",
+      "Detener el proceso y solicitar la documentación correspondiente",
+      "Registrar después del procedimiento"
+    ],
+    "correcta": 2
+  }
+ ]
+}

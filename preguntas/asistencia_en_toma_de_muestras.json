@@ -1,0 +1,1916 @@
+{
+  "facil": 
+[
+{
+      "pregunta": "¿Qué se debe hacer antes de tomar una muestra sanguínea?",
+      "opciones": [
+        "Nada, se toma directamente",
+        "Desinfectar el sitio de punción",
+        "Hacer ejercicio al animal",
+        "Sumergir la aguja en agua"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál es el tubo más común para recolectar sangre con anticoagulante?",
+      "opciones": [
+        "Tubo tapa roja",
+        "Tubo tapa azul",
+        "Tubo tapa lila",
+        "Tubo tapa amarilla"
+      ],
+      "correcta": 2,
+      "imagen": "imagenes/tubo_lila.jpg"
+    },
+    {
+      "pregunta": "¿Qué muestra se utiliza para un examen coprológico?",
+      "opciones": [
+        "Sangre",
+        "Orina",
+        "Heces",
+        "Suero"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cuál es el anticoagulante presente en los tubos tapa lila?",
+      "opciones": [
+        "EDTA",
+        "Heparina",
+        "Citrato",
+        "Fluoruro"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué equipo se usa para tomar una muestra de orina por punción vesical?",
+      "opciones": [
+        "Hisopo estéril",
+        "Tubo con tapa",
+        "Jeringa y aguja",
+        "Bisturí"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué color identifica un tubo con citrato de sodio?",
+      "opciones": [
+        "Rojo",
+        "Azul",
+        "Verde",
+        "Negro"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué se utiliza para rotular correctamente una muestra?",
+      "opciones": [
+        "Etiqueta con nombre, fecha y tipo de muestra",
+        "Solo el nombre del animal",
+        "Color del tubo",
+        "Ninguna identificación"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué tipo de muestra se obtiene con un hisopo estéril?",
+      "opciones": [
+        "Sangre",
+        "Orina",
+        "Muestra de mucosa o secreción",
+        "Suero"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Dónde se debe guardar una muestra de orina para análisis si no se puede procesar de inmediato?",
+      "opciones": [
+        "En el congelador",
+        "En un lugar seco",
+        "A temperatura ambiente",
+        "Refrigerada entre 2–8 °C"
+      ],
+      "correcta": 3
+    },
+    {
+      "pregunta": "¿Qué tubo se utiliza para pruebas bioquímicas en suero?",
+      "opciones": [
+        "Tubo tapa verde",
+        "Tubo tapa roja",
+        "Tubo tapa lila",
+        "Tubo tapa azul"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué aguja se recomienda para toma de muestras sanguíneas en perros grandes?",
+      "opciones": [
+        "25G",
+        "23G",
+        "21G",
+        "30G"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué debe hacer el auxiliar antes de entregar una muestra al laboratorio?",
+      "opciones": [
+        "Revisar etiquetas y condiciones de transporte",
+        "Llamar al dueño del animal",
+        "Eliminar los tubos usados",
+        "Agitar la muestra fuertemente"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué líquido se utiliza para mantener una muestra fecal hasta su análisis?",
+      "opciones": [
+        "Formol diluido",
+        "Suero fisiológico",
+        "Alcohol",
+        "Agua oxigenada"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo ideal para analizar una muestra de orina fresca?",
+      "opciones": [
+        "Después de 8 horas",
+        "En las primeras 30 minutos",
+        "Después de 24 horas",
+        "Entre 3 y 5 horas"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué tipo de recipiente se usa para una muestra de heces?",
+      "opciones": [
+        "Tubo de ensayo",
+        "Frasco estéril con tapa",
+        "Bolsita plástica común",
+        "Copa de plástico"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué se debe hacer si se contamina una muestra?",
+      "opciones": [
+        "Enviar de todos modos",
+        "Informar y tomar una nueva",
+        "Guardar hasta que el veterinario lo decida",
+        "Nada, es normal"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué zona es común para extraer sangre en un perro?",
+      "opciones": [
+        "Vena cefálica",
+        "Aorta",
+        "Arteria carótida",
+        "Vena pulmonar"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué se debe hacer con una muestra mal identificada?",
+      "opciones": [
+        "Etiquetarla de nuevo sin avisar",
+        "Descartarla y repetir la toma",
+        "Conservarla sin cambios",
+        "Enviar así al laboratorio"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué significa hemólisis en una muestra?",
+      "opciones": [
+        "Contaminación con bacterias",
+        "Destrucción de glóbulos rojos",
+        "Falta de suero",
+        "Ausencia de proteínas"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál de estos NO es un error frecuente en la toma de muestras?",
+      "opciones": [
+        "Uso de material estéril",
+        "Contaminación",
+        "Identificación errónea",
+        "Retraso en el transporte"
+      ],
+      "correcta": 0
+    },
+    {
+  "pregunta": "¿Qué método de recolección de orina es menos invasivo?",
+  "opciones": [
+    "Cateterismo",
+    "Punción vesical",
+    "Recolección espontánea",
+    "Biopsia vesical"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Cuál es el anticoagulante del tubo con tapa verde?",
+  "opciones": [
+    "Heparina",
+    "EDTA",
+    "Citrato",
+    "Fluoruro de sodio"
+  ],
+  "correcta": 0
+},
+{
+  "pregunta": "¿Qué acción ayuda a prevenir la hemólisis al tomar una muestra?",
+  "opciones": [
+    "Usar aguja muy fina",
+    "Agitar con fuerza",
+    "Aspirar suavemente",
+    "Exponer al sol"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Qué debe evitarse al llenar tubos con anticoagulante?",
+  "opciones": [
+    "Mezclar suavemente",
+    "Llenarlos completamente",
+    "Agitar con fuerza",
+    "Rotularlos"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Qué se evalúa en una citología vaginal?",
+  "opciones": [
+    "Hormonas",
+    "Bacterias intestinales",
+    "Células del epitelio vaginal",
+    "Ácido úrico"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Qué tipo de muestra se puede tomar con cinta adhesiva transparente?",
+  "opciones": [
+    "Orina",
+    "Muestra de piel para parásitos",
+    "Saliva",
+    "Sangre"
+  ],
+  "correcta": 1,
+  "imagen": "imagenes/cinta_piel.jpg"
+},
+{
+  "pregunta": "¿Cuál es un error al tomar muestra con jeringa?",
+  "opciones": [
+    "Usar aguja estéril",
+    "Aspirar lentamente",
+    "Transferir sangre por presión",
+    "Rotular el tubo"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Qué muestra requiere jeringa sin anticoagulante?",
+  "opciones": [
+    "Suero para bioquímica",
+    "Hemograma",
+    "Coprológico",
+    "Cultivo de orina"
+  ],
+  "correcta": 0
+},
+{
+  "pregunta": "¿Qué significa una muestra lipémica?",
+  "opciones": [
+    "Contiene grasa",
+    "Tiene bacterias",
+    "Contiene parásitos",
+    "Es estéril"
+  ],
+  "correcta": 0
+},
+{
+  "pregunta": "¿Qué muestra es útil para detectar cristales urinarios?",
+  "opciones": [
+    "Orina fresca centrifugada",
+    "Sangre completa",
+    "Frotis fecal",
+    "Suero con anticoagulante"
+  ],
+  "correcta": 0
+},
+{
+  "pregunta": "¿Qué cantidad mínima de orina se requiere para un análisis básico?",
+  "opciones": [
+    "20 ml",
+    "10 ml",
+    "5 ml",
+    "1 ml"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Qué equipo se recomienda para recolección de secreciones óticas?",
+  "opciones": [
+    "Tubo rojo",
+    "Jeringa con aguja",
+    "Hisopo estéril",
+    "Cinta adhesiva"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Qué muestra puede recolectarse con guantes y bolsa plástica en caninos?",
+  "opciones": [
+    "Orina",
+    "Heces",
+    "Sangre",
+    "Saliva"
+  ],
+  "correcta": 1
+},
+{
+  "pregunta": "¿Qué se debe evitar durante el transporte de muestras biológicas?",
+  "opciones": [
+    "Uso de contenedores herméticos",
+    "Rotulación adecuada",
+    "Exposición a calor",
+    "Refrigeración"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Cuál de estas opciones es un recipiente adecuado para muestras fecales?",
+  "opciones": [
+    "Tubo de sangre",
+    "Jeringa",
+    "Frasco estéril",
+    "Caja de cartón"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Qué examen puede solicitarse con muestra de piel?",
+  "opciones": [
+    "Bioquímica sérica",
+    "Hemograma",
+    "Cultivo micológico",
+    "Tiempos de coagulación"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Qué acción invalida una muestra de sangre coagulada?",
+  "opciones": [
+    "Usar tubo con EDTA",
+    "No mezclar tras la toma",
+    "Refrigerarla",
+    "Transportarla rápido"
+  ],
+  "correcta": 1
+},
+{
+  "pregunta": "¿Qué instrumento se utiliza para recolectar orina por cateterismo?",
+  "opciones": [
+    "Guantes quirúrgicos",
+    "Aguja hipodérmica",
+    "Catéter urinario",
+    "Pipeta"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Qué se debe hacer tras llenar un tubo con anticoagulante?",
+  "opciones": [
+    "Agitar con fuerza",
+    "Descartar el tapón",
+    "Invertir suavemente varias veces",
+    "Exponer al sol"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Qué error puede causar la ruptura de células sanguíneas?",
+  "opciones": [
+    "Extracción lenta",
+    "Uso de tubo sin anticoagulante",
+    "Aspiración brusca",
+    "Rotulación incompleta"
+  ],
+  "correcta": 2
+}
+],
+  "intermedio": 
+[
+ {
+      "pregunta": "¿Cuál es el volumen mínimo ideal de sangre para un hemograma en un paciente felino?",
+      "opciones": [
+        "0.5 ml",
+        "1 ml",
+        "3 ml",
+        "5 ml"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué anticoagulante es más utilizado para pruebas de coagulación?",
+      "opciones": [
+        "Heparina",
+        "Citrato de sodio",
+        "EDTA",
+        "Fluoruro de sodio"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué puede interferir en el análisis de orina si no se procesa a tiempo?",
+      "opciones": [
+        "Incremento de bilirrubina",
+        "Proliferación bacteriana",
+        "Incremento de proteínas",
+        "Disminución de creatinina"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué tubo se recomienda para análisis de glucosa en sangre?",
+      "opciones": [
+        "Tubo con citrato",
+        "Tubo con EDTA",
+        "Tubo con fluoruro de sodio",
+        "Tubo sin anticoagulante"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué indica la presencia de cristales de estruvita en orina?",
+      "opciones": [
+        "Infección bacteriana",
+        "Ambiente urinario alcalino",
+        "Deshidratación",
+        "Presión arterial alta"
+      ],
+      "correcta": 1
+    },
+    {
+  "pregunta": "¿Cuál es el efecto de agitar bruscamente una muestra con anticoagulante?",
+  "opciones": [
+    "Se mezcla mejor",
+    "Provoca hemólisis",
+    "No tiene efecto",
+    "Genera coagulación"
+  ],
+  "correcta": 1
+},
+{
+  "pregunta": "¿Qué parámetro no puede evaluarse en una muestra de orina almacenada por más de 12 horas?",
+  "opciones": [
+    "Color",
+    "Densidad",
+    "Sedimento",
+    "Células epiteliales"
+  ],
+  "correcta": 3
+},
+{
+  "pregunta": "¿Cuál es el método más preciso para obtener una muestra de orina estéril?",
+  "opciones": [
+    "Recolección espontánea",
+    "Cinta adhesiva",
+    "Cateterismo",
+    "Cistocentesis"
+  ],
+  "correcta": 3
+},
+{
+  "pregunta": "¿Qué tubo se utiliza para pruebas de coagulación como el tiempo de protrombina?",
+  "opciones": [
+    "Tubo tapa lila",
+    "Tubo tapa azul",
+    "Tubo tapa roja",
+    "Tubo tapa verde"
+  ],
+  "correcta": 1
+},
+{
+  "pregunta": "¿Qué tipo de muestra se toma para una citología de oído?",
+  "opciones": [
+    "Frotis con cinta",
+    "Hisopo seco",
+    "Hisopo humedecido con solución salina",
+    "Cepillado con gasa"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Cuál es el volumen máximo recomendado de sangre total en una toma única en caninos?",
+  "opciones": [
+    "1% del peso corporal",
+    "10% del volumen plasmático",
+    "5% del volumen corporal",
+    "1 ml por kg"
+  ],
+  "correcta": 0
+},
+{
+  "pregunta": "¿Qué método es más utilizado para recolectar orina en gatos en casa?",
+  "opciones": [
+    "Cinta adhesiva",
+    "Recolección directa en arenero limpio sin arena",
+    "Cistocentesis",
+    "Frotis con hisopo"
+  ],
+  "correcta": 1
+},
+{
+  "pregunta": "¿Qué error se asocia comúnmente al uso de agujas muy delgadas para toma de sangre?",
+  "opciones": [
+    "Contaminación bacteriana",
+    "Muestra diluida",
+    "Hemólisis",
+    "Lisis proteica"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Qué se debe hacer inmediatamente después de obtener una muestra de sangre en jeringa?",
+  "opciones": [
+    "Guardar la jeringa vertical",
+    "Pasar la muestra al tubo correspondiente",
+    "Congelarla",
+    "Agitar fuerte"
+  ],
+  "correcta": 1
+},
+{
+  "pregunta": "¿Qué tubo debe evitarse para pruebas de química sérica?",
+  "opciones": [
+    "Tubo rojo",
+    "Tubo tapa amarilla",
+    "Tubo tapa lila",
+    "Tubo con gel separador"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Cuál es el efecto de una muestra lipémica en pruebas bioquímicas?",
+  "opciones": [
+    "Aumenta la hemoglobina",
+    "No tiene efecto",
+    "Interfiere en la lectura de los parámetros",
+    "Facilita la lectura"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Qué tipo de muestra se puede obtener mediante raspado cutáneo profundo?",
+  "opciones": [
+    "Células epiteliales",
+    "Parásitos intradérmicos",
+    "Bacterias intestinales",
+    "Cristales urinarios"
+  ],
+  "correcta": 1
+},
+{
+  "pregunta": "¿Qué indica la presencia de cilindros en el sedimento urinario?",
+  "opciones": [
+    "Hidratación óptima",
+    "Inflamación intestinal",
+    "Daño renal",
+    "Desnutrición"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Qué se debe usar para tomar una muestra para frotis sanguíneo?",
+  "opciones": [
+    "Aguja 18G",
+    "Capilar o gota con portaobjetos",
+    "Jeringa con EDTA",
+    "Pipeta automática"
+  ],
+  "correcta": 1
+},
+{
+  "pregunta": "¿Qué color indica un tubo con EDTA?",
+  "opciones": [
+    "Rojo",
+    "Verde",
+    "Lila o morado",
+    "Azul"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Qué tipo de examen se hace con una muestra de secreción ocular?",
+  "opciones": [
+    "Coprológico",
+    "Citología",
+    "Cultivo fúngico",
+    "Electroforesis"
+  ],
+  "correcta": 1
+},
+{
+  "pregunta": "¿Qué se evalúa comúnmente en una muestra de orina centrifugada?",
+  "opciones": [
+    "pH y densidad",
+    "Cristales, células, cilindros y bacterias",
+    "Proteínas y glucosa",
+    "Urobilinógeno y bilirrubina"
+  ],
+  "correcta": 1
+},
+{
+  "pregunta": "¿Qué método se utiliza para tomar una muestra de piel para ácaros?",
+  "opciones": [
+    "Raspado superficial con bisturí",
+    "Raspado profundo con bisturí",
+    "Frotis con gasa",
+    "Aspirado con aguja"
+  ],
+  "correcta": 1
+},
+{
+  "pregunta": "¿Qué pasa si una muestra urinaria se mantiene a temperatura ambiente por mucho tiempo?",
+  "opciones": [
+    "Se conserva mejor",
+    "Aumenta la presencia de sedimento",
+    "Se contamina y alteran los resultados",
+    "Desaparecen las bacterias"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Para qué sirve el tubo con tapa amarilla con gel separador?",
+  "opciones": [
+    "Cultivo bacteriano",
+    "Estudios citológicos",
+    "Bioquímica clínica",
+    "Coagulación"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Cuál es el nombre del instrumento para conteo de eritrocitos manual?",
+  "opciones": [
+    "Espectrofotómetro",
+    "Microscopio",
+    "Cámara de Neubauer",
+    "Centrífuga"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Qué material se utiliza en una muestra coprológica directa?",
+  "opciones": [
+    "Tubo con EDTA",
+    "Frotis de sangre",
+    "Lámina y solución salina",
+    "Papel filtro"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Qué sustancia es incompatible con pruebas de coagulación?",
+  "opciones": [
+    "Citrato",
+    "EDTA",
+    "Suero",
+    "NaCl"
+  ],
+  "correcta": 1
+},
+{
+  "pregunta": "¿Qué volumen mínimo de orina se recomienda para análisis completo?",
+  "opciones": [
+    "1 ml",
+    "2 ml",
+    "5 ml",
+    "10 ml"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Qué coloración se usa frecuentemente para evaluar frotis sanguíneos?",
+  "opciones": [
+    "Ziehl-Neelsen",
+    "Giemsa o Wright",
+    "Gram",
+    "Tricrómica"
+  ],
+  "correcta": 1
+},
+{
+  "pregunta": "¿Qué error puede falsear un resultado de glucosa en sangre?",
+  "opciones": [
+    "Uso de EDTA",
+    "Demora en el procesamiento",
+    "Exceso de agitación",
+    "Color del tubo"
+  ],
+  "correcta": 1
+},
+{
+  "pregunta": "¿Qué equipo se requiere para realizar una cistocentesis?",
+  "opciones": [
+    "Jeringa, aguja y alcohol",
+    "Hisopo y tubo EDTA",
+    "Catéter urinario",
+    "Guantes y gasas"
+  ],
+  "correcta": 0
+},
+{
+  "pregunta": "¿Qué se observa mejor con una citología auricular teñida con Diff-Quik?",
+  "opciones": [
+    "Parásitos intestinales",
+    "Cristales urinarios",
+    "Levaduras y bacterias",
+    "Coágulos sanguíneos"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Qué parámetro es importante medir en orina para evaluar función renal?",
+  "opciones": [
+    "Color",
+    "Glucosa",
+    "Densidad",
+    "Cilindros"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Cuál es la principal causa de una muestra hemolizada?",
+  "opciones": [
+    "Agitación suave",
+    "Mala técnica de punción",
+    "Tubo sin etiquetar",
+    "Refrigeración rápida"
+  ],
+  "correcta": 1
+},
+{
+  "pregunta": "¿Qué acción permite conservar la integridad celular en una muestra sanguínea?",
+  "opciones": [
+    "Centrifugar de inmediato",
+    "Evitar exposición a luz solar",
+    "Mezclar suavemente con anticoagulante",
+    "Congelar la muestra"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Para qué tipo de muestra se utiliza solución salina templada?",
+  "opciones": [
+    "Citoquímica hepática",
+    "Frotis vaginal",
+    "Recolección de parásitos de piel",
+    "Aspirado de médula"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Qué se debe hacer si una muestra de orina tiene presencia de sangre visible?",
+  "opciones": [
+    "Descartarla",
+    "Diluirla con suero",
+    "Anotar la observación y procesarla igual",
+    "Mezclar con citrato"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Qué prueba es útil para determinar la gravedad de una infección urinaria?",
+  "opciones": [
+    "pH urinario",
+    "Bacteriología y antibiograma",
+    "Color de la orina",
+    "Tira reactiva"
+  ],
+  "correcta": 1
+},
+{
+  "pregunta": "¿Cuál es la razón para refrigerar una muestra si no se analiza de inmediato?",
+  "opciones": [
+    "Evitar evaporación",
+    "Conservar proteínas",
+    "Prevenir crecimiento bacteriano",
+    "Evitar coágulos"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Qué material se usa para una tinción rápida de citología?",
+  "opciones": [
+    "Azul de metileno",
+    "Colorantes de Gram",
+    "Reactivos Diff-Quik",
+    "Formol al 10%"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Qué indicación tiene el uso de jeringas de insulina en muestras de neonatos?",
+  "opciones": [
+    "Menor riesgo de hemólisis",
+    "Evita contaminación",
+    "Permite congelar la muestra",
+    "Se puede almacenar directamente"
+  ],
+  "correcta": 0
+},
+{
+  "pregunta": "¿Qué puede afectar la lectura de proteína en orina si no se filtra el sedimento?",
+  "opciones": [
+    "Color",
+    "Presencia de cristales",
+    "pH",
+    "Densidad"
+  ],
+  "correcta": 1
+},
+{
+  "pregunta": "¿Qué instrumento permite evaluar la densidad urinaria?",
+  "opciones": [
+    "Cámara de Neubauer",
+    "Refractómetro",
+    "Microscopio",
+    "Colorímetro"
+  ],
+  "correcta": 1
+},
+{
+  "pregunta": "¿Cuál es el riesgo de usar tubos húmedos para muestras de sangre?",
+  "opciones": [
+    "Coagulación acelerada",
+    "Dilución de la muestra",
+    "Contaminación química",
+    "Mayor volumen de suero"
+  ],
+  "correcta": 1
+},
+{
+  "pregunta": "¿Qué se puede observar en un frotis fecal con Lugol?",
+  "opciones": [
+    "Cristales urinarios",
+    "Huevos de parásitos",
+    "Proteínas plasmáticas",
+    "Glóbulos blancos"
+  ],
+  "correcta": 1
+},
+{
+  "pregunta": "¿Qué examen requiere preparación previa del paciente (ayuno)?",
+  "opciones": [
+    "Urianálisis",
+    "Citología vaginal",
+    "Bioquímica sérica",
+    "Coprológico directo"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Qué tubo no contiene anticoagulante?",
+  "opciones": [
+    "Tubo rojo",
+    "Tubo lila",
+    "Tubo azul",
+    "Tubo verde"
+  ],
+  "correcta": 0
+},
+{
+  "pregunta": "¿Qué resultado puede dar una muestra contaminada con desinfectante?",
+  "opciones": [
+    "Lectura más precisa",
+    "Alteración de pH y componentes químicos",
+    "Aumento de densidad",
+    "Mejor conservación"
+  ],
+  "correcta": 1
+},
+{
+  "pregunta": "¿Cuál es el orden correcto para el llenado de tubos en extracción múltiple?",
+  "opciones": [
+    "Lila, azul, rojo",
+    "Rojo, azul, lila",
+    "Azul, rojo, lila",
+    "Lila, rojo, azul"
+  ],
+  "correcta": 2
+}
+],
+  "dificil": 
+[
+{
+  "pregunta": "¿Cuál es la causa más frecuente de error preanalítico en muestras sanguíneas?",
+  "opciones": [
+    "Contaminación cruzada en laboratorio",
+    "Hemólisis por mala técnica de extracción",
+    "Falla en el equipo automatizado",
+    "Uso de anticoagulante incompatible"
+  ],
+  "correcta": 1
+},
+{
+  "pregunta": "¿Qué ocurre si una muestra de orina se alcaliniza por almacenamiento prolongado?",
+  "opciones": [
+    "Precipitación de cristales de oxalato",
+    "Incremento de células epiteliales",
+    "Formación de cristales de estruvita",
+    "Falsos negativos en glucosa"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Qué sustancia debe evitarse en la limpieza del sitio de toma para cultivo bacteriológico?",
+  "opciones": [
+    "Clorhexidina al 4%",
+    "Alcohol isopropílico",
+    "Yodo povidona",
+    "Hipoclorito de sodio"
+  ],
+  "correcta": 3
+},
+{
+  "pregunta": "¿Qué tipo de muestra se requiere para una prueba de ACTH endógeno?",
+  "opciones": [
+    "Sangre en tubo con EDTA congelada",
+    "Orina refrigerada 24 horas",
+    "Suero en tubo seco",
+    "Saliva estimulada"
+  ],
+  "correcta": 0
+},
+{
+  "pregunta": "¿Qué puede causar un recuento erróneo de leucocitos en una muestra mal conservada?",
+  "opciones": [
+    "Cristalización de proteínas",
+    "Lisis celular",
+    "Falsos negativos en proteínas",
+    "Desnaturalización del suero"
+  ],
+  "correcta": 1
+},
+{
+  "pregunta": "¿Qué tipo de anticoagulante puede interferir con la medición de calcio en plasma?",
+  "opciones": [
+    "EDTA",
+    "Heparina",
+    "Citrato",
+    "Fluoruro"
+  ],
+  "correcta": 0
+},
+{
+  "pregunta": "¿Cuál es el intervalo máximo recomendado entre la recolección de orina y su análisis?",
+  "opciones": [
+    "15 minutos",
+    "30 minutos",
+    "1 hora",
+    "2 horas"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Qué tubo debe utilizarse para pruebas hormonales como T4 y cortisol?",
+  "opciones": [
+    "Tubo tapa roja sin aditivo",
+    "Tubo con EDTA",
+    "Tubo con citrato",
+    "Tubo con fluoruro"
+  ],
+  "correcta": 0
+},
+{
+  "pregunta": "¿Qué precaución se debe tener al realizar una punción en la vena yugular de un felino?",
+  "opciones": [
+    "Evitar restricción",
+    "Usar catéter corto",
+    "Aplicar presión excesiva post-punción",
+    "Controlar firmemente la cabeza y evitar movimientos"
+  ],
+  "correcta": 3
+},
+{
+  "pregunta": "¿Qué parámetro puede verse alterado si se centrifuga una muestra de sangre sin esperar la coagulación?",
+  "opciones": [
+    "Tiempo de protrombina",
+    "Niveles de enzimas hepáticas",
+    "Volumen celular",
+    "Separación del suero"
+  ],
+  "correcta": 3
+},
+{
+  "pregunta": "¿Qué condición puede alterar la lectura de glucosa si la sangre no se procesa rápidamente?",
+  "opciones": [
+    "Lisis de plaquetas",
+    "Consumo de glucosa por células",
+    "Hemoconcentración",
+    "Aumento del pH"
+  ],
+  "correcta": 1
+},
+{
+  "pregunta": "¿Cuál es el riesgo de una muestra de orina recolectada del suelo?",
+  "opciones": [
+    "Deshidratación",
+    "Dilución",
+    "Contaminación bacteriana",
+    "Cristalización"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Qué puede causar errores en la interpretación del sedimento urinario si no se centrifuga adecuadamente?",
+  "opciones": [
+    "Cambio de color",
+    "Formación de burbujas",
+    "Pérdida de células y cristales",
+    "Aumento de densidad"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Cuál es el anticoagulante ideal para realizar hemogramas?",
+  "opciones": [
+    "Citrato",
+    "EDTA",
+    "Heparina",
+    "Fluoruro de sodio"
+  ],
+  "correcta": 1
+},
+{
+  "pregunta": "¿Qué parámetro bioquímico se altera si una muestra es lipémica?",
+  "opciones": [
+    "Creatinina",
+    "Urea",
+    "Triglicéridos",
+    "Calcio"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Qué precaución se debe tener al tomar muestras para análisis de gases sanguíneos?",
+  "opciones": [
+    "Evitar la exposición al aire",
+    "Agitar fuertemente la muestra",
+    "Almacenar a temperatura ambiente",
+    "Usar tubo con EDTA"
+  ],
+  "correcta": 0
+},
+{
+  "pregunta": "¿Qué pasa si una muestra urinaria se acidifica excesivamente?",
+  "opciones": [
+    "Aumenta el recuento de bacterias",
+    "Favorece cristales de oxalato",
+    "Destruye los leucocitos",
+    "Aumenta la glucosuria"
+  ],
+  "correcta": 1
+},
+{
+  "pregunta": "¿Cuál es la mejor forma de recolectar muestra fecal para Giardia spp.?",
+  "opciones": [
+    "Con gasa seca",
+    "Muestra fresca directa",
+    "Mezcla con formol",
+    "Raspado rectal"
+  ],
+  "correcta": 1
+},
+{
+  "pregunta": "¿Qué muestra se requiere para el diagnóstico de Ehrlichiosis mediante frotis?",
+  "opciones": [
+    "Sangre periférica",
+    "Orina",
+    "Líquido sinovial",
+    "Aspirado esplénico"
+  ],
+  "correcta": 0
+},
+{
+  "pregunta": "¿Qué error puede ocurrir si no se homogeniza la muestra con anticoagulante?",
+  "opciones": [
+    "Falsa coagulación",
+    "Deshidratación",
+    "Dilución excesiva",
+    "Incremento de neutrófilos"
+  ],
+  "correcta": 0
+},
+{
+  "pregunta": "¿Qué puede provocar un falso aumento de densidad urinaria en el refractómetro?",
+  "opciones": [
+    "pH ácido",
+    "Glucosa y proteínas en orina",
+    "Dilución por agua destilada",
+    "Muestra almacenada en frío"
+  ],
+  "correcta": 1
+},
+{
+  "pregunta": "¿Qué muestra es adecuada para evaluar función pancreática exocrina?",
+  "opciones": [
+    "Suero para TLI",
+    "Orina",
+    "Líquido abdominal",
+    "Frotis fecal"
+  ],
+  "correcta": 0
+},
+{
+  "pregunta": "¿Qué tipo de error es la toma de sangre sin identificación previa del paciente?",
+  "opciones": [
+    "Analítico",
+    "Preanalítico",
+    "Postanalítico",
+    "Administrativo"
+  ],
+  "correcta": 1
+},
+{
+  "pregunta": "¿Cuál es el anticoagulante más usado para gasometría?",
+  "opciones": [
+    "Heparina",
+    "EDTA",
+    "Fluoruro",
+    "Citrato"
+  ],
+  "correcta": 0
+},
+{
+  "pregunta": "¿Qué puede ocurrir si se centrifuga la orina con alta velocidad?",
+  "opciones": [
+    "Concentración de proteínas",
+    "Hemólisis",
+    "Lisis celular del sedimento",
+    "Aumento del pH"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Cuál es la principal fuente de contaminación en citologías cutáneas?",
+  "opciones": [
+    "Alcohol residual en la piel",
+    "Sudoración del animal",
+    "Material del portaobjetos",
+    "Contacto con guantes"
+  ],
+  "correcta": 0
+},
+{
+  "pregunta": "¿Qué parámetro de sangre requiere muestra en ayuno estricto?",
+  "opciones": [
+    "Urea",
+    "Glucosa",
+    "Triglicéridos",
+    "Creatinina"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Qué procedimiento se recomienda al tomar muestras para citología vaginal?",
+  "opciones": [
+    "Aspiración con jeringa",
+    "Hisopo húmedo y frotis",
+    "Pinza hemostática",
+    "Catéter uretral"
+  ],
+  "correcta": 1
+},
+{
+  "pregunta": "¿Qué muestra es útil para identificar coccidios intestinales?",
+  "opciones": [
+    "Orina sedimentada",
+    "Raspado rectal",
+    "Flotación fecal",
+    "Muestra de bilis"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Qué indicador puede confundirse con cristales en sedimento si no se usa la tinción adecuada?",
+  "opciones": [
+    "Eritrocitos",
+    "Grasa",
+    "Leucocitos",
+    "Células de transición"
+  ],
+  "correcta": 1
+},
+{
+  "pregunta": "¿Qué examen requiere refrigeración inmediata tras la toma para evitar proliferación bacteriana?",
+  "opciones": [
+    "Citología auricular",
+    "Urocultivo",
+    "Hemograma",
+    "Frotis de médula"
+  ],
+  "correcta": 1
+},
+{
+  "pregunta": "¿Cuál es la función del tubo con citrato de sodio?",
+  "opciones": [
+    "Coagulación",
+    "Bioquímica general",
+    "Evaluar gases",
+    "Examen coprológico"
+  ],
+  "correcta": 0
+},
+{
+  "pregunta": "¿Qué técnica se recomienda para preservar la integridad de una muestra de piel sospechosa de hongos?",
+  "opciones": [
+    "Raspado con bisturí",
+    "Frotis con suero fisiológico",
+    "Cepillado seco y envase estéril",
+    "Hisopado con formol"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Qué artefacto aparece en el sedimento urinario si hay refrigeración prolongada sin agitación previa?",
+  "opciones": [
+    "Cristales amorfos",
+    "Cilindros hemáticos",
+    "Células epiteliales intactas",
+    "Bacterias en forma de cadena"
+  ],
+  "correcta": 0
+},
+{
+  "pregunta": "¿Qué anticoagulante es el menos adecuado para análisis hematológicos automatizados?",
+  "opciones": [
+    "EDTA",
+    "Citrato",
+    "Fluoruro",
+    "Heparina"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Qué puede indicar un aumento de células escamosas en una citología vaginal?",
+  "opciones": [
+    "Ovulación",
+    "Proestro",
+    "Anestro",
+    "Metestro"
+  ],
+  "correcta": 0
+},
+{
+  "pregunta": "¿Qué variable es crítica para la interpretación del sedimento urinario?",
+  "opciones": [
+    "pH",
+    "Color",
+    "Temperatura ambiente",
+    "Densidad proteica"
+  ],
+  "correcta": 0
+},
+{
+  "pregunta": "¿Qué complicación puede surgir si se repite una punción venosa muchas veces en el mismo sitio?",
+  "opciones": [
+    "Hemólisis leve",
+    "Trombosis o fibrosis",
+    "Mayor recuento de glóbulos blancos",
+    "Aumento de proteínas plasmáticas"
+  ],
+  "correcta": 1
+},
+{
+  "pregunta": "¿Qué prueba permite observar estructuras parasitarias ocultas en heces con más precisión?",
+  "opciones": [
+    "Flotación con solución saturada",
+    "Tinción de Gram",
+    "Frotis directo sin tinción",
+    "Centrifugación con azul de metileno"
+  ],
+  "correcta": 0
+},
+{
+  "pregunta": "¿Qué riesgo existe al usar jeringas con aire residual en muestras para gasometría?",
+  "opciones": [
+    "Falsos aumentos de glucosa",
+    "Contaminación con bacterias",
+    "Alteración de presión parcial de gases",
+    "Fragmentación de células"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Qué se recomienda para evitar contaminación cruzada entre tubos en extracciones múltiples?",
+  "opciones": [
+    "Llenarlos al azar",
+    "Usar anticoagulante en todos",
+    "Respetar orden de llenado",
+    "Reutilizar agujas entre tubos"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Qué método permite recolectar orina estéril sin contaminación uretral?",
+  "opciones": [
+    "Cateterismo vesical",
+    "Micción espontánea",
+    "Punción vesical con aguja (cistocentesis)",
+    "Recolección manual"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Qué efecto tiene una muestra lipémica en los análisis de suero?",
+  "opciones": [
+    "Mejora la precisión",
+    "Aumenta los niveles de albúmina",
+    "Interfiere con la medición fotométrica",
+    "Favorece la formación de cristales"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Qué parámetro puede alterarse si la sangre es almacenada a temperatura ambiente por más de 2 horas?",
+  "opciones": [
+    "Hematocrito",
+    "Tiempo de protrombina",
+    "Glucosa",
+    "Urea"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Qué tubo es ideal para un hemograma completo en veterinaria?",
+  "opciones": [
+    "Tubo con citrato",
+    "Tubo con EDTA",
+    "Tubo seco",
+    "Tubo con heparina"
+  ],
+  "correcta": 1
+},
+{
+  "pregunta": "¿Qué problema genera mezclar muestras con fuerza o agitación intensa?",
+  "opciones": [
+    "Aumenta la calidad de la muestra",
+    "Evita la coagulación",
+    "Genera hemólisis",
+    "Disminuye el volumen de suero"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Qué procedimiento evita la formación de coágulos en tubos con anticoagulante?",
+  "opciones": [
+    "Centrifugar de inmediato",
+    "Congelar la muestra",
+    "Invertir suavemente varias veces",
+    "Exponer a la luz"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Qué ocurre si no se agita el tubo de citrato tras la toma de muestra?",
+  "opciones": [
+    "La muestra se inactiva",
+    "Coagulación parcial y resultado erróneo",
+    "Mayor viscosidad",
+    "Incremento de la glucosa"
+  ],
+  "correcta": 1
+},
+{
+  "pregunta": "¿Qué muestra requiere refrigeración pero no congelación?",
+  "opciones": [
+    "Suero para análisis enzimático",
+    "Orina para sedimento",
+    "Sangre para hemograma",
+    "Frotis vaginal"
+  ],
+  "correcta": 1
+},
+{
+  "pregunta": "¿Qué señal indica deterioro de una muestra almacenada por mucho tiempo?",
+  "opciones": [
+    "Color cristalino",
+    "Presencia de burbujas",
+    "Cambio de color y olor",
+    "Incremento de volumen"
+  ],
+  "correcta": 2
+}
+],
+  "avanzado": 
+[
+{
+  "pregunta": "¿Qué técnica de recolección urinaria proporciona la muestra más estéril y directa para cultivo?",
+  "opciones": [
+    "Micción espontánea",
+    "Cateterismo uretral",
+    "Punción vesical (cistocentesis)",
+    "Recolección post compresión abdominal"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Qué parámetro puede falsamente elevarse si se exprime la sangre con jeringa al llenar el tubo?",
+  "opciones": [
+    "Glucosa",
+    "Bilirrubina",
+    "Potasio",
+    "Urea"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Qué muestra se utiliza para el diagnóstico de parásitos hemáticos mediante PCR?",
+  "opciones": [
+    "Suero refrigerado",
+    "Frotis teñido",
+    "Sangre con EDTA",
+    "Plasma con citrato"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Qué tipo de cristal urinario es indicativo de alcalinidad y puede ser hallado en orinas almacenadas?",
+  "opciones": [
+    "Cristales de oxalato de calcio",
+    "Cristales de urato amónico",
+    "Cristales de estruvita",
+    "Cristales de tirosina"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Qué ocurre si una muestra de sangre con anticoagulante se centrifuga antes de mezclar adecuadamente?",
+  "opciones": [
+    "Formación de coágulos parciales",
+    "Destrucción de eritrocitos",
+    "Inactivación del anticoagulante",
+    "Falsos valores en sodio"
+  ],
+  "correcta": 0
+},
+{
+  "pregunta": "¿Qué tipo de error ocurre al etiquetar un tubo con el nombre de otro paciente?",
+  "opciones": [
+    "Preanalítico",
+    "Postanalítico",
+    "Técnico",
+    "Analítico"
+  ],
+  "correcta": 0
+},
+{
+  "pregunta": "¿Cuál es el anticoagulante recomendado para análisis de fibrinógeno en plasma?",
+  "opciones": [
+    "EDTA",
+    "Citrato de sodio",
+    "Heparina",
+    "Fluoruro de sodio"
+  ],
+  "correcta": 1
+},
+{
+  "pregunta": "¿Qué se debe evitar al recolectar orina para examen físico-químico y microscópico?",
+  "opciones": [
+    "Refrigeración inmediata",
+    "Toma con recipiente estéril",
+    "Uso de torundas con antiséptico",
+    "Centrifugación a baja velocidad"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Qué componente puede interferir en la lectura fotométrica de un analizador bioquímico?",
+  "opciones": [
+    "Coagulación",
+    "Turbidez (lipemia)",
+    "EDTA",
+    "Bilirrubina baja"
+  ],
+  "correcta": 1
+},
+{
+  "pregunta": "¿Cuál es la complicación más común al realizar una venopunción yugular sin control de movimiento?",
+  "opciones": [
+    "Error en volumen recolectado",
+    "Contaminación con saliva",
+    "Rotura de aguja",
+    "Hematoma o extravasación"
+  ],
+  "correcta": 3
+},
+{
+  "pregunta": "¿Qué prueba requiere estricta protección de la muestra frente a la luz para evitar falsos resultados?",
+  "opciones": [
+    "Bilirrubina total",
+    "Creatina quinasa",
+    "Urea",
+    "Glucosa"
+  ],
+  "correcta": 0
+},
+{
+  "pregunta": "¿Qué parámetro urinario es extremadamente sensible a la exposición prolongada al ambiente?",
+  "opciones": [
+    "pH",
+    "Cuerpos cetónicos",
+    "Densidad",
+    "Color"
+  ],
+  "correcta": 1
+},
+{
+  "pregunta": "¿Cuál es la principal causa de falsos negativos en orina con presencia de glucosa?",
+  "opciones": [
+    "Uso de tira reactiva vencida",
+    "Almacenamiento en refrigerador",
+    "Presencia de urobilinógeno",
+    "Interferencia con proteínas"
+  ],
+  "correcta": 0
+},
+{
+  "pregunta": "¿Qué tubo es incompatible con pruebas de coagulación?",
+  "opciones": [
+    "Tubo con citrato",
+    "Tubo seco",
+    "Tubo con EDTA",
+    "Tubo con fluoruro"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Qué sustancia puede aumentar falsamente en muestras hemolizadas?",
+  "opciones": [
+    "Fósforo",
+    "Calcio",
+    "Proteínas totales",
+    "Potasio"
+  ],
+  "correcta": 3
+},
+{
+  "pregunta": "¿Cuál es el riesgo de una toma de muestra capilar en animales hipotérmicos?",
+  "opciones": [
+    "Incremento del hematocrito",
+    "Hiperglucemia por estrés",
+    "Mala perfusión y muestra inadecuada",
+    "Mayor número de leucocitos"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Qué procedimiento evita la degradación del ADN en muestras destinadas a PCR?",
+  "opciones": [
+    "Almacenarlas en hielo seco",
+    "Centrifugación rápida",
+    "Congelarlas inmediatamente a -20°C",
+    "Mezclarlas con alcohol"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Qué tipo de tubo usarías para cuantificación de amonio en sangre?",
+  "opciones": [
+    "Tubo seco",
+    "Tubo con citrato",
+    "Tubo con heparina y enfriamiento inmediato",
+    "Tubo con EDTA sin centrifugar"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Qué aspecto debe evaluarse antes de aplicar torniquete para venopunción en caninos?",
+  "opciones": [
+    "Edad del animal",
+    "Estado de hidratación",
+    "Presión arterial",
+    "Tiempo de exposición al torniquete"
+  ],
+  "correcta": 3
+},
+{
+  "pregunta": "¿Qué tipo de muestra es preferible para evaluar niveles hormonales en tiempo real?",
+  "opciones": [
+    "Sangre en tubo seco sin centrifugar",
+    "Suero recién centrifugado y congelado",
+    "Orina sin refrigeración",
+    "Muestra capilar con EDTA"
+  ],
+  "correcta": 1
+},
+{
+  "pregunta": "¿Cuál es el mejor método para obtener una muestra estéril para cultivo de oído?",
+  "opciones": [
+    "Hisopo seco",
+    "Hisopo estéril con transporte anaerobio",
+    "Hisopo con gasa húmeda",
+    "Frotis con jeringa"
+  ],
+  "correcta": 1
+},
+{
+  "pregunta": "¿Qué puede provocar artefactos microscópicos en un frotis sanguíneo?",
+  "opciones": [
+    "Secado al aire libre",
+    "Uso de anticoagulante",
+    "Calor excesivo",
+    "Evaporación lenta del tinte"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Qué volumen de sangre es ideal para hemocultivos en animales pequeños?",
+  "opciones": [
+    "1-2 ml",
+    "5-6 ml",
+    "0.2 ml",
+    "3-4 ml"
+  ],
+  "correcta": 0
+},
+{
+  "pregunta": "¿Qué factor puede interferir en la lectura colorimétrica de proteínas totales?",
+  "opciones": [
+    "Dilución con solución salina",
+    "Muestra lipémica o hemolizada",
+    "Refrigeración prolongada",
+    "pH neutro"
+  ],
+  "correcta": 1
+},
+{
+  "pregunta": "¿Cuál es el riesgo de centrifugar tubos con tapón de goma sin retirar primero el cierre?",
+  "opciones": [
+    "Contaminación cruzada",
+    "Presión interna y fuga de muestra",
+    "Errores por temperatura",
+    "Coagulación acelerada"
+  ],
+  "correcta": 1
+},
+{
+  "pregunta": "¿Qué método reduce el riesgo de contaminación ambiental durante la citología pulmonar?",
+  "opciones": [
+    "Lavado broncoalveolar en quirófano",
+    "Toracocentesis sin guantes",
+    "Frotis directo con algodón",
+    "Aspirado sin tapa"
+  ],
+  "correcta": 0
+},
+{
+  "pregunta": "¿Qué parámetro se ve alterado si se congela una muestra con células sin protección previa?",
+  "opciones": [
+    "Volumen globular",
+    "Morfología celular",
+    "Glucosa",
+    "Calcio"
+  ],
+  "correcta": 1
+},
+{
+  "pregunta": "¿Qué acción puede causar daño estructural a los cilios en un frotis respiratorio?",
+  "opciones": [
+    "Secado con aire forzado",
+    "Fijación con metanol",
+    "Almacenamiento en frío",
+    "Coloración con eosina"
+  ],
+  "correcta": 0
+},
+{
+  "pregunta": "¿Cuál es el principal efecto de la refrigeración excesiva en una muestra de orina sin agitación?",
+  "opciones": [
+    "Disolución de cristales",
+    "Formación de burbujas",
+    "Sedimentación no homogénea",
+    "Incremento del pH"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Qué volumen mínimo se recomienda para realizar pruebas múltiples en bioquímica clínica?",
+  "opciones": [
+    "0.2 ml",
+    "0.5 ml",
+    "1 ml",
+    "2 ml"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Qué medio es ideal para transportar muestras bacterianas en casos de otitis externa?",
+  "opciones": [
+    "Medio de Stuart",
+    "Alcohol absoluto",
+    "Solución salina",
+    "Glicerina estéril"
+  ],
+  "correcta": 0
+},
+{
+  "pregunta": "¿Qué consecuencia puede tener el uso de agujas muy delgadas para extracción sanguínea?",
+  "opciones": [
+    "Mayor riesgo de hemólisis",
+    "Disminución del hematocrito",
+    "Coagulación espontánea",
+    "Contaminación con linfa"
+  ],
+  "correcta": 0
+},
+{
+  "pregunta": "¿Qué ocurre si se centrifuga sangre entera antes de que coagule completamente?",
+  "opciones": [
+    "Formación adecuada de suero",
+    "Falsa elevación del hematocrito",
+    "Presencia de fibrina en el suero",
+    "Mejor separación del plasma"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Cuál es la técnica correcta para mezclar una muestra con anticoagulante?",
+  "opciones": [
+    "Agitar vigorosamente 5 veces",
+    "Invertir suavemente varias veces",
+    "Golpear la base del tubo",
+    "Centrifugar antes de mezclar"
+  ],
+  "correcta": 1
+},
+{
+  "pregunta": "¿Qué puede provocar un aumento artificial de los leucocitos en un hemograma?",
+  "opciones": [
+    "Muestra mal homogenizada",
+    "Contaminación con suero",
+    "Coagulación parcial",
+    "Inversión excesiva del tubo"
+  ],
+  "correcta": 0
+},
+{
+  "pregunta": "¿Qué sustancia debe evitarse en el material usado para toma de muestra de hierro sérico?",
+  "opciones": [
+    "Cristal",
+    "Caucho",
+    "Metal",
+    "Plástico"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Cuál es el principal objetivo del uso de guías vacías en tomas múltiples?",
+  "opciones": [
+    "Evitar hemólisis",
+    "Reducir el dolor",
+    "Mantener presión negativa",
+    "Aumentar la precisión"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Qué técnica ayuda a diferenciar entre contaminación y verdadera infección urinaria?",
+  "opciones": [
+    "Centrifugación",
+    "Urocultivo cuantitativo",
+    "Coloración de Gram",
+    "Observación de sedimento"
+  ],
+  "correcta": 1
+},
+{
+  "pregunta": "¿Qué tipo de muestra requiere el uso de jeringa heparinizada y manipulación anaerobia?",
+  "opciones": [
+    "Frotis fecal",
+    "Muestra de gases arteriales",
+    "Plasma para serología",
+    "Exudado conjuntival"
+  ],
+  "correcta": 1
+},
+{
+  "pregunta": "¿Qué error común puede simular una anemia en el análisis automático?",
+  "opciones": [
+    "Coágulo parcial en el tubo",
+    "Agitación suave",
+    "Muestra hiperlipémica",
+    "Dilución con EDTA"
+  ],
+  "correcta": 0
+},
+{
+  "pregunta": "¿Qué método es más seguro para evaluar la fase lútea en perras?",
+  "opciones": [
+    "Medición de progesterona en suero",
+    "Evaluación del sedimento urinario",
+    "Citología vaginal",
+    "Frotis fecal"
+  ],
+  "correcta": 0
+},
+{
+  "pregunta": "¿Cuál es el tiempo límite recomendado para analizar una muestra de sangre en EDTA sin refrigeración?",
+  "opciones": [
+    "2 horas",
+    "4 horas",
+    "8 horas",
+    "24 horas"
+  ],
+  "correcta": 1
+},
+{
+  "pregunta": "¿Qué condición puede causar proteinuria falsa en una muestra de orina?",
+  "opciones": [
+    "pH alcalino",
+    "pH ácido",
+    "Alta densidad urinaria",
+    "Color claro"
+  ],
+  "correcta": 0
+},
+{
+  "pregunta": "¿Qué indicación tiene una coloración de Romanowsky modificada en citología?",
+  "opciones": [
+    "Evaluación de flora fecal",
+    "Visualización de bacterias intracelulares",
+    "Contar eritrocitos",
+    "Analizar grasa en plasma"
+  ],
+  "correcta": 1
+},
+{
+  "pregunta": "¿Qué problema puede generar la presencia de fibrina en una muestra de suero?",
+  "opciones": [
+    "Interferencia con lectura de bioquímica",
+    "Falso aumento del hematocrito",
+    "Dilución de proteínas",
+    "Mejora la separación celular"
+  ],
+  "correcta": 0
+},
+{
+  "pregunta": "¿Qué prueba requiere ayuno de 12 horas para obtener resultados confiables?",
+  "opciones": [
+    "Recuento de plaquetas",
+    "Perfil lipídico",
+    "Recuento diferencial",
+    "Glóbulos rojos"
+  ],
+  "correcta": 1
+},
+{
+  "pregunta": "¿Qué tipo de muestra se debe obtener para confirmar giardiasis mediante inmunofluorescencia?",
+  "opciones": [
+    "Suero",
+    "Orina",
+    "Muestra fecal fresca",
+    "Plasma con EDTA"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Qué sucede si no se elimina el aire de una jeringa antes de transportar una muestra para gases?",
+  "opciones": [
+    "Mejora la presión de oxígeno",
+    "Causa coagulación",
+    "Aumenta el CO₂ disuelto",
+    "Modifica la concentración real de gases"
+  ],
+  "correcta": 3
+},
+{
+  "pregunta": "¿Qué técnica permite evaluar células exfoliadas de mucosa oral en animales?",
+  "opciones": [
+    "Hisopado seco",
+    "Raspado con bisturí",
+    "Citobrush o cepillo celular",
+    "Lavado broncoalveolar"
+  ],
+  "correcta": 2
+},
+{
+  "pregunta": "¿Qué puede provocar resultados erróneos en la densidad urinaria medida con refractómetro?",
+  "opciones": [
+    "Presencia de cristales",
+    "Orina turbia",
+    "Alta concentración de glucosa o proteínas",
+    "Uso de agua destilada en dilución"
+  ],
+  "correcta": 2
+}
+]
+}

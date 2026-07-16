@@ -1,0 +1,1671 @@
+{
+    "fácil": [
+    {
+    "pregunta": "¿Qué significa la sigla 'ID' en las vías de administración de medicamentos?",
+    "opciones": ["Intradérmica", "Intradigestiva", "Intradental", "Inyección directa"],
+    "correcta": 0
+    },
+    {
+    "pregunta": "¿Qué se debe formar en la piel del animal para aplicar una inyección subcutánea de manera segura?",
+    "opciones": ["Un pliegue o 'carpa' de piel", "Un nudo", "Una presión fuerte con el dedo", "Un estiramiento hacia abajo"],
+    "correcta": 0
+    },
+    {
+    "pregunta": "¿Cuál es la principal razón por la que algunos medicamentos orales se administran junto con el alimento?",
+    "opciones": ["Para que cambien de color", "Para reducir la irritación en el estómago", "Para que actúen el doble de rápido", "Para cambiar su fecha de vencimiento"],
+    "correcta": 1
+    },
+    {
+    "pregunta": "¿Qué acción higiénica obligatoria debe realizar el auxiliar antes y después de preparar cualquier medicación?",
+    "opciones": ["Limpiar el piso de la clínica", "Lavarse las manos", "Cambiar de uniforme", "Usar desinfectante en aerosol en el ambiente"],
+    "correcta": 1
+    },
+    {
+    "pregunta": "¿Cómo se llama el contenedor plástico rígido donde se descartan las agujas usadas?",
+    "opciones": ["Guardián o contenedor de punzocortantes", "Bolsa roja común", "Caja de cartón reciclable", "Contenedor gris de basura"],
+    "correcta": 0
+    },
+    {
+    "pregunta": "¿Qué se debe hacer antes de aplicar gotas óticas (en los oídos) a un paciente con exceso de secreción?",
+    "opciones": ["Limpiar suavemente el conducto externo según indicación", "Aplicar agua caliente", "Colocar un tapón de algodón permanente", "Soplar el oído del animal"],
+    "correcta": 0
+    },
+    {
+    "pregunta": "¿Qué tipo de tabletas u orales no se deben triturar o partir sin autorización expresa del veterinario?",
+    "opciones": ["Las pastillas de vitaminas comunes", "Las tabletas con recubrimiento entérico o de liberación prolongada", "Las pastillas masticables con sabor a carne", "Ninguna, todas se pueden triturar siempre"],
+    "correcta": 1
+    },
+    {
+    "pregunta": "¿Cómo se confirma la identidad correcta del paciente antes de administrarle un medicamento en hospitalización?",
+    "opciones": ["Por el tamaño del animal", "Verificando la tarjeta de la jaula, el chip/collar y la historia clínica", "Preguntándole al primer compañero que veas", "Adivinando por el color del pelo"],
+    "correcta": 1
+    },
+    {
+    "pregunta": "¿Qué indica que un frasco de medicamento tiene una fecha de vencimiento pasada?",
+    "opciones": ["Que debe guardarse en el congelador", "Que ya no es seguro ni eficaz y debe ser descartado", "Que se debe duplicar la dosis para que funcione", "Que solo se puede usar por vía tópica"],
+    "correcta": 1
+    },
+    {
+    "pregunta": "¿Qué debe hacer el auxiliar si nota que la dosis anotada en la orden médica parece excesivamente alta para el tamaño del paciente?",
+    "opciones": ["Bajar la dosis por su cuenta", "Confirmar y verificar el cálculo directamente con el veterinario tratante", "Administrarla rápido para no perder tiempo", "Pedirle opinión al tutor del animal"],
+    "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué utensilio se utiliza comúnmente para administrar jarabes por vía oral a perros?",
+      "opciones": ["Termómetro", "Sonda nasogástrica", "Jeringa oral", "Pinza hemostática"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes es una vía de administración de medicamentos?",
+      "opciones": ["Ocular", "Digestiva", "Cardíaca", "Pulmonar directa"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué indica la sigla 'IM' en una receta veterinaria?",
+      "opciones": ["Intravenosa", "Intraoral", "Intramuscular", "Intracutánea"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué se debe hacer antes de administrar un medicamento inyectable?",
+      "opciones": ["Agitar al paciente", "Tomar signos vitales", "Leer la etiqueta y dosis", "Cepillar al animal"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cuál de los siguientes medicamentos puede venir en presentación tópica?",
+      "opciones": ["Antibiótico inyectable", "Desparasitante externo", "Analgésico oral", "Sedante gaseoso"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué vía de administración es más rápida en absorción?",
+      "opciones": ["Intramuscular", "Oral", "Intravenosa", "Tópica"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué debe hacer un auxiliar veterinario si no reconoce el nombre de un medicamento?",
+      "opciones": ["Administrarlo igual", "Pedir ayuda al tutor", "Consultar con el veterinario", "Buscarlo en internet"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué se debe tener en cuenta al administrar medicamentos a un gato?",
+      "opciones": ["Siempre por vía IM", "La vía oral puede ser complicada", "No se debe sedar nunca", "Usar el mismo método que con perros"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué debe incluir una ficha de administración de medicamentos?",
+      "opciones": ["Color del animal", "Nombre de la clínica", "Nombre, dosis y hora del medicamento", "Nombre del tutor solamente"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué significa que un medicamento sea 'de uso veterinario exclusivo'?",
+      "opciones": ["Es más barato", "Solo lo puede comprar el tutor", "No se puede usar en humanos", "Solo se vende en hospitales"],
+      "correcta": 2
+    },
+
+    {
+      "pregunta": "¿Cuál es la presentación más común de un medicamento oral para mascotas?",
+      "opciones": ["Jarabe", "Inyección", "Ungüento", "Gas"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué debe hacerse si un animal vomita justo después de recibir un medicamento oral?",
+      "opciones": ["Repetir la dosis sin consultar", "No hacer nada", "Informar al veterinario", "Administrar otro diferente"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué tipo de medicamentos se deben manipular con guantes?",
+      "opciones": ["Todos", "Solamente los sedantes", "Medicamentos citotóxicos o irritantes", "Jarabes endulzados"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué se recomienda hacer con una pastilla si el animal se niega a tomarla directamente?",
+      "opciones": ["Tirarla", "Mezclarla con alimento si está permitido", "Forzar al animal", "Cortar la dosis en cuatro partes"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál es la principal función de un auxiliar en la administración de medicamentos?",
+      "opciones": ["Diagnosticar enfermedades", "Supervisar la dieta", "Apoyar al veterinario y aplicar según indicación", "Realizar cirugías menores"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué acción está prohibida para un auxiliar clínico?",
+      "opciones": ["Sujetar al paciente", "Recomendar dosis de medicamentos", "Preparar una jeringa", "Aplicar colirio recetado"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cómo se debe conservar la mayoría de los medicamentos inyectables?",
+      "opciones": ["En luz directa", "Congelados", "A temperatura ambiente o refrigerados según indicación", "En envases metálicos"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué es la posología?",
+      "opciones": ["La forma de cortar una tableta", "La vía de aplicación", "La dosis y frecuencia del medicamento", "El color del frasco"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes vías requiere técnica aséptica estricta?",
+      "opciones": ["Ocular", "Oral", "Intravenosa", "Tópica"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué debe hacerse con una ampolla abierta que no se usó completamente?",
+      "opciones": ["Desecharla según protocolos", "Guardar en la bata", "Mezclar con otro medicamento", "Dejarla abierta para uso posterior"],
+      "correcta": 0
+    },
+
+    {
+      "pregunta": "¿Qué equipo es necesario para una aplicación intravenosa?",
+      "opciones": ["Algodón, cinta y guantes", "Jeringa, aguja, suero, catéter", "Toalla, correa y termómetro", "Tijeras y cinta adhesiva"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué error puede causar una reacción adversa al medicamento?",
+      "opciones": ["Dar agua después", "Falta de nombre del paciente", "Aplicar dosis incorrecta", "Desinfectar la zona"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué medicamento requiere mayor cuidado por sus efectos sedantes y anestésicos?",
+      "opciones": ["Antibióticos", "Analgésicos comunes", "Tranquilizantes", "Vitaminas"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cuál es el uso del colirio veterinario?",
+      "opciones": ["Cuidar la piel", "Limpiar los dientes", "Tratar afecciones oculares", "Aumentar el apetito"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué debe revisarse antes de aplicar un medicamento inyectable?",
+      "opciones": ["El nombre del paciente", "La etiqueta, dosis, fecha de vencimiento", "El clima", "La hora de la comida"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué significa una receta que dice 'cada 12 h durante 5 días'?",
+      "opciones": ["Dos dosis por día durante 5 días", "Una dosis al mes", "Cada hora", "Solo en ayunas"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué significa 'VO' en administración médica?",
+      "opciones": ["Vía ocular", "Vía oral", "Vía ovárica", "Vía operativa"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué debe hacerse si el paciente se resiste a la administración?",
+      "opciones": ["Forzarlo sin ayuda", "Informar y pedir asistencia", "Suspender el tratamiento", "Cambiar la medicación"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué material se usa para limpiar la piel antes de una inyección?",
+      "opciones": ["Alcohol o antiséptico", "Vinagre", "Agua caliente", "Jabón de baño"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué debe evitarse al manipular medicamentos vencidos?",
+      "opciones": ["Informar al tutor", "Aplicarlos si huelen bien", "Desecharlos según normas", "Llevarlos a casa"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué sucede si un medicamento se congela accidentalmente?",
+      "opciones": ["Mejora su eficacia", "Se debe usar más rápido", "Puede perder efectividad", "No importa si se calienta después"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué debe hacerse si el paciente tiene una reacción alérgica?",
+      "opciones": ["Esperar a ver si pasa", "Poner hielo", "Notificar inmediatamente al veterinario", "Cambiar el medicamento por otro"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué significa la sigla 'SC' en administración de medicamentos?",
+      "opciones": ["Subcutánea", "Sin control", "Sin concentración", "Sistémica continua"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué precaución debe tenerse al aplicar colirios oculares?",
+      "opciones": ["Usar agua antes", "Evitar el contacto del gotero con el ojo", "Agitar siempre antes de usar", "Aplicar con jeringa"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué vía de administración puede usarse en emergencias para actuar más rápido?",
+      "opciones": ["Tópica", "Oral", "Intravenosa", "Rectal"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué hacer si el animal escupe el medicamento oral?",
+      "opciones": ["Forzar otra dosis", "Intentar de nuevo con otra técnica o mezclar si es permitido", "Ignorarlo", "Cambiar la presentación"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué tipo de medicamentos requieren refrigeración obligatoria?",
+      "opciones": ["Todos los inyectables", "Los tópicos", "Algunos antibióticos o vacunas", "Los jarabes con azúcar"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué persona es responsable legalmente por la receta del medicamento?",
+      "opciones": ["El auxiliar", "El tutor", "El veterinario tratante", "El proveedor"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué precaución básica debe tenerse al manipular ampollas de vidrio?",
+      "opciones": ["Romper sin protección", "Usar guantes o gasa para evitar cortes", "Agitar mucho", "Verter directo en la boca del animal"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué se considera una práctica segura en la preparación de medicamentos?",
+      "opciones": ["Reutilizar agujas", "Desinfectar antes de preparar", "Soplar la jeringa", "Probar el medicamento antes de aplicar"],
+      "correcta": 1
+    }
+],
+  "intermedio": [
+   {
+    "pregunta": "¿Por qué se debe retraer el émbolo de la jeringa (aspirar) antes de presionar e introducir un medicamento por vía intramuscular?",
+    "opciones": [
+      "Para mezclar el líquido con oxígeno",
+      "Para verificar que la aguja no haya ingresado accidentalmente en un vaso sanguíneo",
+      "Para medir la presión del músculo",
+      "Para ablandar el tejido muscular antes de la inyección"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué complicación local en la piel del paciente puede generar la aplicación repetida de inyecciones en el mismo punto exacto?",
+    "opciones": [
+      "Atrofia generalizada",
+      "Fibrosis muscular, inflamación o necrosis del tejido",
+      "Hiperpigmentación temporal benigna",
+      "Aumento del crecimiento del pelaje"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué acción es prioritaria si se observa que un catéter intravenoso presenta signos de flebitis (inflamación de la vena) o dolor al tacto?",
+    "opciones": [
+      "Aumentar la velocidad del goteo del suero",
+      "Retirar el catéter inmediatamente y notificar al veterinario",
+      "Aplicar una venda más ajustada sobre el mismo catéter",
+      "Esperar a que termine la solución actual para retirarlo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué se debe hacer con un frasco multidosis de suspensión oral (como la amoxicilina líquida) justo antes de extraer la dosis?",
+    "opciones": [
+      "Calentarlo a baño María",
+      "Agitarlo enérgicamente para homogeneizar el principio activo",
+      "Filtrarlo con una gasa estéril",
+      "Dejarlo reposar en posición horizontal por una hora"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la forma correcta de almacenar un frasco de insulina una vez que ha sido abierto en la clínica?",
+    "opciones": [
+      "En el congelador a menos de cero grados",
+      "Refrigerado entre 2°C y 8°C, evitando que se congele",
+      "En una ventana expuesta al sol",
+      "En el área de quirófano a temperatura ambiente"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de guantes se deben emplear de forma obligatoria al aplicar pomadas o geles con hormonas en la piel de un animal?",
+    "opciones": [
+      "Guantes de látex o nitrilo para evitar la absorción cutánea en el auxiliar",
+      "Guantes de tela gruesa",
+      "No se requieren guantes si se lavan las manos rápido",
+      "Guantes estériles de cirugía quirúrgica exclusivamente"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué indica el término 'extravasación' durante una fluidoterapia o administración intravenosa?",
+    "opciones": [
+      "Que el suero se está absorbiendo demasiado rápido",
+      "Que el líquido o medicamento se está filtrando fuera de la vena hacia el tejido circundante",
+      "Que la vena se ha dilatado de forma segura",
+      "Que el fluido cambió de concentración dentro de la jeringa"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la velocidad adecuada para administrar un bolo de un fármaco liofilizado reconstituido por vía intravenosa directa?",
+    "opciones": [
+      "De forma ultrarrápida en menos de un segundo",
+      "De forma lenta y controlada, generalmente durante 1 a 2 minutos, evaluando al paciente",
+      "Dejándolo gotear durante toda la noche",
+      "Inyectando la mitad por vía oral para asegurar absorción"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué puede ocurrir si se pasa por alto limpiar el tapón de goma de un frasco ampolla multidosis antes de clavar la aguja?",
+    "opciones": [
+      "Se desafila la punta de la aguja instantáneamente",
+      "Se introduce contaminación bacteriana dentro del frasco, alterando el medicamento",
+      "El medicamento pierde su concentración de miligramos",
+      "Se bloquea el paso del líquido por el bisel"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué medida se debe tomar si un paciente hospitalizado destruye o muerde la línea de fluidoterapia (venoclisis)?",
+    "opciones": [
+      "Cerrar la llave de paso, retirar la línea dañada, desinfectar el catéter y colocar una línea nueva",
+      "Unir los extremos rotos con esparadrapo común",
+      "Suspender definitivamente la hidratación del animal",
+      "Amarrar al paciente para que no lo vuelva a hacer"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué precaución se debe tener al administrar una tableta por vía oral a un paciente postrado o con debilidad extrema?",
+    "opciones": [
+      "Asegurar que trague por completo y ofrecer una pequeña cantidad de agua si está permitido para evitar que se aloje en el esófago",
+      "Introducir la pastilla profundamente sin importar el reflejo de deglución",
+      "Mantener el hocico cerrado por diez minutos continuos",
+      "Administrar la pastilla mientras el animal duerme"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué documento de la clínica veterinaria es el único válido para registrar legalmente la hora exacta y la dosis de un medicamento aplicado?",
+    "opciones": [
+      "La libreta de notas personales del auxiliar",
+      "La hoja de hospitalización o formato de registro de tratamientos dentro de la historia clínica",
+      "La factura de venta de la recepción",
+      "El tablero general de avisos de la veterinaria"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la principal ventaja de utilizar un catéter intravenoso en lugar de una aguja directa para administrar fluidos continuos?",
+    "opciones": [
+      "Permite la movilidad del paciente y reduce el riesgo de perforar la vena con los movimientos",
+      "Es mucho más económico y desechable",
+      "No requiere desinfección previa de la piel",
+      "Elimina la necesidad de calcular el goteo"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué se debe verificar específicamente en la etiqueta de un medicamento líquido antes de aplicarlo por vía intravenosa?",
+    "opciones": [
+      "Que el frasco diga explícitamente que es apto para uso intravenoso (IV)",
+      "Que tenga un color llamativo",
+      "Que el empaque sea de vidrio grueso",
+      "Que se pueda mezclar con jarabes"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué alteración física en un frasco de solución inyectable transparente indica que NO debe ser utilizado bajo ninguna circunstancia?",
+    "opciones": [
+      "Que el frasco esté frío por la nevera",
+      "La presencia de turbidez, cambios de color inusuales o partículas en suspensión",
+      "Que la etiqueta ocupe todo el contorno del vidrio",
+      "Que tenga un código de barras largo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué significa que un fármaco deba administrarse 'en ayunas'?",
+    "opciones": [
+      "Que debe aplicarse justo después de una caminata",
+      "Que el estómago del paciente debe estar vacío de alimento para optimizar la absorción del principio activo",
+      "Que el animal no puede tomar agua durante todo el día",
+      "Que se aplica únicamente a altas horas de la noche"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se debe proceder si al intentar pasar un medicamento a través de un catéter intravenoso se siente una resistencia física muy fuerte?",
+    "opciones": [
+      "Presionar el émbolo con mucha fuerza para destapar el catéter",
+      "Detener la aplicación, revisar si está obstruido o doblado y verificar la permeabilidad del catéter",
+      "Retirar la jeringa y aplicar el medicamento por vía intramuscular directa",
+      "Diluir el fármaco con agua destilada caliente"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué se busca prevenir al limpiar el pabellón auricular de un perro antes de colocar una pomada dermatológica en la zona?",
+    "opciones": [
+      "Que el medicamento se diluya con el aire",
+      "Que la suciedad o detritos impidan el contacto directo del fármaco con la piel lesionada",
+      "Que el animal muerda al auxiliar durante el proceso",
+      "Que cambie la temperatura del oído"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué debe hacer un auxiliar si la receta médica veterinaria indica aplicar un cuarto (1/4) de tableta pero la pastilla no viene ranurada para partirse?",
+    "opciones": [
+      "Dar la tableta entera para no perder tiempo",
+      "Consultar al veterinario para evaluar una presentación alternativa o el método exacto de dosificación",
+      "Cortarla al azar con unas tijeras comunes sin importar la simetría",
+      "Disolver la pastilla en un litro de agua y darle una gota"
+    ],
+    "correcta": 1
+   }
+   {
+    "pregunta": "¿Qué acción debe realizar el auxiliar si el medicamento recetado no está disponible en la clínica?",
+    "opciones": [
+      "Administrar uno similar por su cuenta",
+      "Modificar la dosis para otro fármaco",
+      "Informar al médico veterinario tratante",
+      "Pedir al tutor que lo compre en la farmacia más cercana"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué diferencia a la vía subcutánea de la intramuscular?",
+    "opciones": [
+      "Subcutánea se aplica en músculos más grandes",
+      "Intramuscular es menos dolorosa",
+      "Subcutánea se aplica bajo la piel",
+      "Intramuscular requiere menos técnica"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué zona se utiliza con mayor frecuencia para aplicar medicamentos por vía subcutánea en perros?",
+    "opciones": ["Lomo o entre los omóplatos", "Pecho", "Ingle", "Hocico"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué se debe hacer con los residuos de medicamentos vencidos?",
+    "opciones": [
+      "Tirarlos al sanitario",
+      "Quemarlos en casa",
+      "Depositar en el contenedor biológico según normativa",
+      "Mezclarlos con residuos comunes"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué precaución debe tenerse al mezclar medicamentos en una misma jeringa?",
+    "opciones": [
+      "Siempre deben mezclarse para ahorrar tiempo",
+      "Solo si el veterinario lo indica y son compatibles",
+      "Depende del tamaño de la aguja",
+      "Mezclar solo si son de la misma marca"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el primer paso para colocar un catéter intravenoso?",
+    "opciones": ["Cortar el pelo y desinfectar la zona", "Inyectar suero", "Colocar el esparadrapo", "Insertar el catéter directo"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué puede causar una administración incorrecta por vía intravenosa?",
+    "opciones": ["Mayor absorción", "Baja respuesta inmunológica", "Flebitis o extravasación", "Menor tiempo de acción"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué vía se prefiere para administrar líquidos en pacientes deshidratados severos?",
+    "opciones": ["Oral", "Subcutánea", "Intramuscular", "Intravenosa"],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes signos podría indicar una reacción adversa tras administrar un medicamento?",
+    "opciones": ["Salivación excesiva, vómito, temblores", "Apetito aumentado", "Juego y actividad intensa", "Picores normales"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué debe hacerse con las agujas usadas?",
+    "opciones": [
+      "Doblarlas y tirarlas",
+      "Guardarlas en un recipiente cerrado para residuos peligrosos",
+      "Tirarlas en la basura común",
+      "Reutilizarlas si se desinfectan"
+    ],
+    "correcta": 1
+  },
+
+  {
+    "pregunta": "¿Qué datos son esenciales al registrar una administración de medicamentos?",
+    "opciones": [
+      "Hora, dosis, vía, nombre del medicamento y del auxiliar",
+      "Temperatura corporal y fecha",
+      "Peso y altura del paciente",
+      "Color del pelaje y raza"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué equipo debe estar preparado para una aplicación intramuscular?",
+    "opciones": [
+      "Cinta adhesiva y algodón",
+      "Guantes, jeringa, aguja y desinfectante",
+      "Estetoscopio y termómetro",
+      "Frasco de orina"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿En qué casos debe suspenderse la administración de un medicamento inmediatamente?",
+    "opciones": [
+      "Cuando el animal tose",
+      "Cuando hay signos de reacción alérgica",
+      "Cuando el tutor llega",
+      "Cuando cambia la marca del medicamento"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué es una administración vía tópica?",
+    "opciones": ["Por vía oral", "En mucosas internas", "Sobre piel o superficies externas", "Por inhalación"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué parte del cuerpo suele usarse para vía intramuscular en gatos?",
+    "opciones": ["Cola", "Muslo o cuádriceps", "Cuello", "Lomo"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué debe hacerse si una ampolla se rompe durante la apertura?",
+    "opciones": [
+      "Usar el medicamento igual",
+      "Limpiar con agua y usarlo",
+      "Desechar el contenido y reportar el incidente",
+      "Pasarlo a otra jeringa"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué significa que un medicamento es fotosensible?",
+    "opciones": [
+      "Debe almacenarse en frascos transparentes",
+      "Es sensible a la luz y debe mantenerse protegido de ella",
+      "Cambia de color con el aire",
+      "Se aplica únicamente de noche"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de error puede llevar a una intoxicación medicamentosa?",
+    "opciones": ["Falta de limpieza", "No desinfectar la zona", "Sobredosificación", "Aplicar en el lomo"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué debe hacerse si el paciente tiene hipersensibilidad documentada a un fármaco?",
+    "opciones": [
+      "Reducir la dosis",
+      "Dar antihistamínicos",
+      "Evitar su uso y notificar al médico",
+      "Cambiarlo por uno oral"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Por qué es importante rotular frascos multidosis abiertos?",
+    "opciones": [
+      "Para saber quién los abrió",
+      "Para controlar el inventario",
+      "Para registrar fecha de apertura y evitar uso posterior a su vigencia",
+      "Para uso exclusivo del mismo paciente"
+    ],
+    "correcta": 2
+  },
+
+  {
+    "pregunta": "¿Qué instrumento se utiliza para administrar medicamentos en orejas?",
+    "opciones": ["Jeringa sin aguja", "Cuenta gotas o aplicador especial", "Pinzas", "Catéter"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué se debe verificar antes de usar un frasco de suero?",
+    "opciones": ["Color y forma del frasco", "Presencia de turbidez o partículas", "Marca del producto", "Cantidad de líquido"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué significa un error de transcripción en una receta?",
+    "opciones": [
+      "Copiar mal una dosis o indicación",
+      "Leer con letra diferente",
+      "Escribir en tinta roja",
+      "No tener firma del auxiliar"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué es una contraindicación médica?",
+    "opciones": [
+      "Un medicamento recomendado",
+      "Una instrucción verbal",
+      "Situación en la que no debe usarse un fármaco",
+      "Un tipo de dosis mínima"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué medida debe tomarse antes de aplicar un medicamento nuevo a un paciente?",
+    "opciones": [
+      "Revisar alergias o antecedentes",
+      "Consultar al tutor sobre su sabor",
+      "Probar en otro animal",
+      "Agitar el frasco siempre"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué material debe descartarse en el contenedor de residuos biológicos?",
+    "opciones": [
+      "Gasas usadas con sangre o medicamentos",
+      "Papeles con nombres",
+      "Collares y vendas limpias",
+      "Etiquetas adhesivas"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué debe contener un registro de medicamentos controlados?",
+    "opciones": [
+      "Firma del proveedor",
+      "Nombre del paciente, dosis, lote y fecha",
+      "Marca del equipo médico",
+      "Fotografía del frasco"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué significa 'liberar burbujas' en una jeringa antes de inyectar?",
+    "opciones": [
+      "Eliminar el medicamento",
+      "Llenar completamente la jeringa",
+      "Evitar la inyección de aire al paciente",
+      "Llenar hasta el tope"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué indicación deben tener los medicamentos con cadena de frío?",
+    "opciones": [
+      "Mantenerse a temperatura ambiente",
+      "Agitar antes de usar",
+      "Almacenar en nevera entre 2°C y 8°C",
+      "Exponer al sol por 10 minutos antes"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué puede provocar una aplicación subcutánea en el músculo por error?",
+    "opciones": [
+      "Mayor absorción", "Lesiones musculares o dolor", "Sedación más efectiva", "Reacción tópica benigna"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de medicamentos deben rotularse con advertencias especiales?",
+    "opciones": [
+      "Vitaminas", "Sedantes y controlados", "Probióticos", "Estimulantes digestivos"
+    ],
+    "correcta": 1
+  }
+],
+  "difícil": [
+  {
+    "pregunta": "¿Qué consecuencia hemodinámica puede ocurrir si se administra de forma ultrarrápida un bolo intravenoso de aminofilina?",
+    "opciones": [
+      "Bradicardia extrema e hipotermia",
+      "Taquicardia severa, arritmias e hipotensión súbita",
+      "Hipertensión severa transitoria sin cambios en el pulso",
+      "Paro respiratorio inmediato sin afectación cardíaca"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Por qué la deshidratación severa o el estado de shock hipovolémico alteran negativamente la absorción de medicamentos por vía subcutánea?",
+    "opciones": [
+      "Porque aumenta el grosor de la dermis",
+      "Porque el pH del tejido celular subcutáneo se vuelve alcalino",
+      "Porque produce vasoconstricción periférica y disminuye la perfusión sanguínea en la piel",
+      "Porque los medicamentos lipofílicos se destruyen en la grasa deshidratada"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Si un paciente canino presenta hipoalbuminemia severa (baja proteína en sangre), ¿qué ocurre con un fármaco que tiene una alta unión a proteínas plasmáticas?",
+    "opciones": [
+      "Aumenta la fracción libre del fármaco, incrementando el riesgo de toxicidad",
+      "El fármaco se inactiva por completo y no produce ningún efecto",
+      "Se acelera su excreción renal antes de que llegue al tejido diana",
+      "Disminuye su volumen de distribución tisular"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál es la principal razón por la que está contraindicado inducir el vómito en un perro que ingirió un tóxico o medicamento corrosivo?",
+    "opciones": [
+      "Porque el tóxico se metaboliza más rápido en el estómago",
+      "Porque disminuye la presión arterial del paciente de forma crítica",
+      "Porque el esófago absorbe el químico más rápido que el estómago",
+      "Porque puede causar lesiones, quemaduras o perforación esofágica bicapa al retornar el químico"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué complicación sistémica grave se busca evitar al monitorizar estrictamente el sitio de inserción de un catéter central usado para Nutrición Parenteral Total (NPT)?",
+    "opciones": [
+      "Sepsis bacteriana o fúngica de origen hematógeno",
+      "Pérdida rápida de electrolitos por vía tópica",
+      "Necrosis por presión cutánea externa exclusivamente",
+      "Hiperqueratosis local irreversible"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Por qué el uso prolongado de glucocorticoides (como la dexametasona) nunca debe suspenderse de forma abrupta?",
+    "opciones": [
+      "Porque causa una estimulación excesiva de las glándulas salivales",
+      "Acción que genera una úlcera gástrica perforada de forma inmediata",
+      "Porque puede provocar una crisis de insuficiencia adrenal iatrogénica (Addison)",
+      "Porque el fármaco se acumula de golpe en el tejido óseo"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Al preparar una infusión continua (CRI) de lidocaína por goteo, ¿qué signo neurológico temprano en un perro hospitalizado indicaría toxicidad por este fármaco?",
+    "opciones": [
+      "Nistagmo, temblores musculares o fasciculaciones",
+      "Parálisis flácida de los miembros posteriores",
+      "Coma profundo sin signos previos",
+      "Pérdida súbita de la audición"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué fenómeno farmacocinético explica por qué la dosis de un medicamento por vía oral suele ser significativamente mayor que su dosis por vía intravenosa?",
+    "opciones": [
+      "El aclaramiento renal aumentado",
+      "La excreción biliar pasiva",
+      "La saturación de los receptores tisulares",
+      "El efecto del primer paso hepático"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué tipo de alteración ácido-base sistémica en un paciente puede retrasar la eliminación renal de un fármaco que es una base débil?",
+    "opciones": [
+      "Una neutralidad perfecta del plasma",
+      "Una alcalosis metabólica o respiratoria (orina más alcalina)",
+      "Una acidosis metabólica o respiratoria (orina más ácida)",
+      "Ninguna, el pH urinario no influye en la eliminación de fármacos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Por qué los antibióticos aminoglucósidos (como la gentamicina) requieren una monitorización estricta de la función renal del paciente?",
+    "opciones": [
+      "Porque bloquean la producción de eritropoyetina",
+      "Porque precipitan en la vejiga formando urolitos gigantes",
+      "Porque causan necrosis tubular aguda por acumulación en las células renales",
+      "Automáticamente aumentan el flujo sanguíneo renal causando hemorragias"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la conducta correcta ante la sospecha de extravasación de una solución de quimioterapia citotóxica (como la doxorrubicina)?",
+    "opciones": [
+      "Retirar el catéter corriendo y masajear la zona con alcohol",
+      "Aplicar calor de forma directa e intensa durante dos horas",
+      "Detener la infusión, aspirar el líquido residual a través del catéter, aplicar el antídoto o protocolo local y retirar",
+      "Aumentar el flujo de fluidos limpios por el mismo catéter para diluir el tejido"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué término médico describe la respuesta anormal, inesperada y genéticamente determinada de un paciente individual a un medicamento?",
+    "opciones": [
+      "Efecto secundario predecible",
+      "Reacción idiosincrásica",
+      "Tolerancia farmacodinámica",
+      "Taquifilaxia inmunológica"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Por qué se desaconseja mezclar físicamente soluciones de diazepam con soluciones acuosas de otros fármacos en la misma jeringa?",
+    "opciones": [
+      "Porque el diazepam se evapora al contacto con el agua",
+      "Porque cambia el color del fluido pero mantiene sus propiedades",
+      "Porque triplica su potencia volviéndose letal al instante",
+      "Porque es altamente hidrofóbico y precipita de forma inmediata perdiendo eficacia"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué parámetro fisiológico evalúa la bureta microgotero al calcular la velocidad de infusión en un cachorro de un kilo?",
+    "opciones": [
+      "La constante de ionización del soluto",
+      "La osmolaridad del plasma del paciente",
+      "El volumen exacto administrado en mililitros por hora de forma controlada",
+      "La presión hidrostática de la vena cefálica"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué complicación respiratoria se puede generar si se administra fluidoterapia intravenosa a una velocidad excesivamente alta en un paciente con insuficiencia cardíaca congestiva?",
+    "opciones": [
+      "Neumotórax espontáneo",
+      "Edema agudo de pulmón por sobrecarga de volumen",
+      "Atelectasia lobar unilateral",
+      "Estenosis traqueal transitoria"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Por qué la administración de soluciones de calcio intravenoso (como el gluconato de calcio) requiere monitorización electrocardiográfica o del pulso en tiempo real?",
+    "opciones": [
+      "Porque una infusión rápida puede provocar bradicardia severa, arritmias o paro cardíaco en sístole",
+      "Porque puede causar hipotermia severa",
+      "Porque destruye los glóbulos rojos al ingresar a la aurícula derecha",
+      "Porque bloquea de forma permanente los receptores respiratorios"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Si un paciente felino presenta una obstrucción uretral completa, ¿qué tipo de fármacos excretados por vía renal se deben suspender o ajustar críticamente?",
+    "opciones": [
+      "Únicamente las vitaminas hidrosolubles",
+      "Todos los fármacos de eliminación renal, debido al riesgo inminente de acumulación sistémica y toxicidad",
+      "Los anestésicos inhalatorios inhalados",
+      "Las pomadas oftálmicas de uso tópico"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué efecto produce un fármaco clasificado como 'antagonista competitivo' sobre los receptores celulares del paciente?",
+    "opciones": [
+      "Se une al receptor y lo activa con el doble de potencia que el fármaco original",
+      "Modifica el ADN celular para que no vuelva a producir receptores",
+      "Se une al receptor bloqueando la acción del agonista sin activar una respuesta biológica propia",
+      "Destruye físicamente la estructura externa del receptor celular"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué alteración hematológica grave e irreversible puede causar el uso terapéutico o accidental de metronidazol a dosis muy altas o prolongadas en perros?",
+    "opciones": [
+      "Signos de neurotoxicidad como ataxia, nistagmo y temblores",
+      "Anemia hemolítica autoinmune fulminante",
+      "Insuficiencia pancreática exocrina aguda",
+      "Pérdida completa de la pigmentación cutánea"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Por qué la vía intraósea se considera una alternativa viable para la administración de medicamentos y fluidos en emergencias críticas?",
+    "opciones": [
+      "Porque los huesos absorben los fármacos más lento evitando efectos secundarios",
+      "Porque no requiere ningún tipo de asepsia ni preparación de la zona",
+      "Porque permite usar agujas de insulina comunes de forma directa",
+      "Porque la cavidad medular ósea funciona como una vena no colapsable con acceso rápido a la circulación central"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué fenómeno fisiológico ocurre cuando un fármaco sufre 'redistribución tisular' en un paciente obeso?",
+    "opciones": [
+      "El fármaco se destruye de inmediato en el tejido adiposo",
+      "Los fármacos altamente lipofílicos se acumulan en la grasa, prolongando la recuperación o sus efectos",
+      "El fármaco viaja exclusivamente hacia el sistema nervioso central de por vida",
+      "Se duplica la velocidad de filtración glomerular del paciente"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el principal riesgo biológico de reutilizar una aguja hipodérmica para extraer medicación de un frasco ampolla multidosis?",
+    "opciones": [
+      "La introducción de patógenos y la contaminación de todo el vial de medicamento",
+      "La cristalización del metal de la aguja",
+      "El cambio inmediato del pH de la solución médica",
+      "La pérdida total de la viscosidad del fármaco"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué alteración clínica en un gato hospitalizado indica que una infusión de fluidos por vía subcutánea ha superado la capacidad de absorción del tejido?",
+    "opciones": [
+      "Un aumento de la temperatura corporal local",
+      "Salivación espumosa profusa inmediata",
+      "Edema gravitacional, persistencia del líquido acumulado y piel fría al tacto en la zona",
+      "Pérdida del reflejo corneal del ojo"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Por qué está contraindicada la aplicación intramuscular de soluciones de dextrosa con concentraciones superiores al 5%?",
+    "opciones": [
+      "Porque son soluciones hipertónicas que provocan dolor severo, irritación tisular y riesgo de necrosis muscular",
+      "Porque causan una absorción excesivamente rápida que desmaya al animal",
+      "Porque inactivan las fibras musculares de forma permanente sin causar dolor",
+      "Porque el músculo las transforma directamente en grasa localizada"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Durante la monitorización de una fluidoterapia intravenosa, ¿qué alteración en la frecuencia respiratoria del paciente debe reportarse de inmediato al veterinario?",
+    "opciones": [
+      "Un aumento del ronquido normal posanestésico leve",
+      "Un aumento progresivo de la frecuencia respiratoria (taquipnea) acompañado de esfuerzo o estertores",
+      "Una estabilización de la frecuencia en rangos fisiológicos normales",
+      "Una disminución del jadeo por calor ambiental"
+    ],
+    "correcta": 1
+  }
+   {
+    "pregunta": "¿Qué procedimiento se debe seguir en caso de extravasación de un medicamento irritante por vía intravenosa?",
+    "opciones": [
+      "Aplicar frío local y elevar la extremidad",
+      "Inyectar más solución para diluir",
+      "Administrar un antihistamínico oral",
+      "Esperar y observar sin intervención"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué fórmula se utiliza comúnmente para calcular dosis pediátricas en animales pequeños?",
+    "opciones": [
+      "Regla de tres inversa",
+      "Regla de Young",
+      "Regla de Clark (peso)",
+      "División por densidad"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué condición médica contraindica la administración de medicamentos por vía oral?",
+    "opciones": [
+      "Hidratación leve",
+      "Anorexia temporal",
+      "Vómito persistente",
+      "Presencia de parásitos"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la función de un vehículo en una formulación farmacéutica?",
+    "opciones": [
+      "Incrementar el sabor",
+      "Reducir la toxicidad",
+      "Facilitar la administración y absorción",
+      "Prolongar el tratamiento"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué características debe tener un sitio ideal para aplicación intramuscular?",
+    "opciones": [
+      "Buena irrigación, músculo desarrollado y libre de grasa",
+      "Cercanía al hueso, piel delgada y nervios próximos",
+      "Zona dorsal sin movilidad",
+      "Área cercana al cuello y delgada"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué puede ocurrir si un medicamento lipofílico se administra por vía oral sin alimentos?",
+    "opciones": [
+      "Mayor absorción",
+      "Reducción de la biodisponibilidad",
+      "Aumento de la toxicidad",
+      "Pérdida de estabilidad química"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué significa el término 'efecto de primer paso hepático'?",
+    "opciones": [
+      "El fármaco se elimina por la bilis",
+      "El fármaco se acumula en el intestino",
+      "El metabolismo hepático reduce la concentración activa del medicamento oral",
+      "Es la absorción directa por vía sublingual"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es el principal riesgo de la administración intravenosa rápida de soluciones hipertónicas?",
+    "opciones": [
+      "Aumento de temperatura",
+      "Hiponatremia",
+      "Colapso cardiovascular",
+      "Edema cerebral"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué técnica reduce el riesgo de formación de abscesos tras una inyección intramuscular?",
+    "opciones": [
+      "Usar jeringa sin aire",
+      "Aplicar con técnica Z o desplazamiento de piel",
+      "Utilizar siempre antibiótico previo",
+      "Masajear con fuerza la zona"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué herramienta se utiliza para calcular el goteo intravenoso en pacientes pequeños?",
+    "opciones": [
+      "Bureta",
+      "Lactato de Ringer",
+      "Calculadora de presión osmótica",
+      "Microporosa"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué propiedad farmacológica se evalúa con la 'vida media' de un medicamento?",
+    "opciones": [
+      "Eficacia terapéutica",
+      "Toxicidad inmediata",
+      "Tiempo en reducirse su concentración a la mitad en plasma",
+      "Velocidad de absorción intestinal"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué medida evita la contaminación cruzada durante la preparación de medicamentos inyectables?",
+    "opciones": [
+      "Usar la misma aguja varias veces",
+      "Utilizar jeringas nuevas y guantes estériles",
+      "Tomar dosis en frascos distintos con la misma jeringa",
+      "Preparar todos los medicamentos al mismo tiempo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de medicamento no debe administrarse por vía intramuscular por riesgo de necrosis?",
+    "opciones": [
+      "Vitaminas liposolubles",
+      "Sustancias citotóxicas o vesicantes",
+      "Probióticos",
+      "Soluciones isotónicas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué órgano suele metabolizar la mayoría de los fármacos antes de su excreción?",
+    "opciones": ["Riñón", "Intestino", "Hígado", "Páncreas"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué es un bolo intravenoso?",
+    "opciones": [
+      "Un medicamento administrado en forma de cápsula",
+      "Una dosis rápida y concentrada administrada IV",
+      "Una infusión continua",
+      "Una dosis oral con alimentos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué vía tiene el inicio de acción más rápido?",
+    "opciones": ["Oral", "Intramuscular", "Tópica", "Intravenosa"],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué significa el término 'terapéutica empírica' en medicina veterinaria?",
+    "opciones": [
+      "Basada en análisis clínicos previos",
+      "Administración basada en experiencia sin diagnóstico definitivo",
+      "Terapia experimental no probada",
+      "Uso de remedios caseros con guía profesional"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué indicador de laboratorio debe monitorearse en tratamientos prolongados con AINES?",
+    "opciones": [
+      "Hemoglobina",
+      "Glucosa",
+      "Función renal (urea y creatinina)",
+      "Plaquetas"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué significa una 'reconstitución' en medicamentos liofilizados?",
+    "opciones": [
+      "Almacenar en congelación",
+      "Mezclar con diluyente estéril para activación",
+      "Agregar alcohol al frasco",
+      "Calentar antes de usar"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué fármaco requiere precaución extrema en gatos por su limitada capacidad hepática?",
+    "opciones": ["Paracetamol", "Prednisolona", "Doxiciclina", "Metronidazol"],
+    "correcta": 0
+  },
+
+  {
+    "pregunta": "¿Qué situación puede alterar la absorción de un medicamento oral?",
+    "opciones": [
+      "Hidratación adecuada",
+      "Consumo de grasa",
+      "Presencia de vómito o diarrea",
+      "Sueño prolongado"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué medida reduce el riesgo de sobredosis por error humano?",
+    "opciones": [
+      "Evitar registrar las dosis",
+      "Usar códigos de colores y doble verificación",
+      "Rotar auxiliares constantemente",
+      "Permitir cambios sin consulta"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de jeringa se recomienda para dosis exactas de insulina en animales pequeños?",
+    "opciones": ["Tuberculina", "60 ml", "Jeringa oral", "Hipodérmica de 20 ml"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué concentración requiere atención en un medicamento multidosis para evitar errores?",
+    "opciones": [
+      "Volumen del envase",
+      "Color del líquido",
+      "Miligramos por mililitro",
+      "Nombre del fabricante"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué acción se considera negligente en la administración de medicamentos?",
+    "opciones": [
+      "Informar efectos adversos al veterinario",
+      "Cambiar la vía sin autorización médica",
+      "Confirmar la dosis dos veces",
+      "Anotar en el registro clínico"
+    ],
+    "correcta": 1
+  }
+ ],
+  "avanzado": [
+  {
+    "pregunta": "¿Qué alteración en la unión a receptores celulares define el concept de 'antagonismo no competitivo'?",
+    "opciones": [
+      "El antagonista se une al mismo sitio que el agonista pero con menor fuerza",
+      "El antagonista se une a un sitio alostérico o de forma irreversible, impidiendo la activación del receptor sin importar la cantidad de agonista presente",
+      "El antagonista destruye la membrana celular impidiendo la síntesis del receptor",
+      "El antagonista compite directamente por el mismo sitio y es desplazado por altas dosis de agonista"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En pacientes de la raza Collie o mutantes del gen ABCB1 (MDR1), ¿por qué ciertos fármacos como la ivermectina causan neurotoxicidad severa?",
+    "opciones": [
+      "Porque carecen de enzimas hepáticas para metabolizar los lípidos",
+      "Porque sus receptores musculares son el doble de sensibles a los antiparasitarios",
+      "Porque presentan una deficiencia en la glicoproteína P, permitiendo que el fármaco atraviese masivamente la barrera hematoencefálica",
+      "Porque el fármaco precipita en forma de cristales dentro del líquido cefalorraquídeo"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué fenómeno farmacodinámico ocurre cuando la administración simultánea de dos fármacos produce un efecto neto mayor que la suma de sus efectos individuales?",
+    "opciones": [
+      "Sinergismo de potenciación",
+      "Sinergismo de sumación",
+      "Antagonismo fisiológico",
+      "Tolerancia cruzada"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Por qué la administración de soluciones lipídicas intravenosas (ILE) funciona como terapia de rescate en intoxicaciones por anestésicos locales como la bupivacaína?",
+    "opciones": [
+      "Porque los lípidos aumentan el pH de la sangre destruyendo el fármaco",
+      "La filtración renal se acelera de forma directa",
+      "Porque recubren los receptores cardíacos impidiendo físicamente el contacto con el fármaco",
+      "Porque crean un 'sumidero lipídico' en el compartimento vascular que secuestra el fármaco lipofílico, reduciendo su concentración en el corazón y cerebro"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué implicación terapéutica tiene un fármaco con un 'Índice Terapéutico' cercano a 1?",
+    "opciones": [
+      "Es un fármaco sumamente seguro que no requiere receta médica",
+      "La dosis efectiva está muy cerca de la dosis tóxica, requiriendo un monitoreo sérico estricto y alta precisión",
+      "El medicamento requiere ser administrado una sola vez en la vida del animal",
+      "No produce ningún tipo de efecto secundario en pacientes geriátricos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Por qué los felinos son extremadamente susceptibles a la toxicidad por compuestos fenólicos y fármacos como el acetaminofén?",
+    "opciones": [
+      "Porque carecen de filtración glomerular eficiente",
+      "Porque tienen una marcada deficiencia en la vía metabólica de conjugación con ácido glucorónico (glucuronidación)",
+      "Porque sus glóbulos rojos absorben el fármaco por transporte activo irreversible",
+      "Porque el pH de su estómago inactiva los protectores hepáticos de forma natural"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué alteración a nivel celular caracteriza el fenómeno de 'tolerancia farmacológica por regulación a la baja' (down-regulation)?",
+    "opciones": [
+      "Una disminución en el número o densidad de receptores disponibles debido a la estimulación agonista continua",
+      "Un aumento masivo en la síntesis de receptores celulares superficiales",
+      "La destrucción permanente de las mitocondrias por el principio activo",
+      "Una mutación en el núcleo celular que cambia la estructura del fármaco"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Al administrar una infusión continua (CRI) de un fármaco, ¿cuántas 'vidas medias' (t1/2) se requieren teóricamente para que el paciente alcance el estado de equilibrio estacionario (plateau)?",
+    "opciones": [
+      "Aproximadamente 1 vida media",
+      "Exactamente 10 vidas medias",
+      "El estado de equilibrio se alcanza de forma inmediata al iniciar la infusión",
+      "Aproximadamente de 4 a 5 vidas medias"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Por qué el uso simultáneo de un AINE (como el meloxicam) y un corticoide (como la prednisolona) está contraindicado de forma absoluta?",
+    "opciones": [
+      "Porque se inactivan mutuamente y no producen ningún efecto terapéutico",
+      "Porque incrementa drásticamente el riesgo de ulceración, perforación gastrointestinal y daño renal severo",
+      "Porque causan una destrucción súbita del tejido óseo en articulaciones",
+      "Porque duplican la presión intraocular de forma permanente"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué describe el concept farmacocinético de 'Aclaramiento' (Clearance)?",
+    "opciones": [
+      "La velocidad con la que el fármaco se absorbe a través de las vellosidades intestinales",
+      "El tiempo exacto que tarda un medicamento en cambiar de color dentro del organismo",
+      "El volumen de plasma que queda completamente depurado de un fármaco por unidad de tiempo a través de los órganos de eliminación",
+      "La cantidad total de fármaco que se une de forma reversible a las proteínas de la sangre"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es el mecanismo de acción molecular por el cual los antibióticos fluoroquinolonas (como la enrofloxacina) eliminan a las bacterias?",
+    "opciones": [
+      "Inhibición de la síntesis de la pared celular bacteriana mediante betalactamasas",
+      "Inhibición de las enzimas ADN girasa y topoisomerasa IV, bloqueando la replicación del ADN bacteriano",
+      "Alteración directa de la permeabilidad de la membrana citoplasmática externa",
+      "Bloqueo irreversible de la subunidad ribosomal 50S"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué complicación ocular dosis-dependiente e irreversible puede causar la administración de enrofloxacina en pacientes de la especie felina?",
+    "opciones": [
+      "Glaucoma agudo de ángulo cerrado",
+      "Cataratas corticales bilaterales inmediatas",
+      "Uveítis anterior supurativa",
+      "Degeneración retiniana difusa y ceguera irreversible"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué efecto tiene un inhibidor enzimático del Citocromo P450 (como el ketoconazol) sobre un segundo fármaco que se metaboliza por esta misma vía?",
+    "opciones": [
+      "Acelera su eliminación reduciendo sus niveles en sangre",
+      "Disminuye su metabolismo, prolongando su vida media e incrementando el riesgo de toxicidad",
+      "Bloquea por completo la absorción intestinal del segundo fármaco",
+      "Modifica su estructura química transformándolo en un compuesto gaseoso"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el fundamento fisiológico de utilizar una 'dosis de carga' al iniciar ciertos tratamientos antibióticos o anticonvulsivantes?",
+    "opciones": [
+      "Evaluar si el paciente es alérgico antes de dar el tratamiento normal",
+      "Saturar los órganos de excreción para que el fármaco no se elimine nunca",
+      "Alcanzar de forma rápida la concentración terapéutica mínima eficaz en plasma sin esperar múltiples vidas medias",
+      "Disminuir los costos del tratamiento a largo plazo"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Por qué los fármacos altamente hidrofílicos (polares) tienen un volumen de distribución (Vd) bajo en el organismo del paciente?",
+    "opciones": [
+      "Porque tienden a quedarse confinados en el espacio vascular y líquido extracelular, sin penetrar masivamente en los tejidos o grasa",
+      "Porque atraviesan con extrema facilidad las membranas celulares lipídicas",
+      "Porque se unen al tejido adiposo de forma reversible en minutos",
+      "Porque son destruidos de inmediato por el ácido clorhídrico del estómago"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué alteración electrolítica sistémica severa potencia la toxicidad cardíaca de los glucósidos digoxínicos en un paciente hospitalizado?",
+    "opciones": [
+      "Hipernatremia severa",
+      "Hipercalcemia leve transitoria",
+      "Hipocloridemia compensada",
+      "Hipopotasemia (hipokalemia)"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "Si un fármaco es un inductor enzimático del sistema hepático microsomal, ¿qué efecto tendrá sobre el tratamiento a largo plazo del propio paciente?",
+    "opciones": [
+      "Aumentará progresivamente la intensidad del efecto farmacológico con la misma dosis",
+      "Acelerará el metabolismo de otros fármacos o de sí mismo, disminuyendo su eficacia terapéutica con el tiempo",
+      "Inhibirá por completo la excreción renal de toxinas endógenas",
+      "Provocará una acumulación masiva del principio activo en el bazo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué parámetro farmacocinético representa la fracción de fármaco inalterado que accede a la circulación sistémica tras su administración?",
+    "opciones": [
+      "Volumen de distribución tisular",
+      "Biodisponibilidad (F)",
+      "Vida media de eliminación",
+      "Constante de velocidad de absorción"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Por qué está contraindicado el uso de eméticos de acción central como la apomorfina en pacientes que presentan depresión severa del sistema nervioso central o coma?",
+    "opciones": [
+      "Porque el fármaco se inactiva en el cerebro deprimido",
+      "Lejos de ser seguro, el alto riesgo de abolición de los reflejos laríngeos predispone a una neumonía por aspiración fulminante",
+      "Porque causa un aumento descontrolado de la temperatura corporal",
+      "Porque acelera el ritmo cardíaco hasta provocar un colapso valvular"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué ocurre con la filtración y excreción de un fármaco que se encuentra fuertemente unido a la albúmina plasmática a nivel del glomérulo renal?",
+    "opciones": [
+      "Se filtra libremente debido al bajo tamaño de la albúmina",
+      "Se destruye en el espacio de Bowman mediante enzimas locales",
+      "No se filtra en el glomérulo, ya que el complejo fármaco-proteína es demasiado grande para atravesar la barrera de filtración",
+      "Se reabsorbe de forma activa por los túbulos colectores en su totalidad"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es el mecanismo de acción de los anticoagulantes cumarínicos como la warfarina?",
+    "opciones": [
+      "Inhibición directa de la agregación de las plaquetas periféricas",
+      "Inhibición de la enzima epóxido reductasa de la vitamina K, bloqueando la activación de los factores de coagulación II, VII, IX y X",
+      "Destrucción enzimática de las cadenas de fibrina ya formadas en el plasma",
+      "Bloqueo de los canales de calcio en la membrana de los eritrocitos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de transporte celular utiliza un fármaco liposoluble para atravesar la mayoría de las membranas biológicas a favor de su gradiente de concentración?",
+    "opciones": [
+      "Transporte activo dependiente de ATP",
+      "Difusión pasiva simple",
+      "Endocitosis mediada por receptores específicos",
+      "Difusión facilitada por transportadores proteicos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Durante un estado de acidosis sistémica, ¿qué ocurre con la distribución de los fármacos que son ácidos débiles (como los salicilatos)?",
+    "opciones": [
+      "Se ionizan más y se quedan atrapados en el compartimento vascular",
+      "Precipitan de forma inmediata en el plasma en forma de sales insolubles",
+      "Disminuye su forma ionizada, volviéndose más liposolubles y penetrando con mayor facilidad en los tejidos y sistema nervioso",
+      "Se inactivan por completo debido a la desnaturalización de su principio activo"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Por qué el aclaramiento de fármacos por filtración glomerular disminuye drásticamente en un paciente geriátrico con nefropatía crónica avanzada?",
+    "opciones": [
+      "Porque aumenta el flujo sanguíneo renal basal",
+      "Porque hay una pérdida progresiva de nefronas funcionales y una reducción crítica de la Tasa de Filtración Glomerular (TFG)",
+      "Porque los túbulos renales se dilatan impidiendo el paso del agua",
+      "Porque la orina se vuelve altamente alcalina inactivando la excreción"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué describe el término 'Efecto Techo' en la farmacodinámica de un analgésico?",
+    "opciones": [
+      "La dosis máxima que puede tolerar el sistema nervioso sin causar coma",
+      "La velocidad máxima a la que se puede infundir un bolo intravenoso",
+      "La altura física que debe tener la línea de fluidos con respecto al paciente",
+      "El punto más allá del cual un incremento en la dosis de un fármaco no produce un mayor efecto terapéutico, pero sí aumenta los efectos adversos"
+    ],
+    "correcta": 3
+  }
+  {
+    "pregunta": "¿Qué concepto describe el rango entre la dosis mínima efectiva y la dosis tóxica de un medicamento?",
+    "opciones": [
+      "Margen terapéutico",
+      "Efecto acumulativo",
+      "Ventana de absorción",
+      "Periodo de latencia"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál es la principal diferencia entre un medicamento genérico y uno de marca?",
+    "opciones": [
+      "El genérico no tiene principio activo",
+      "El de marca tiene más concentración",
+      "El genérico tiene la misma eficacia pero diferente fabricante",
+      "El de marca solo puede usarse en humanos"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué estudio permite identificar concentraciones plasmáticas de medicamentos en animales?",
+    "opciones": [
+      "Hematocrito",
+      "Bioquímica general",
+      "Monitoreo terapéutico de fármacos (MTF)",
+      "Citología"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué propiedad farmacológica permite que un medicamento se distribuya adecuadamente en el organismo?",
+    "opciones": [
+      "Liposolubilidad",
+      "Peso molecular bajo",
+      "pH ácido",
+      "Carga negativa"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué enzima hepática participa mayormente en el metabolismo de medicamentos en animales?",
+    "opciones": ["Amilasa", "Citocromo P450", "Tripsina", "Ureasa"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de medicamento requiere dosis ajustadas en pacientes geriátricos?",
+    "opciones": [
+      "Analgésicos comunes",
+      "Vitaminas orales",
+      "Fármacos nefrotóxicos o hepatotóxicos",
+      "Antiparasitarios tópicos"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué término describe la reducción del efecto de un medicamento con el tiempo por uso continuo?",
+    "opciones": [
+      "Dependencia",
+      "Tolerancia farmacológica",
+      "Antagonismo",
+      "Interferencia cruzada"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el riesgo de administrar antibióticos sin control en animales sanos?",
+    "opciones": [
+      "Hipovitaminosis",
+      "Reacciones autoinmunes",
+      "Resistencia bacteriana",
+      "Fiebre continua"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué concepto representa el volumen teórico necesario para contener la cantidad total del fármaco distribuido?",
+    "opciones": [
+      "Área bajo la curva (AUC)",
+      "Biodisponibilidad",
+      "Volumen de distribución",
+      "Vida media"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué consideración especial debe tenerse al administrar medicamentos a un paciente en shock?",
+    "opciones": [
+      "Aumentar la dosis",
+      "Preferir vía subcutánea",
+      "Utilizar vía intravenosa para absorción inmediata",
+      "Evitar fármacos con acción prolongada"
+    ],
+    "correcta": 2
+  },
+
+  {
+    "pregunta": "¿Qué es la farmacovigilancia en la práctica veterinaria?",
+    "opciones": [
+      "Registro de enfermedades nuevas",
+      "Control de medicamentos en inventario",
+      "Seguimiento y reporte de efectos adversos medicamentosos",
+      "Evaluación del peso antes de medicar"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué interacción puede disminuir la absorción de ciertos antibióticos orales?",
+    "opciones": [
+      "Presencia de ácidos grasos",
+      "Administración simultánea con lácteos o antiácidos",
+      "Exposición a la luz",
+      "Uso con antiparasitarios"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué fórmula se emplea para convertir peso corporal en kilogramos a dosis exacta en mg/kg?",
+    "opciones": [
+      "Dosis = peso ÷ concentración",
+      "Dosis = peso × dosis recomendada",
+      "Dosis = ml × volumen total",
+      "Dosis = peso × tiempo de tratamiento"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la mejor vía para administrar medicamentos liposolubles en pacientes con diarrea severa?",
+    "opciones": ["Oral", "Intramuscular", "Intravenosa", "Subcutánea"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué significa que un fármaco tenga baja biodisponibilidad oral?",
+    "opciones": [
+      "Se absorbe fácilmente",
+      "Se elimina sin metabolizar",
+      "Llega poca cantidad al torrente sanguíneo",
+      "Se acumula en el hígado"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué puede generar un mal cálculo de dosis en medicamentos de índice terapéutico estrecho?",
+    "opciones": [
+      "Ningún efecto",
+      "Toxicidad o ineficacia grave",
+      "Mayor sabor amargo",
+      "Hipotermia leve"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué significa que un medicamento tenga efecto acumulativo?",
+    "opciones": [
+      "Que debe administrarse con otro",
+      "Que sus residuos se concentran y aumentan su efecto con el tiempo",
+      "Que siempre se elimina en orina",
+      "Que actúa en segundos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué riesgo implica administrar dexametasona en animales con infecciones sin diagnóstico confirmado?",
+    "opciones": [
+      "Hipertensión",
+      "Hipoglucemia",
+      "Supresión inmune y empeoramiento de la infección",
+      "Aumento de apetito"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es el riesgo de aplicar atropina por error a un animal con glaucoma?",
+    "opciones": [
+      "Mejora el drenaje ocular",
+      "Reduce la presión",
+      "Aumenta la presión intraocular y puede agravar el cuadro",
+      "No causa efecto alguno"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué significa que un medicamento es de uso extralabel?",
+    "opciones": [
+      "Uso alternativo no recomendado en humanos",
+      "Se utiliza en especies o condiciones no incluidas en el prospecto, bajo supervisión veterinaria",
+      "Solo se puede usar en urgencias",
+      "Tiene múltiples principios activos"
+    ],
+    "correcta": 1
+  },
+
+  {
+    "pregunta": "¿Qué tipo de fármaco puede afectar la médula ósea si se usa sin control?",
+    "opciones": ["Vitaminas B", "AINEs", "Citotóxicos", "Anestésicos locales"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué se debe hacer si un paciente presenta ictericia antes de iniciar un tratamiento farmacológico?",
+    "opciones": [
+      "Iniciar antibiótico inmediatamente",
+      "Evitar fármacos hepatotóxicos y consultar al veterinario",
+      "Aumentar la dosis",
+      "Dar antihistamínico preventivo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué medicamento está contraindicado en animales con insuficiencia renal crónica no controlada?",
+    "opciones": ["Prednisolona", "Furosemida", "Enrofloxacina", "Ketoprofeno"],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué ocurre si se administra accidentalmente un anticoagulante sin necesidad médica?",
+    "opciones": [
+      "Incremento del apetito",
+      "Sedación leve",
+      "Riesgo de hemorragia interna",
+      "Aumento del recuento plaquetario"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la importancia del lavado previo en la preparación de soluciones orales en suspensión?",
+    "opciones": [
+      "Evitar pérdida de color",
+      "Eliminar residuos y asegurar concentración adecuada",
+      "Aumentar la solubilidad",
+      "Evitar la sedimentación"
+    ],
+    "correcta": 1
+  } 
+  ]
+}

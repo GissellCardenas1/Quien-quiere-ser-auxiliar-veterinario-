@@ -1,0 +1,876 @@
+{
+  "fácil": [
+    {
+      "pregunta": "¿Qué es un urolito?",
+      "opciones": [
+        "Una bacteria del tracto urinario",
+        "Un cálculo que se forma en el sistema urinario",
+        "Una célula renal",
+        "Un medicamento diurético"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué significa polidipsia?",
+      "opciones": [
+        "Falta de apetito",
+        "Exceso de salivación",
+        "Aumento anormal en el consumo de agua",
+        "Reducción del volumen urinario"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué es la hematuria?",
+      "opciones": [
+        "Presencia de sangre en la orina",
+        "Fiebre alta constante",
+        "Sangrado nasal crónico",
+        "Presencia de proteínas en la sangre"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué es un fecalito?",
+      "opciones": [
+        "Parásito intestinal",
+        "Cálculo en el intestino",
+        "Masa de materia fecal endurecida",
+        "Fragmento de tejido digestivo"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué significa emesis?",
+      "opciones": [
+        "Dolor de estómago",
+        "Pérdida del apetito",
+        "Vómito",
+        "Inflamación del esófago"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué es la anemia?",
+      "opciones": [
+        "Exceso de hierro en sangre",
+        "Falta de glóbulos rojos o hemoglobina",
+        "Presión arterial alta",
+        "Aumento de glóbulos blancos"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué significa alopecia?",
+      "opciones": [
+        "Crecimiento excesivo de pelo",
+        "Pérdida de pelo o pelaje",
+        "Coloración anormal del pelaje",
+        "Inflamación de los folículos pilosos"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué es una orquiectomía?",
+      "opciones": [
+        "Cirugía para extraer un testículo o ambos",
+        "Infección testicular",
+        "Tumor en el escroto",
+        "Procedimiento de fertilización"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué es la hipotermia?",
+      "opciones": [
+        "Aumento de temperatura corporal",
+        "Disminución peligrosa de la temperatura corporal",
+        "Temperatura constante",
+        "Inestabilidad térmica"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué significa taquicardia?",
+      "opciones": [
+        "Fiebre prolongada",
+        "Latido cardíaco lento",
+        "Frecuencia cardíaca rápida",
+        "Colapso circulatorio"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué es bradicardia?",
+      "opciones": [
+        "Frecuencia cardíaca más lenta de lo normal",
+        "Pulso irregular",
+        "Aceleración cardíaca",
+        "Pérdida del ritmo sinusal"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué es la cianosis?",
+      "opciones": [
+        "Coloración azulada de mucosas por falta de oxígeno",
+        "Inflamación de los labios",
+        "Infección pulmonar",
+        "Problema digestivo"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué significa disnea?",
+      "opciones": [
+        "Dolor abdominal",
+        "Dificultad para respirar",
+        "Inflamación de las vías respiratorias",
+        "Falta de apetito"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué es el tenesmo?",
+      "opciones": [
+        "Deseo constante de defecar sin éxito",
+        "Dolor muscular",
+        "Pérdida de peso",
+        "Inflamación del ano"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué es hipertensión?",
+      "opciones": [
+        "Presión arterial baja",
+        "Falta de oxígeno en sangre",
+        "Presión arterial elevada",
+        "Ritmo cardíaco irregular"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué es hipotensión?",
+      "opciones": [
+        "Presión arterial baja",
+        "Latido cardíaco alto",
+        "Dolor de cabeza intenso",
+        "Presión arterial alta"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué es una pioderma?",
+      "opciones": [
+        "Inflamación del intestino",
+        "Infección cutánea con pus",
+        "Cáncer dérmico",
+        "Erupción alérgica"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué significa pirexia?",
+      "opciones": [
+        "Temperatura corporal normal",
+        "Dolor articular",
+        "Fiebre",
+        "Hinchazón"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué es el letargo?",
+      "opciones": [
+        "Hiperactividad repentina",
+        "Estado de somnolencia y baja energía",
+        "Aumento de apetito",
+        "Desorientación"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué significa anorexia?",
+      "opciones": [
+        "Pérdida de apetito",
+        "Aumento de sed",
+        "Ansiedad por comida",
+        "Alteración digestiva"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué es la deshidratación?",
+      "opciones": [
+        "Acumulación de agua en tejidos",
+        "Pérdida excesiva de agua en el cuerpo",
+        "Aumento del volumen sanguíneo",
+        "Falta de minerales en la piel"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué es una otitis?",
+      "opciones": [
+        "Infección del tracto urinario",
+        "Inflamación del oído",
+        "Fractura ósea",
+        "Problema visual"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué es una piodermatitis?",
+      "opciones": [
+        "Inflamación del hígado",
+        "Infección de la piel con formación de pus",
+        "Inflamación de los pulmones",
+        "Reacción alérgica al sol"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué es la enteritis?",
+      "opciones": [
+        "Inflamación del estómago",
+        "Inflamación del intestino delgado",
+        "Trastorno cardíaco",
+        "Infección ocular"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué es la gingivitis?",
+      "opciones": [
+        "Inflamación de las encías",
+        "Dolor en los molares",
+        "Desgaste de esmalte",
+        "Pérdida de piezas dentales"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué es la disuria?",
+      "opciones": [
+        "Inflamación del riñón",
+        "Dificultad o dolor al orinar",
+        "Presencia de cristales en orina",
+        "Falta de orina"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué es una onicogrifosis?",
+      "opciones": [
+        "Deformación de las orejas",
+        "Engrosamiento anormal de las uñas",
+        "Caída del pelo",
+        "Inflamación ocular"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué es un absceso?",
+      "opciones": [
+        "Hematoma cutáneo",
+        "Acumulación localizada de pus",
+        "Área con dermatitis leve",
+        "Ampolla por calor"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué es la caquexia?",
+      "opciones": [
+        "Estado de debilidad extrema y pérdida severa de peso",
+        "Dolor intenso en extremidades",
+        "Vómito crónico",
+        "Acumulación de líquidos"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué es una blefaritis?",
+      "opciones": [
+        "Infección del iris",
+        "Inflamación del párpado",
+        "Lagrimeo excesivo",
+        "Parálisis facial"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué es un ectoparásito?",
+      "opciones": [
+        "Parásito que vive en el interior del cuerpo",
+        "Parásito que vive sobre la superficie del huésped",
+        "Parásito intestinal microscópico",
+        "Microorganismo beneficioso"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué es una micosis?",
+      "opciones": [
+        "Infección causada por hongos",
+        "Trastorno digestivo",
+        "Daño muscular",
+        "Enfermedad respiratoria"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué es la prurito?",
+      "opciones": [
+        "Sensación de frío en la piel",
+        "Picazón o comezón",
+        "Coloración amarilla",
+        "Dolor localizado"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué es una pioderma superficial?",
+      "opciones": [
+        "Inflamación profunda de los músculos",
+        "Infección bacteriana leve de la piel",
+        "Quemadura solar aguda",
+        "Reacción alérgica severa"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué es una ectopía testicular?",
+      "opciones": [
+        "Testículos ausentes",
+        "Testículos en una posición anormal fuera del escroto",
+        "Cáncer testicular",
+        "Inflamación escrotal"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué significa ectasia?",
+      "opciones": [
+        "Rotura de un órgano",
+        "Dilación o ensanchamiento anormal de un conducto o vaso",
+        "Inflamación de tejidos musculares",
+        "Cierre anormal de una válvula"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué es hipersalivación?",
+      "opciones": [
+        "Reducción del flujo salival",
+        "Aumento excesivo de la producción de saliva",
+        "Sequedad bucal",
+        "Infección de las glándulas salivales"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué significa coprofagia?",
+      "opciones": [
+        "Rechazo a los alimentos",
+        "Consumo de heces",
+        "Vómito repetido",
+        "Pérdida de olfato"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué es una herida punzante?",
+      "opciones": [
+        "Herida causada por corte superficial",
+        "Lesión por objeto afilado que penetra profundamente",
+        "Contusión leve",
+        "Quemadura leve"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué significa hematemesis?",
+      "opciones": [
+        "Sangrado nasal",
+        "Vómito con sangre",
+        "Diarrea con sangre",
+        "Tos con sangre"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué es una epistaxis?",
+      "opciones": [
+        "Hemorragia en las encías",
+        "Sangrado nasal",
+        "Pérdida de sangre urinaria",
+        "Sangrado ocular"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué es la hiporexia?",
+      "opciones": [
+        "Aumento del apetito",
+        "Pérdida parcial del apetito",
+        "Consumo excesivo de agua",
+        "Vómito prolongado"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué es disquecia?",
+      "opciones": [
+        "Dificultad para defecar",
+        "Falta de apetito",
+        "Dolor al tragar",
+        "Reflujo gástrico"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué es una diarrea?",
+      "opciones": [
+        "Evacuaciones intestinales líquidas y frecuentes",
+        "Estreñimiento severo",
+        "Inflamación intestinal leve",
+        "Acumulación de gases"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué es ictericia?",
+      "opciones": [
+        "Inflamación ocular",
+        "Coloración amarilla de mucosas y piel por bilirrubina elevada",
+        "Coloración rojiza en la piel",
+        "Anemia severa"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué es una gastritis?",
+      "opciones": [
+        "Inflamación de la mucosa gástrica",
+        "Deshidratación del sistema digestivo",
+        "Trastorno renal",
+        "Infección bacteriana en la piel"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué significa hipoglucemia?",
+      "opciones": [
+        "Nivel bajo de glucosa en sangre",
+        "Exceso de glucosa en sangre",
+        "Ausencia de insulina",
+        "Destrucción de glóbulos rojos"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué es disoquia?",
+      "opciones": [
+        "Alteración de la audición",
+        "Alteración del olfato",
+        "Alteración del gusto",
+        "Alteración de la visión"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué es hiperpnea?",
+      "opciones": [
+        "Aumento de la profundidad y frecuencia respiratoria",
+        "Disminución de la frecuencia respiratoria",
+        "Inflamación pulmonar",
+        "Parálisis respiratoria"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué es una piometra?",
+      "opciones": [
+        "Infección bacteriana de la vejiga",
+        "Acumulación de pus en el útero",
+        "Infección de riñón",
+        "Obstrucción intestinal"
+      ],
+      "correcta": 1
+    }
+  ],
+{
+  "intermedio": [
+    {
+      "pregunta": "¿Qué es la piómetra?",
+      "opciones": [
+        "Inflamación del intestino delgado",
+        "Infección purulenta del útero",
+        "Inflamación de los riñones",
+        "Acumulación de líquido en los pulmones"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué es la hipoplasia?",
+      "opciones": [
+        "Crecimiento excesivo de un órgano",
+        "Ausencia completa de un órgano",
+        "Desarrollo incompleto o deficiente de un órgano o tejido",
+        "Degeneración grasa del hígado"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué es la eclampsia?",
+      "opciones": [
+        "Trastorno neurológico crónico",
+        "Infección renal",
+        "Deficiencia de calcio en la sangre en hembras lactantes",
+        "Hipertrofia muscular"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué es la displasia?",
+      "opciones": [
+        "Deformación congénita de los ojos",
+        "Desarrollo anormal de un órgano o tejido",
+        "Inflamación de las glándulas salivales",
+        "Trastorno inmunológico"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué es el prolapso rectal?",
+      "opciones": [
+        "Tumor en el intestino grueso",
+        "Inflamación de la mucosa rectal",
+        "Desplazamiento del recto hacia el exterior del cuerpo",
+        "Acumulación de gases en el intestino"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué es el hipertiroidismo?",
+      "opciones": [
+        "Deficiencia de hormonas tiroideas",
+        "Inflamación de la tiroides",
+        "Exceso en la producción de hormonas tiroideas",
+        "Crecimiento anormal de la tiroides"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué es el hipotiroidismo?",
+      "opciones": [
+        "Exceso de hormonas tiroideas",
+        "Ausencia total de tiroides",
+        "Deficiencia de producción de hormonas tiroideas",
+        "Trastorno inmunológico relacionado con la tiroides"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué es el glaucoma?",
+      "opciones": [
+        "Inflamación del párpado",
+        "Aumento de la presión intraocular",
+        "Infección de la córnea",
+        "Degeneración del cristalino"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué es la epilepsia?",
+      "opciones": [
+        "Desmayo causado por falta de azúcar",
+        "Trastorno caracterizado por convulsiones recurrentes",
+        "Inflamación del sistema nervioso",
+        "Pérdida de visión repentina"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué es la meningitis?",
+      "opciones": [
+        "Inflamación del tejido muscular",
+        "Inflamación de las membranas que recubren el cerebro y la médula espinal",
+        "Infección urinaria",
+        "Trastorno inmunológico"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué es la hipocalcemia?",
+      "opciones": [
+        "Exceso de calcio en sangre",
+        "Deficiencia de calcio en sangre",
+        "Falta de hierro en sangre",
+        "Desequilibrio de sodio"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué significa leucocitosis?",
+      "opciones": [
+        "Disminución de glóbulos blancos",
+        "Aumento de glóbulos blancos",
+        "Deficiencia de glóbulos rojos",
+        "Destrucción de plaquetas"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué es la trombocitopenia?",
+      "opciones": [
+        "Aumento en el número de plaquetas",
+        "Deficiencia de glóbulos blancos",
+        "Deficiencia de plaquetas",
+        "Inflamación de venas"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué es la encefalitis?",
+      "opciones": [
+        "Inflamación del cerebro",
+        "Trastorno de médula espinal",
+        "Convulsión temporal",
+        "Degeneración muscular"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué es la lipidosis hepática?",
+      "opciones": [
+        "Degeneración grasa del hígado",
+        "Inflamación del intestino",
+        "Fallo renal",
+        "Crecimiento anormal de la vesícula"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué es la insuficiencia renal?",
+      "opciones": [
+        "Fallo en el funcionamiento del hígado",
+        "Reducción o pérdida de la función renal",
+        "Cálculo en los riñones",
+        "Infección urinaria leve"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué es la parvovirosis?",
+      "opciones": [
+        "Infección bacteriana intestinal",
+        "Trastorno neurológico",
+        "Enfermedad viral que afecta el sistema digestivo de los perros",
+        "Cáncer intestinal"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué es el distemper?",
+      "opciones": [
+        "Nombre común del moquillo canino",
+        "Infección por hongos",
+        "Trastorno hepático",
+        "Inflamación de la vejiga"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué es la leishmaniasis?",
+      "opciones": [
+        "Enfermedad viral transmitida por mosquitos",
+        "Infección parasitaria transmitida por flebótomos",
+        "Trastorno neurológico",
+        "Infección de oído"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué es la ehrlichiosis?",
+      "opciones": [
+        "Infección causada por bacterias intracelulares transmitidas por garrapatas",
+        "Virus respiratorio",
+        "Hongo en la piel",
+        "Desorden genético"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué es una neoplasia?",
+      "opciones": [
+        "Nuevo brote parasitario",
+        "Crecimiento anormal de tejido (tumor)",
+        "Degeneración muscular",
+        "Inflamación de glándulas"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué es la cardiomegalia?",
+      "opciones": [
+        "Inflamación del corazón",
+        "Presencia de coágulos en el corazón",
+        "Crecimiento anormal del corazón",
+        "Fallo cardíaco agudo"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué es la enteritis?",
+      "opciones": [
+        "Inflamación del estómago",
+        "Inflamación del intestino delgado",
+        "Tumor en el colon",
+        "Infección en el páncreas"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué es la obstrucción uretral?",
+      "opciones": [
+        "Bloqueo del canal urinario",
+        "Infección del útero",
+        "Rotura de la vejiga",
+        "Fallo renal crónico"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué implica una estomatitis ulcerativa?",
+      "opciones": ["Inflamación de encías con úlceras", "Infección de los dientes", "Falta de glóbulos blancos", "Hipotermia oral"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué es una osteomielitis?",
+      "opciones": ["Inflamación del cartílago", "Degeneración muscular", "Inflamación del hueso y médula ósea", "Rotura de tendón"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué significa bradicardia?",
+      "opciones": ["Ritmo cardíaco lento", "Presión arterial alta", "Fiebre persistente", "Ritmo cardíaco acelerado"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué es una miocardiopatía?",
+      "opciones": ["Enfermedad muscular del corazón", "Inflamación del hígado", "Obstrucción bronquial", "Aneurisma cerebral"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué significa el término ictérica?",
+      "opciones": ["Presencia de sangre en heces", "Coloración amarillenta de mucosas", "Pérdida de coordinación", "Incremento de glóbulos blancos"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué describe el término urolitiasis?",
+      "opciones": ["Presencia de sangre en orina", "Inflamación del uréter", "Formación de cálculos en el tracto urinario", "Ausencia de orina"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué es una taquipnea?",
+      "opciones": ["Respiración lenta", "Respiración acelerada", "Falta total de respiración", "Respiración irregular con pausas"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué significa hipertermia?",
+      "opciones": ["Temperatura corporal elevada", "Disminución del ritmo cardíaco", "Falta de apetito", "Debilidad muscular"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué es una espondilosis?",
+      "opciones": ["Fractura de columna", "Proceso degenerativo de las vértebras", "Inflamación de médula espinal", "Obstrucción de los discos intervertebrales"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué es una miastenia?",
+      "opciones": ["Enfermedad renal", "Debilidad muscular", "Pérdida de masa ósea", "Alteración sensorial"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué es la hiperglucemia?",
+      "opciones": ["Bajo nivel de glucosa en sangre", "Glucosa en orina", "Exceso de glucosa en sangre", "Falta de insulina"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué significa anuria?",
+      "opciones": ["Producción excesiva de orina", "Orina con sangre", "Ausencia total de producción de orina", "Dolor al orinar"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué es la cistitis?",
+      "opciones": ["Inflamación de los riñones", "Infección de la uretra", "Inflamación de la vejiga", "Dolor abdominal agudo"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué indica una anemia hemolítica?",
+      "opciones": ["Pérdida de sangre por heridas", "Destrucción prematura de glóbulos rojos", "Deficiencia de hierro", "Desnutrición severa"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué es una gastritis crónica?",
+      "opciones": ["Inflamación prolongada del estómago", "Úlcera intestinal", "Degeneración del páncreas", "Trastorno hepático leve"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué significa el término alopecia?",
+      "opciones": ["Caída o pérdida de pelo", "Acumulación de grasa en piel", "Descamación dérmica", "Inflamación de folículos pilosos"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué es una hematemesis?",
+      "opciones": ["Presencia de sangre en la orina", "Vómito con sangre", "Sangrado nasal", "Coágulos en el tracto urinario"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué es la queratoconjuntivitis seca?",
+      "opciones": ["Infección bacteriana del ojo", "Inflamación del iris", "Falta de lágrima con inflamación ocular", "Ceguera congénita"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué indica la ascitis?",
+      "opciones": ["Inflamación de las glándulas adrenales", "Presencia de líquido en la cavidad abdominal", "Obstrucción del esófago", "Rotura del colon"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué es la hematuria?",
+      "opciones": ["Presencia de sangre en orina", "Sangrado por la nariz", "Glóbulos blancos en orina", "Bilirrubina elevada"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué significa tenesmo?",
+      "opciones": ["Dolor de oído", "Deseo constante y doloroso de defecar", "Inflamación pulmonar", "Espasmos musculares involuntarios"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué es una estenosis traqueal?",
+      "opciones": ["Rotura de tráquea", "Estrechamiento anormal de la tráquea", "Infección laríngea", "Colapso pulmonar"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué significa hepatomegalia?",
+      "opciones": ["Hígado reducido", "Acumulación de bilis", "Agrandamiento del hígado", "Degeneración grasa hepática"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué es una pioderma?",
+      "opciones": ["Infección purulenta de la piel", "Tumor benigno de piel", "Alergia alimentaria", "Caída de pelo estacional"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué significa fotofobia en animales?",
+      "opciones": ["Fobia a la oscuridad", "Sensibilidad excesiva a la luz", "Ansiedad nocturna", "Pérdida de visión"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué es la estomatitis viral felina?",
+      "opciones": ["Infección bacteriana del esófago", "Inflamación crónica de boca y encías en gatos", "Úlceras estomacales en felinos", "Degeneración hepática en gatos"],
+      "correcta": 1
+    }
+  ],

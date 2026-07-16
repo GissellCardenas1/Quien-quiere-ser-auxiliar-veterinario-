@@ -1,0 +1,1030 @@
+{
+    "fácil": [
+      {
+    "pregunta": "¿Cuál es el hueso más largo del cuerpo del perro?",
+    "opciones": ["Radio", "Fémur", "Húmero", "Tibia"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué órgano se encarga de bombear la sangre en el cuerpo?",
+    "opciones": ["Pulmón", "Estómago", "Corazón", "Riñón"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Dónde se ubica el cráneo?",
+    "opciones": ["En el tórax", "En la cabeza", "En las patas", "En el abdomen"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué sistema corporal incluye huesos y articulaciones?",
+    "opciones": ["Esquelético", "Digestivo", "Muscular", "Respiratorio"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué estructura protege al cerebro?",
+    "opciones": ["El corazón", "La caja torácica", "El cráneo", "La columna vertebral"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuántas patas tiene normalmente un perro?",
+    "opciones": ["Dos", "Cuatro", "Tres", "Cinco"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué órgano forma parte del sistema respiratorio?",
+    "opciones": ["Corazón", "Hígado", "Pulmón", "Riñón"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué sistema se encarga del movimiento del cuerpo?",
+    "opciones": ["Muscular", "Digestivo", "Inmunológico", "Linfático"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Dónde se encuentra la columna vertebral?",
+    "opciones": ["En las patas", "En la cabeza", "En la espalda", "En el abdomen"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes es un hueso?",
+    "opciones": ["Pulmón", "Fémur", "Estómago", "Hígado"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué sistema transporta la sangre en el cuerpo?",
+    "opciones": ["Circulatorio", "Respiratorio", "Nervioso", "Digestivo"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué órgano filtra los desechos de la sangre?",
+    "opciones": ["Hígado", "Estómago", "Riñón", "Páncreas"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué parte del cuerpo está formada por vértebras?",
+    "opciones": ["Patas", "Columna vertebral", "Cráneo", "Costillas"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la función de los tendones?",
+    "opciones": ["Conectar huesos", "Almacenar sangre", "Conectar músculos a huesos", "Producir hormonas"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Dónde se encuentran los alvéolos pulmonares?",
+    "opciones": ["Corazón", "Pulmones", "Hígado", "Riñones"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál de estos órganos se encuentra en el abdomen?",
+    "opciones": ["Cerebro", "Corazón", "Estómago", "Cráneo"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la unidad funcional del riñón?",
+    "opciones": ["Neurona", "Negrón", "Nefrón", "Alvéolo"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué órgano controla las funciones del cuerpo?",
+    "opciones": ["Hígado", "Riñón", "Cerebro", "Corazón"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué nombre recibe el hueso que une el hombro con el codo?",
+    "opciones": ["Tibia", "Fémur", "Húmero", "Radio"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué órgano pertenece al sistema digestivo?",
+    "opciones": ["Páncreas", "Estómago", "Tráquea", "Pulmón"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué hueso protege el corazón y los pulmones?",
+    "opciones": ["Fémur", "Costillas", "Cráneo", "Húmero"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de articulación está en la rodilla del perro?",
+    "opciones": ["Fija", "Esférica", "Bisagra", "Pivotante"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Dónde se produce la mayoría de las células sanguíneas?",
+    "opciones": ["Hígado", "Médula ósea", "Páncreas", "Estómago"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué órgano almacena bilis?",
+    "opciones": ["Páncreas", "Intestino", "Vesícula biliar", "Hígado"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué sistema incluye el cerebro y la médula espinal?",
+    "opciones": ["Respiratorio", "Linfático", "Nervioso", "Muscular"],
+    "correcta": 2
+  },
+{
+    "pregunta": "¿Qué parte del cuerpo está formada por huesos largos, cortos y planos?",
+    "opciones": ["El sistema digestivo", "El sistema óseo", "El sistema muscular", "El sistema nervioso"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el hueso que forma la base del cráneo?",
+    "opciones": ["Temporal", "Esfenoides", "Occipital", "Frontal"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la función principal del diafragma?",
+    "opciones": ["Digestión", "Filtración de sangre", "Respiración", "Producción de glóbulos rojos"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué parte del sistema nervioso se encuentra protegida por la columna vertebral?",
+    "opciones": ["Cerebro", "Tronco encefálico", "Médula espinal", "Nervios craneales"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la función del corazón?",
+    "opciones": ["Filtrar sangre", "Bombear sangre", "Absorber nutrientes", "Controlar la temperatura"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de tejido conecta músculos con huesos?",
+    "opciones": ["Cartílago", "Tendón", "Ligamento", "Fascia"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál de estos órganos pertenece al sistema urinario?",
+    "opciones": ["Riñón", "Hígado", "Pulmón", "Estómago"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué nombre recibe el hueso de la parte superior del brazo?",
+    "opciones": ["Húmero", "Fémur", "Tibia", "Radio"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué órgano regula la temperatura corporal y controla funciones vitales?",
+    "opciones": ["Piel", "Cerebro", "Pulmón", "Hígado"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué parte del cuerpo contiene los carpos y metacarpos?",
+    "opciones": ["Pata anterior", "Columna", "Pata posterior", "Mandíbula"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué articulación une el fémur con la tibia?",
+    "opciones": ["Codo", "Cadera", "Rodilla", "Tobillo"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué es el peritoneo?",
+    "opciones": ["Un hueso del cráneo", "Un tipo de músculo", "Una membrana que recubre la cavidad abdominal", "Una parte del intestino"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué órgano produce la insulina?",
+    "opciones": ["Páncreas", "Estómago", "Hígado", "Riñón"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué parte del sistema digestivo absorbe la mayoría de los nutrientes?",
+    "opciones": ["Estómago", "Hígado", "Intestino delgado", "Colon"],
+    "correcta": 2
+  },
+  {
+  "pregunta": "¿Qué hueso está ausente o es rudimentario en el esqueleto del perro?",
+  "opciones": ["Clavícula", "Escápula", "Húmero", "Fémur"],
+  "correcta": 0
+  },
+  {
+    "pregunta": "¿Cómo se llama la capa externa del hueso?",
+    "opciones": ["Epífisis", "Periostio", "Médula ósea", "Cartílago articular"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la principal función del sistema esquelético?",
+    "opciones": ["Proteger órganos", "Controlar el movimiento", "Regular hormonas", "Transportar oxígeno"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué parte del sistema respiratorio es responsable del intercambio gaseoso?",
+    "opciones": ["Tráquea", "Bronquios", "Pulmones", "Alvéolos"],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué estructura forma la base del cuello?",
+    "opciones": ["Vértebras cervicales", "Clavícula", "Esternón", "Cartílago hioides"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué tipo de músculo mueve las extremidades?",
+    "opciones": ["Cardíaco", "Liso", "Esquelético", "Voluntario visceral"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué sistema controla las funciones corporales mediante señales eléctricas?",
+    "opciones": ["Digestivo", "Nervioso", "Linfático", "Endocrino"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de los huesos que conforman la cadera?",
+    "opciones": ["Fémur y tibia", "Pelvis y sacro", "Húmero y radio", "Costillas y esternón"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué líquido recubre las articulaciones?",
+    "opciones": ["Sangre", "Líquido cefalorraquídeo", "Líquido sinovial", "Líquido linfático"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la parte más anterior del cráneo?",
+    "opciones": ["Temporal", "Occipital", "Frontal", "Parietal"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué sistema se encarga de transportar oxígeno a las células?",
+    "opciones": ["Digestivo", "Muscular", "Circulatorio", "Linfático"],
+    "correcta": 2
+  }
+    ],
+    "intermedio": [
+  {
+    "pregunta": "¿Cuál es el nombre de la cavidad que contiene los órganos digestivos?",
+    "opciones": ["Cavidad torácica", "Cavidad abdominal", "Cavidad craneal", "Cavidad pélvica"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué nombre recibe la unión entre dos huesos?",
+    "opciones": ["Tendón", "Ligamento", "Articulación", "Cartílago"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué parte del sistema nervioso controla los reflejos?",
+    "opciones": ["Cerebro", "Cerebelo", "Médula espinal", "Bulbo raquídeo"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cómo se llama el hueso que forma la base de la lengua y no se articula con otros huesos?",
+    "opciones": ["Hioides", "Mandíbula", "Maxilar", "Esternón"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué tipo de músculo es el diafragma?",
+    "opciones": ["Liso", "Cardíaco", "Esquelético", "Mixto"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué función tiene el sistema esquelético además del soporte estructural?",
+    "opciones": ["Producción de enzimas", "Transporte de nutrientes", "Producción de células sanguíneas", "Almacenamiento de grasa"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tipo de articulación es la articulación del hombro?",
+    "opciones": ["Bisagra", "Pivotante", "Esférica", "Condilar"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cómo se llama el tejido que recubre los órganos internos y las cavidades corporales?",
+    "opciones": ["Tejido epitelial", "Tejido muscular", "Tejido adiposo", "Tejido conjuntivo"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué parte del encéfalo regula la coordinación muscular y el equilibrio?",
+    "opciones": ["Cerebro", "Tálamo", "Cerebelo", "Tronco encefálico"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la función principal del intestino delgado?",
+    "opciones": ["Producción de bilis", "Absorción de nutrientes", "Filtración de sangre", "Almacenamiento de grasa"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la arteria principal que lleva sangre del corazón al cuerpo?",
+    "opciones": ["Carótida", "Aorta", "Subclavia", "Pulmonar"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué estructura separa la cavidad torácica de la abdominal?",
+    "opciones": ["Esternón", "Diafragma", "Hígado", "Peritoneo"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué parte del cuerpo contiene los huesos ilion, pubis e isquion?",
+    "opciones": ["Cráneo", "Columna", "Pelvis", "Esternón"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué sistema regula las hormonas en el cuerpo?",
+    "opciones": ["Nervioso", "Digestivo", "Endocrino", "Circulatorio"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la función del timo en animales jóvenes?",
+    "opciones": ["Producción de glóbulos rojos", "Formación de linfocitos T", "Producción de enzimas digestivas", "Almacenamiento de grasa"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la función del líquido sinovial en las articulaciones?",
+    "opciones": ["Absorber nutrientes", "Transportar oxígeno", "Lubricar y amortiguar", "Filtrar desechos"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué parte del ojo está encargada de enfocar la luz?",
+    "opciones": ["Retina", "Cristalino", "Iris", "Córnea"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué órgano produce la bilis?",
+    "opciones": ["Estómago", "Páncreas", "Hígado", "Vesícula biliar"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué estructura nerviosa conecta el cerebro con el cuerpo?",
+    "opciones": ["Nervio vago", "Médula espinal", "Cerebelo", "Hipotálamo"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la estructura responsable del intercambio de gases en los pulmones?",
+    "opciones": ["Bronquios", "Bronquiolos", "Alvéolos", "Tráquea"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué nombre recibe el hueso del muslo?",
+    "opciones": ["Fémur", "Tibia", "Peroné", "Radio"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué parte del riñón filtra la sangre?",
+    "opciones": ["Uréter", "Nefrona", "Pelvis renal", "Glomérulo"],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué glándula regula el metabolismo?",
+    "opciones": ["Suprarrenal", "Tiroides", "Hipófisis", "Paratiroides"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de músculo se encuentra en el corazón?",
+    "opciones": ["Liso", "Esquelético", "Cardíaco", "Voluntario"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cómo se llaman los huesos que forman la columna vertebral?",
+    "opciones": ["Tarsos", "Vértebras", "Costillas", "Cilios"],
+    "correcta": 1
+  },
+ {
+    "pregunta": "¿Qué parte del sistema circulatorio lleva sangre desde el cuerpo al corazón?",
+    "opciones": ["Arterias", "Capilares", "Venas", "Linfa"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tejido conecta músculos con huesos?",
+    "opciones": ["Ligamentos", "Cartílago", "Tendones", "Fascia"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué nombre recibe el hueso que conecta el cráneo con la columna vertebral?",
+    "opciones": ["Atlas", "Axis", "Occipital", "Mandíbula"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué función cumple el páncreas en la digestión?",
+    "opciones": ["Almacenar bilis", "Filtrar toxinas", "Producir enzimas digestivas", "Absorber grasas"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué nombre recibe el tubo que conecta la boca con el estómago?",
+    "opciones": ["Tráquea", "Duodeno", "Esófago", "Colon"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué parte del corazón recibe sangre rica en oxígeno desde los pulmones?",
+    "opciones": ["Aurícula derecha", "Aurícula izquierda", "Ventrículo derecho", "Ventrículo izquierdo"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de hueso es la escápula?",
+    "opciones": ["Largo", "Corto", "Plano", "Irregular"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué estructura permite que los alimentos no entren en la tráquea al tragar?",
+    "opciones": ["Glotis", "Laringe", "Epiglotis", "Cartílago cricoides"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Dónde se produce la orina?",
+    "opciones": ["Uréter", "Pelvis renal", "Nefrona", "Vejiga"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué huesos forman la caja torácica junto con el esternón?",
+    "opciones": ["Húmero", "Vértebras", "Costillas", "Clavículas"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué órgano regula la cantidad de agua y sales en el cuerpo?",
+    "opciones": ["Páncreas", "Hígado", "Riñón", "Bazo"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué estructura divide al corazón en lado derecho e izquierdo?",
+    "opciones": ["Válvula mitral", "Tabique interventricular", "Pericardio", "Miocardio"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué sistema corporal incluye glándulas como la tiroides y la suprarrenal?",
+    "opciones": ["Digestivo", "Endocrino", "Linfático", "Muscular"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se llama el conducto que transporta la bilis desde el hígado?",
+    "opciones": ["Conducto pancreático", "Uréter", "Conducto biliar", "Vesícula biliar"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué glóbulo sanguíneo es responsable de la defensa inmunológica?",
+    "opciones": ["Eritrocito", "Plaqueta", "Linfocito", "Neurona"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la función principal del estómago?",
+    "opciones": ["Absorber nutrientes", "Regular la temperatura", "Almacenar bilis", "Iniciar la digestión de proteínas"],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué parte del sistema nervioso regula funciones automáticas como el latido del corazón?",
+    "opciones": ["Sistema somático", "Sistema central", "Sistema autónomo", "Sistema límbico"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del hueso que se encuentra entre la cadera y la rodilla?",
+    "opciones": ["Fémur", "Peroné", "Tibia", "Isquion"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué tipo de articulación permite el movimiento en múltiples direcciones, como el hombro?",
+    "opciones": ["Pivotante", "Esférica", "Condilar", "Fija"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué capa de la piel contiene vasos sanguíneos y nervios?",
+    "opciones": ["Epidermis", "Dermis", "Hipodermis", "Estrato córneo"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué hormona regula el azúcar en la sangre?",
+    "opciones": ["Adrenalina", "Insulina", "Cortisol", "Progesterona"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué parte del cuerpo contiene la mayoría de los linfonodos?",
+    "opciones": ["Piernas", "Cabeza", "Cuello y axilas", "Pulmones"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la unidad funcional del sistema respiratorio?",
+    "opciones": ["Bronquio", "Tráquea", "Alvéolo", "Laringe"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué huesos forman el antebrazo?",
+    "opciones": ["Húmero y clavícula", "Radio y cúbito", "Escápula y húmero", "Tibia y peroné"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué célula sanguínea se encarga de transportar oxígeno?",
+    "opciones": ["Linfocito", "Plaqueta", "Eritrocito", "Neutrófilo"],
+    "correcta": 2
+  }
+],
+    "difícil": [
+{
+    "pregunta": "¿Cuál es la principal función del sistema linfático en relación con la anatomía?",
+    "opciones": ["Transportar oxígeno", "Defender el cuerpo", "Regular la temperatura", "Almacenar nutrientes"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué nombre recibe la capa interna del corazón?",
+    "opciones": ["Pericardio", "Miocardio", "Endocardio", "Epicardio"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué estructura conecta el ventrículo izquierdo con la aorta?",
+    "opciones": ["Válvula tricúspide", "Válvula mitral", "Válvula aórtica", "Válvula pulmonar"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tipo de articulación se encuentra en la mandíbula?",
+    "opciones": ["Bisagra", "Sinovial condilar", "Esférica", "Fija"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se llama el tejido que recubre internamente las cavidades corporales?",
+    "opciones": ["Epitelio", "Cartílago", "Tejido muscular", "Fascia"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál de estos músculos es un músculo respiratorio accesorio?",
+    "opciones": ["Trapecio", "Intercostales internos", "Pectoral menor", "Bíceps braquial"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la función principal del bazo?",
+    "opciones": ["Filtrar la linfa", "Producir enzimas digestivas", "Almacenar sangre y destruir eritrocitos", "Regular el pH sanguíneo"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué nervio controla los músculos de la expresión facial?",
+    "opciones": ["Nervio óptico", "Nervio trigémino", "Nervio facial", "Nervio accesorio"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es el principal plexo nervioso del miembro anterior en caninos?",
+    "opciones": ["Plexo cervical", "Plexo braquial", "Plexo sacro", "Plexo lumbar"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de tejido forma la médula ósea roja?",
+    "opciones": ["Tejido epitelial", "Tejido adiposo", "Tejido hematopoyético", "Tejido muscular"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué vena transporta sangre oxigenada?",
+    "opciones": ["Vena cava", "Vena porta", "Vena pulmonar", "Vena safena"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué estructura controla el ritmo cardíaco básico?",
+    "opciones": ["Hipotálamo", "Nódulo sinoauricular", "Cerebelo", "Médula espinal"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la función del retículo endoplásmico rugoso en células musculares?",
+    "opciones": ["Síntesis de lípidos", "Producción de proteínas", "Almacenamiento de calcio", "Reparación de ADN"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué conducto transporta bilis desde el hígado hasta el intestino delgado?",
+    "opciones": ["Conducto pancreático", "Conducto biliar común", "Conducto colédoco", "Conducto hepático accesorio"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la arteria que irriga principalmente el encéfalo?",
+    "opciones": ["Arteria carótida interna", "Arteria vertebral", "Arteria subclavia", "Arteria femoral"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué componente del sistema nervioso se encarga de las funciones involuntarias?",
+    "opciones": ["Sistema somático", "Sistema nervioso central", "Sistema autónomo", "Sistema sensorial"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué capa del ojo contiene los vasos sanguíneos?",
+    "opciones": ["Córnea", "Retina", "Esclerótica", "Coroides"],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Cuál es el principal componente del cartílago articular?",
+    "opciones": ["Tejido muscular", "Colágeno tipo II", "Fibroblastos", "Osteocitos"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se llama la primera vértebra cervical?",
+    "opciones": ["Axis", "Atlas", "Occipital", "C1"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué estructura conecta el oído medio con la faringe?",
+    "opciones": ["Canal semicircular", "Membrana timpánica", "Trompa de Eustaquio", "Conducto coclear"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tipo de músculo encontramos en los vasos sanguíneos?",
+    "opciones": ["Cardíaco", "Liso", "Esquelético", "Mixto"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué hormona regula la absorción de calcio en los huesos?",
+    "opciones": ["Cortisol", "Insulina", "Parathormona", "Glucagón"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué región del encéfalo controla el equilibrio y la coordinación?",
+    "opciones": ["Bulbo raquídeo", "Hipotálamo", "Cerebelo", "Tálamo"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué nombre recibe el extremo distal del fémur que articula con la tibia?",
+    "opciones": ["Cabeza femoral", "Cóndilo femoral", "Trocanter mayor", "Epicóndilo medial"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué glándula se encuentra justo debajo del encéfalo y regula otras glándulas?",
+    "opciones": ["Timo", "Hipófisis", "Tiroides", "Páncreas"],
+    "correcta": 1
+  },
+{
+    "pregunta": "¿Qué parte del sistema urinario transporta la orina desde los riñones hasta la vejiga?",
+    "opciones": ["Uretra", "Uréteres", "Túbulos renales", "Pelvis renal"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué nombre recibe la cavidad que contiene el corazón y los pulmones?",
+    "opciones": ["Cavidad pélvica", "Cavidad abdominal", "Cavidad torácica", "Cavidad craneal"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la función de las células gliales en el sistema nervioso?",
+    "opciones": ["Transmitir impulsos", "Regular hormonas", "Soporte y protección neuronal", "Sintetizar proteínas"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cómo se llama la estructura que divide el corazón en dos mitades?",
+    "opciones": ["Válvula aórtica", "Tabique interventricular", "Miocardio", "Pericardio"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué sustancia se produce en los alvéolos pulmonares para evitar su colapso?",
+    "opciones": ["Hemoglobina", "Moco", "Surfactante", "Oxígeno"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué parte del intestino delgado se conecta directamente con el estómago?",
+    "opciones": ["Yeyuno", "Ciego", "Íleon", "Duodeno"],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué órgano almacena temporalmente la orina?",
+    "opciones": ["Riñón", "Uréter", "Vejiga", "Uretra"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué hueso forma parte de la articulación coxofemoral?",
+    "opciones": ["Tibia", "Fémur", "Radio", "Húmero"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de articulación permite el movimiento de rotación del atlas sobre el axis?",
+    "opciones": ["Esférica", "Condilar", "Pivotante", "Bisagra"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de la unidad funcional del hígado?",
+    "opciones": ["Glomérulo", "Hepatocito", "Lóbulo hepático", "Neurona"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué capa de la piel contiene los vasos sanguíneos y terminaciones nerviosas?",
+    "opciones": ["Epidermis", "Dermis", "Hipodermis", "Estrato córneo"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué componente del sistema esquelético se encuentra en el interior de los huesos largos?",
+    "opciones": ["Cartílago hialino", "Periostio", "Médula ósea", "Endostio"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es el hueso plano que se encuentra en el pecho y al que se unen las costillas?",
+    "opciones": ["Escápula", "Esternón", "Húmero", "Clavícula"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué parte del encéfalo regula funciones autónomas como la respiración y frecuencia cardíaca?",
+    "opciones": ["Cerebelo", "Bulbo raquídeo", "Hipotálamo", "Tálamo"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué hormona se produce en los riñones y estimula la producción de glóbulos rojos?",
+    "opciones": ["Eritropoyetina", "Insulina", "Adrenalina", "Cortisol"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál de estas estructuras forma parte del sistema auditivo?",
+    "opciones": ["Cóclea", "Córnea", "Cerebelo", "Carótida"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué hueso conecta el brazo con el tronco en animales domésticos?",
+    "opciones": ["Esternón", "Húmero", "Clavícula", "Escápula"],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué tipo de tejido recubre los órganos internos?",
+    "opciones": ["Epitelial", "Muscular", "Óseo", "Cartilaginoso"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué glándula produce hormonas que regulan el metabolismo?",
+    "opciones": ["Suprarrenal", "Tiroides", "Hipófisis", "Páncreas"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se llama la parte terminal del intestino grueso?",
+    "opciones": ["Ciego", "Recto", "Colon transverso", "Duodeno"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes músculos es extensor del miembro anterior en caninos?",
+    "opciones": ["Bíceps braquial", "Tríceps braquial", "Pectoral superficial", "Trapecio"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de las células encargadas de formar hueso nuevo?",
+    "opciones": ["Osteoclastos", "Condrocitos", "Osteoblastos", "Fibroblastos"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué parte del intestino grueso absorbe agua y electrolitos?",
+    "opciones": ["Íleon", "Yeyuno", "Colon", "Duodeno"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué parte del encéfalo regula el hambre, la sed y la temperatura corporal?",
+    "opciones": ["Hipocampo", "Cerebelo", "Hipotálamo", "Mesencéfalo"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué parte del ojo regula la cantidad de luz que entra?",
+    "opciones": ["Retina", "Lente", "Iris", "Esclerótica"],
+    "correcta": 2
+  }
+],
+    "avanzado": [
+ {
+    "pregunta": "¿Cuál es la diferencia funcional entre los nervios somáticos y los autónomos?",
+    "opciones": [
+      "Los somáticos controlan músculos voluntarios y los autónomos funciones involuntarias",
+      "Ambos controlan músculos voluntarios",
+      "Los somáticos controlan hormonas y los autónomos emociones",
+      "No tienen diferencias funcionales"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué región anatómica se encuentra entre el diafragma y la pelvis?",
+    "opciones": ["Cavidad torácica", "Cavidad abdominal", "Cavidad pélvica", "Cavidad craneal"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la estructura anatómica que permite la filtración inicial de sangre en el riñón?",
+    "opciones": ["Nefrona", "Túbulo contorneado distal", "Glomérulo", "Pelvis renal"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cómo se denomina el sistema de vasos que drena el exceso de líquido intersticial?",
+    "opciones": ["Sistema venoso", "Sistema linfático", "Sistema portal", "Sistema glomerular"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué nombre recibe la unión entre una neurona y una fibra muscular?",
+    "opciones": ["Sinapsis eléctrica", "Unión neuromuscular", "Nodo de Ranvier", "Placa terminal"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué característica distingue a las vértebras torácicas de las cervicales?",
+    "opciones": [
+      "Tienen cuerpo más pequeño",
+      "Carecen de apófisis espinosa",
+      "Se articulan con las costillas",
+      "No tienen agujero vertebral"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la principal función del aparato de Golgi en células glandulares?",
+    "opciones": [
+      "Almacenar calcio",
+      "Sintetizar proteínas",
+      "Modificar y empaquetar proteínas",
+      "Realizar la fotosíntesis"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tipo de epitelio se encuentra recubriendo la vejiga urinaria?",
+    "opciones": ["Epitelio escamoso", "Epitelio transicional", "Epitelio cilíndrico", "Epitelio cúbico"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué parte del hueso largo es responsable del crecimiento longitudinal en animales jóvenes?",
+    "opciones": ["Epífisis", "Periostio", "Diáfisis", "Placa de crecimiento (fisis)"],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Cuál es el componente de la sangre responsable del transporte de oxígeno?",
+    "opciones": ["Leucocitos", "Plaquetas", "Hemoglobina", "Linfocitos"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué estructura en la célula muscular almacena calcio para la contracción?",
+    "opciones": ["Mitocondria", "Retículo endoplásmico liso", "Retículo sarcoplásmico", "Ribosoma"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué nervio craneal inerva los músculos de la masticación?",
+    "opciones": ["Trigémino (V)", "Facial (VII)", "Hipogloso (XII)", "Vago (X)"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál es el principal ligamento que mantiene la articulación de la rodilla?",
+    "opciones": [
+      "Ligamento redondo",
+      "Ligamento colateral lateral",
+      "Ligamento cruzado",
+      "Ligamento suspensor"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué región del encéfalo está encargada del control de la temperatura corporal?",
+    "opciones": ["Cerebelo", "Hipotálamo", "Bulbo raquídeo", "Tálamo"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué estructura forma parte del oído interno?",
+    "opciones": ["Martillo", "Tímpano", "Cóclea", "Conducto auditivo externo"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tipo de articulación es la coxofemoral (cadera)?",
+    "opciones": ["Condilar", "Esférica", "Sínfisis", "Bisagra"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué parte del sistema respiratorio contiene los cartílagos cricoides y tiroides?",
+    "opciones": ["Tráquea", "Bronquios", "Laringe", "Faringe"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es el pH aproximado de la sangre arterial en animales sanos?",
+    "opciones": ["5.5", "6.8", "7.4", "8.1"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué capa del globo ocular contiene los vasos sanguíneos y nutre la retina?",
+    "opciones": ["Coroides", "Esclerótica", "Córnea", "Humor vítreo"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué nombre recibe el espacio entre dos neuronas?",
+    "opciones": ["Axón", "Sinapsis", "Cuerpo celular", "Dendrita"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué sustancia produce el hígado que es esencial para la digestión de grasas?",
+    "opciones": ["Insulina", "Pepsina", "Bilis", "Tripsina"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tejido recubre las superficies articulares de los huesos?",
+    "opciones": ["Cartílago articular", "Fascia", "Tendón", "Periostio"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué célula ósea se encarga de la resorción del hueso?",
+    "opciones": ["Osteoblasto", "Condrocito", "Osteoclasto", "Fibroblasto"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué zona de la neurona recibe estímulos del entorno o de otras neuronas?",
+    "opciones": ["Axón", "Cuerpo neuronal", "Núcleo", "Dendritas"],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué arteria irriga directamente a los riñones?",
+    "opciones": ["Arteria renal", "Arteria hepática", "Arteria ilíaca", "Aorta descendente"],
+    "correcta": 0
+  },
+{
+    "pregunta": "¿Cuál es el nombre del canal que conecta la cavidad nasal con la faringe?",
+    "opciones": ["Trompa de Eustaquio", "Conducto nasolagrimal", "Coanas", "Cornetes nasales"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué zona del cerebro regula las emociones y la memoria?",
+    "opciones": ["Corteza motora", "Cerebelo", "Sistema límbico", "Hipotálamo"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la función del periostio en los huesos?",
+    "opciones": ["Producir sangre", "Nutrir y proteger el hueso", "Permitir la contracción", "Almacenar grasa"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué estructura del sistema digestivo se encuentra entre el intestino delgado y el grueso?",
+    "opciones": ["Ciego", "Duodeno", "Páncreas", "Recto"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué tejido forma las válvulas del corazón?",
+    "opciones": ["Muscular", "Epitelial", "Fibroso conectivo", "Cartilaginoso"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué parte del hueso alberga la médula ósea roja?",
+    "opciones": ["Diáfisis", "Cavidad medular", "Epífisis", "Periostio"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué nervio craneal controla la deglución y regula parte de la frecuencia cardíaca?",
+    "opciones": ["Nervio facial", "Nervio glosofaríngeo", "Nervio vago", "Nervio hipogloso"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la función de los discos intervertebrales?",
+    "opciones": ["Producir glóbulos rojos", "Unir los músculos", "Amortiguar entre vértebras", "Almacenar calcio"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué capa del corazón se encuentra en contacto con la sangre?",
+    "opciones": ["Pericardio", "Miocardio", "Endocardio", "Epicardio"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cómo se denomina la región anatómica entre la costilla y la cadera?",
+    "opciones": ["Lomo", "Ingle", "Flanco", "Esternón"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué componente celular permite la contracción muscular mediante el ATP?",
+    "opciones": ["Mitocondria", "Sarcómero", "Lisosoma", "Retículo endoplásmico"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué función cumple la glándula pineal?",
+    "opciones": ["Producción de adrenalina", "Control de temperatura", "Secreción de melatonina", "Almacenamiento de calcio"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué músculo participa directamente en la inspiración?",
+    "opciones": ["Recto abdominal", "Trapecio", "Diafragma", "Bíceps femoral"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tipo de huesos son las vértebras?",
+    "opciones": ["Largos", "Planos", "Irregulares", "Cortos"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué nombre recibe la parte final del intestino grueso?",
+    "opciones": ["Colon", "Duodeno", "Recto", "Yeyuno"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué hormona actúa en los túbulos renales para conservar agua?",
+    "opciones": ["Insulina", "Vasopresina (ADH)", "Cortisol", "Aldosterona"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del hueso que forma el mentón?",
+    "opciones": ["Maxilar", "Hioides", "Mandíbula", "Cigomático"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué nombre recibe la parte de la neurona que conduce el impulso eléctrico?",
+    "opciones": ["Axón", "Dendrita", "Sinapsis", "Soma"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué enzima presente en la saliva inicia la digestión de carbohidratos?",
+    "opciones": ["Pepsina", "Lipasa", "Amilasa", "Tripsina"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la función de los cilios en el epitelio respiratorio?",
+    "opciones": ["Producción de moco", "Aumentar la absorción", "Captar oxígeno", "Mover partículas hacia el exterior"],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué glándula se ubica en la base del cráneo y regula otras glándulas endocrinas?",
+    "opciones": ["Tiroides", "Suprarrenal", "Hipófisis", "Páncreas"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué estructura conecta el intestino delgado con el grueso?",
+    "opciones": ["Duodeno", "Íleon", "Ciego", "Colon transverso"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tejido recubre internamente el corazón?",
+    "opciones": ["Miocardio", "Endocardio", "Epicardio", "Pericardio"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de músculo forma las paredes del tracto digestivo?",
+    "opciones": ["Esquelético", "Cardíaco", "Liso", "Voluntario"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la principal función de los linfocitos B?",
+    "opciones": ["Producir anticuerpos", "Transportar oxígeno", "Fagocitar bacterias", "Coordinar la contracción muscular"],
+      "correcta": 0
+    }
+ ]
+}

@@ -1,0 +1,1004 @@
+{
+    "fácil": 
+[
+  {
+    "pregunta": "¿Cuál es el primer paso ante una emergencia veterinaria?",
+    "opciones": ["Llamar al propietario", "Evaluar si el animal respira y está consciente", "Dar alimento", "Transportarlo inmediatamente"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué debe hacerse si un perro presenta una hemorragia externa en una pata?",
+    "opciones": ["Bañarlo con agua", "Dar analgésico oral", "Aplicar presión directa con una gasa limpia", "Poner hielo directamente"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué indica una lengua azulada en un perro o gato?",
+    "opciones": ["Hambre", "Hipotermia", "Falta de oxígeno", "Buena salud"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es un signo evidente de shock en animales?",
+    "opciones": ["Orejas frías, encías pálidas y pulso débil", "Nariz mojada", "Movimientos repetitivos", "Cola erguida"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué se debe hacer ante una fractura sospechosa?",
+    "opciones": ["Mover la extremidad para verificar", "Colocar un vendaje de soporte sin forzar", "Masajear la zona", "Dar agua"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué se debe evitar al tratar una herida abierta en un animal?",
+    "opciones": ["Cubrirla con un paño limpio", "Aplicar desinfectante veterinario", "Soplar sobre la herida", "Inmovilizar la zona afectada"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué se recomienda hacer si un animal presenta convulsiones?",
+    "opciones": ["Sujetar su lengua", "Evitar que se golpee, mantenerlo seguro y no intervenir directamente", "Mecerlo hasta que despierte", "Darle agua"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué debe hacerse si un animal presenta un golpe de calor?",
+    "opciones": ["Taparlo con mantas", "Darle alimentos ricos en grasa", "Refrescarlo gradualmente con agua y buscar atención inmediata", "Ejercitarlo para que se calme"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué puede causar una obstrucción de las vías respiratorias?",
+    "opciones": ["Ejercicio", "Fractura", "Cuerpo extraño en la boca o garganta", "Hígado inflamado"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo principal de los primeros auxilios en animales?",
+    "opciones": ["Curarlos completamente", "Diagnosticar la causa", "Mantener con vida hasta atención veterinaria", "Ejercitarlos"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué hacer ante una picadura de abeja en un perro?",
+    "opciones": ["Aplicar vinagre", "Extraer el aguijón si es visible y aplicar frío local", "Dar chocolate", "Tapar con plástico"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué hacer si un animal fue atropellado?",
+    "opciones": ["Levantarlo rápidamente", "Moverlo sin precaución", "Evaluar signos vitales y trasladarlo con cuidado", "Dejarlo solo"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué se debe hacer si un animal está inconsciente pero respira?",
+    "opciones": ["Darle agua", "Colocarlo de lado y verificar signos vitales", "Cargarlo boca arriba", "Llamarlo en voz alta"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el color normal de las encías en un perro sano?",
+    "opciones": ["Negras", "Rosas", "Azules", "Grises"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué hacer si un gato presenta sangrado nasal?",
+    "opciones": ["Inclinar su cabeza hacia atrás", "Aplicar hielo en el puente nasal y mantenerlo tranquilo", "Bañarlo", "Colocarlo en posición vertical"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué no se debe administrar a un animal sin indicación veterinaria?",
+    "opciones": ["Agua", "Medicamentos humanos", "Gasas", "Alimento blando"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué puede indicar un pulso muy acelerado y encías pálidas?",
+    "opciones": ["Hidratación", "Shock", "Ansiedad leve", "Digestión normal"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo debe trasladarse un animal lesionado?",
+    "opciones": ["En brazos", "Caminando lentamente", "Con arnés", "Inmovilizado sobre una superficie plana y firme"],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué puede hacerse ante una quemadura leve en un animal?",
+    "opciones": ["Aplicar hielo directamente", "Usar pasta dental", "Enjuagar con agua fría sin frotar y cubrir con gasa estéril", "Cubrir con toalla caliente"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué hacer si un animal ingiere veneno?",
+    "opciones": ["Inducir el vómito siempre", "Esperar a que vomite solo", "Contactar al veterinario de inmediato y no inducir vómito sin instrucciones", "Darle leche"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué elemento no debe faltar en un botiquín de primeros auxilios veterinario?",
+    "opciones": ["Termómetro, guantes, vendas, tijeras", "Juguetes", "Pañales", "Comida enlatada"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué hacer si un perro tiene diarrea con sangre?",
+    "opciones": ["Dar arroz", "Esperar 3 días", "Acudir al veterinario inmediatamente", "Sacar a caminar más seguido"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cómo verificar si un animal respira?",
+    "opciones": ["Escuchar el corazón", "Observar el movimiento del pecho y sentir el aire en la nariz", "Mirar sus patas", "Presionar su abdomen"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué hacer si un animal tiene un cuerpo extraño visible en la boca?",
+    "opciones": ["Intentar retirarlo solo si no hay riesgo de morder", "Empujar más fuerte hacia adentro", "Dar leche", "Cubrir su hocico"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué hacer ante una mordedura entre animales?",
+    "opciones": ["Limpiar la herida, detener el sangrado y buscar atención médica", "Separarlos sin protegerse", "Taparla con algodón sin limpiar", "Darle comida inmediatamente"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué debe hacerse si un animal presenta un golpe eléctrico?",
+    "opciones": ["Mojarlo para enfriar", "Tocar inmediatamente para ayudar", "Cortar la electricidad antes de acercarse y buscar ayuda veterinaria", "Cubrirlo con papel aluminio"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la forma más segura de mover a un gato herido?",
+    "opciones": ["Tomarlo de las patas", "Meterlo en una caja con una manta y mantenerlo tranquilo", "Agarrarlo por la cola", "Dejarlo moverse solo"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué puede provocar vómitos persistentes en animales?",
+    "opciones": ["Juego excesivo", "Parásitos, infecciones o intoxicación", "Cambio de collar", "Vacunas"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué color de encías puede indicar buena oxigenación?",
+    "opciones": ["Rosa claro", "Azul oscuro", "Amarillo", "Gris"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué indica una temperatura corporal menor a 37 °C en perros y gatos?",
+    "opciones": ["Fiebre", "Golpe de calor", "Hipotermia", "Digestión"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es una técnica básica para controlar hemorragias?",
+    "opciones": ["Apretar con fuerza la herida sin protección", "Aplicar presión con una gasa limpia", "Dejar que sangre para limpiarse", "Cubrir con papel higiénico"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué debe incluir un botiquín de primeros auxilios veterinario?",
+    "opciones": ["Desinfectante, gasas, vendas, termómetro, guantes", "Comida, juguetes y manta", "Vacunas y comida", "Collares y galletas"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué hacer si un animal se atraganta y no respira?",
+    "opciones": ["Esperar a que tosa", "Realizar maniobra de Heimlich adaptada a su tamaño", "Tapar su boca", "Darle leche"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué debe hacerse si un animal presenta diarrea persistente?",
+    "opciones": ["Cambiar su dieta", "Darle carne cruda", "Consultar con el veterinario", "No darle agua"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué puede indicar un abdomen distendido, duro y doloroso?",
+    "opciones": ["Digestión normal", "Inflamación leve", "Problema digestivo serio como torsión gástrica", "Hambre"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué hacer si un perro se quema con una superficie caliente?",
+    "opciones": ["Aplicar hielo", "Cubrir con manta", "Enfriar la zona con agua tibia y cubrir con gasa", "Frotar aceite"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué signo puede indicar intoxicación en un animal?",
+    "opciones": ["Pelaje limpio", "Pupilas dilatadas, vómitos, temblores", "Sueño normal", "Estornudos"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué hacer ante una crisis alérgica con hinchazón facial?",
+    "opciones": ["Ejercitarlo", "Esperar", "Consultar inmediatamente al veterinario", "Poner una venda"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué se debe observar al evaluar el estado general de un animal herido?",
+    "opciones": ["Color de encías, pulso, respiración, temperatura", "Tamaño de uñas", "Peso corporal", "Color del pelaje"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué puede indicar un jadeo excesivo sin ejercicio?",
+    "opciones": ["Normalidad", "Dolor, golpe de calor o ansiedad", "Buen apetito", "Tranquilidad"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué debe hacerse si un animal ha estado expuesto al frío extremo?",
+    "opciones": ["Calentarlo rápidamente con agua caliente", "Calentarlo de forma gradual y cubrirlo con mantas", "Meterlo al refrigerador", "No hacer nada"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué es importante verificar si el animal presenta signos de dificultad respiratoria?",
+    "opciones": ["Luz en los ojos", "Color de las encías y frecuencia respiratoria", "Tamaño del collar", "Tamaño de las patas"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo de la reanimación cardiopulmonar (RCP) en animales?",
+    "opciones": ["Hacer ejercicio", "Reactivar la respiración y circulación", "Calmar el estrés", "Dar agua"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es una causa común de asfixia en perros pequeños?",
+    "opciones": ["Ejercicio intenso", "Masticar objetos pequeños", "Bañarse en frío", "Comer despacio"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué acción se recomienda si el animal sufre convulsiones más de 5 minutos?",
+    "opciones": ["Esperar", "Sujetar al animal", "Buscar atención veterinaria urgente", "Tapar sus ojos"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué hacer si un animal tiene una herida profunda y sangra mucho?",
+    "opciones": ["Aplicar presión con gasa limpia y trasladar al veterinario", "Dejarla al aire", "Limpiar con jabón", "Cubrir con ropa"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué significa que un animal esté letárgico?",
+    "opciones": ["Muy activo", "Somnoliento y sin energía", "Agresivo", "Con hambre"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué hacer si un animal tiene una espina clavada?",
+    "opciones": ["Retirarla con pinzas sin dañar la piel", "Empujarla", "Cortarla", "Ignorarla"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué puede causar vómitos con sangre?",
+    "opciones": ["Infección gastrointestinal, cuerpo extraño o intoxicación", "Juego brusco", "Cambios de clima", "Vacunación reciente"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué hacer si un animal está sangrando por la oreja?",
+    "opciones": ["Limpiar con agua y presionar suavemente", "Cortarle el pelo", "Darle comida", "Aplicar alcohol directamente"],
+    "correcta": 0
+  }
+],
+  "intermedio": 
+[
+  {
+    "pregunta": "¿Qué indica una frecuencia respiratoria rápida y superficial en un animal herido?",
+    "opciones": ["Relajación", "Shock o dificultad respiratoria", "Dolor dental", "Hambre"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo principal de realizar un vendaje compresivo?",
+    "opciones": ["Estabilizar una fractura", "Detener una hemorragia", "Mejorar la circulación", "Limpiar la herida"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué hacer si un animal presenta quemaduras químicas en la piel?",
+    "opciones": ["Aplicar alcohol", "Frotar la zona", "Lavar abundantemente con agua durante varios minutos", "Cubrir sin enjuagar"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué zonas se revisan al evaluar el estado de shock?",
+    "opciones": ["Pelaje, uñas y orejas", "Temperatura rectal, color de encías, pulso y respiración", "Ojos, bigotes y cola", "Músculos y articulaciones"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué acción debe evitarse al realizar primeros auxilios en un animal que no respira?",
+    "opciones": ["Abrir la vía aérea", "Soplar por la nariz si es necesario", "Hacer RCP sin haber revisado si tiene pulso", "Verificar la lengua"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué complicación puede surgir si una hemorragia no es controlada a tiempo?",
+    "opciones": ["Deshidratación leve", "Fiebre", "Shock hipovolémico", "Diarrea"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué hacer si un animal sufre una herida penetrante por un objeto aún incrustado?",
+    "opciones": ["Retirar el objeto rápidamente", "Cubrir sin mover el objeto y trasladar con urgencia", "Presionar el objeto hacia adentro", "Esperar a que salga solo"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué es la bradicardia?",
+    "opciones": ["Aceleración del corazón", "Frecuencia cardíaca lenta", "Paro cardiorrespiratorio", "Fiebre súbita"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es una señal de dificultad respiratoria grave en perros?",
+    "opciones": ["Estornudos ocasionales", "Respiración ruidosa, cuello estirado y encías azuladas", "Ladridos fuertes", "Lamido excesivo"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué signos pueden indicar una intoxicación por insecticidas en perros?",
+    "opciones": ["Letargo y sueño profundo", "Salivación excesiva, temblores y pupilas contraídas", "Estornudos y tos leve", "Orejas frías"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo debe actuar un auxiliar si un gato llega con trauma craneal y está inconsciente?",
+    "opciones": ["Sostenerlo por el cuello", "No mover el cuello y mantenerlo en plano firme", "Colocarlo boca abajo", "Darle alimento blando"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué debe incluir una ficha de primeros auxilios tomada en triage?",
+    "opciones": ["Nombre del propietario, peso y signo zodiacal", "Fecha, síntomas, signos vitales, tiempo de evolución", "Edad y dieta", "Solo temperatura"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué efecto tiene una torsión gástrica si no se atiende rápidamente?",
+    "opciones": ["Dolor leve", "Infección urinaria", "Colapso por obstrucción y necrosis", "Gases moderados"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué acción es correcta ante un caso de parálisis súbita en las patas traseras?",
+    "opciones": ["Masajear las patas", "Aplicar calor", "Inmovilizar y trasladar urgentemente", "Esperar 24 horas"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué indica un relleno capilar superior a 3 segundos en encías?",
+    "opciones": ["Perfusión adecuada", "Shock o mala circulación", "Buen oxígeno", "Alta temperatura"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se puede ayudar a mantener la temperatura corporal en caso de hipotermia moderada?",
+    "opciones": ["Sumergirlo en agua caliente", "Colocar bolsas de agua tibia envueltas y cubrir con manta", "Ejercitarlo", "Frotar con alcohol"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué instrumento se utiliza para medir la frecuencia cardíaca en animales pequeños?",
+    "opciones": ["Estetoscopio", "Termómetro", "Fonendoscopio", "Electrodo eléctrico"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué debe hacerse si un perro convulsiona por más de 5 minutos?",
+    "opciones": ["Darle comida", "Abrigarlo y esperar", "Buscar atención veterinaria urgente", "Dejarlo dormir"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué signos clínicos pueden alertar sobre una posible hipoglucemia en cachorros?",
+    "opciones": ["Hiperactividad", "Diarrea", "Temblor, debilidad, desorientación", "Pérdida de pelo"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué es el shock anafiláctico?",
+    "opciones": ["Reacción alérgica leve", "Estado crítico con colapso circulatorio por alergia severa", "Gripe canina", "Deshidratación leve"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué color de encías puede alertar sobre intoxicación o hipoxia?",
+    "opciones": ["Rosadas", "Blancas", "Amarillas", "Azuladas o grises"],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué hacer si un perro se clavó una espina entre las almohadillas?",
+    "opciones": ["Cortar la zona", "Extraerla con pinzas limpias, desinfectar y observar", "Poner pomada", "Tapar con un guante"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué debe hacerse si un animal vomita con sangre fresca (roja)?",
+    "opciones": ["Darle arroz", "Esperar 24 horas", "Buscar atención inmediata", "Colocarle suero oral"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué se recomienda hacer si un perro presenta signos de asfixia pero aún puede respirar?",
+    "opciones": ["Observarlo únicamente", "Colocarlo boca abajo", "Evaluar el objeto, mantenerlo tranquilo y llamar al veterinario", "Darle agua"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tipo de vendaje se utiliza para controlar hemorragias en miembros distales?",
+    "opciones": ["Vendaje circular flojo", "Vendaje compresivo con gasa y venda firme", "Vendaje de inmovilización con tablilla", "Collar isabelino"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la posición ideal para transportar a un animal inconsciente con dificultad respiratoria?",
+    "opciones": ["De pie", "De lado con cuello extendido", "Sentado", "Boca abajo"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué puede causar fiebre alta súbita en un cachorro con vómitos y diarrea?",
+    "opciones": ["Estrés", "Cambio de ambiente", "Parvovirosis", "Frío nocturno"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué es importante evaluar en una herida por mordedura profunda?",
+    "opciones": ["Color del pelo", "Presencia de pus, dolor, hemorragia y tejidos dañados", "Olor de la saliva", "Tamaño del animal que mordió"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué complicación puede tener una mordedura que no es atendida a tiempo?",
+    "opciones": ["Mejora espontánea", "Cicatrización estética", "Absceso o infección grave", "Caída de pelo"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué hacer si un gato presenta una fractura cerrada en una extremidad posterior?",
+    "opciones": ["Permitirle caminar", "Masajear la zona", "Inmovilizar y trasladar con cuidado", "Poner hielo sin protección"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué hacer ante un caso de envenenamiento por contacto con la piel?",
+    "opciones": ["Lavar con abundante agua y jabón suave sin frotar", "Colocar alcohol", "Dar comida", "Tapar con vendas"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué signos indican una reacción alérgica generalizada?",
+    "opciones": ["Picor leve", "Inflamación facial, urticaria, dificultad respiratoria", "Diarrea leve", "Salivación"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es un riesgo de inducir el vómito sin supervisión médica en intoxicaciones?",
+    "opciones": ["Aumento del apetito", "Mejora rápida", "Quemaduras esofágicas o broncoaspiración", "Relajación muscular"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué debe hacerse ante un trauma ocular con sangre visible?",
+    "opciones": ["Limpiar con alcohol", "Presionar el ojo", "Cubrir y trasladar sin aplicar presión", "Enjuagar con agua tibia"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué hacer si un animal convulsiona por primera vez?",
+    "opciones": ["Aplicar hielo", "Sujetar su lengua", "Protegerlo de objetos y observar duración", "Tocarle la cara"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué hacer si un cachorro tiene diarrea persistente y se encuentra decaído?",
+    "opciones": ["Dar arroz", "Aplicar calor", "Acudir de inmediato al veterinario", "Ponerle un collar nuevo"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué hacer si un animal presenta rigidez y parálisis en el cuello y mandíbula?",
+    "opciones": ["Esperar 24 horas", "Dar alimento", "Sospechar tétanos y trasladar urgentemente", "Bañarlo con agua fría"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es un signo de deshidratación leve al examinar la piel?",
+    "opciones": ["Piel tensa", "Piel elástica que vuelve rápidamente", "Piel que tarda en volver a su lugar al pellizcar", "Color amarillento del pelaje"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué parámetro indica buena oxigenación en una emergencia?",
+    "opciones": ["Encías azuladas", "Encías secas", "Encías rosadas", "Encías marrones"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué puede causar hipotermia severa en neonatos?",
+    "opciones": ["Ruido fuerte", "Falta de sueño", "Ambientes fríos y separación de la madre", "Juego brusco"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué se debe tener en cuenta al aplicar RCP en perros medianos?",
+    "opciones": ["Compresiones muy rápidas", "Soplar por la nariz y comprimir tórax con ambas manos", "Presionar abdomen", "Frotar pecho"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué puede causar una torsión gástrica en perros grandes?",
+    "opciones": ["Ejercicio en ayunas", "Ladrido excesivo", "Pulgas", "Diarrea leve"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué se debe hacer si un perro colapsa durante una caminata?",
+    "opciones": ["Forzarlo a caminar", "Dar leche", "Proteger su cuello y trasladar inmediatamente", "Darle agua y continuar"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué indica un color amarillo en las mucosas?",
+    "opciones": ["Buena digestión", "Ictericia", "Inflamación nasal", "Color normal"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué hacer si un animal presenta signos de fractura vertebral?",
+    "opciones": ["Sujetar por el cuello", "Permitirle caminar", "Inmovilizar completamente y trasladar con precaución", "Mover su espalda"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué hacer si un animal con sonda urinaria no orina en varias horas?",
+    "opciones": ["Esperar al día siguiente", "Cambiarle la dieta", "Verificar la sonda y consultar de inmediato", "Aplicar hielo en el abdomen"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué indica una frecuencia cardíaca superior a lo normal en reposo?",
+    "opciones": ["Tranquilidad", "Posible fiebre, dolor o shock", "Bienestar digestivo", "Ansiedad leve"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué hacer si un perro se atraganta pero aún tose?",
+    "opciones": ["Inducir el vómito", "Darle agua", "Observar con precaución y consultar si persiste", "Soplarle la nariz"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué herramienta es útil para evaluar temperatura rectal?",
+    "opciones": ["Estetoscopio", "Fonendoscopio", "Termómetro digital", "Cinta métrica"],
+    "correcta": 2
+  }
+],
+  "difícil": 
+[
+  {
+    "pregunta": "¿Cuál es la maniobra correcta para liberar las vías respiratorias en un perro inconsciente?",
+    "opciones": ["Tirar de la lengua y presionar el abdomen", "Extender la cabeza, abrir la boca y verificar obstrucción", "Presionar el tórax fuertemente", "Mover la mandíbula de lado a lado"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué hacer si un animal sufre un traumatismo craneoencefálico con sangrado por nariz y orejas?",
+    "opciones": ["Limpiar y presionar", "Inmovilizar cabeza y cuello, mantener vías respiratorias abiertas y trasladar con urgencia", "Aplicar hielo y acostarlo boca arriba", "Colocarlo de lado y esperar"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué debe evitarse durante la atención de una hemorragia arterial activa?",
+    "opciones": ["Aplicar presión directa", "Usar torniquete como último recurso", "Colocar una gasa estéril", "Levantar la extremidad antes de controlar el sangrado"],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué indica un patrón respiratorio de jadeo rápido con encías azuladas y colapso súbito?",
+    "opciones": ["Deshidratación", "Shock anafiláctico o edema pulmonar", "Hipoglucemia", "Dolor abdominal leve"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué hacer si un animal presenta distensión abdominal, intentos fallidos de vomitar y salivación excesiva?",
+    "opciones": ["Darle líquidos", "Inducir vómito", "Sospechar torsión gástrica y trasladar urgentemente", "Masajear el abdomen"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué parámetro clínico se evalúa con la prueba del tiempo de relleno capilar (TRC)?",
+    "opciones": ["Hidratación", "Función renal", "Perfusión tisular y circulación", "Frecuencia cardíaca"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la secuencia correcta de RCP básica en un perro grande inconsciente sin respiración ni pulso?",
+    "opciones": ["Vías respiratorias, respiración, compresiones (ABC)", "Compresiones, vía aérea, ventilación (CAB)", "Pulso, temperatura, encías", "Torniquete, presión, collar cervical"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué significa si un animal presenta anisocoria tras un trauma craneal?",
+    "opciones": ["Relajación", "Signo neurológico grave, posible compresión cerebral", "Síndrome vestibular leve", "Deshidratación"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué hacer si un gato presenta signos de edema pulmonar tras intoxicación?",
+    "opciones": ["Inducir vómito", "Bañarlo y esperar", "Oxigenar, mantener reposo y trasladar con precaución", "Administrar suero oral"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué procedimiento debe seguirse ante una fractura abierta en una extremidad canina?",
+    "opciones": ["Lavar con agua caliente", "Limpiar suavemente, cubrir con gasa estéril, inmovilizar sin reducir la fractura y trasladar", "Mover el hueso a su lugar", "Aplicar pomada y vendar apretado"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué hacer si un perro convulsiona más de 5 minutos sin recuperar consciencia?",
+    "opciones": ["Cubrirlo con manta", "Aplicar suero oral", "Emergencia neurológica: trasladar con urgencia", "Esperar 1 hora"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué herramienta de primeros auxilios puede ayudar a controlar una fractura mandibular de emergencia?",
+    "opciones": ["Collar isabelino", "Bozal suave con vendaje en forma de ocho", "Vendas en hocico", "Cinta adhesiva directa"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de shock se produce por hemorragia interna tras un trauma torácico?",
+    "opciones": ["Cardiogénico", "Anafiláctico", "Hipovolémico", "Neurogénico"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué indica una respiración agónica en un animal en colapso?",
+    "opciones": ["Digestión lenta", "Hiperventilación leve", "Fallo respiratorio inminente", "Tensión muscular"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es una complicación de un golpe de calor no tratado a tiempo?",
+    "opciones": ["Deshidratación leve", "Necrosis orgánica, coagulopatía, muerte", "Pérdida de apetito", "Caída de pelo"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué acción es peligrosa en un animal inconsciente con vómito?",
+    "opciones": ["Colocarlo de lado", "Limpiar la boca", "Colocarlo boca arriba", "Extender su cabeza"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué indica una temperatura rectal superior a 41 °C en perros y gatos?",
+    "opciones": ["Fiebre moderada", "Golpe de calor grave", "Estado normal", "Hipotermia"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué debe hacerse ante un caso sospechoso de intoxicación por rodenticidas?",
+    "opciones": ["Darle agua", "Darle carbón activado bajo indicación médica y trasladar urgente", "Esperar", "Darle leche"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué hacer si un cachorro tiene abdomen distendido, doloroso y no defeca en 24 horas?",
+    "opciones": ["Darle leche", "Ejercitarlo", "Sospechar obstrucción o invaginación y acudir de inmediato", "Esperar 48 horas"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué es la toracocentesis y cuándo se considera en primeros auxilios veterinarios?",
+    "opciones": ["Toma de sangre", "Punción torácica para extraer aire o líquido en emergencia respiratoria", "Prueba cardíaca", "Inyección intravenosa"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué hacer si un perro colapsa durante ejercicio en clima caluroso y no se levanta?",
+    "opciones": ["Cubrirlo con mantas", "Forzarlo a caminar", "Refrescar gradualmente y buscar atención urgente", "Aplicar hielo en todo el cuerpo"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué signos acompañan frecuentemente al shock hipovolémico severo?",
+    "opciones": ["Encías rosas, buen pulso", "Pulso débil, encías pálidas, extremidades frías", "Lengua azul, respiración fuerte", "Vómito frecuente"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué se debe hacer ante un prolapso rectal reciente en un cachorro?",
+    "opciones": ["Darle de comer", "Ignorarlo si no sangra", "Mantener húmedo con gasa estéril y trasladar urgente", "Aplicar crema de manos"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué hacer si un animal sufre una fractura costal con dificultad respiratoria?",
+    "opciones": ["Colocarlo boca abajo", "Inmovilizar lo posible, evitar presión torácica y trasladar con urgencia", "Masajear las costillas", "Aplicar hielo directamente"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué complicación puede surgir al aplicar un torniquete por más de 20 minutos sin control?",
+    "opciones": ["Cicatrización rápida", "Regeneración muscular", "Isquemia y necrosis del tejido", "Mayor movilidad"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué conducta es adecuada si un gato tiene una herida con exposición de masa intestinal?",
+    "opciones": ["Empujar las vísceras dentro", "Limpiar con alcohol", "Cubrir con gasa húmeda estéril y trasladar urgente", "Bañarlo"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué indica una postura rígida con cuello extendido y rigidez muscular tras exposición a toxinas?",
+    "opciones": ["Hipocalcemia", "Tétanos", "Parvovirosis", "Alergia alimentaria"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué debe evaluarse en caso de traumatismo ocular con prolapso del globo ocular?",
+    "opciones": ["Color del iris", "Presión arterial", "Estado de los músculos extraoculares y visión", "Color de las encías"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué hacer si un perro se corta una arteria en la base de la oreja?",
+    "opciones": ["Colocar hielo", "Aplicar vendaje compresivo y mantener presión firme hasta detener el sangrado", "Limpiar con agua oxigenada y dejarlo abierto", "Cubrir con plástico"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué indica una mucosa ictérica (amarilla) en un paciente crítico?",
+    "opciones": ["Normalidad", "Hepatopatía o destrucción masiva de glóbulos rojos", "Dolor muscular", "Desnutrición"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué se debe evitar durante la atención de una fractura vertebral?",
+    "opciones": ["Inmovilización en bloque", "Movimiento innecesario", "Uso de camilla rígida", "Evitar presión sobre columna"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué reacción clínica es esperable tras una electrocución leve en cachorros?",
+    "opciones": ["Tos persistente y quemaduras orales", "Hinchazón ocular", "Caída de pelo", "Sangrado nasal"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué complicación puede presentar un golpe de calor si no se trata a tiempo?",
+    "opciones": ["Aumento de apetito", "Infarto térmico y fallo multiorgánico", "Hiperventilación normal", "Regulación digestiva"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué herramienta puede ayudar a abrir la vía aérea durante RCP sin causar daño?",
+    "opciones": ["Jeringa", "Tubo orofaríngeo", "Pinzas hemostáticas", "Cinta adhesiva"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de compresiones torácicas se deben realizar en un gato pequeño durante RCP?",
+    "opciones": ["Compresiones con una sola mano, usando el pulgar y los dedos", "Compresiones fuertes con ambas manos", "Compresiones sobre el abdomen", "Compresiones con el codo"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué debe hacerse si un perro presenta una hernia perineal con prolapso rectal asociado?",
+    "opciones": ["Empujar el recto", "Evitar manipulación, mantener la zona húmeda y consultar urgente", "Poner vendas", "Esperar defecación"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué es lo más importante ante una posible ruptura vesical en un politraumatizado?",
+    "opciones": ["Estimular micción", "Dar líquidos", "Evitar presión abdominal, monitorear y buscar atención inmediata", "Cubrir con vendas"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué hacer si un cachorro aspiró leche y presenta dificultad respiratoria?",
+    "opciones": ["Colocar boca abajo y dar masaje suave torácico, trasladar urgente", "Darle agua", "Esperar", "Sujetar su lengua"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué condición puede aparecer tras administración de ciertos antiparasitarios en razas sensibles como el Collie?",
+    "opciones": ["Dermatitis leve", "Reacción alérgica", "Toxicidad neurológica por mutación MDR1", "Taquicardia"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué puede indicar una hemorragia rectal en un gato joven tras caída de altura?",
+    "opciones": ["Parásitos", "Fractura de pelvis o lesión interna grave", "Estrés", "Alergia alimentaria"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué es el síndrome de dilatación-torsión gástrica (SDTG)?",
+    "opciones": ["Enfermedad renal", "Emergencia abdominal con acumulación de gas y rotación gástrica", "Infección intestinal leve", "Vómito por ansiedad"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué hacer si un gato tiene una fractura de mandíbula abierta?",
+    "opciones": ["Vendar fuertemente", "Aplicar vendaje tipo ocho y trasladar sin alimentar", "Masajear la zona", "Darle agua"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué debe evitarse en primeros auxilios ante un trauma abdominal con visceras expuestas?",
+    "opciones": ["Cubrir con gasa húmeda", "Presionar hacia adentro", "Evitar manipular y cubrir con apósito húmedo estéril", "Trasladar en superficie firme"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué puede causar una disnea severa con cuello extendido y sonidos inspiratorios intensos?",
+    "opciones": ["Obstrucción de vías respiratorias altas", "Ansiedad leve", "Deshidratación", "Dolor abdominal"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué hacer si un perro tiene hipotermia y no responde al estímulo?",
+    "opciones": ["Aplicar agua caliente directamente", "Frotar con alcohol", "Calentamiento pasivo con mantas tibias y atención médica urgente", "Ponerlo al sol directo"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué complicación ocurre en convulsiones prolongadas no tratadas?",
+    "opciones": ["Sueño profundo", "Parálisis temporal", "Daño cerebral irreversible o muerte", "Deshidratación leve"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué debe hacerse si un animal tiene signos de obstrucción urinaria?",
+    "opciones": ["Esperar", "Aplicar calor", "Trasladar de urgencia, puede ser potencialmente mortal", "Darle alimentos diuréticos"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué hacer si un perro tiene sangrado nasal tras trauma craneal?",
+    "opciones": ["Presionar el hocico", "Acostarlo de lado, mantener tranquilo y trasladar", "Tapar la nariz", "Bañarlo con agua fría"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué función cumple el carbón activado en una intoxicación aguda?",
+    "opciones": ["Calmar al animal", "Estabilizar temperatura", "Absorber toxinas en el tracto digestivo", "Estimular la micción"],
+    "correcta": 2
+  }  
+],
+  "avanzado": 
+[
+  {
+    "pregunta": "¿Qué estrategia es fundamental en el manejo prehospitalario del traumatismo torácico cerrado?",
+    "opciones": ["Administrar antibióticos de inmediato", "Inmovilizar al animal y permitir una respiración controlada con oxígeno si es posible", "Realizar RCP automáticamente", "Mover al animal constantemente"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el protocolo más seguro ante una sospecha de neumotórax en un gato tras caída?",
+    "opciones": ["Inducir vómito", "Administrar líquidos orales", "Evitar presión torácica, mantener reposo, y derivar urgente", "Colocar un vendaje torácico rígido"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué maniobra puede realizar un auxiliar si un animal presenta parada cardiorrespiratoria en consulta?",
+    "opciones": ["Inyectar adrenalina", "RCP básica: compresiones torácicas + ventilaciones boca-hocico si es seguro", "Administrar glucosa", "Esperar al veterinario"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué riesgo puede surgir al manipular a un animal en estado de shock sin monitoreo?",
+    "opciones": ["Hipotermia leve", "Compensación circulatoria", "Colapso cardiovascular súbito", "Aumento de apetito"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué acción inmediata debe realizarse si se sospecha de ruptura diafragmática post-trauma?",
+    "opciones": ["Aplicar calor", "Mantenerlo tranquilo en posición de reposo y remitir para imagenología urgente", "Ejercitarlo para evaluar respuesta", "Colocar un torniquete abdominal"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué medicamento puede estar contraindicado si se sospecha intoxicación por antiinflamatorios en perros?",
+    "opciones": ["Omeprazol", "Carbón activado", "AINE adicional", "Sucralfato"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué patrón clínico sugiere una ruptura vesical post-atropello?",
+    "opciones": ["Micción frecuente", "Distensión abdominal, anuria, letargo", "Hiperventilación", "Salivación"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué hacer si un gato presenta convulsiones recurrentes y rigidez entre episodios?",
+    "opciones": ["Esperar 12 horas", "Mantenerlo aislado, registrar episodios y trasladar con urgencia", "Bañarlo", "Administrar comida en pequeñas dosis"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la función de un vendaje Robert-Jones en primeros auxilios?",
+    "opciones": ["Detener hemorragias", "Favorecer la ventilación", "Inmovilizar fracturas distales en extremidades", "Cubrir quemaduras"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué procedimiento se considera seguro para administrar primeros auxilios en intoxicación por órganos fosforados?",
+    "opciones": ["Inducir vómito sin evaluación", "Aplicar pomadas", "Usar guantes y evitar exposición directa, contactar al veterinario urgente", "Ofrecer leche o pan"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué hacer si un animal con collar isabelino presenta signos de asfixia y jadeo severo?",
+    "opciones": ["Aflojar o retirar el collar isabelino para permitir ventilación y evaluar signos vitales", "Aplicar agua en el cuello", "Esperar a que se calme", "Taparlo con una manta"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué riesgo se asocia con la compresión torácica excesiva durante RCP?",
+    "opciones": ["Nada, es necesaria la fuerza", "Rotura costal o contusión pulmonar", "Paro respiratorio leve", "Hipotermia"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué indicador clínico puede alertar sobre una coagulopatía tras una intoxicación con raticidas?",
+    "opciones": ["Vómito espumoso", "Petequias, sangrados espontáneos y encías pálidas", "Fiebre", "Polidipsia"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué herramienta diagnóstica puede auxiliar en casos de derrame pleural con disnea súbita?",
+    "opciones": ["Estetoscopio únicamente", "Ecografía torácica si está disponible", "Termómetro digital", "Pinza hemostática"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué medida es fundamental al recibir un paciente con traumatismo ocular grave?",
+    "opciones": ["Evitar luz directa, no aplicar medicamentos y remitir urgentemente", "Limpiar con suero salino", "Cubrir con algodón seco", "Ejercitarlo antes de trasladar"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué hallazgo puede indicar shock séptico en un paciente politraumatizado?",
+    "opciones": ["Encías pálidas, TRC mayor a 3 seg, taquicardia", "Salivación excesiva", "Coloración amarilla", "Estornudos"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué parámetro se considera vital para monitorear la evolución en un paciente en shock?",
+    "opciones": ["Frecuencia urinaria", "TRC, color de mucosas, pulso femoral y temperatura", "Actividad física", "Color del pelaje"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la medida más efectiva para prevenir broncoaspiración durante una convulsión?",
+    "opciones": ["Colocar al animal en decúbito lateral y no introducir objetos en su boca", "Taparle la boca", "Dar suero oral", "Soplar sobre la nariz"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué debe evitarse ante una herida penetrante en el tórax?",
+    "opciones": ["Cubrir con apósito estéril", "Retirar el objeto clavado", "Estabilizar el cuerpo extraño si sobresale y trasladar", "Evitar presión sobre la zona"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué acción es prioritaria ante signos de hipoglucemia en un cachorro con convulsión y pérdida de conciencia?",
+    "opciones": ["Aplicar miel en mucosas si está consciente y acudir urgente", "Esperar 2 horas", "Bañarlo", "Ponerlo al sol"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué hacer si un perro se ha caído desde una altura considerable y presenta dificultad para caminar?",
+    "opciones": ["Dejarlo reposar", "Inmovilizar y trasladar en plano firme sin manipular extremidades", "Masajear la espalda", "Ejercitarlo suavemente"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué parámetro debe evaluarse continuamente durante la aplicación de oxigenoterapia de emergencia?",
+    "opciones": ["Color del pelaje", "Frecuencia respiratoria y color de mucosas", "Ganas de comer", "Temperatura ambiental"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué se debe hacer si un perro recibe descarga eléctrica con convulsión y rigidez muscular?",
+    "opciones": ["Alejar fuente eléctrica, no tocar sin seguridad, oxigenar y trasladar urgente", "Aplicar agua", "Sujetar su lengua", "Ofrecer comida húmeda"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué indicador clínico puede sugerir hipoxia severa en un animal durante emergencia?",
+    "opciones": ["Lengua rosada", "Encías azuladas o grises", "Nariz seca", "Temperatura alta"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué conducta es apropiada ante sospecha de fractura de columna en un paciente inmóvil?",
+    "opciones": ["Moverlo con precaución si se ve bien", "Inmovilizar en bloque y trasladar con camilla rígida", "Masajear cuello y espalda", "Frotar extremidades"],
+    "correcta": 1
+  },
+   {
+    "pregunta": "¿Qué hacer si un gato llega con signos de hipotermia severa y bradicardia?",
+    "opciones": ["Aplicar hielo", "Colocarlo al sol", "Recalentar progresivamente con mantas y traslado urgente", "Dar comida caliente"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué medida es clave para evitar una laringoespasmo durante anestesia en felinos?",
+    "opciones": ["No usar anestesia", "Lubricar la tráquea", "Aplicar lidocaína local antes de intubar", "Hacerlo respirar fuerte"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué hacer si un animal sufre trauma torácico con respiración paradojal?",
+    "opciones": ["Colocarlo en posición ventral", "Inmovilizar, proporcionar oxígeno y trasladar urgente", "Ejercitarlo", "Taparlo con manta gruesa"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué indica una frecuencia respiratoria mayor a 50 rpm en reposo en perros?",
+    "opciones": ["Estado normal", "Taquipnea asociada a compromiso respiratorio", "Miedo leve", "Recuperación pos-ejercicio"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué herramienta puede ser vital para valorar fluidoterapia en paciente crítico?",
+    "opciones": ["Balanza", "Fonendoscopio", "Control de signos vitales + presión venosa central (si disponible)", "Bisturí"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué alteración puede causar intoxicación por etilenglicol (anticongelante)?",
+    "opciones": ["Problemas digestivos leves", "Fallo renal agudo", "Picazón", "Otitis"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué se debe hacer si un animal presenta un abdomen agudo con dolor intenso e inapetencia?",
+    "opciones": ["Masajear", "Esperar a que coma", "Inmovilizar, ayuno y derivación urgente", "Ejercitarlo"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué complicación puede presentarse si un animal con fractura pélvica es movilizado sin inmovilización adecuada?",
+    "opciones": ["Diarrea", "Desgarro muscular", "Lesión medular o vesical", "Vómitos"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué hacer si un perro presenta hipersalivación, ataxia y pupilas dilatadas tras paseo en zona agrícola?",
+    "opciones": ["Darle agua", "Sospechar intoxicación por pesticidas y derivar urgentemente", "Darle pan", "Esperar 24 horas"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué medida de soporte debe realizarse mientras se espera atención médica en una distocia en perras?",
+    "opciones": ["Bañar a la madre", "Estimular contracciones con presión", "Evitar manipular, mantener calma y temperatura", "Cortar el cordón de inmediato"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué procedimiento es más indicado si un animal convulsiona y golpea su cabeza contra objetos?",
+    "opciones": ["Sujetar al animal con fuerza", "Rodear con almohadas o mantas sin restringir movimientos", "Tocarlo para calmarlo", "Darle comida"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué es el síndrome braquicefálico y por qué puede requerir primeros auxilios?",
+    "opciones": ["Malformación de huesos largos", "Alteraciones anatómicas que provocan dificultad respiratoria aguda", "Parálisis facial", "Pérdida de equilibrio"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué hacer si un gato con dificultad respiratoria entra en cianosis durante el transporte?",
+    "opciones": ["Detener el transporte", "Abrir la caja de inmediato", "Minimizar estrés, evitar manipulación y aumentar ventilación", "Colocarlo boca abajo"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué indica la presencia de sangre espumosa en una herida torácica abierta?",
+    "opciones": ["Herida superficial", "Hemorragia nasal", "Posible neumotórax abierto", "Alergia cutánea"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué herramienta es útil en primeros auxilios para animales con fractura de extremidades?",
+    "opciones": ["Guantes", "Termómetro", "Técnica de inmovilización con tablilla o revistas", "Pinzas hemostáticas"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué alteración grave puede acompañar a un cuadro de abdomen agudo en caninos?",
+    "opciones": ["Hiperactividad", "Convulsión leve", "Shock hipovolémico o séptico", "Picazón generalizada"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué hacer si un perro cae en un lago congelado y es rescatado con signos de hipotermia?",
+    "opciones": ["Calentarlo gradualmente y derivar urgente por posible edema pulmonar", "Frotarlo con hielo", "Ponerlo al sol directo", "Darle alimento seco"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué debe evitarse en pacientes con trauma ocular agudo?",
+    "opciones": ["Manipular el globo ocular", "Cubrir el ojo con apósito suave", "Evitar luz intensa", "Trasladarlo de inmediato"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué tipo de complicación puede aparecer si se administra glucosa intravenosa muy concentrada sin dilución?",
+    "opciones": ["Hipotermia", "Flebitis y necrosis tisular", "Taquipnea", "Diarrea"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué hacer si un cachorro recién nacido no respira al nacer?",
+    "opciones": ["Sacudirlo", "Frotar con toalla tibia y estimular la respiración", "Sumergir en agua", "Esperar"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué signos indican una intoxicación por chocolate en perros?",
+    "opciones": ["Sed y orina", "Excitación, vómito, taquicardia y convulsiones", "Dolor muscular", "Somnolencia leve"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué indicaría un hematoma auricular doloroso en un perro tras sacudir la cabeza constantemente?",
+    "opciones": ["Otitis externa crónica", "Problema digestivo", "Ansiedad", "Hipotermia"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué conducta es adecuada ante un cachorro deshidratado, letárgico y sin apetito?",
+    "opciones": ["Esperar que coma solo", "Ofrecer suero oral y derivar urgente para fluidoterapia", "Dar leche", "Bañarlo"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué se debe hacer si un animal con convulsión muerde involuntariamente al auxiliar?",
+    "opciones": ["Ignorar la herida", "Lavado inmediato con agua y jabón, informar y asistir a control médico", "Taparla y seguir atendiendo", "Aplicar crema desinfectante"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué hacer si un animal fractura un colmillo y sangra abundantemente?",
+    "opciones": ["Ignorarlo", "Limpiar con gasa estéril, controlar sangrado y consultar al veterinario", "Darle galletas", "Bañarlo"],
+    "correcta": 1
+  }
+]
+}

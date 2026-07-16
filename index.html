@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Juego Auxiliar Veterinario</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <div class="selector">
+      <h1>¿Quién quiere ser auxiliar veterinario?</h1>
+      <input type="text" id="nombre" placeholder="Tu nombre" />
+
+      <select id="categoria">
+        <option value="Todas">Todas las materias</option>
+        <option value="Anatomia">anatomía</option>
+        <option value="Semiología">Semiología</option>
+        <option value="Etiología">Etiología</option>
+        <option value="Primeros auxilios">Primeros auxilios</option>
+        <option value="Sanidad">Sanidad</option>
+        <option value="Procedimientos clínicos - instrumental quirúrgico">Procedimientos clínicos - instrumental quirúrgico</option>
+        <option value="Asistencia en toma de muestras">Asistencia en toma de muestras</option>
+        <option value="Estética">Estética</option>
+        <option value="Bienestar animal">Bienestar animal</option>
+        <option value="Asistencia en administración de medicamentos">Asistencia en administración de medicamentos</option>
+        <option value="Historia clínica">Historia clínica</option>
+        <option value="Razas">Razas</option>
+      </select>
+
+      <select id="nivel">
+        <option value="Todas">Todas las dificultades</option>
+        <option value="Fácil">Fácil</option>
+        <option value="Intermedio">Intermedio</option>
+        <option value="Difícil">Difícil</option>
+        <option value="Avanzado">Avanzado</option>
+      </select>
+
+      <select id="cantidad">
+        <option value="10">10 preguntas</option>
+        <option value="20">20 preguntas</option>
+        <option value="30">30 preguntas</option>
+        <option value="50">50 preguntas</option>
+        <option value="Todas">Todas</option>
+      </select>
+
+      <button onclick="iniciarJuego()">¡Comenzar!</button>
+    </div>
+
+    <div id="quiz" style="display: none;">
+  <div id="contador"></div>
+
+  <!-- Vidas (corazones) -->
+  <div id="vidas"></div>
+
+  <!-- Temporizador -->
+  <div id="temporizador"></div>
+
+  <!-- Barra de progreso -->
+  <div id="progreso-container">
+    <div id="progreso-barra"></div>
+  </div>
+
+  <h2 id="pregunta"></h2>
+  <div id="opciones"></div>
+</div>
+
+    </div>
+
+    <div id="resultado" style="display: none;"></div>
+    <div id="ranking"></div>
+  </div>
+
+  <!-- Sonidos -->
+  <audio id="sonido-correcto" src="correcto.wav"></audio>
+  <audio id="sonido-incorrecto" src="incorrecto.wav"></audio>
+  <audio id="sonido-pierde" src="pierde.wav"></audio>
+  <audio id="sonido-completo" src="completo.wav"></audio>
+
+  <!-- Script -->
+  <script src="script.js"></script>
+</body>
+</html>

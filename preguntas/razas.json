@@ -1,0 +1,1008 @@
+{
+  "facil": [
+    {
+      "pregunta": "¿Qué raza es esta?",
+      "opciones": ["Labrador Retriever", "Golden Retriever", "Pastor Alemán", "Boxer"],
+      "correcta": 0,
+      "imagen": "imagenes/razas/labrador_retriever.jpg"
+    },
+    {
+      "pregunta": "¿Qué raza es esta?",
+      "opciones": ["Golden Retriever", "Rottweiler", "Beagle", "Doberman"],
+      "correcta": 0,
+      "imagen": "imagenes/razas/golden_retriever.jpg"
+    },
+    {
+      "pregunta": "¿Qué raza es esta?",
+      "opciones": ["Pastor Alemán", "Akita Inu", "Gran Danés", "Schnauzer Miniatura"],
+      "correcta": 0,
+      "imagen": "imagenes/razas/pastor_aleman.jpg"
+    },
+    {
+      "pregunta": "¿Qué raza es esta?",
+      "opciones": ["Bulldog Inglés", "Shar Pei", "Bull Terrier", "Boston Terrier"],
+      "correcta": 0,
+      "imagen": "imagenes/razas/bulldog_ingles.jpg"
+    },
+    {
+      "pregunta": "¿Qué raza es esta?",
+      "opciones": ["Chihuahua", "Pinscher Miniatura", "Pekingese", "Shih Tzu"],
+      "correcta": 0,
+      "imagen": "imagenes/razas/chihuahua.jpg"
+    },
+    {
+      "pregunta": "¿Qué raza es esta?",
+      "opciones": ["Dálmata", "Foxhound", "Setter Inglés", "Basset Hound"],
+      "correcta": 0,
+      "imagen": "imagenes/razas/dalmata.jpg"
+    },
+    {
+      "pregunta": "¿Qué raza es esta?",
+      "opciones": ["Poodle", "Bichón Maltés", "Yorkshire Terrier", "Cocker Spaniel"],
+      "correcta": 0,
+      "imagen": "imagenes/razas/poodle.jpg"
+    },
+    {
+      "pregunta": "¿Qué raza es esta?",
+      "opciones": ["Rottweiler", "Doberman", "Terranova", "Pitbull"],
+      "correcta": 0,
+      "imagen": "imagenes/razas/rottweiler.jpg"
+    },
+    {
+      "pregunta": "¿Qué raza es esta?",
+      "opciones": ["Boxer", "San Bernardo", "Labrador Retriever", "Cane Corso"],
+      "correcta": 0,
+      "imagen": "imagenes/razas/boxer.jpg"
+    },
+    {
+      "pregunta": "¿Qué raza es esta?",
+      "opciones": ["Shih Tzu", "Pug", "Maltés", "Pomerania"],
+      "correcta": 0,
+      "imagen": "imagenes/razas/shih_tzu.jpg"
+    },
+    {
+      "pregunta": "¿Qué raza es esta?",
+      "opciones": ["Schnauzer Miniatura", "Poodle", "Yorkshire Terrier", "Beagle"],
+      "correcta": 0,
+      "imagen": "imagenes/razas/schnauzer_miniatura.jpg"
+    },
+    {
+      "pregunta": "¿Qué raza es esta?",
+      "opciones": ["Pug", "Bulldog Francés", "Boston Terrier", "Pinscher Miniatura"],
+      "correcta": 0,
+      "imagen": "imagenes/razas/pug.jpg"
+    },
+    {
+      "pregunta": "¿Qué raza es esta?",
+      "opciones": ["Doberman", "Rottweiler", "Weimaraner", "Boxer"],
+      "correcta": 0,
+      "imagen": "imagenes/razas/doberman.jpg"
+    },
+    {
+      "pregunta": "¿Qué raza es esta?",
+      "opciones": ["Beagle", "Basset Hound", "Foxhound", "Cocker Spaniel"],
+      "correcta": 0,
+      "imagen": "imagenes/razas/beagle.jpg"
+    },
+    {
+      "pregunta": "¿Qué raza es esta?",
+      "opciones": ["Cocker Spaniel", "Golden Retriever", "Poodle", "Bichón Maltés"],
+      "correcta": 0,
+      "imagen": "imagenes/razas/cocker_spaniel.jpg"
+    },
+    {
+      "pregunta": "¿Qué raza es esta?",
+      "opciones": ["Basset Hound", "Dálmata", "Shar Pei", "Chow Chow"],
+      "correcta": 0,
+      "imagen": "imagenes/razas/basset_hound.jpg"
+    },
+    {
+      "pregunta": "¿Qué raza es esta?",
+      "opciones": ["Cane Corso", "Gran Danés", "Pitbull", "Dogo Argentino"],
+      "correcta": 0,
+      "imagen": "imagenes/razas/cane_corso.jpg"
+    },
+    {
+      "pregunta": "¿Qué raza es esta?",
+      "opciones": ["Border Collie", "Pastor Alemán", "Golden Retriever", "Labrador Retriever"],
+      "correcta": 0,
+      "imagen": "imagenes/razas/border_collie.jpg"
+    },
+    {
+      "pregunta": "¿Qué raza es esta?",
+      "opciones": ["Akita Inu", "Shiba Inu", "Samoyedo", "Husky Siberiano"],
+      "correcta": 0,
+      "imagen": "imagenes/razas/akita_inu.jpg"
+    },
+    {
+      "pregunta": "¿Qué raza es esta?",
+      "opciones": ["Husky Siberiano", "Alaskan Malamute", "Border Collie", "Samoyedo"],
+      "correcta": 0,
+      "imagen": "imagenes/razas/husky_siberiano.jpg"
+    },
+    {
+      "pregunta": "¿Qué raza es esta?",
+      "opciones": ["Gran Danés", "San Bernardo", "Terranova", "Dogo de Burdeos"],
+      "correcta": 0,
+      "imagen": "imagenes/razas/gran_danes.jpg"
+    },
+    {
+      "pregunta": "¿Qué raza es esta?",
+      "opciones": ["San Bernardo", "Mastín Napolitano", "Terranova", "Pastor del Cáucaso"],
+      "correcta": 0,
+      "imagen": "imagenes/razas/san_bernardo.jpg"
+    },
+    {
+      "pregunta": "¿Qué raza es esta?",
+      "opciones": ["Pinscher Miniatura", "Chihuahua", "Pomerania", "Jack Russell Terrier"],
+      "correcta": 0,
+      "imagen": "imagenes/razas/pinscher_miniatura.jpg"
+    },
+    {
+      "pregunta": "¿Qué raza es esta?",
+      "opciones": ["Pitbull", "American Bully", "Boxer", "Bulldog Americano"],
+      "correcta": 0,
+      "imagen": "imagenes/razas/pitbull.jpg"
+    },
+    {
+      "pregunta": "¿Qué raza es esta?",
+      "opciones": ["Terranova", "San Bernardo", "Cane Corso", "Labrador Retriever"],
+      "correcta": 0,
+      "imagen": "imagenes/razas/terranova.jpg"
+    },
+    {
+      "pregunta": "¿Qué raza es esta?",
+      "opciones": ["Bernés de la Montaña", "Pastor Australiano", "Border Collie", "San Bernardo"],
+      "correcta": 0,
+      "imagen": "imagenes/razas/bernes_de_la_montana.jpg"
+    },
+    {
+      "pregunta": "¿Qué raza es esta?",
+      "opciones": ["American Bully", "Pitbull", "Dogo Argentino", "Bulldog Americano"],
+      "correcta": 0,
+      "imagen": "imagenes/razas/american_bully.jpg"
+    },
+    {
+      "pregunta": "¿Qué raza es esta?",
+      "opciones": ["Bulldog Francés", "Pug", "Boston Terrier", "Bulldog Inglés"],
+      "correcta": 0,
+      "imagen": "imagenes/razas/bulldog_frances.jpg"
+    },
+    {
+      "pregunta": "¿Qué raza es esta?",
+      "opciones": ["Jack Russell Terrier", "Fox Terrier", "Beagle", "West Highland White Terrier"],
+      "correcta": 0,
+      "imagen": "imagenes/razas/jack_russell_terrier.jpg"
+    },
+    {
+      "pregunta": "¿Qué raza es esta?",
+      "opciones": ["Alaskan Malamute", "Husky Siberiano", "Samoyedo", "Chow Chow"],
+      "correcta": 0,
+      "imagen": "imagenes/razas/alaskan_malamute.jpg"
+    },
+    {
+      "pregunta": "¿Qué raza es esta?",
+      "opciones": ["Weimaraner", "Doberman", "Pointer", "Pastor Belga"],
+      "correcta": 0,
+      "imagen": "imagenes/razas/weimaraner.jpg"
+    },
+    {
+      "pregunta": "¿Qué raza es esta?",
+      "opciones": ["Bichón Maltés", "Poodle Toy", "Shih Tzu", "Lhasa Apso"],
+      "correcta": 0,
+      "imagen": "imagenes/razas/bichon_maltes.jpg"
+    },
+    {
+      "pregunta": "¿Qué raza es esta?",
+      "opciones": ["Yorkshire Terrier", "Silky Terrier", "Pomerania", "Cavalier King Charles"],
+      "correcta": 0,
+      "imagen": "imagenes/razas/yorkshire_terrier.jpg"
+    },
+    {
+      "pregunta": "¿Qué raza es esta?",
+      "opciones": ["Galgo", "Whippet", "Greyhound Italiano", "Doberman"],
+      "correcta": 0,
+      "imagen": "imagenes/razas/galgo.jpg"
+    },
+    {
+      "pregunta": "¿Qué raza es esta?",
+      "opciones": ["Shar Pei", "Chow Chow", "Bulldog Inglés", "Basenji"],
+      "correcta": 0,
+      "imagen": "imagenes/razas/shar_pei.jpg"
+    },
+    {
+      "pregunta": "¿Qué raza es esta?",
+      "opciones": ["Siamés", "Azul Ruso", "Oriental", "Bengalí"],
+      "correcta": 0,
+      "imagen": "imagenes/razas/siames.jpg"
+    },
+    {
+      "pregunta": "¿Qué raza es esta?",
+      "opciones": ["Persa", "Himalayo", "Exótico", "Ragdoll"],
+      "correcta": 0,
+      "imagen": "imagenes/razas/persa.jpg"
+    },
+    {
+      "pregunta": "¿Qué raza es esta?",
+      "opciones": ["Maine Coon", "Bosque de Noruega", "Ragdoll", "Siberiano"],
+      "correcta": 0,
+      "imagen": "imagenes/razas/maine_coon.jpg"
+    },
+    {
+      "pregunta": "¿Qué raza es esta?",
+      "opciones": ["Ragdoll", "Persa", "Himalayo", "British Shorthair"],
+      "correcta": 0,
+      "imagen": "imagenes/razas/ragdoll.jpg"
+    },
+    {
+      "pregunta": "¿Qué raza es esta?",
+      "opciones": ["Sphynx", "Devon Rex", "Oriental", "Cornish Rex"],
+      "correcta": 0,
+      "imagen": "imagenes/razas/sphynx.jpg"
+    },
+    {
+      "pregunta": "¿Qué raza es esta?",
+      "opciones": ["Bengalí", "Ocicat", "Savannah", "Mau Egipcio"],
+      "correcta": 0,
+      "imagen": "imagenes/razas/bengali.jpg"
+    },
+    {
+      "pregunta": "¿Qué raza es esta?",
+      "opciones": ["Azul Ruso", "British Shorthair", "Chartreux", "Siberiano"],
+      "correcta": 0,
+      "imagen": "imagenes/razas/azul_ruso.jpg"
+    },
+    {
+      "pregunta": "¿Qué raza es esta?",
+      "opciones": ["Angora Turco", "Persa", "Siberiano", "Ragdoll"],
+      "correcta": 0,
+      "imagen": "imagenes/razas/angora_turco.jpg"
+    },
+    {
+      "pregunta": "¿Qué raza es esta?",
+      "opciones": ["Oriental", "Siamés", "Devon Rex", "Cornish Rex"],
+      "correcta": 0,
+      "imagen": "imagenes/razas/oriental.jpg"
+    },
+    {
+      "pregunta": "¿Qué raza es esta?",
+      "opciones": ["Himalayo", "Persa", "British Longhair", "Ragdoll"],
+      "correcta": 0,
+      "imagen": "imagenes/razas/himalayo.jpg"
+    },
+    {
+      "pregunta": "¿Qué raza es esta?",
+      "opciones": ["Gato común mestizo", "Azul Ruso", "Siberiano", "Bombay"],
+      "correcta": 0,
+      "imagen": "imagenes/razas/gato_comun.jpg"
+    },
+    {
+      "pregunta": "¿Qué raza es esta?",
+      "opciones": ["Bombay", "Siamés", "British Shorthair", "Munchkin"],
+      "correcta": 0,
+      "imagen": "imagenes/razas/bombay.jpg"
+    },
+    {
+      "pregunta": "¿Qué raza es esta?",
+      "opciones": ["Manx", "Munchkin", "Savannah", "Chartreux"],
+      "correcta": 0,
+      "imagen": "imagenes/razas/manx.jpg"
+    },
+    {
+      "pregunta": "¿Qué raza es esta?",
+      "opciones": ["Munchkin", "Sphynx", "Bengalí", "Ocicat"],
+      "correcta": 0,
+      "imagen": "imagenes/razas/munchkin.jpg"
+    },
+    {
+      "pregunta": "¿Qué raza es esta?",
+      "opciones": ["Ocicat", "Bengalí", "Savannah", "Mau Egipcio"],
+      "correcta": 0,
+      "imagen": "imagenes/razas/ocicat.jpg"
+    }    
+  ],
+  "intermedio": [
+    {
+      "pregunta": "¿Qué raza canina se originó en Canadá y es conocida por su habilidad para cobrar presas acuáticas?",
+      "opciones": ["Golden Retriever", "Labrador Retriever", "Terranova", "Cocker Spaniel"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál de estas razas caninas se destaca por su obediencia, inteligencia y su uso en labores policiales?",
+      "opciones": ["Rottweiler", "Pastor Alemán", "Doberman", "Beagle"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál es una característica física típica del Bulldog Inglés?",
+      "opciones": ["Hocico largo", "Orejas puntiagudas", "Mandíbula inferior prominente", "Pelaje largo y ondulado"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué raza felina es reconocida por su falta de pelaje y su piel arrugada?",
+      "opciones": ["Siamés", "Sphynx", "Bengalí", "Maine Coon"],
+      "correcta": 1,
+      "imagen": "imagenes/razas/sphynx.jpg"
+    },
+    {
+      "pregunta": "¿Cuál es una característica notable del Dálmata?",
+      "opciones": ["Pelaje a rayas", "Manchas negras o marrones sobre fondo blanco", "Pelaje sin pigmento", "Ojos dispares"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué raza canina es conocida por su energía inagotable y su talento en deportes de agilidad?",
+      "opciones": ["Pug", "Border Collie", "Bulldog Francés", "Boxer"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál es una característica común en el gato Himalayo?",
+      "opciones": ["Pelaje corto y ojos verdes", "Pelaje largo con puntos oscuros y ojos azules", "Piel sin pelo", "Cola corta o ausente"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál de estas razas de perro es reconocida por su temperamento tranquilo y tamaño gigante?",
+      "opciones": ["Terranova", "Chihuahua", "Shih Tzu", "Beagle"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué raza canina es famosa por su nariz chata y arrugas en el rostro?",
+      "opciones": ["Shar Pei", "Cocker Spaniel", "Basset Hound", "Alaskan Malamute"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué raza de gato destaca por su gran tamaño, pelaje espeso y carácter sociable?",
+      "opciones": ["Azul Ruso", "Ragdoll", "Maine Coon", "Oriental"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cuál de estas razas es originaria de Japón y se caracteriza por su comportamiento leal y reservado?",
+      "opciones": ["Akita Inu", "Shih Tzu", "Chihuahua", "Yorkshire Terrier"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué raza canina es conocida por ser extremadamente pequeña y con orejas grandes?",
+      "opciones": ["Pomerania", "Jack Russell Terrier", "Chihuahua", "Papillón"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cuál de estas razas felinas tiene una apariencia salvaje similar a un leopardo?",
+      "opciones": ["Gato Bombay", "Bengalí", "Oriental", "Manx"],
+      "correcta": 1,
+      "imagen": "imagenes/razas/bengali.jpg"
+    },
+    {
+      "pregunta": "¿Qué raza canina es conocida por sus habilidades de rastreo y largas orejas?",
+      "opciones": ["Basset Hound", "Schnauzer Miniatura", "Doberman", "Husky Siberiano"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué raza es utilizada frecuentemente como perro de guardia debido a su fuerza y agilidad?",
+      "opciones": ["Poodle", "Beagle", "Doberman", "Labrador Retriever"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué raza felina tiene una estructura delgada, ojos almendrados y un maullido característico?",
+      "opciones": ["Siamés", "Ragdoll", "Persa", "Gato común mestizo"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué raza canina tiene un pelaje denso y espeso que requiere cepillado frecuente y es usada en exposiciones?",
+      "opciones": ["Schnauzer Miniatura", "Poodle", "Shih Tzu", "Yorkshire Terrier"],
+      "correcta": 3
+    },
+    {
+      "pregunta": "¿Qué raza felina es completamente negra y con ojos llamativos de color dorado o cobre?",
+      "opciones": ["Gato Bombay", "Ocicat", "Manx", "Angora Turco"],
+      "correcta": 0,
+      "imagen": "imagenes/razas/gato_bombay.jpg"
+    },
+    {
+      "pregunta": "¿Cuál de estas razas es ideal para climas fríos y fue desarrollada para tirar de trineos?",
+      "opciones": ["Husky Siberiano", "Pitbull", "Galgo", "Doberman"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué raza canina se destaca por tener una lengua azul y múltiples pliegues en la piel?",
+      "opciones": ["Shar Pei", "Pug", "Labrador Retriever", "Beagle"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Cuál es una característica distintiva del gato Manx?",
+      "opciones": ["Pelaje de colores brillantes", "Ausencia total o parcial de cola", "Tamaño gigante", "Nariz achatada"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué raza de perro tiene una complexión robusta, pelo corto y es conocida por su lealtad extrema?",
+      "opciones": ["Pitbull", "Chihuahua", "Jack Russell Terrier", "Setter Irlandés"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué raza canina es de origen francés y es reconocida por su cara achatada y orejas de murciélago?",
+      "opciones": ["Bulldog Francés", "Pug", "Beagle", "Shar Pei"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué raza de perro gigante fue desarrollada para rescates en zonas montañosas y tiene abundante pelaje?",
+      "opciones": ["San Bernardo", "Boxer", "Alaskan Malamute", "Cane Corso"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Cuál es una de las cualidades más representativas del American Bully?",
+      "opciones": ["Pelaje largo y suave", "Estructura musculosa y temperamento amigable", "Pequeño tamaño y ladrido agudo", "Ojos azules y orejas caídas"],
+      "correcta": 1
+    },
+  {
+    "pregunta": "¿Qué raza felina tiene un pelaje extremadamente largo, cara chata y suele requerir muchos cuidados?",
+    "opciones": ["Persa", "Siamés", "Maine Coon", "Gato común mestizo"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué raza canina es conocida por su apariencia majestuosa, su pelaje blanco y gran tamaño?",
+    "opciones": ["Alaskan Malamute", "Gran Danés", "Cane Corso", "Terranova"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué raza de gato tiene el cuerpo moteado como un ocelote salvaje?",
+    "opciones": ["Sphynx", "Gato Manx", "Ocicat", "Bengalí"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué raza de perro fue desarrollada como perro de pelea pero hoy es muy popular como mascota?",
+    "opciones": ["Doberman", "Boxer", "Pitbull", "Rottweiler"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué raza felina es conocida por su manto blanco y ojos azules, pero con gran riesgo de sordera?",
+    "opciones": ["Oriental", "Angora Turco", "Sphynx", "Gato Himalayo"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué raza canina destaca por su energía, terquedad y amor por cavar?",
+    "opciones": ["Jack Russell Terrier", "Bulldog Francés", "Galgo", "Shih Tzu"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué raza felina es reconocida por su pelaje blanco con manchas en colores específicos y ojos azules?",
+    "opciones": ["Ragdoll", "Azul Ruso", "Himalayo", "Oriental"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué raza canina se caracteriza por su cuerpo musculoso y aspecto imponente, ideal como perro guardián?",
+    "opciones": ["Cane Corso", "Basset Hound", "Yorkshire Terrier", "Chihuahua"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué raza de gato tiene ojos grandes, cuerpo delgado y orejas grandes que le dan una expresión alerta?",
+    "opciones": ["Oriental", "Manx", "Persa", "Ragdoll"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál de estas razas caninas es más adecuada para competencias de agilidad y entrenamiento avanzado?",
+    "opciones": ["Beagle", "Border Collie", "Pug", "Bulldog Inglés"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué raza canina es de origen italiano y pertenece al grupo de los mastines?",
+    "opciones": ["Cane Corso", "Dálmata", "Rottweiler", "Poodle"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál es una característica común en el Weimaraner?",
+    "opciones": ["Pelaje largo y ondulado", "Pelaje gris corto y ojos claros", "Orejas puntiagudas", "Pelaje negro brillante"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué raza canina es conocida por tener una relación cercana con niños y gran instinto protector?",
+    "opciones": ["Doberman", "American Bully", "Akita Inu", "Galgo"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué raza felina tiene un pelaje gris azulado, es muy tranquila y reservada?",
+    "opciones": ["Azul Ruso", "Oriental", "Sphynx", "Bengalí"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué raza felina es considerada como una de las más antiguas y nobles, con pelaje largo y suave?",
+    "opciones": ["Angora Turco", "Siamés", "Bombay", "Manx"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué raza canina es muy utilizada en búsqueda y rescate debido a su olfato y resistencia?",
+    "opciones": ["Pastor Alemán", "Beagle", "San Bernardo", "Boxer"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué raza de perro es reconocida por tener el pelo largo, orejas caídas y una personalidad afectuosa?",
+    "opciones": ["Yorkshire Terrier", "Cocker Spaniel", "Dálmata", "Shar Pei"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué raza felina es conocida por su tamaño mediano, cuerpo compacto y naturaleza tranquila, ideal para interiores?",
+    "opciones": ["Gato común mestizo", "Oriental", "Ocicat", "Ragdoll"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué raza canina tiene un pelaje muy corto, ojos saltones y es extremadamente sociable?",
+    "opciones": ["Pug", "Poodle", "Alaskan Malamute", "Pinscher Miniatura"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál de estas razas felinas es originaria de Turquía y es considerada muy elegante?",
+    "opciones": ["Angora Turco", "Sphynx", "Azul Ruso", "Manx"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué raza canina es conocida por su velocidad y figura delgada, especialmente usada en carreras?",
+    "opciones": ["Boxer", "Doberman", "Galgo", "Terranova"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué raza felina es originaria de Estados Unidos y es resultado de cruce con razas salvajes?",
+    "opciones": ["Gato Bombay", "Sphynx", "Ocicat", "Persa"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué raza canina pequeña es muy valiente y energética, y suele tener pelaje largo y sedoso?",
+    "opciones": ["Pomerania", "Yorkshire Terrier", "Poodle Toy", "Pinscher Miniatura"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué raza felina destaca por su baja estatura debido a una mutación genética en las patas?",
+    "opciones": ["Munchkin", "Manx", "Sphynx", "Bombay"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué raza canina de origen alemán tiene cuerpo musculoso, pelaje corto y es excelente guardián?",
+    "opciones": ["Doberman", "Boxer", "Rottweiler", "Pastor Alemán"],
+    "correcta": 2
+  }
+],
+  "dificil": [
+    {
+      "pregunta": "¿Cuál es una condición de salud común en el Bulldog Inglés debido a su conformación facial?",
+      "opciones": ["Displasia de cadera", "Síndrome braquicefálico", "Luxación de rótula", "Problemas de tiroides"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué raza de perro es propensa a torsión gástrica por su tamaño y pecho profundo?",
+      "opciones": ["Gran Danés", "Beagle", "Shih Tzu", "Pug"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Cuál de estas razas se considera una de las más longevas?",
+      "opciones": ["Rottweiler", "Chihuahua", "Labrador Retriever", "Boxer"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué raza felina es más propensa a desarrollar miocardiopatía hipertrófica?",
+      "opciones": ["Maine Coon", "Siamés", "Persa", "Azul Ruso"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué raza de perro se originó como perro de pelea en Inglaterra pero hoy es mascota común?",
+      "opciones": ["Pitbull", "Beagle", "Galgo", "Shar Pei"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Cuál de estas razas felinas no posee pelaje, lo que requiere cuidados especiales de piel?",
+      "opciones": ["Sphynx", "Bengalí", "Oriental", "Ragdoll"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Cuál es una característica distintiva del Alaskan Malamute en comparación con el Husky Siberiano?",
+      "opciones": ["Pelaje corto y orejas caídas", "Tamaño más pequeño y ojos verdes", "Mayor tamaño y fuerza física", "Color uniforme sin marcas"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué raza de perro tiene tendencia a padecer problemas en las glándulas anales por su estructura corporal?",
+      "opciones": ["Cocker Spaniel", "Poodle", "Shar Pei", "Bulldog Francés"],
+      "correcta": 3
+    },
+    {
+      "pregunta": "¿Qué raza canina fue históricamente utilizada para tirar de carros pesados en los Alpes?",
+      "opciones": ["San Bernardo", "Terranova", "Rottweiler", "Cane Corso"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué característica genética hace al gato Bengalí diferente de otras razas domésticas?",
+      "opciones": ["Cruce con gato leopardo asiático", "Carecen de bigotes", "Ojos rojos naturales", "Hipoalergénico por completo"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Cuál es una de las principales preocupaciones de salud en el Doberman?",
+      "opciones": ["Problemas renales", "Cardiomiopatía dilatada", "Displasia de codo", "Ceguera nocturna"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál es el propósito original del Dálmata en su historia como raza?",
+      "opciones": ["Perro de guerra", "Guardián de ganado", "Acompañante de carruajes", "Cazador de osos"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué raza felina es conocida por seguir constantemente a su dueño como un perro?",
+      "opciones": ["Siamés", "Persa", "Gato Manx", "Gato Bombay"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué tipo de pelaje tiene el Poodle que lo hace menos alérgico para algunas personas?",
+      "opciones": ["Pelaje doble y duro", "Liso y brillante", "Rizado e hipoalergénico", "Corto y graso"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cuál es una complicación común en el Basset Hound por su morfología?",
+      "opciones": ["Problemas respiratorios", "Infecciones en las orejas", "Luxación de cadera", "Pérdida de visión temprana"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué problema de comportamiento puede presentar el Border Collie si no se le estimula mentalmente?",
+      "opciones": ["Agresividad extrema", "Depresión y ansiedad", "Hiperactividad destructiva", "Ladrido constante por aburrimiento"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cuál es una complicación genética común en los gatos Persas?",
+      "opciones": ["Glaucoma", "Enfermedad renal poliquística", "Displasia mandibular", "Problemas cardíacos severos"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué raza canina puede presentar problemas articulares tempranos por su rápido crecimiento?",
+      "opciones": ["Pinscher Miniatura", "San Bernardo", "Chihuahua", "Jack Russell Terrier"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué peculiaridad presenta el Gato Munchkin?",
+      "opciones": ["Carece de orejas", "Tiene patas extremadamente cortas", "No maúlla", "Tiene lengua azul"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál es una dificultad común en la crianza del American Bully?",
+      "opciones": ["Hiperactividad", "Displasia de cadera y sobrepeso", "Inestabilidad emocional", "Temperamento antisocial"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué comportamiento se ve frecuentemente en los gatos Himalayos?",
+      "opciones": ["Tendencia a escapar", "Agresividad extrema", "Pasividad y necesidad de ambientes tranquilos", "Vocalización intensa"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cuál es una de las razones por las que el Galgo se utiliza para carreras?",
+      "opciones": ["Resistencia al frío", "Instinto cazador y velocidad", "Carácter protector", "Visión nocturna"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué raza presenta con frecuencia dermatitis por pliegues?",
+      "opciones": ["Shar Pei", "Beagle", "Weimaraner", "Setter Irlandés"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué tipo de entrenamiento es más efectivo para el Weimaraner?",
+      "opciones": ["Refuerzo negativo", "Entrenamiento con clicker y actividad física", "Método militar rígido", "Instrucción pasiva y tranquila"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué raza felina tiene una estructura musculosa y pelaje moteado como un leopardo?",
+      "opciones": ["Bengalí", "Sphynx", "Azul Ruso", "Gato común"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué raza canina es conocida por tener una mordida prognática como estándar de la raza?",
+      "opciones": ["Bulldog Francés", "Poodle", "Doberman", "Beagle"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Cuál es una preocupación de salud frecuente en el Chihuahua por su pequeño tamaño?",
+      "opciones": ["Hipoglucemia", "Displasia de cadera", "Cáncer de piel", "Ceguera congénita"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué comportamiento característico se observa comúnmente en el Jack Russell Terrier?",
+      "opciones": ["Apatía y lentitud", "Instinto cazador fuerte y energía elevada", "Dependencia extrema", "Escasa actividad física"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál es una de las características únicas del Bichón Maltés?",
+      "opciones": ["Pelo rizado y sin muda", "Pelaje largo, blanco y sedoso", "Patas cortas y pelaje áspero", "Manchas negras en el cuerpo"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué aspecto genético destaca en el gato Azul Ruso?",
+      "opciones": ["Color negro con ojos verdes", "Pelaje denso gris azulado y ojos verdes intensos", "Pelaje blanco con ojos azules", "Manchas en forma de roseta"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué tipo de socialización necesita el Cane Corso desde temprana edad?",
+      "opciones": ["Poca interacción para evitar dependencia", "Socialización amplia con personas y otros animales", "Solo contacto con su dueño", "Aislamiento en etapas tempranas"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál es una debilidad física del Dálmata relacionada con la genética?",
+      "opciones": ["Ceguera de nacimiento", "Sordera congénita", "Problemas de piel", "Pérdida de pelaje constante"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué tipo de personalidad se asocia con el gato Oriental?",
+      "opciones": ["Solitario y pasivo", "Silencioso y tímido", "Curioso, vocal y activo", "Agresivo y territorial"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué raza canina es excelente en pruebas de agilidad por su rapidez y obediencia?",
+      "opciones": ["Pug", "Border Collie", "Shar Pei", "Terranova"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué necesidad de higiene requiere el Gato Persa más que otras razas?",
+      "opciones": ["Corte de uñas semanal", "Cepillado diario por su pelaje largo", "Limpieza de orejas diaria", "Baños frecuentes con champú medicado"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál es una enfermedad frecuente en razas grandes como el Bernés de la Montaña?",
+      "opciones": ["Artritis temprana", "Displasia de cadera y codo", "Problemas dentales", "Obesidad infantil"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué raza felina se caracteriza por no tener cola o tenerla muy corta?",
+      "opciones": ["Himalayo", "Manx", "Bengalí", "Oriental"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué complicación presentan los perros de orejas caídas como el Cocker Spaniel?",
+      "opciones": ["Problemas respiratorios", "Infecciones frecuentes en los oídos", "Deshidratación", "Luxación de rótula"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué tipo de pelaje tiene el gato Himalayo?",
+      "opciones": ["Corto y áspero", "Medio con textura sedosa y colores en puntos", "Rizado y sin muda", "Muy denso sin subpelo"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué comportamiento puede desarrollar un Gato Común Mestizo sin estimulación?",
+      "opciones": ["Desobediencia e hiperactividad", "Ansiedad por separación", "Aislamiento y comportamientos destructivos", "Ladrido excesivo"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué complicación se asocia al San Bernardo debido a su tamaño gigante?",
+      "opciones": ["Problemas cardiacos y sobrepeso", "Infecciones dérmicas leves", "Problemas de visión hereditaria", "Sensibilidad auditiva"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Cuál es una de las habilidades naturales del Border Collie?",
+      "opciones": ["Nadar largas distancias", "Conducir rebaños con señales visuales", "Saltar en vertical hasta 2 metros", "Cavar para buscar presas"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué tipo de cuidados especiales requiere el Shar Pei?",
+      "opciones": ["Cepillado diario", "Limpieza frecuente de pliegues para evitar dermatitis", "Exposición prolongada al sol", "Ejercicio continuo al aire libre"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál es una señal de alerta para problemas respiratorios en razas braquicefálicas?",
+      "opciones": ["Movimiento lento", "Resoplidos y dificultad al respirar tras ejercicio leve", "Comportamiento agresivo", "Orejas rígidas y boca seca"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál es una característica visual típica del Gato Bombay?",
+      "opciones": ["Pelaje largo gris", "Color blanco con ojos verdes", "Pelaje negro brillante y ojos cobrizos", "Pelaje rayado y ojos azul cielo"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cuál es una diferencia destacada entre el Labrador y el Golden Retriever?",
+      "opciones": ["El Golden tiene pelaje más largo y ondulado", "El Labrador es más territorial", "El Labrador requiere menos actividad física", "El Golden tiene hocico más corto"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué raza de perro tiene predisposición a sobrepeso si no se controla la dieta?",
+      "opciones": ["Pug", "Doberman", "Weimaraner", "Alaskan Malamute"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Cuál de estas razas felinas es considerada de las más tranquilas y hogareñas?",
+      "opciones": ["Gato Oriental", "Ragdoll", "Azul Ruso", "Sphynx"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué raza de perro es propensa a enfermedades oculares hereditarias como cataratas juveniles?",
+      "opciones": ["Golden Retriever", "American Bully", "Shih Tzu", "Chihuahua"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Cuál es una de las ventajas del Galgo como mascota doméstica?",
+      "opciones": ["Alta energía durante todo el día", "Bajo mantenimiento de pelaje y temperamento calmado", "Gran instinto de protección", "Aullido comunicativo"],
+      "correcta": 1
+    }
+],
+  "avanzado": [
+  {
+    "pregunta": "¿Qué alelo es responsable del pelaje merlé en algunas razas como el Border Collie?",
+    "opciones": ["Alelo M", "Alelo B", "Alelo E", "Alelo S"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué función cumplía históricamente el Rottweiler en la antigua Roma?",
+    "opciones": ["Perro de guerra", "Perro rastreador", "Perro de guarda de ganado y transporte de carne", "Perro mensajero"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué mutación genética está asociada con la sordera en Dálmatas?",
+    "opciones": ["Mutación del gen MITF", "Mutación del gen PAX6", "Mutación del gen OCA2", "Mutación del gen TYRP1"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué raza canina posee una capa densa de doble manto adaptada a climas polares extremos?",
+    "opciones": ["Husky Siberiano", "Boxer", "Beagle", "Bulldog Francés"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué característica morfológica destaca en el cráneo del Chihuahua?",
+    "opciones": ["Cráneo plano sin fontanela", "Cráneo en forma de manzana con fontanela abierta", "Cráneo cuadrado y pesado", "Cráneo con forma de diamante"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué condición genética puede afectar la movilidad en el Pastor Alemán en edad adulta?",
+    "opciones": ["Enfermedad de Addison", "Displasia de cadera", "Síndrome braquicefálico", "Luxación patelar"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué sistema sensorial tiene mayor desarrollo en el gato Bengalí comparado con otras razas?",
+    "opciones": ["Sistema auditivo", "Sistema visual nocturno", "Sistema olfativo", "Sistema digestivo"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la función del subpelo en razas como el Alaskan Malamute?",
+    "opciones": ["Mejorar el camuflaje", "Evitar parásitos externos", "Proteger contra frío extremo", "Aumentar la flotabilidad al nadar"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tipo de sensibilidad presenta el Gato Sphynx por la ausencia de pelaje?",
+    "opciones": ["A la humedad", "A la exposición solar y temperatura", "A los ruidos", "A la alimentación húmeda"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué pigmentación ocular es característica del gato Himalayo?",
+    "opciones": ["Verde claro", "Ámbar", "Azul intenso", "Gris perlado"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es una predisposición genética común en el Cocker Spaniel relacionada con el oído?",
+    "opciones": ["Sordera congénita", "Otitis crónica por canal auditivo estrecho", "Hipoplasia del oído medio", "Anquilosis auricular bilateral"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué fenotipo presenta el Shar Pei debido a una mutación en el gen HAS2?",
+    "opciones": ["Piel excesivamente pigmentada", "Arrugas cutáneas prominentes", "Cola ancha y corta", "Patas excesivamente largas"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué síndrome respiratorio afecta a razas como el Bulldog Inglés?",
+    "opciones": ["Síndrome braquicefálico", "Síndrome de disfunción laríngea", "Colapso traqueal", "Síndrome de apnea obstructiva felina"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué patología ocular congénita es frecuente en el Basset Hound?",
+    "opciones": ["Uveítis", "Cataratas", "Entropión", "Prolapso de glándula del tercer párpado"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tipo de pelaje es característico del Gato Azul Ruso?",
+    "opciones": ["Doble capa, densa y con brillo plateado", "Pelaje corto con manchas tabby", "Pelaje largo y áspero", "Pelaje rizado tipo rex"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué aspecto dental se debe vigilar en el Pug durante sus primeros años?",
+    "opciones": ["Prognatismo y apiñamiento dental", "Ausencia congénita de premolares", "Dentición doble permanente", "Desgaste anormal por mordida cruzada"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué raza felina carece de cola o la tiene muy corta debido a una mutación?",
+    "opciones": ["Manx", "Sphynx", "Oriental", "Bengalí"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué raza tiene una estructura corporal alargada y patas cortas por una mutación en el gen fgf4?",
+    "opciones": ["Munchkin", "Bombay", "Ocicat", "Oriental"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué raza de perro puede sufrir de torsión gástrica con mayor frecuencia debido a su pecho profundo?",
+    "opciones": ["Gran Danés", "Beagle", "Poodle", "Chihuahua"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál es el nombre técnico de la pigmentación azul-gris típica del Weimaraner?",
+    "opciones": ["Dilución del gen D", "Expresión del gen E locus", "Mutación en el gen MC1R", "Hipopigmentación tipo B"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué tipo de pelaje presenta el Maine Coon como adaptación al clima frío?",
+    "opciones": ["Pelaje corto y ralo", "Pelaje largo, impermeable con subpelo espeso", "Pelaje lanoso sin subcapa", "Pelaje tipo rex con rizos marcados"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué anomalía se presenta frecuentemente en el cráneo del Bulldog Francés al nacer?",
+    "opciones": ["Fontanelas múltiples", "Hidrocefalia congénita", "Estenosis nasal grave", "Craneosinostosis parcial"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes razas es propensa a displasia de codo y hombro por su rápido crecimiento?",
+    "opciones": ["Bernés de la Montaña", "Jack Russell Terrier", "Yorkshire Terrier", "Siamés"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué raza felina es reconocida por su estructura musculosa tipo 'leopardo doméstico'?",
+    "opciones": ["Bengalí", "Ocicat", "Sphynx", "Oriental"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué problema dermatológico afecta comúnmente al Shar Pei?",
+    "opciones": ["Foliculitis", "Demodicosis generalizada", "Síndrome de fiebre familiar del Shar Pei", "Seborrea seca congénita"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es una particularidad de los bigotes en la raza Oriental felina?",
+    "opciones": ["Bigotes rizados", "Ausencia de bigotes", "Bigotes de crecimiento circular", "Bigotes extremadamente largos y rectos"],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué problema digestivo puede presentar el Bichón Maltés si no recibe alimento balanceado?",
+    "opciones": ["Colitis hemorrágica crónica", "Hiperacidez gástrica", "Síndrome de mala absorción intestinal", "Pancreatitis recurrente"],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Cuál es la causa genética de la alopecia en el Gato Sphynx?",
+    "opciones": ["Gen HR", "Gen KRT71", "Gen FOXI3", "Gen TYR"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el patrón de color típico del Ocicat?",
+    "opciones": ["Manchas tipo leopardo bien definidas", "Rayas en forma de espiga", "Color uniforme oscuro", "Color siamés diluido"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué complicación ortopédica puede sufrir el Pinscher Miniatura en edad joven?",
+    "opciones": ["Luxación patelar medial", "Displasia de cadera", "Fusión vertebral", "Esguince rotuliano bilateral"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué condición neurológica puede afectar al American Bully por herencia genética?",
+    "opciones": ["Ataxia cerebelosa", "Síndrome vestibular idiopático", "Hidrocefalia", "Epilepsia primaria"],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué pigmentación ocular es deseable en el Siamés según estándares de raza?",
+    "opciones": ["Ambar", "Verde claro", "Azul intenso", "Avellana"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué complicación hepática puede afectar a Yorkshire Terrier jóvenes?",
+    "opciones": ["Shunt portosistémico congénito", "Colangitis esclerosante", "Insuficiencia hepática aguda", "Hepatocitosis idiopática"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué característica genética define al gato Himalayo?",
+    "opciones": ["Heterocromía de nacimiento", "Coloración tipo point con ojos azules", "Muda total estacional", "Pelaje sin subcapa"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué glándula afecta el prolapso frecuente del tercer párpado en el Beagle?",
+    "opciones": ["Glándula lacrimal", "Glándula de Harder", "Glándula de Meibomio", "Glándula pineal"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de paso es característico en exposición del Galgo?",
+    "opciones": ["Trote elevado", "Paso corto y ágil", "Galope en suspensión doble", "Marcha lenta y pesada"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué mutación genética puede estar relacionada con la cardiomiopatía dilatada en Doberman?",
+    "opciones": ["Mutación en gen PDK4", "Mutación en gen TTN", "Mutación en gen MYBPC3", "Mutación en gen SCN5A"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes razas tiende a presentar hipotiroidismo idiopático con la edad?",
+    "opciones": ["Akita Inu", "Pitbull", "Doberman", "Labrador Retriever"],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué comportamiento natural tiene el Gato Común Mestizo por su diversidad genética?",
+    "opciones": ["Alta territorialidad y habilidades de caza", "Bajo apego y poca vocalización", "Escasa socialización", "Mayor necesidad de control humano"],
+    "correcta": 0
+  }
+]
+}

@@ -1,0 +1,1443 @@
+{
+    "fácil": 
+[
+  {
+    "pregunta": "¿Cuál es la función de una pinza hemostática?",
+    "opciones": ["Suturar heridas", "Cortar hueso", "Detener hemorragias", "Medir la presión"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué nombre recibe este instrumento quirúrgico?",
+    "imagen": "imagenes/pinza-hemostatica.jpg",
+    "opciones": ["Separador de Farabeuf", "Pinza hemostática", "Portaagujas", "Tijera de Metzembaum"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué instrumento se usa para sostener la aguja durante la sutura?",
+    "opciones": ["Pinza de Allis", "Portaagujas", "Separador", "Pinza Backhaus"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la función principal de las tijeras de Metzembaum?",
+    "opciones": ["Cortar hueso", "Sujetar órganos", "Cortar tejidos delicados", "Extraer puntos"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué nombre recibe este instrumento?",
+    "imagen": "imagenes/portaagujas.jpg",
+    "opciones": ["Separador de Farabeuf", "Portaagujas", "Pinza de Kelly", "Tijera de Mayo"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la principal precaución al manipular material quirúrgico esterilizado?",
+    "opciones": ["Evitar que se moje", "No tocarlo con las manos desnudas", "Agitarlo antes de usar", "Refrigerarlo"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué uso tiene el separador de Farabeuf?",
+    "opciones": ["Cortar puntos", "Separar tejidos durante cirugía", "Sujetar gasas", "Abrir jeringas"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué instrumento quirúrgico ves en la imagen?",
+    "imagen": "imagenes/separador-farabeuf.jpg",
+    "opciones": ["Tijera de cirugía", "Pinza de campo", "Separador de Farabeuf", "Portaagujas de Mayo"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tipo de guantes deben utilizarse para asistir en una cirugía?",
+    "opciones": ["De látex estériles", "De plástico comunes", "De jardinería", "Sin guantes"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál es la función de las pinzas de Allis?",
+    "opciones": ["Sujetar tejidos firmemente", "Cortar ligamentos", "Separar costillas", "Extraer líquidos"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Para qué se usa una sonda nasogástrica?",
+    "opciones": ["Aplicar anestesia", "Medir la temperatura", "Administrar alimento o medicamentos", "Detectar pulgas"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué elemento es imprescindible en una mesa quirúrgica?",
+    "opciones": ["Vela", "Antiséptico", "Café", "Gorra de tela"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué instrumento quirúrgico es este?",
+    "imagen": "imagenes/tijera-metzembaum.jpg",
+    "opciones": ["Portaagujas", "Tijera de Metzembaum", "Pinza de campo", "Tijera quirúrgica recta"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la función principal del bisturí?",
+    "opciones": ["Medir temperatura", "Abrir tejidos", "Cauterizar", "Suturar"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué instrumento ves en la imagen?",
+    "imagen": "imagenes/bisturi.jpg",
+    "opciones": ["Tijera de Mayo", "Pinza de Kocher", "Bisturí", "Separador automático"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué se debe hacer antes de colocar una bata estéril?",
+    "opciones": ["Tomar café", "Lavarse las manos con técnica quirúrgica", "Hablar por celular", "Cerrar puertas"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué instrumento permite sujetar campos quirúrgicos?",
+    "opciones": ["Pinza Backhaus", "Pinza de Allis", "Pinza Kelly", "Tijera recta"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué instrumento es este?",
+    "imagen": "imagenes/pinza-backhaus.jpg",
+    "opciones": ["Pinza de Allis", "Pinza Backhaus", "Separador Farabeuf", "Pinza Doyen"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de tijera se usa comúnmente para cortar suturas?",
+    "opciones": ["Tijera de Mayo", "Tijera de costura", "Tijera de Metzembaum", "Tijera curva"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál es la función del antiséptico en cirugía?",
+    "opciones": ["Perfumar", "Limpiar la sala", "Reducir la carga bacteriana en la piel", "Hidratar la herida"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué instrumento se utiliza para cortar suturas durante una cirugía?",
+    "opciones": ["Tijera de curación", "Tijera de Metzenbaum", "Tijera de Mayo", "Tijera de papelería"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes instrumentos se considera punzocortante y requiere manejo especial?",
+    "opciones": ["Bisturí", "Algodón", "Guantes", "Gasas"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Para qué se usa el campo quirúrgico?",
+    "opciones": ["Cubrir al paciente durante la cirugía", "Secar la piel", "Limpiar la sala", "Limpiar instrumentos"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué material se utiliza para sujetar campos estériles?",
+    "opciones": ["Alambre", "Pinza Backhaus", "Cinta adhesiva", "Mano enguantada"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué se debe hacer antes de entregar un instrumento al cirujano?",
+    "opciones": ["Soplarlo", "Ponerlo en la mesa", "Asegurar que esté estéril y presentarlo correctamente", "Guardarlo en un cajón"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué instrumento quirúrgico permite realizar cortes en tejidos más resistentes?",
+    "opciones": ["Pinza Allis", "Tijera de Mayo", "Portaagujas", "Pinza Kelly"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué acción invalida la esterilidad de un paquete quirúrgico?",
+    "opciones": ["Guardarlo en estantería limpia", "Exponerlo a la luz solar", "Tocar su interior con guantes sucios", "Colocarlo en bolsa estéril"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es el uso principal de una jeringa en procedimientos clínicos?",
+    "opciones": ["Pintar vendajes", "Administrar medicamentos o extraer fluidos", "Abrir heridas", "Rasurar zonas quirúrgicas"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de material quirúrgico es el bisturí?",
+    "opciones": ["No cortante", "De sutura", "Instrumento punzocortante", "Material de curación"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué hace el instrumental quirúrgico llamado 'separador'?",
+    "opciones": ["Sujeta vendas", "Cierra heridas", "Separa estructuras anatómicas para una mejor visibilidad", "Mide la presión"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tipo de esterilización es más común para instrumental quirúrgico metálico?",
+    "opciones": ["Luz solar", "Alcohol", "Ebullición", "Autoclave a vapor"],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Cuál de estos instrumentos se utiliza para sujetar tejidos durante una cirugía?",
+    "opciones": ["Pinza de Allis", "Pinza mosquito", "Tijera de curación", "Termómetro"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué se debe verificar antes de utilizar un bisturí?",
+    "opciones": ["Que esté frío", "Que no tenga filo", "Que esté limpio y correctamente ensamblado", "Que tenga mango de madera"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué se hace con los instrumentos usados después de una cirugía?",
+    "opciones": ["Se guardan", "Se desechan", "Se lavan, desinfectan y esterilizan", "Se prestan a otro paciente"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la función del campo estéril durante una cirugía?",
+    "opciones": ["Mantener un área limpia", "Cubrir el instrumental", "Evitar la contaminación de la zona quirúrgica", "Servir de mesa auxiliar"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tipo de pinza se utiliza para detener sangrados en pequeños vasos?",
+    "opciones": ["Pinza de campo", "Pinza mosquito", "Separador", "Pinza Doyen"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué se debe hacer si un instrumento cae al suelo durante una cirugía?",
+    "opciones": ["Usarlo rápidamente", "Limpiarlo con una gasa", "Desecharlo y reemplazarlo por uno estéril", "Pedir que lo limpien"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué característica tienen los guantes quirúrgicos estériles?",
+    "opciones": ["Son de tela", "Son reutilizables", "Se abren con técnica estéril y son de un solo uso", "Son de goma gruesa"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué instrumento se usa para cortar tejido blando superficial?",
+    "opciones": ["Pinza Allis", "Tijera Metzenbaum", "Tijera de cirugía curva", "Separador Gosset"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes es un instrumento de sujeción y no de corte?",
+    "opciones": ["Bisturí", "Tijera recta", "Pinza de Kocher", "Tijera de Mayo"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué debe hacer un auxiliar al entregar el instrumental a esterilización?",
+    "opciones": ["Lavar y secar bien antes", "Sumergir en alcohol", "Guardar en bolsa negra", "Desinfectar con cloro directo"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo del conteo de gasas antes y después de una cirugía?",
+    "opciones": ["Evitar pérdidas de materiales", "Evitar dejar gasas dentro del paciente", "Asegurar limpieza", "Contabilizar costos"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué elemento quirúrgico se desecha en el recipiente de objetos punzantes?",
+    "opciones": ["Algodón", "Gasas", "Bisturí usado", "Guantes"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué debe contener una bandeja básica de cirugía menor?",
+    "opciones": [
+      "Algodón, vendas, analgésico",
+      "Pinzas, tijeras, portaagujas, campo estéril",
+      "Estetoscopio, termómetro",
+      "Jeringa, comida, gasas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué se debe evitar al manipular campos estériles?",
+    "opciones": [
+      "Mantenerlos abiertos",
+      "Que entren en contacto con superficies contaminadas",
+      "Poner etiquetas",
+      "Guardar en cajas metálicas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué instrumento quirúrgico aparece en esta imagen?",
+    "imagen": "imagenes/pinza-mosquito.jpg",
+    "opciones": ["Pinza de Kelly", "Pinza mosquito", "Tijera recta", "Portaagujas"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué se debe verificar antes de usar instrumental quirúrgico esterilizado?",
+    "opciones": [
+      "Que tenga la marca de agua",
+      "Que no esté vencido y su empaque esté íntegro",
+      "Que huela a alcohol",
+      "Que tenga etiqueta blanca"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué debe usarse para recoger bisturís, agujas o pinzas usadas?",
+    "opciones": ["Papel periódico", "Contenedor rígido y rotulado para punzocortantes", "Caja de cartón", "Bolsa de basura común"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué herramienta se usa para sujetar vísceras sin dañar tejidos?",
+    "opciones": ["Pinza de Backhaus", "Pinza Doyen", "Tijera de Mayo", "Separador de Farabeuf"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué instrumento quirúrgico se muestra en la imagen?",
+    "imagen": "imagenes/pinza-doyen.jpg",
+    "opciones": ["Pinza Doyen", "Pinza Kocher", "Tijera curva", "Portaagujas Mayo"],
+    "correcta": 0
+  }
+],
+  "intermedio": 
+[
+{
+    "pregunta": "¿Cuál es la diferencia principal entre la pinza Kelly y la pinza Mosquito?",
+    "opciones": [
+      "La Mosquito es más grande",
+      "La Kelly es más fina",
+      "La Kelly es más larga y se usa en vasos mayores",
+      "No existe diferencia"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es el uso del separador de Weitlaner?",
+    "opciones": [
+      "Separar huesos",
+      "Separar músculos y tejidos en procedimientos prolongados",
+      "Cortar tejido fibroso",
+      "Sujetar gasas estériles"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué nombre recibe este instrumento quirúrgico autoestático?",
+    "imagen": "imagenes/separador-weitlaner.jpg",
+    "opciones": [
+      "Separador de Farabeuf",
+      "Separador de Gosset",
+      "Separador de Weitlaner",
+      "Separador de Balfour"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la utilidad del separador de Gosset?",
+    "opciones": [
+      "Estabilizar articulaciones",
+      "Separar cavidad abdominal en cirugía",
+      "Pinzar arterias grandes",
+      "Suturar tejido blando"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué se debe hacer si se sospecha que un instrumental no está completamente estéril?",
+    "opciones": [
+      "Usarlo rápidamente",
+      "Aplicarle alcohol",
+      "Reemplazarlo por uno confirmado estéril",
+      "Sumergirlo en agua caliente"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tipo de cuchilla se usa generalmente para incisión quirúrgica en pequeños animales?",
+    "opciones": ["#10", "#11", "#22", "#24"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué pinza se utiliza para sostener tejido firme o aponeurosis durante cirugía?",
+    "opciones": ["Pinza Allis", "Pinza Kocher", "Pinza Doyen", "Pinza de campo"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué nombre tiene el instrumento mostrado?",
+    "imagen": "imagenes/pinza-kocher.jpg",
+    "opciones": [
+      "Pinza Doyen",
+      "Pinza Allis",
+      "Pinza Kocher",
+      "Pinza Backhaus"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia entre un portaagujas de Mayo y uno de Olsen-Hegar?",
+    "opciones": [
+      "El Mayo es curvo, el Olsen es recto",
+      "El Olsen-Hegar tiene tijera incorporada",
+      "El Mayo es desechable",
+      "El Olsen se usa solo en bovinos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué característica tiene una sutura absorbible?",
+    "opciones": [
+      "Debe ser retirada manualmente",
+      "No es usada en tejidos internos",
+      "Se degrada naturalmente en el cuerpo",
+      "Es visible bajo rayos X"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tipo de aguja quirúrgica se recomienda para tejidos delicados?",
+    "opciones": ["Aguja traumática", "Aguja de punta cortante", "Aguja redonda", "Aguja de hueso"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la función del campo fenestrado?",
+    "opciones": [
+      "Decorativo",
+      "Cubrir al animal entero",
+      "Permitir la exposición del sitio quirúrgico manteniendo el resto estéril",
+      "Sirve para abrigar al paciente"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es el orden correcto de colocación del instrumental en una bandeja quirúrgica?",
+    "opciones": [
+      "Desordenado pero limpio",
+      "Agrupado por función: corte, sujeción, separación, sutura",
+      "Por color",
+      "Según el tamaño"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué componente del instrumental puede fallar si se expone repetidamente a corrosión?",
+    "opciones": ["Filo", "Empuñadura", "Sistema de cierre", "Todas las anteriores"],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué pinza tiene dientes que permiten sujetar tejido firme sin resbalar?",
+    "opciones": ["Pinza de Doyen", "Pinza Kocher", "Pinza de campo", "Separador Gosset"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué instrumento se muestra en esta imagen?",
+    "imagen": "imagenes/portaagujas-olsen.jpg",
+    "opciones": ["Portaagujas Mayo", "Portaagujas Olsen-Hegar", "Pinza Allis", "Separador Balfour"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de esterilización se recomienda para materiales termo sensibles como plásticos?",
+    "opciones": [
+      "Autoclave",
+      "Radiación gamma",
+      "Óxido de etileno",
+      "Ebullición prolongada"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué técnica permite asegurar la esterilidad de un instrumental antes de cirugía?",
+    "opciones": [
+      "Guardarlo en alcohol",
+      "Sellado, esterilización y validación con indicador químico",
+      "Colocarlo en toalla limpia",
+      "Lavar con agua caliente"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué instrumental quirúrgico tiene una curvatura diseñada para evitar traumatismo en intestino?",
+    "opciones": [
+      "Pinza Doyen",
+      "Separador Farabeuf",
+      "Tijera de Mayo",
+      "Portaagujas Mayo"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué tipo de material se utiliza habitualmente para suturas absorbibles?",
+    "opciones": [
+      "Nylon",
+      "Polipropileno",
+      "Catgut o ácido poliglicólico",
+      "Algodón"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tipo de desinfectante se recomienda para material quirúrgico tras el lavado inicial?",
+    "opciones": [
+      "Alcohol 70%",
+      "Hipoclorito de sodio",
+      "Glutaraldehído o desinfectante de alto nivel",
+      "Yodo povidona"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué instrumento permite realizar presión y corte en tejidos fibrosos durante cirugía abdominal?",
+    "opciones": ["Tijera de Mayo", "Tijera Metzenbaum", "Pinza Backhaus", "Separador Gosset"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué acción compromete la esterilidad del campo quirúrgico?",
+    "opciones": [
+      "Tocar el campo con guantes estériles",
+      "Ajustar el foco con la mano estéril",
+      "Pasar instrumental sobre el campo sin contacto",
+      "Colocar gasas con pinza estéril"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué característica tiene la pinza Doyen que la hace ideal para manipular intestino?",
+    "opciones": [
+      "Dientes prominentes",
+      "Curva delicada y atraumática",
+      "Filo cortante interno",
+      "Recubrimiento plástico"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de bisturí permite incisiones precisas en tejidos blandos?",
+    "opciones": ["Bisturí eléctrico", "Cuchilla #10", "Tijera de cirugía", "Cauterio térmico"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué se evalúa antes de usar instrumental esterilizado en quirófano?",
+    "opciones": [
+      "Brillo del metal",
+      "Aroma a desinfectante",
+      "Integridad del empaque y color del indicador químico",
+      "Color del mango"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué es una bandeja Mayo?",
+    "opciones": [
+      "Una bandeja para alimentos quirúrgicos",
+      "Una mesa móvil para apoyar instrumental durante la cirugía",
+      "Un tipo de portaagujas",
+      "Un campo estéril específico"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué estructura NO debe tocarse con instrumental contaminado?",
+    "opciones": ["Campo estéril", "Guantes del auxiliar", "Zona quirúrgica abierta", "Cualquier opción anterior"],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué material se debe utilizar para envolver el instrumental previo a la esterilización?",
+    "opciones": ["Tela quirúrgica o papel grado médico", "Papel periódico", "Cartón reciclado", "Toallas húmedas"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué se debe verificar al colocar una sonda endotraqueal?",
+    "opciones": [
+      "Color de la sonda",
+      "Presión del globo y colocación en tráquea",
+      "Longitud exacta",
+      "Temperatura del paciente"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué indica un indicador químico que no cambió de color tras autoclave?",
+    "opciones": [
+      "La esterilización fue exitosa",
+      "Fallo en el proceso de esterilización",
+      "La bolsa se contaminó",
+      "La temperatura fue demasiado alta"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de guantes deben usarse durante la manipulación de instrumental estéril?",
+    "opciones": ["De jardinería", "Guantes quirúrgicos estériles", "Guantes de nitrilo sin esterilizar", "Manos desnudas"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué complicación puede presentarse si se reutiliza instrumental sin una correcta esterilización?",
+    "opciones": [
+      "Daño mecánico",
+      "Transmisión de infecciones cruzadas",
+      "Ruido en sala de cirugía",
+      "Gasto en material de limpieza"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué instrumental puede dañarse por una esterilización excesiva sin secado correcto?",
+    "opciones": ["Plásticos quirúrgicos", "Instrumental de acero inoxidable", "Campos estériles", "Suturas absorbibles"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes instrumentos se clasifica como hemostático?",
+    "opciones": ["Tijera recta", "Pinza Kelly", "Separador Gosset", "Portaagujas Mayo"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué precaución se debe tener al utilizar un separador autoestático como el Balfour?",
+    "opciones": [
+      "Aplicarlo sin anestesia",
+      "No fijarlo con exceso de presión para evitar daño tisular",
+      "Usarlo en cavidad torácica",
+      "Sujetar los intestinos con fuerza"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de cierre tienen las pinzas quirúrgicas para mantenerlas fijas al sujetar tejidos?",
+    "opciones": ["Cierre magnético", "Cierre de trinquete o cremallera", "Gancho lateral", "Sistema automático"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué instrumento se usa para controlar sangrados en cirugía ósea?",
+    "opciones": ["Tijera de Metzembaum", "Cera hemostática", "Pinza Kocher", "Campo estéril"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué se debe hacer antes de entregar el instrumental al cirujano?",
+    "opciones": [
+      "Soplarlo para secarlo",
+      "Desinfectarlo con alcohol",
+      "Verificar nombre y función del instrumento, posición segura de entrega y mantener esterilidad",
+      "Pasarlo por debajo del campo"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tamaño de cuchilla se utiliza habitualmente en cirugía de tejidos finos en animales pequeños?",
+    "opciones": ["#10", "#11", "#22", "#15"],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué nombre recibe el instrumento que combina portaagujas con tijera integrada?",
+    "opciones": ["Portaagujas de Mayo", "Pinza Kelly", "Olsen-Hegar", "Kocher"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué estructura permite que los campos quirúrgicos permanezcan fijos durante el procedimiento?",
+    "opciones": ["Pinzas Backhaus", "Gasas", "Tijeras rectas", "Pinzas de Allis"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué temperatura y presión son estándar para la esterilización por vapor en autoclave?",
+    "opciones": [
+      "120°C a 15 psi por 15–30 minutos",
+      "70°C a 10 psi por 5 minutos",
+      "100°C a 30 psi por 10 minutos",
+      "160°C a 2 psi por 2 horas"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué tipo de pinzas se utilizan para sostener tejidos intestinales sin dañarlos?",
+    "opciones": ["Kocher", "Mosquito", "Doyen", "Backhaus"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué instrumento se muestra en esta imagen?",
+    "imagen": "imagenes/separador-gosset.jpg",
+    "opciones": ["Separador de Farabeuf", "Separador de Gosset", "Separador Balfour", "Pinza Allis"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué práctica es correcta al preparar instrumental para cirugía mayor?",
+    "opciones": [
+      "Usar cajas improvisadas",
+      "Mezclar materiales limpios con esterilizados",
+      "Etiquetar bandejas, verificar fecha de esterilización y agrupar por procedimiento",
+      "Colocar todo en una bolsa sin nombre"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué indicador químico externo se utiliza en bolsas de esterilización?",
+    "opciones": [
+      "Etiqueta adhesiva blanca",
+      "Tira de aluminio",
+      "Cinta con líneas que cambian de color",
+      "Rotulador permanente"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia principal entre una tijera de Mayo y una de Metzembaum?",
+    "opciones": [
+      "La Metzembaum es para tejidos más delicados y tiene hojas más finas y curvas",
+      "La Mayo tiene mango más corto",
+      "La Metzembaum es para cortar hueso",
+      "La Mayo no tiene filo"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué debe hacerse con las pinzas articuladas antes de esterilizarlas?",
+    "opciones": [
+      "Engrasarlas",
+      "Cerrarlas completamente",
+      "Abrirlas parcialmente para permitir la penetración del vapor",
+      "Sumergirlas en cloro"
+    ],
+    "correcta": 2
+  }  
+],
+  "difícil": 
+[
+  {
+    "pregunta": "¿Qué instrumental permite realizar tracción de tejidos profundos sin la asistencia de otro operador?",
+    "opciones": [
+      "Separador Farabeuf",
+      "Separador Gosset",
+      "Separador Balfour",
+      "Pinza Allis"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué instrumento se muestra en la imagen?",
+    "imagen": "imagenes/separador-balfour.jpg",
+    "opciones": [
+      "Separador de Weitlaner",
+      "Separador de Farabeuf",
+      "Separador de Balfour",
+      "Separador de Gosset"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia principal entre una sutura monofilamento y una multifilamento?",
+    "opciones": [
+      "La monofilamento tiene más elasticidad",
+      "La multifilamento retiene más bacterias entre filamentos",
+      "La monofilamento no requiere aguja",
+      "La multifilamento es absorbible"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de aguja es preferida para tejidos friables como el hígado?",
+    "opciones": ["Cortante", "Triangular", "Cónica", "Redonda atraumática"],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué complicación puede ocurrir si no se aplica presión adecuada con pinzas hemostáticas?",
+    "opciones": [
+      "Sutura mal colocada",
+      "Necrosis tisular por exceso de presión o hemorragia por presión insuficiente",
+      "Corte accidental del tejido",
+      "Fractura de hueso"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué cuchilla es más adecuada para incisiones finas y puntiformes como en abscesos?",
+    "opciones": ["#10", "#11", "#15", "#24"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué técnica garantiza la esterilización de instrumental de acero inoxidable con cavidades internas?",
+    "opciones": [
+      "Ebullición por 10 minutos",
+      "Luz ultravioleta directa",
+      "Autoclave con ciclo largo y envoltura permeable",
+      "Desinfección con alcohol absoluto"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tipo de error es más grave al montar una bandeja quirúrgica?",
+    "opciones": [
+      "Dejar una pinza cerrada",
+      "Incluir material sin esterilizar por accidente",
+      "Usar papel azul en lugar de tela verde",
+      "Colocar tijeras al final de la bandeja"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la función de los resortes en los separadores autoestáticos?",
+    "opciones": [
+      "Decoración",
+      "Dar elasticidad al mango",
+      "Permitir mantener tejidos separados sin ayuda adicional",
+      "Aliviar la presión"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué procedimiento previo debe realizarse siempre antes de empaquetar instrumental quirúrgico para esterilizar?",
+    "opciones": [
+      "Desinfectarlo con alcohol",
+      "Aplicar iodopovidona",
+      "Cepillado, limpieza ultrasónica si es posible y secado completo",
+      "Sumergirlo en solución salina"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué instrumento se muestra en esta imagen?",
+    "imagen": "imagenes/aguja-traumatica.jpg",
+    "opciones": [
+      "Aguja de hueso",
+      "Aguja cónica",
+      "Aguja traumática de punta cortante",
+      "Aguja romboidal"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué estructura instrumental permite mantener alineación precisa durante sutura continua?",
+    "opciones": [
+      "Portaagujas",
+      "Pinza Kocher",
+      "Traba de aguja autoclavable",
+      "Sistema de cremallera del portaagujas"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué pinza se usa para fijar paños quirúrgicos al paciente?",
+    "opciones": ["Pinza Allis", "Pinza Backhaus", "Pinza Kocher", "Pinza Doyen"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué ventaja tiene una sutura de ácido poliglicólico sobre el catgut cromado?",
+    "opciones": [
+      "Mayor reabsorción",
+      "Menor fuerza tensil",
+      "No produce reacción tisular significativa",
+      "Es más económica"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué instrumento es este?",
+    "imagen": "imagenes/portaagujas-mayo.jpg",
+    "opciones": [
+      "Separador Gosset",
+      "Portaagujas de Mayo",
+      "Pinza Doyen",
+      "Portaagujas Olsen-Hegar"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes instrumentos se considera de mayor riesgo de contaminación cruzada si no se limpia bien?",
+    "opciones": [
+      "Tijera curva",
+      "Separador Balfour",
+      "Pinza Kocher",
+      "Portaagujas con bisagra y estrías internas"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué método adicional se utiliza para asegurar la esterilización de instrumental con lúmenes (canales internos)?",
+    "opciones": [
+      "Agua destilada",
+      "Técnica de Bowie-Dick",
+      "Ciclo de pulso por presión y vacío en autoclave",
+      "Ebullición doble"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tipo de punto de sutura es ideal para cierre de cavidad abdominal?",
+    "opciones": ["Sutura en bolsa de tabaco", "Sutura en cruz", "Sutura continua simple", "Sutura cruciforme"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué instrumento se utiliza para realizar cirugía de osteotomía controlada?",
+    "opciones": ["Separador Gosset", "Tijera Metzenbaum", "Cincel ortopédico y martillo", "Bisturí eléctrico"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué puede causar una esterilización mal controlada con óxido de etileno?",
+    "opciones": [
+      "Esterilización parcial",
+      "Toxicidad residual en instrumentos",
+      "Contaminación por vapor",
+      "Cambio de color en campos quirúrgicos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué técnica se utiliza para evitar que el instrumental articulado dañe sus juntas durante la esterilización?",
+    "opciones": [
+      "Cerrarlos herméticamente",
+      "Sumergir en solución salina",
+      "Dejarlos entreabiertos o desbloqueados",
+      "Empacarlos con toalla húmeda"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué se evalúa con los indicadores biológicos en procesos de esterilización?",
+    "opciones": [
+      "Color del empaque",
+      "Temperatura final",
+      "Presencia o ausencia de microorganismos vivos tras proceso",
+      "Tiempo de exposición"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tipo de sutura se prefiere en cirugías gastrointestinales?",
+    "opciones": [
+      "Monofilamento absorbible",
+      "Catgut simple",
+      "Seda no absorbible",
+      "Acero quirúrgico"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué instrumento puede ocasionar aplastamiento excesivo si se aplica sin control?",
+    "opciones": ["Portaagujas", "Pinza de Doyen", "Pinza Kocher", "Pinza Mosquito"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué maniobra se realiza para identificar correctamente el instrumental en bandejas grandes?",
+    "opciones": [
+      "Separar por colores",
+      "Agrupar por orden de uso y función",
+      "Ordenar por marca del fabricante",
+      "Colocar todos juntos en un solo paquete"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué herramienta permite realizar incisiones en tejidos densos como cartílago o fascia gruesa?",
+    "opciones": ["Tijera de cirugía", "Bisturí eléctrico", "Cuchilla 22", "Tijera de Metzenbaum"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué instrumento quirúrgico ves en esta imagen?",
+    "imagen": "imagenes/cuchilla-22.jpg",
+    "opciones": ["Cuchilla #10", "Cuchilla #11", "Cuchilla #15", "Cuchilla #22"],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué característica permite diferenciar un separador Gosset de uno Balfour?",
+    "opciones": [
+      "El Gosset es autoestático sin anclaje al borde",
+      "El Balfour es curvo y se ancla con resortes laterales",
+      "Ambos son iguales",
+      "El Gosset es eléctrico"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la consecuencia de una mala limpieza en una pinza con estrías profundas?",
+    "opciones": [
+      "Reacción alérgica",
+      "Infección cruzada por residuos",
+      "Pérdida de fuerza tensil",
+      "Aumento del brillo metálico"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué nombre recibe esta pinza utilizada para sujetar piel o fascia resistente?",
+    "imagen": "imagenes/pinza-kocher.jpg",
+    "opciones": ["Pinza de Allis", "Pinza Kocher", "Pinza de campo", "Pinza Mosquito"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de corte ofrece una cuchilla número 10?",
+    "opciones": [
+      "Corte recto y fino",
+      "Corte curvo amplio para incisiones grandes",
+      "Corte puntiagudo para punciones",
+      "Corte circular"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué maniobra es útil para comprobar si un instrumento articulado quedó mal ensamblado tras limpieza?",
+    "opciones": [
+      "Verificar movilidad y alineación bajo luz directa",
+      "Probarlo en una cirugía",
+      "Golpearlo con martillo",
+      "Agitarlo en agua destilada"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál es el riesgo de no revisar el indicador de temperatura del autoclave tras cada ciclo?",
+    "opciones": [
+      "Contaminación del quirófano",
+      "Uso de instrumental no estéril en cirugía",
+      "Ruptura de bandejas metálicas",
+      "Pérdida de filo del bisturí"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de corte se utiliza para seccionar músculo durante laparotomías?",
+    "opciones": [
+      "Corte transverso con tijera Mayo",
+      "Corte con bisturí #15",
+      "Incisión en cruz",
+      "Abrasión controlada"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué debe hacerse con bisturís descartables tras su uso?",
+    "opciones": [
+      "Reutilizarlos tras lavado",
+      "Descartarlos en contenedor de punzocortantes",
+      "Romperlos y tirarlos al basurero",
+      "Envolverlos en gasa y guardar"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué medida debe tener la bolsa de esterilización para un portaagujas?",
+    "opciones": [
+      "Debe permitir libre movimiento sin forzarlo",
+      "Debe quedar completamente ajustada",
+      "Debe ser del tamaño exacto sin aire",
+      "Debe exceder en 10 cm el tamaño del instrumento"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué reacción se considera indeseable tras uso de sutura no absorbible en tejidos profundos?",
+    "opciones": [
+      "Regeneración rápida",
+      "Extrusión del material a través de piel o fístulas",
+      "Hiperpigmentación",
+      "Inflamación inicial"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué factor puede interferir en la efectividad del óxido de etileno como agente esterilizante?",
+    "opciones": [
+      "Temperatura ambiente",
+      "Humedad relativa",
+      "Tipo de envoltorio",
+      "Todos los anteriores"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué instrumento requiere inspección especial de sus dientes para asegurar integridad antes del uso?",
+    "opciones": ["Pinza Kelly", "Separador de Farabeuf", "Pinza Kocher", "Tijera recta"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de esta cuchilla quirúrgica con punta recta y afilada para incisiones precisas?",
+    "imagen": "imagenes/cuchilla-11.jpg",
+    "opciones": ["Cuchilla #10", "Cuchilla #15", "Cuchilla #11", "Cuchilla #24"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué debe hacerse si el autoclave marca temperatura incompleta tras un ciclo?",
+    "opciones": [
+      "Repetir el ciclo completo con nueva carga",
+      "Abrir y dejar secar",
+      "Cerrar y volver a calentar",
+      "Guardar los paquetes en refrigeración"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál es el riesgo de esterilizar instrumental oxidado?",
+    "opciones": [
+      "La oxidación se detiene",
+      "Puede afectar el resto del instrumental",
+      "Mejora la conductividad",
+      "El óxido es estéril"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué cuchilla se recomienda para pequeñas incisiones en tejidos blandos como piel en gatos?",
+    "opciones": ["#10", "#11", "#15", "#24"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tipo de esterilización permite reutilizar dispositivos termo sensibles sin daño?",
+    "opciones": [
+      "Autoclave a vapor",
+      "Radiación gamma",
+      "Óxido de etileno",
+      "Agua hirviendo con sal"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué separador quirúrgico ves en esta imagen?",
+    "imagen": "imagenes/separador-balfour.jpg",
+    "opciones": ["Separador Gosset", "Separador Balfour", "Separador de Farabeuf", "Separador de Weitlaner"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué parámetro debe verificarse en cada ciclo de esterilización química?",
+    "opciones": [
+      "Fecha de vencimiento del empaque",
+      "Marca del desinfectante",
+      "Concentración del agente y tiempo de exposición",
+      "Color del envase"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué estructura metálica con mango curvo se utiliza para procedimientos de separación profunda?",
+    "opciones": ["Separador de Farabeuf", "Bisturí", "Separador Balfour", "Cureta recta"],
+    "correcta": 2
+  }
+  ],
+  "avanzado":
+[
+  {
+    "pregunta": "¿Qué material quirúrgico debe emplearse para osteosíntesis en fracturas complejas?",
+    "opciones": [
+      "Agujas hipodérmicas",
+      "Suturas absorbibles",
+      "Placas, tornillos y clavos ortopédicos",
+      "Portaagujas de acero"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la principal función del separador de Balfour en cirugías abdominales complejas?",
+    "opciones": [
+      "Evitar hemorragias",
+      "Estabilizar tejidos duros",
+      "Mantener la cavidad abierta sin ayuda manual",
+      "Cortar vísceras"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué riesgo implica reutilizar suturas absorbibles que han sido abiertas y reempaquetadas?",
+    "opciones": [
+      "Reacción alérgica",
+      "Infección por contaminación",
+      "Pérdida de tensión de la sutura",
+      "Todas las anteriores"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué nombre recibe este sistema de sujeción quirúrgica de alto poder de tracción?",
+    "imagen": "imagenes/pinza-rochester.jpg",
+    "opciones": [
+      "Pinza mosquito",
+      "Pinza de Allis",
+      "Pinza Rochester-Carmalt",
+      "Separador Gosset"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es el riesgo de utilizar bisturís con filo deteriorado?",
+    "opciones": [
+      "Corte impreciso y desgarros en tejidos",
+      "Infección bacteriana inmediata",
+      "Transferencia de electrolitos",
+      "Mayor precisión en incisión"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué función cumple el separador de Finochietto?",
+    "opciones": [
+      "Separar vísceras pequeñas",
+      "Expandir costillas durante toracotomías",
+      "Sujetar intestino delgado",
+      "Separar campos estériles"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de cuchilla es más adecuada para incisiones curvas amplias?",
+    "opciones": ["#10", "#11", "#15", "#22"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué maniobra puede asegurar una correcta presión en el cierre de hemostasia profunda?",
+    "opciones": [
+      "Ligadura doble y presión directa con pinza Kocher",
+      "Sutura sin revisión",
+      "Uso de alcohol y gasas",
+      "Aplicación de gasa seca"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué instrumento es ideal para sujeción de tejidos duros o tendones durante cirugía ortopédica?",
+    "opciones": [
+      "Pinza de campo",
+      "Pinza Backhaus",
+      "Pinza Kocher",
+      "Separador de Farabeuf"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué instrumento se observa en la imagen?",
+    "imagen": "imagenes/separador-finochietto.jpg",
+    "opciones": [
+      "Separador de Balfour",
+      "Separador de Finochietto",
+      "Separador de Gosset",
+      "Separador de Weitlaner"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué parámetro fisiológico puede alterarse si el instrumental quirúrgico está mal balanceado?",
+    "opciones": [
+      "Frecuencia respiratoria",
+      "Tiempo de sangrado",
+      "Presión sobre tejidos blandos, generando necrosis",
+      "Coloración mucosa"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tipo de material se recomienda para suturas en cirugía cardiovascular veterinaria?",
+    "opciones": ["Seda", "Poliéster trenzado", "Polipropileno monofilamento", "Catgut cromado"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué medida de esterilización debe tenerse con instrumental articulado complejo (como portaagujas con traba)?",
+    "opciones": [
+      "Sumergir solo en alcohol",
+      "Lubricar antes de esterilizar",
+      "Esterilizar completamente abierto con cepillado previo",
+      "No se esterilizan"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué se debe hacer si durante la cirugía un instrumento cae sobre campo estéril contaminado?",
+    "opciones": [
+      "Limpiarlo con antiséptico",
+      "Pedir uno nuevo estéril",
+      "Soplarlo y usarlo",
+      "Dejarlo reposar"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué instrumento muestra la imagen?",
+    "imagen": "imagenes/pinza-foerster.jpg",
+    "opciones": [
+      "Pinza de Allis",
+      "Pinza Foerster",
+      "Pinza Kocher",
+      "Pinza Mosquito"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de esterilización garantiza la eliminación de esporas bacterianas?",
+    "opciones": ["Alcohol absoluto", "Ebullición", "Autoclave a vapor presurizado", "Solución salina"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué complicación puede surgir si el bisturí eléctrico se usa sin control de potencia?",
+    "opciones": [
+      "Corte estético",
+      "Carbonización excesiva y daño tisular",
+      "Curación acelerada",
+      "Reducción de dolor"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué instrumento es usado para sujetar órganos sin dañarlos durante cirugía abdominal?",
+    "opciones": ["Pinza Doyen", "Pinza Kelly", "Pinza Kocher", "Portaagujas"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué tipo de aguja se prefiere en cirugía oftálmica?",
+    "opciones": ["Cónica", "Triangular", "Aguja de microcirugía curva", "Redonda gruesa"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tipo de pinza se ve en la imagen?",
+    "imagen": "imagenes/pinza-crile.jpg",
+    "opciones": [
+      "Pinza Crile",
+      "Pinza Kelly",
+      "Pinza Backhaus",
+      "Pinza Rochester"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué maniobra se emplea para asegurar el sellado del campo estéril durante una cirugía prolongada?",
+    "opciones": [
+      "Uso de cinta no adhesiva",
+      "Reposición del campo cada 15 minutos",
+      "Reaplicación con pinzas de campo estériles",
+      "Uso de toallas quirúrgicas dobladas"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué factor puede interferir en la efectividad de la esterilización en autoclave?",
+    "opciones": [
+      "Humedad elevada",
+      "Presión atmosférica externa",
+      "Carga excesiva y empaques mal dispuestos",
+      "Color del envoltorio"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es el procedimiento correcto si una traba de portaagujas está trabada tras la esterilización?",
+    "opciones": [
+      "Forzar la apertura",
+      "Lubricar con cloro",
+      "Revisar y liberar con técnica estéril adecuada",
+      "Romper la traba"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué material quirúrgico NO debe utilizarse en cavidad abdominal si no es absorbible?",
+    "opciones": ["Nylon", "Polipropileno", "Seda trenzada", "Catgut cromado"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué cuchilla es más indicada para incisiones quirúrgicas en articulaciones pequeñas?",
+    "opciones": ["#10", "#15", "#24", "#11"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué estructura es crítica en el diseño del portaagujas para microcirugía?",
+    "opciones": [
+      "Mango antideslizante",
+      "Sistema de trinquete suave",
+      "Punta de carburo de tungsteno",
+      "Color metálico específico"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué riesgo existe al usar campos quirúrgicos con filtraciones?",
+    "opciones": [
+      "Reducción de luz",
+      "Contaminación de cavidad",
+      "Falla en monitor de signos vitales",
+      "Aumento de presión intraabdominal"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué elemento del instrumental quirúrgico debe revisarse con lupa previo a cirugía ocular?",
+    "opciones": [
+      "Tijeras rectas",
+      "Pinzas de disección",
+      "Portaagujas de microcirugía",
+      "Separadores ortopédicos"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué significa que un bisturí tenga hoja biselada?",
+    "opciones": [
+      "Tiene dos filos cruzados",
+      "Tiene filo en forma de U",
+      "Posee un filo lateral inclinado que mejora la precisión",
+      "Es hueco por dentro"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué pinza hemostática ves en esta imagen?",
+    "imagen": "imagenes/pinza-halsted.jpg",
+    "opciones": ["Pinza Kocher", "Pinza Halsted Mosquito", "Pinza Crile", "Pinza Rochester"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué aspecto es esencial en la técnica de entrega de instrumental estéril durante cirugía?",
+    "opciones": [
+      "Velocidad",
+      "Precisión y evitar contacto fuera del campo estéril",
+      "Tener guantes mojados",
+      "Que el mango sea visible"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la temperatura ideal de esterilización en autoclave para instrumental metálico pesado?",
+    "opciones": ["121 °C", "134 °C", "100 °C", "90 °C"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué se observa en esta imagen?",
+    "imagen": "imagenes/aguja-cirugia-micro.jpg",
+    "opciones": [
+      "Aguja romboidal",
+      "Aguja de hueso",
+      "Aguja curva de microcirugía",
+      "Aguja desechable común"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes errores puede generar necrosis por presión en tejidos suturados?",
+    "opciones": [
+      "Sutura insuficiente",
+      "Nudos excesivamente apretados",
+      "Uso de catgut",
+      "Cierre en doble plano"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué componente del bisturí se debe revisar antes de armarlo?",
+    "opciones": [
+      "Longitud del mango",
+      "Lubricación del filo",
+      "Acople firme entre hoja y mango",
+      "Color metálico"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué instrumento es más usado en cirugía de tejidos profundos con acceso restringido?",
+    "opciones": [
+      "Portaagujas Olsen-Hegar",
+      "Separador de Balfour",
+      "Tijera Metzenbaum curva larga",
+      "Pinza Backhaus"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tipo de guante debe usarse para manipular instrumental estéril por más de 2 horas?",
+    "opciones": [
+      "Doble guante estéril",
+      "Guante de látex común",
+      "Guante de nitrilo no estéril",
+      "Sin guantes"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué instrumento aparece en esta imagen?",
+    "imagen": "imagenes/tijera-metzenbaum-curva.jpg",
+    "opciones": [
+      "Tijera Metzenbaum curva",
+      "Tijera Mayo recta",
+      "Tijera de disección",
+      "Pinza Allis"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué factor influye en la pérdida de filo de bisturís reutilizables?",
+    "opciones": [
+      "Lavado manual incorrecto",
+      "Exposición a luz solar",
+      "Uso en piel pigmentada",
+      "Contacto con acero quirúrgico"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué tipo de material es más indicado para campos quirúrgicos reutilizables?",
+    "opciones": [
+      "Algodón 100%",
+      "Mezcla sintética con propiedades hidrofóbicas",
+      "Lona plástica",
+      "Tela quirúrgica roja"
+    ],
+    "correcta": 1
+  }
+  ]
+}
